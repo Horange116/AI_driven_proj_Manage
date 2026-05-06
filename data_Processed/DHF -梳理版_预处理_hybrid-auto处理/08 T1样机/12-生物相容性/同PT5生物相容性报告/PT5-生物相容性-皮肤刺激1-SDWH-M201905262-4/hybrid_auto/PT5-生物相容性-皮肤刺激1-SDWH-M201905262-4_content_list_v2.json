@@ -1,0 +1,3648 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "最终报告"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                364,
+                290,
+                630,
+                325
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "报告编号：SDWH-M201905262-4"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                325,
+                334,
+                671,
+                353
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "红外耳温计"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                389,
+                425,
+                610,
+                459
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "皮肤刺激试验"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                367,
+                475,
+                632,
+                510
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "参照 GB/T 16886.10-2017 0.9%氯化钠注射液浸提"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                372,
+                520,
+                630,
+                561
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "委托单位：天津九安医疗电子股份有限公司"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                706,
+                875,
+                729
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "地址：天津市南开区雅安道金平路3号"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                749,
+                875,
+                771
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f12c89e05b01b53530596a382091db8d1b4acb6114c1085e8be8603c96383e42.jpg"
+                },
+                "content": "中国大学卫生与环保\n检验",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                909,
+                311,
+                998,
+                445
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "MA "
+                    }
+                ]
+            },
+            "bbox": [
+                63,
+                83,
+                251,
+                169
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "180015144061 "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                173,
+                246,
+                190
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ilac-MRA "
+                    }
+                ]
+            },
+            "bbox": [
+                427,
+                76,
+                585,
+                190
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CNAS "
+                    }
+                ]
+            },
+            "bbox": [
+                602,
+                78,
+                786,
+                180
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "中国认可"
+                    }
+                ]
+            },
+            "bbox": [
+                802,
+                81,
+                882,
+                98
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "国际互认"
+                    }
+                ]
+            },
+            "bbox": [
+                803,
+                100,
+                882,
+                115
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "检测 "
+                    }
+                ]
+            },
+            "bbox": [
+                803,
+                117,
+                843,
+                131
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "TESTING "
+                    }
+                ]
+            },
+            "bbox": [
+                803,
+                134,
+                890,
+                148
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CNAS L2954 "
+                    }
+                ]
+            },
+            "bbox": [
+                803,
+                150,
+                921,
+                165
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "The image provided is a QR code. It does not contain any text, mathematical formulas, tables, or figures that can be processed according to the OCR instructions. Therefore, no textual content can be extracted from this image. "
+                    }
+                ]
+            },
+            "bbox": [
+                93,
+                876,
+                201,
+                954
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "苏州大学卫生与环境技术研究所"
+                    }
+                ]
+            },
+            "bbox": [
+                219,
+                876,
+                550,
+                896
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "地址：中国江苏苏州工业园区仁爱路199号"
+                    }
+                ]
+            },
+            "bbox": [
+                219,
+                900,
+                555,
+                916
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "网址：www.sudatest.com "
+                    }
+                ]
+            },
+            "bbox": [
+                221,
+                921,
+                407,
+                934
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "直线：+86 512 65880038"
+                    }
+                ]
+            },
+            "bbox": [
+                221,
+                938,
+                417,
+                951
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "邮编：215123"
+                    }
+                ]
+            },
+            "bbox": [
+                580,
+                899,
+                687,
+                913
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "电子邮箱：med@sudatest.com"
+                    }
+                ]
+            },
+            "bbox": [
+                580,
+                916,
+                808,
+                931
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "免费电话：400 107 8828"
+                    }
+                ]
+            },
+            "bbox": [
+                582,
+                934,
+                768,
+                948
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "目录"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                463,
+                92,
+                526,
+                118
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "检测报告说明....3 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                144,
+                148,
+                845,
+                167
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "日期确认 4"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                145,
+                169,
+                845,
+                187
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "报告摘要 5 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                145,
+                188,
+                845,
+                206
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "检测报告正文 …… 6"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                145,
+                209,
+                845,
+                226
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1 目的 ……6"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 参考标准 …… 6"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 执行规范 ……6 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4 试验和对照样品确定 ……6"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                145,
+                230,
+                845,
+                306
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4.1 试验样品....6 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4.2 对照样品....6"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                309,
+                845,
+                342
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4.2.1 阴性对照样品 ..... 6"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4.2.2 阳性对照样品 6"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                214,
+                344,
+                845,
+                374
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5 仪器和试剂 ....7"
+                    }
+                ]
+            },
+            "bbox": [
+                145,
+                377,
+                845,
+                394
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5.1 仪器设备....7"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5.2 试剂....7 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                397,
+                845,
+                429
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6 试验系统鉴别 ……7"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7 饲养和护理 …… 7"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "8 试验系统和给药途径确认 ……7 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9 试验设计 ....8"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                145,
+                433,
+                845,
+                509
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "9.1 浸提液制备 8 "
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                511,
+                845,
+                527
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9.1.1 样品前处理 8"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9.1.2 样品浸提 8 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                214,
+                529,
+                845,
+                559
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9.2 试验步骤.....8 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9.3 结果观察....8 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9.4 结果评价....9 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                562,
+                845,
+                612
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "10 试验结果 ..... 9"
+                    }
+                ]
+            },
+            "bbox": [
+                145,
+                616,
+                845,
+                631
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "11 结论 9"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "12 记录存储....9 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "13 保密协议....9"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "14 试验偏离声明 ..... 9"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                145,
+                636,
+                845,
+                711
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "附录一 试验数据 ..... 10"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "附录二 试验样品照片 …… 11"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "附录三 客户提供的资料 …… 12"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                145,
+                714,
+                845,
+                770
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "苏州大学卫生与环境技术研究所"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                48,
+                394,
+                62
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "报告编号：SDWH-M201905262-4"
+                    }
+                ]
+            },
+            "bbox": [
+                583,
+                48,
+                845,
+                62
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第2页 共12页"
+                    }
+                ]
+            },
+            "bbox": [
+                432,
+                935,
+                563,
+                951
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "检测报告说明"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                399,
+                91,
+                588,
+                118
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "一、对本报告有异议者，请于收到报告之日起十五天内提出复核申请。 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "二、检测报告涂改或无检验检测专用章无效。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "三、检测报告无编制人、审核人及检测报告签发人签字无效。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "四、送样委托检验，本检验检测机构仅对来样负责。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "五、未经本检验检测机构同意，不得部分复制本报告。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                182,
+                157,
+                798,
+                290
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "苏州大学卫生与环境技术研究所"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                51,
+                392,
+                65
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "报告编号：SDWH-M201905262-4"
+                    }
+                ]
+            },
+            "bbox": [
+                582,
+                47,
+                842,
+                62
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第3页 共12页"
+                    }
+                ]
+            },
+            "bbox": [
+                441,
+                935,
+                573,
+                952
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/450ce2c6a7ec0fee8c7c8423bf887c310f570fd7efc7464a553a660cf8ebd219.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "日期确认"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>接样日期</td><td>2019-12-04</td></tr><tr><td>试验计划书生效日期</td><td>2019-12-06</td></tr><tr><td>试验操作开始日期</td><td>2019-12-06</td></tr><tr><td>试验操作结束日期</td><td>2019-12-13</td></tr><tr><td>报告完成日期</td><td>2019-12-23</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                135,
+                130,
+                854,
+                271
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "编制：陈荣荣"
+                    }
+                ]
+            },
+            "bbox": [
+                310,
+                676,
+                602,
+                724
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "审核：____\n试验负责人"
+                    }
+                ]
+            },
+            "bbox": [
+                313,
+                750,
+                602,
+                807
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "签发："
+                    }
+                ]
+            },
+            "bbox": [
+                313,
+                811,
+                602,
+                852
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "授权签字人"
+                    }
+                ]
+            },
+            "bbox": [
+                442,
+                858,
+                545,
+                875
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2d07e96c6367a9d056ab1f6b4e85cb76812e812991f2ebf3f8effebc09bdba92.jpg"
+                },
+                "content": "2019-12-23\n日期\n2019-12-23\n日期\n（2）",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                691,
+                684,
+                890,
+                818
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/508ada0962ebf0d29ab7b3ff541732618a446453da031b41389bb15b68cd9487.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                694,
+                827,
+                865,
+                849
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "日期"
+                    }
+                ]
+            },
+            "bbox": [
+                758,
+                856,
+                800,
+                872
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "苏州大学卫生与环境技术研究所"
+                    }
+                ]
+            },
+            "bbox": [
+                568,
+                889,
+                857,
+                909
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "苏州大学卫生与环境技术研究所"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                49,
+                392,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "报告编号：SDWH-M201905262-4"
+                    }
+                ]
+            },
+            "bbox": [
+                582,
+                47,
+                842,
+                61
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第4页 共12页"
+                    }
+                ]
+            },
+            "bbox": [
+                441,
+                937,
+                570,
+                952
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "报告摘要 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                431,
+                92,
+                558,
+                118
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/bc4d3b48cdcda403907721cb4169adac9dc6768e37aa6aa92e19a5a7acf283ce.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "1 试验样品"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>样品名称</td><td>红外耳温计</td></tr><tr><td>制造商</td><td>柯顿(天津)电子医疗器械有限公司</td></tr><tr><td>地址</td><td>天津自贸试验区(空港经济区)航宇路26号</td></tr><tr><td>型号</td><td>PT5</td></tr><tr><td>批号</td><td>未提供</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                137,
+                159,
+                857,
+                268
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2 主要参考标准"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                145,
+                282,
+                330,
+                302
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GB/T 16886.10-2017 医疗器械生物学评价 第 10 部分：刺激与皮肤致敏试验"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                309,
+                771,
+                325
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3 试验方法"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                145,
+                342,
+                283,
+                361
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "依据 GB/T 16886.10-2017 医疗器械的生物学评价 第 10 部分：刺激与皮肤致敏试验试验，该试验系统用新西兰兔来检测试验样品浸提液与试验系统直接接触引起的皮肤刺激反应，评价样品潜在的皮肤刺激反应。"
+                    }
+                ]
+            },
+            "bbox": [
+                145,
+                366,
+                855,
+                416
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "试验计划书编号：SDWH-PROTOCOL-M201905262-4。"
+                    }
+                ]
+            },
+            "bbox": [
+                182,
+                418,
+                607,
+                434
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4 结论"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                147,
+                450,
+                236,
+                469
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在本次试验条件下，试验样品的极性浸提液在兔皮肤反应类型为无刺激作用。"
+                    }
+                ]
+            },
+            "bbox": [
+                182,
+                476,
+                778,
+                492
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "苏州大学卫生与环境技术研究所"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                51,
+                392,
+                65
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "报告编号：SDWH-M201905262-4"
+                    }
+                ]
+            },
+            "bbox": [
+                583,
+                48,
+                843,
+                62
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第5页共12页"
+                    }
+                ]
+            },
+            "bbox": [
+                441,
+                935,
+                570,
+                952
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "检测报告正文"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                401,
+                92,
+                588,
+                118
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1 目的"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                145,
+                135,
+                231,
+                155
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "该试验系统用新西兰兔来检测试验样品浸提液与试验系统直接接触引起的皮肤刺激反应，并类推到人类，但试验结果并不代表样品真正的皮肤刺激反应危险性。"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                162,
+                845,
+                195
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2 参考标准"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                145,
+                210,
+                280,
+                230
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GB/T 16886.10-2017 医疗器械生物学评价 第10部分：刺激与皮肤致敏试验"
+                    }
+                ]
+            },
+            "bbox": [
+                179,
+                238,
+                773,
+                254
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GB/T 16886.12-2017 医疗器械生物学评价 第 12 部分：样品制备与参照材料"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                255,
+                771,
+                269
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "GB/T 16886.2-2011 医疗器械生物学评价 第2部分：动物福利要求"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                271,
+                696,
+                287
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3 执行规范 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                145,
+                302,
+                280,
+                323
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ISO/IEC 17025:2005 检测和校准实验室能力的通用要求（CNAS—CL01《检测和校准实验室能力认可准则》）中国合格评定国家认可委员会 实验室认可 注册号：CNAS L2954。"
+                    }
+                ]
+            },
+            "bbox": [
+                145,
+                330,
+                847,
+                361
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "RB/T 214—2017《检验检测机构资质认定能力评价 检验检测机构通用要求》中国国家认证认可监督管理委员会 检验检测机构资质认定 证书编号：CMA 180015144061。"
+                    }
+                ]
+            },
+            "bbox": [
+                145,
+                362,
+                847,
+                394
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4 试验和对照样品确定"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                145,
+                410,
+                399,
+                431
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1f27742a54a65bc45a33667aa72fd5a203996b06c375616ba7055cbbb8770068.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "4.1 试验样品"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>样品名称</td><td>红外耳温计</td></tr><tr><td>制造商</td><td>柯顿(天津)电子医疗器械有限公司</td></tr><tr><td>制造商地址</td><td>天津自贸试验区(空港经济区)航宇路26号</td></tr><tr><td>来样原始状态</td><td>未灭菌</td></tr><tr><td>CAS编号</td><td>未提供</td></tr><tr><td>型号</td><td>PT5</td></tr><tr><td>规格</td><td>未提供</td></tr><tr><td>批号</td><td>未提供</td></tr><tr><td>样品材料</td><td>ABS,TPU,PMMA,PP</td></tr><tr><td>包装材质</td><td>塑料袋</td></tr><tr><td>性状</td><td>固体</td></tr><tr><td>颜色</td><td>白色,灰色,透明</td></tr><tr><td>密度</td><td>未提供</td></tr><tr><td>稳定性</td><td>未提供</td></tr><tr><td>溶解度</td><td>不溶于水</td></tr><tr><td>保存条件</td><td>室温</td></tr><tr><td>预期临床用途</td><td>体温测量</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                140,
+                467,
+                857,
+                750
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "试验样品信息是由样品委托单位提供。"
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                763,
+                479,
+                777
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4.2 对照样品"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                151,
+                794,
+                266,
+                811
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4.2.1 阴性对照样品"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                184,
+                819,
+                337,
+                834
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "0.9%氯化钠注射液（SC），保存条件：室温。"
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                839,
+                528,
+                856
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4.2.2 阳性对照样品"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                186,
+                863,
+                337,
+                878
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "十二烷基硫酸钠（SDS），保存条件：室温。"
+                    }
+                ]
+            },
+            "bbox": [
+                186,
+                883,
+                523,
+                899
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "苏州大学卫生与环境技术研究所"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                49,
+                394,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "报告编号：SDWH-M201905262-4"
+                    }
+                ]
+            },
+            "bbox": [
+                583,
+                49,
+                845,
+                62
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第6页 共12页"
+                    }
+                ]
+            },
+            "bbox": [
+                437,
+                935,
+                567,
+                952
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5 仪器和试剂"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                145,
+                85,
+                303,
+                106
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5.1 仪器设备"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                145,
+                121,
+                261,
+                138
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/94130eeb1beadc46783591cf854c83f2fa4dc28d1678404633b13327954b568f.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>仪器名称</td><td>仪器编号</td><td>校正有效期</td></tr><tr><td>电子秤</td><td>SDWH442</td><td>2020-05-04</td></tr><tr><td>卧式大容量恒温振荡器</td><td>SDWH897</td><td>2020-05-04</td></tr><tr><td>钢直尺</td><td>SDWH463</td><td>2020-07-29</td></tr><tr><td>立式压力蒸汽灭菌器</td><td>SDWH2097</td><td>2020-04-16</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                137,
+                142,
+                855,
+                232
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5.2 试剂"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                145,
+                245,
+                221,
+                263
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/cf2dac553be06a16e7d9b4dd1f9fb4cbf7ba90f81c48dce9a526935c19c1a118.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>试剂名称</td><td>供应商</td><td>批号</td></tr><tr><td>0.9%氯化钠注射液(SC)</td><td>广西裕源药业有限公司</td><td>H19082605</td></tr><tr><td>十二烷基硫酸钠</td><td>国药集团化学试剂有限公司</td><td>20181210</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                139,
+                267,
+                857,
+                323
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "6 试验系统鉴别"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                147,
+                337,
+                330,
+                358
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "种属：新西兰白色纯种大白兔 "
+                    }
+                ]
+            },
+            "bbox": [
+                182,
+                366,
+                416,
+                381
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "数量：3 只"
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                384,
+                271,
+                397
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "性别：雌性"
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                399,
+                276,
+                414
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "重量：试验开始体重不低于2.0kg"
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                415,
+                444,
+                429
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "健康状况：健康未使用、初成年，未产且无孕"
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                431,
+                541,
+                445
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "饲养：按组饲养在笼子内，做好标识编号、试验代号、试验开始日期。"
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                446,
+                723,
+                461
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "动物鉴别：染色标记"
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                464,
+                347,
+                478
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "笼子：不锈钢笼子"
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                480,
+                330,
+                495
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "适应期：在实验环境下7天。"
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                496,
+                407,
+                511
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "7 饲养和护理"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                151,
+                527,
+                310,
+                547
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "动物来源: 苏州高新区镇湖实验动物科技有限公司 [许可证号: SCXK(苏)2015-0007]。"
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                553,
+                840,
+                568
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "垫料：NA "
+                    }
+                ]
+            },
+            "bbox": [
+                186,
+                572,
+                268,
+                586
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "饲料：实验兔全价颗粒饲料，苏州高新区镇湖实验动物科技有限公司"
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                586,
+                716,
+                602
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "水：自来水（符合 GB 5749-2006 卫生标准）"
+                    }
+                ]
+            },
+            "bbox": [
+                186,
+                604,
+                525,
+                619
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "室温：18-26℃"
+                    }
+                ]
+            },
+            "bbox": [
+                186,
+                621,
+                303,
+                635
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "相对湿度：30%-70%"
+                    }
+                ]
+            },
+            "bbox": [
+                186,
+                637,
+                350,
+                652
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "光照：每天需要 12 小时光照，全光谱日光灯"
+                    }
+                ]
+            },
+            "bbox": [
+                186,
+                653,
+                533,
+                668
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "人员：检测人员有相应检测资质。"
+                    }
+                ]
+            },
+            "bbox": [
+                186,
+                669,
+                444,
+                684
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "选择：选择健康未使用过的动物。"
+                    }
+                ]
+            },
+            "bbox": [
+                186,
+                685,
+                444,
+                699
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "食物、水中无干扰试验数据污染物存在。"
+                    }
+                ]
+            },
+            "bbox": [
+                186,
+                701,
+                500,
+                716
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "8 试验系统和给药途径确认 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                152,
+                731,
+                453,
+                751
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "依据现行试验标准, 新西兰大白兔被指定作为评价原发性皮肤刺激作用合适的动物模型。该试验采用 20% 的十二烷基硫酸钠作为皮肤刺激反应的阳性对照已经在苏州大学卫生与环境技术研究所试验得到证实（表 3）。"
+                    }
+                ]
+            },
+            "bbox": [
+                154,
+                756,
+                862,
+                806
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "将试验样品浸提液 0.5mL 滴到 2.5cm×2.5cm 大小的吸收性纱布片，然后将纱布片直接与兔背部皮肤接触，被认为是最佳接触方式。"
+                    }
+                ]
+            },
+            "bbox": [
+                154,
+                806,
+                857,
+                840
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "苏州大学卫生与环境技术研究所"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                49,
+                392,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "报告编号：SDWH-M201905262-4"
+                    }
+                ]
+            },
+            "bbox": [
+                583,
+                48,
+                845,
+                62
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第7页 共12页"
+                    }
+                ]
+            },
+            "bbox": [
+                441,
+                937,
+                570,
+                952
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "9 试验设计"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                142,
+                84,
+                280,
+                105
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "9.1 浸提液制备 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                142,
+                119,
+                280,
+                138
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "9.1.1 样品前处理"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                176,
+                146,
+                312,
+                161
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "无需前处理程序。"
+                    }
+                ]
+            },
+            "bbox": [
+                177,
+                166,
+                313,
+                181
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "9.1.2 样品浸提 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                177,
+                188,
+                295,
+                205
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "无菌条件下取样，等数量取图中所有组件，混合浸提。（见附录二图片），使用委托方提供的样品总表面积为   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "222.684 \\, cm^{2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ，并按   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "3 \\, cm^{2} : 1 \\, mL"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  浸提比例（样品：浸提介质）在密闭的惰性容器内震荡浸提。浸提介质为 0.9% 氯化钠注射液。"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                209,
+                847,
+                258
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/5a4c55b335cdab5ac5ac09c39dcdc6315c5c04ebcb196182890dd49b90e8243b.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">样品</td><td rowspan=\"2\">实际取样</td><td colspan=\"3\">浸提过程</td><td rowspan=\"2\">最终浸提液</td></tr><tr><td>浸提比例</td><td>浸提体积</td><td>浸提条件</td></tr><tr><td>样品极性浸提液</td><td>表面积222.684 $cm^2$ </td><td>3 $cm^2$ :1mL</td><td>74.2 mL</td><td>37°C, 72h</td><td>澄清</td></tr><tr><td>极性阴性对照液</td><td>/</td><td>/</td><td>10.0 mL</td><td>37°C, 72h</td><td>澄清</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                120,
+                258,
+                848,
+                356
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "浸提前后浸提液状态未发生改变。浸提完成后   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "4^{\\circ}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " C 保存，24h 内用于测试。浸提液 pH 值未经调整，未经过滤、离心、稀释等处理。不加供试品，同条件制备阴性对照液。"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                357,
+                847,
+                389
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "9.2 试验步骤 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                142,
+                404,
+                263,
+                421
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "试验前 4-24 小时将动物背部脊柱两侧被毛除去（约   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "10cm \\times 15cm"
+                    },
+                    {
+                        "type": "text",
+                        "content": " ），作为试验和观察部位。"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                431,
+                847,
+                465
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "将试验样品浸提液和溶剂对照液各 0.5mL 分别滴到   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2.5cm \\times 2.5cm"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  大小的吸收性纱布片上备用。按图 1 所示，分别将浸透样品浸提液和溶剂对照液的纱布片直接接触兔脊柱两侧的皮肤，然后用绷带固定贴敷至少 4 小时。接触期结束后取下敷贴片。"
+                    }
+                ]
+            },
+            "bbox": [
+                142,
+                466,
+                847,
+                515
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/eadb2c455f777083983481a93af00413cc6da99e5dbcaa1cb22775f3a9607eb8.jpg"
+                },
+                "content": "```mermaid\ngraph TD\n    A[\"1\"] --> B[\"2\"]\n    A --> C[\"3\"]\n    A --> D[\"4\"]\n    A --> E[\"5\"]\n    F[\"2\"] --> G[\"3\"]\n    F --> H[\"4\"]\n    F --> I[\"5\"]\n```",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "1—头部；2—试验部位；3—对照部位；4—去毛的背部区域；5—尾部"
+                    }
+                ]
+            },
+            "sub_type": "flowchart",
+            "bbox": [
+                335,
+                528,
+                738,
+                748
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "图 1 皮肤应用部位"
+                    }
+                ]
+            },
+            "bbox": [
+                464,
+                783,
+                612,
+                800
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "9.3 结果观察 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                145,
+                817,
+                266,
+                834
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "取下敷贴片后  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(1\\pm0.1)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " h,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(24\\pm2)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " h,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(48\\pm2)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " h 和  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(72\\pm2)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " h 观察敷贴部位及周围皮肤组织反应，包括红斑、水肿和坏死等记录之。根据红斑、水肿发生情况可记分为 0、1、2、3、4 标准记分等级。详见表 1。"
+                    }
+                ]
+            },
+            "bbox": [
+                145,
+                840,
+                850,
+                889
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "表 1 皮肤刺激反应记分系统"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                404,
+                889,
+                629,
+                906
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "苏州大学卫生与环境技术研究所"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                49,
+                394,
+                62
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "报告编号：SDWH-M201905262-4"
+                    }
+                ]
+            },
+            "bbox": [
+                583,
+                49,
+                845,
+                62
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第8页 共12页"
+                    }
+                ]
+            },
+            "bbox": [
+                432,
+                935,
+                565,
+                952
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/069376d9193005f4e74f072ea07b88e5dd0ab9bd4feb8a81f8c75430e9371943.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>皮肤反应</td><td>刺激评分</td></tr><tr><td>红斑和焦痂形成</td><td></td></tr><tr><td>无红斑</td><td>0</td></tr><tr><td>极轻微红斑(勉强可见)</td><td>1</td></tr><tr><td>清晰红斑</td><td>2</td></tr><tr><td>中度红斑</td><td>3</td></tr><tr><td>重度红斑(紫红色)至无法进行红斑分级的焦痂形成</td><td>4</td></tr><tr><td>水肿形成</td><td></td></tr><tr><td>无水肿</td><td>0</td></tr><tr><td>极轻微水肿(勉强可见)</td><td>1</td></tr><tr><td>清晰水肿(隆起边缘清晰)</td><td>2</td></tr><tr><td>中度水肿(隆起约1mm)</td><td>3</td></tr><tr><td>重度水肿(隆起超过1mm并超出接触区)</td><td>4</td></tr><tr><td>刺激最高记分</td><td>8</td></tr><tr><td colspan=\"2\">注:其它副反应出现在皮肤刺激区域的应予记录和报告</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                191,
+                80,
+                802,
+                333
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "9.4 结果评价 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                145,
+                365,
+                266,
+                383
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "仅使用  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(24\\pm2)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " h,  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(48\\pm2)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " h 和  "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "(72\\pm2)"
+                    },
+                    {
+                        "type": "text",
+                        "content": " h 的观察数据进行计算。"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                389,
+                662,
+                404
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "将每只动物在每一规定时间的红斑和水肿刺激记分相加后再除以观察总数 6（2 个试验点×3 个观察时间），即为每只动物原发性刺激记分。"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                404,
+                850,
+                435
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "三只试验动物原发性刺激记分的平均数即为原发性刺激指数。"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                437,
+                654,
+                452
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "计算出对照原发性刺激记分，将试验样品原发性刺激记分减去该记分，即得出原发性刺激记分。该值即为试验样品的原发性刺激指数。根据表 2 评价样品的刺激反应指数类型。"
+                    }
+                ]
+            },
+            "bbox": [
+                147,
+                452,
+                850,
+                485
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/9e2a29694bcf8baa7469c1ea151b741fa9aefdbaa38145e2090249fb5e65ed25.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "表 2 兔原发性或累积性刺激指数类型"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>平均记分</td><td>反应类型</td></tr><tr><td>0~0.4</td><td>极轻微</td></tr><tr><td>0.5~1.9</td><td>轻度</td></tr><tr><td>2~4.9</td><td>中度</td></tr><tr><td>5~8</td><td>重度</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                275,
+                501,
+                726,
+                587
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "10 试验结果"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                151,
+                616,
+                288,
+                636
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "实验过程中动物未出现异常症状或死亡。据观察，试验组一侧皮肤反应未超过对照组一侧皮肤反应，最终记分均为0。见表4。"
+                    }
+                ]
+            },
+            "bbox": [
+                149,
+                641,
+                854,
+                676
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "11 结论"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                151,
+                692,
+                241,
+                711
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "在本次试验条件下，试验样品的极性浸提液在兔皮肤反应类型为无刺激作用。"
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                717,
+                781,
+                733
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "12 记录存储 "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                151,
+                750,
+                290,
+                769
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "所有与本次试验有关的原始数据和记录都被保存在指定的 SDWH 档案文件中。"
+                    }
+                ]
+            },
+            "bbox": [
+                184,
+                775,
+                790,
+                792
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "13 保密协议"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                152,
+                809,
+                290,
+                828
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "签订检测委托合同即认为双方接受保密协议。"
+                    }
+                ]
+            },
+            "bbox": [
+                187,
+                837,
+                536,
+                853
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "14 试验偏离声明"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                152,
+                869,
+                337,
+                889
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本次试验严格按照计划书执行，未发生影响实验数据有效性的偏离。"
+                    }
+                ]
+            },
+            "bbox": [
+                187,
+                896,
+                713,
+                912
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "苏州大学卫生与环境技术研究所"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                51,
+                394,
+                65
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "报告编号：SDWH-M201905262-4"
+                    }
+                ]
+            },
+            "bbox": [
+                583,
+                48,
+                845,
+                62
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第9页共12页"
+                    }
+                ]
+            },
+            "bbox": [
+                439,
+                935,
+                570,
+                951
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "附录一 试验数据"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                372,
+                84,
+                620,
+                109
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0bab24f4b0226ae2850fac0bceb4727a8ba4341457ca677c1fb5075df8df9b7c.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "表 3 皮肤刺激反应阳性对照"
+                    }
+                ],
+                "table_footnote": [
+                    {
+                        "type": "text",
+                        "content": "注：皮肤刺激阳性对照每六个月进行一次，数据引用 SDWH-M201902526-1（完成日期：2019-06-28）。"
+                    }
+                ],
+                "html": "<table><tr><td rowspan=\"2\">介质</td><td rowspan=\"2\">动物编号</td><td rowspan=\"2\">分组</td><td rowspan=\"2\">反应</td><td colspan=\"3\">间隔时间(小时)/记分=左侧/右侧</td></tr><tr><td>24±2</td><td>48±2</td><td>72±2</td></tr><tr><td rowspan=\"4\">SC</td><td rowspan=\"4\">1</td><td rowspan=\"2\">阳性对照组</td><td>红斑</td><td>2/2</td><td>3/3</td><td>4/3</td></tr><tr><td>水肿</td><td>2/2</td><td>3/2</td><td>4/3</td></tr><tr><td rowspan=\"2\">阴性对照组</td><td>红斑</td><td>0/0</td><td>0/0</td><td>0/0</td></tr><tr><td>水肿</td><td>0/0</td><td>0/0</td><td>0/0</td></tr><tr><td rowspan=\"4\">SC</td><td rowspan=\"4\">2</td><td rowspan=\"2\">阳性对照组</td><td>红斑</td><td>1/2</td><td>2/3</td><td>3/4</td></tr><tr><td>水肿</td><td>2/2</td><td>3/3</td><td>4/4</td></tr><tr><td rowspan=\"2\">阴性对照组</td><td>红斑</td><td>0/0</td><td>0/0</td><td>0/0</td></tr><tr><td>水肿</td><td>0/0</td><td>0/0</td><td>0/0</td></tr><tr><td rowspan=\"4\">SC</td><td rowspan=\"4\">3</td><td rowspan=\"2\">阳性对照组</td><td>红斑</td><td>2/2</td><td>3/3</td><td>4/4</td></tr><tr><td>水肿</td><td>2/2</td><td>3/3</td><td>4/3</td></tr><tr><td rowspan=\"2\">阴性对照组</td><td>红斑</td><td>0/0</td><td>0/0</td><td>0/0</td></tr><tr><td>水肿</td><td>0/0</td><td>0/0</td><td>0/0</td></tr><tr><td colspan=\"5\">极性最终记分</td><td>5.6</td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                139,
+                142,
+                859,
+                465
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f92a51e7492e9c8a71cd56cfd9c5ac4e5133215a69be1623faa3876eae668cc2.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "表 4 皮肤刺激反应结果观察"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">浸提液</td><td rowspan=\"2\">动物编号</td><td rowspan=\"2\">分组</td><td rowspan=\"2\">反应</td><td colspan=\"3\">间隔时间(小时)/记分=左侧/右侧</td></tr><tr><td>24±2</td><td>48±2</td><td>72±2</td></tr><tr><td rowspan=\"4\">SC</td><td rowspan=\"4\">1</td><td rowspan=\"2\">试验样品组</td><td>红斑</td><td>0/0</td><td>0/0</td><td>0/0</td></tr><tr><td>水肿</td><td>0/0</td><td>0/0</td><td>0/0</td></tr><tr><td rowspan=\"2\">阴性对照组</td><td>红斑</td><td>0/0</td><td>0/0</td><td>0/0</td></tr><tr><td>水肿</td><td>0/0</td><td>0/0</td><td>0/0</td></tr><tr><td rowspan=\"4\">SC</td><td rowspan=\"4\">2</td><td rowspan=\"2\">试验样品组</td><td>红斑</td><td>0/0</td><td>0/0</td><td>0/0</td></tr><tr><td>水肿</td><td>0/0</td><td>0/0</td><td>0/0</td></tr><tr><td rowspan=\"2\">阴性对照组</td><td>红斑</td><td>0/0</td><td>0/0</td><td>0/0</td></tr><tr><td>水肿</td><td>0/0</td><td>0/0</td><td>0/0</td></tr><tr><td rowspan=\"4\">SC</td><td rowspan=\"4\">3</td><td rowspan=\"2\">试验样品组</td><td>红斑</td><td>0/0</td><td>0/0</td><td>0/0</td></tr><tr><td>水肿</td><td>0/0</td><td>0/0</td><td>0/0</td></tr><tr><td rowspan=\"2\">阴性对照组</td><td>红斑</td><td>0/0</td><td>0/0</td><td>0/0</td></tr><tr><td>水肿</td><td>0/0</td><td>0/0</td><td>0/0</td></tr><tr><td colspan=\"4\">极性最终记分</td><td colspan=\"3\">0</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                144,
+                539,
+                862,
+                861
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "苏州大学卫生与环境技术研究所"
+                    }
+                ]
+            },
+            "bbox": [
+                145,
+                49,
+                394,
+                64
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "报告编号：SDWH-M201905262-4"
+                    }
+                ]
+            },
+            "bbox": [
+                585,
+                48,
+                845,
+                62
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第10页共12页"
+                    }
+                ]
+            },
+            "bbox": [
+                436,
+                935,
+                575,
+                951
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/76d8580cbc6d419fcc1fc796ee23bf3bb85b90367620c221e8da227cbbfe36aa.jpg"
+                },
+                "content": "Disassembled white plastic electronic device components laid out on a surface, with a ruler for scale (no text or symbols visible)",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "附录二 试验样品照片"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "sub_type": "natural_image",
+            "bbox": [
+                147,
+                144,
+                850,
+                494
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "苏州大学卫生与环境技术研究所"
+                    }
+                ]
+            },
+            "bbox": [
+                145,
+                49,
+                394,
+                65
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "报告编号：SDWH-M201905262-4"
+                    }
+                ]
+            },
+            "bbox": [
+                583,
+                48,
+                845,
+                62
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第11页共12页"
+                    }
+                ]
+            },
+            "bbox": [
+                436,
+                935,
+                575,
+                952
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "附录三 客户提供的资料"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                323,
+                83,
+                664,
+                109
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1 工艺流程"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                144,
+                127,
+                280,
+                147
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "未提供。"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                156,
+                244,
+                171
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2 其他信息"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                144,
+                187,
+                278,
+                206
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "未提供。"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                214,
+                244,
+                231
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "以下空白"
+                    }
+                ]
+            },
+            "bbox": [
+                459,
+                258,
+                533,
+                274
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ff7aca5db9287380a63f401d693e4ea8fff822b1910c9c0ed3936ec4bfb53a4f.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                874,
+                349,
+                931,
+                459
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "苏州大学卫生与环境技术研究所"
+                    }
+                ]
+            },
+            "bbox": [
+                144,
+                49,
+                392,
+                62
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "报告编号：SDWH-M201905262-4"
+                    }
+                ]
+            },
+            "bbox": [
+                583,
+                47,
+                843,
+                61
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "第12页共12页"
+                    }
+                ]
+            },
+            "bbox": [
+                434,
+                934,
+                575,
+                951
+            ]
+        }
+    ]
+]

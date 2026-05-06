@@ -1,0 +1,18 @@
+{
+  "pdf_type": "gantt",
+  "route": "vlm",
+  "template": "gantt",
+  "reason": "Probe router detected schedule/Gantt filename; timeline bars and dependencies require visual extraction.",
+  "must_preserve": [
+    "timeline",
+    "bars",
+    "task rows",
+    "dependencies"
+  ],
+  "risk": [
+    "MinerU may still be useful as future supplemental text/table evidence"
+  ],
+  "confidence": "high",
+  "classifier": "probe",
+  "needs_vlm_supplement": false
+}

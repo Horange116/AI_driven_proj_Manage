@@ -1,0 +1,145 @@
+[
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PT9L生物相容性评估报告 V1.0",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ],
+                "level": 1
+            }
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "-",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "生物相容性评估项目：",
+                                "style": [
+                                    "bold"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "生物相容性是指材料与生物体之间相互作用后产生的各种生物、物理、化学等反应的一种概念。一般地讲，就是材料植入人体后与人体相容程度，也就是说是否会对人体组织造成毒害作用"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PT9L红外体温计设计使用的材质与量产型号PT5红外耳温计一致，没有新增材料，而PT5已经做过生物相容性的相关试验，故对PT9L只进行生物相容性的测试评估。"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "二、PT9L与 量产型号PT5 材料对照表：",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td></td><td></td><td><p>PT9L</p></td><td><p>PT5</p></td></tr><tr><td rowspan=\"5\"><p>生物相容性</p></td><td><p><strong>部品</strong></p></td><td><p><strong>材料</strong></p></td><td><p><strong>材料</strong></p></td></tr><tr><td><p>主机身</p></td><td><p>ABS</p></td><td><p>ABS</p></td></tr><tr><td><p>测试探头</p></td><td><p>TPU</p></td><td><p>TPU</p></td></tr><tr><td><p>主机镜片</p></td><td><p>PMMA</p></td><td><p>PMMA</p></td></tr><tr><td><p>保护盖</p></td><td><p>PC</p></td><td><p>PC</p></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "三、结论：",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "从上表中可以看出，PT9L红外体温计在主机身、测试探头、主机镜片以及保护盖等材料方面与量产型号PT5红外耳温计一致，PT5材料性能已通过生物相容性测试，因此，PT9L红外体温计符合生物相容性的要求。"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "拟制：                           审核："
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号：PT9L-SXPG01 V1.0         生物相容性评估报告"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "第 1 页 / 共1 页"
+                    }
+                ]
+            }
+        }
+    ]
+]

@@ -1,0 +1,463 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "软件流程图",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（V1.0）",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "产 品 型 号："
+                    },
+                    {
+                        "type": "text",
+                        "content": "       PT9L       ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "项 目 编 号："
+                    },
+                    {
+                        "type": "text",
+                        "content": "  30000078   ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "产品/项目名称："
+                    },
+                    {
+                        "type": "text",
+                        "content": "    红外体温计      ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "编    制",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "（软件工程师）",
+                        "style": [
+                            "italic"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "                        年   月   日",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "审    核",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "（软 件主 管）",
+                        "style": [
+                            "italic"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "                        年   月   日",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "批    准",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "（技术负责人）",
+                        "style": [
+                            "italic"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "                        年   月   日 ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号："
+                    },
+                    {
+                        "type": "text",
+                        "content": " PT9L-RJTY01 ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "V1.0                                                 软件流程图"
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "历史版本记录",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>更改日期</strong></p></td><td><p><strong>版本描述</strong></p></td><td><p><strong>版本</strong></p></td><td><p><strong>更改人</strong></p></td><td><p><strong>批准人</strong></p></td></tr><tr><td><p>1</p></td><td><p>2024年02月21日</p></td><td><p>起草</p></td><td><p>V1.0</p></td><td><p>王迪</p></td><td><p>侯广伟</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号： "
+                    },
+                    {
+                        "type": "text",
+                        "content": "PT9L-RJTY01",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": " V1.0                                             软件流程图"
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "软件主流程图"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/497100381aab4983af9175ad2b81dab5c3721efed779a552a0c2269d26bd498e.png"
+                },
+                "image_caption": []
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "用户测量"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2e757e0e2dc11fbb1062babac63ee44278103fc1d58eb225695dfe60d90b66d7.png"
+                },
+                "image_caption": []
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "符号设置"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/df603594211bf8ea474d95e71ca31c0bd29a04441b31a03724e989cb6e253725.png"
+                },
+                "image_caption": []
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "测量模式设置"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/193c7291be6395c2d281d2166cb1f61307be0eb1d6e30fd4297c37dc5c924866.png"
+                },
+                "image_caption": []
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "记忆模式"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/adcd0d8cf1d40862c82c600506fdb5c97db1f092cc2ffe0650a3011f66f418c3.png"
+                },
+                "image_caption": []
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CB1"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4fa96426c5753c9a348647565cfb4a4fca8c9ce4ade32b6ecf0ec7d90d131f6c.png"
+                },
+                "image_caption": []
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CB2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/707e2d6ec38a2229b760e2259be8ffda66bf8422bf8430072bd99ba218c6dcb0.png"
+                },
+                "image_caption": []
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CB3"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b35f3aa9efccb7097db75cd73acd3b791f810bf845f47f5774fd41b4f4392a42.png"
+                },
+                "image_caption": []
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CB4"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c85c55837fc0162676f443699e0aa8325d1be4565fab4019da875efdb58ae82b.png"
+                },
+                "image_caption": []
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "CB5"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/68ed9191d59ad95fa92f1c9172823fdb2a96061bf4ab57c9ecd87d9b3b1868e0.png"
+                },
+                "image_caption": []
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号： "
+                    },
+                    {
+                        "type": "text",
+                        "content": "PT9L-RJTY01",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": " V1.0                                             软件流程图"
+                    }
+                ]
+            }
+        }
+    ]
+]

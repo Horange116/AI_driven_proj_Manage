@@ -1,0 +1,212 @@
+[
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/7a13242863a6a96629085c7b461470e7682392097e46bf9e0b34e71abbccc0dd.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>6</td><td></td><td>3</td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>ABS</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>5</td><td></td><td>2</td><td></td><td>Design</td><td></td><td></td><td>X</td><td></td><td>Part name</td><td>电池盖</td></tr><tr><td>4</td><td></td><td>1</td><td>初版制作</td><td>2021.07.15</td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Td Wringing NO.</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                0,
+                0,
+                117,
+                998
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "uōpūn "
+                    }
+                ]
+            },
+            "bbox": [
+                934,
+                20,
+                964,
+                74
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c210cc488022c70c477e4ef64367a50570d61d7246e91f2f2970697295f98a15.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                201,
+                123,
+                919,
+                875
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4.产品符合ROHS 2.0\n品质部检验结构时，请以结构垫板和组装（实配）为准"
+                    }
+                ]
+            },
+            "bbox": [
+                189,
+                573,
+                221,
+                764
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. 须试装产品，并能顺利装入产品，未标注尺寸以样板为准；"
+                    }
+                ]
+            },
+            "bbox": [
+                223,
+                573,
+                243,
+                764
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 材质为ABS（白色）；产品外观良好、无拉伤、变形、批样、熔接痕、气软、顶白，钢板、缩水等不良现象。"
+                    }
+                ]
+            },
+            "bbox": [
+                243,
+                573,
+                270,
+                841
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 带编号为重要尺寸，需要10C测量；"
+                    }
+                ]
+            },
+            "bbox": [
+                270,
+                565,
+                287,
+                684
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "产品技术要求："
+                    }
+                ]
+            },
+            "bbox": [
+                287,
+                565,
+                302,
+                604
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/2cb94779964837b9ef0a58ee498193ee5a7dc98c898d33853204358bbdf68467.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">LEVEL</td><td colspan=\"4\">GENERAL PERFORMANCE</td></tr><tr><td>A</td><td>B</td><td>C</td><td></td></tr><tr><td>DTM</td><td>&gt;5-15</td><td>≤0.05</td><td>≤0.1</td><td>≤0.15</td></tr><tr><td>&gt;50</td><td>≤0.50</td><td>≤0.1</td><td>≤0.2</td><td>≤0.3</td></tr><tr><td>&gt;50~100</td><td>≤0.08</td><td>≤0.2</td><td>≤0.3</td><td></td></tr><tr><td>&gt;100</td><td>≤0.76</td><td>≤0.2%</td><td>≤0.3%</td><td></td></tr><tr><td>AGULAR</td><td>≤0.76</td><td>≤0.5</td><td>≤0.5</td><td>≤0.5</td></tr><tr><td colspan=\"5\">SELECT LEVEL</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                117,
+                912,
+                240,
+                996
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "8\n7\n6\n5\n4\n3\n2\n1 "
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                0,
+                998,
+                13
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "X尺寸序号"
+                    }
+                ]
+            },
+            "bbox": [
+                954,
+                954,
+                966,
+                991
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "H | G | F | D | E | G | H "
+                    }
+                ]
+            },
+            "bbox": [
+                974,
+                0,
+                998,
+                998
+            ]
+        }
+    ]
+]

@@ -1,0 +1,142 @@
+Started at: Wed 06 May 2026 04:46:58 AM CST
+Host: node42
+CUDA_VISIBLE_DEVICES=4
+MinerU hybrid batch started: 2026-05-06T04:46:59
+PROJECT_ROOT: /home/s2025244189/s2025244265/AI_driven_proj_Manage
+MINERU_MODEL_SOURCE: local
+Selected datasets: DHF, DMR
+
+[DHF] input : /home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理
+[DHF] output: /home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理
+[DHF] files : 203
+[SKIP] DHF 1/203: 01 立项批准书E0/客户需求书(封面)E0.docx
+[SKIP] DHF 2/203: 01 立项批准书E0/客户需求书E0.xlsx
+[SKIP] DHF 3/203: 01 立项批准书E0/客户需求评审单E0.docx
+[SKIP] DHF 4/203: 01 立项批准书E0/立项批准书E0.docx
+[SKIP] DHF 5/203: 02 开发计划E0/设计开发计划(封面)E0.docx
+[SKIP] DHF 6/203: 02 开发计划E0/设计开发计划表E0.xlsx
+[SKIP] DHF 7/203: 02 开发计划E0/设计开发计划评审表E0.docx
+[SKIP] DHF 8/203: 02 开发计划E0/项目组成员名单E0.docx
+[RUN ] DHF 9/203: 02 开发计划E0/项目进度表.pdf
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/02 开发计划E0/项目进度表.pdf' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/02 开发计划E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:47155
+API documentation: http://127.0.0.1:47155/docs
+INFO 05-06 04:48:37 [model.py:631] Resolved architecture: Qwen2VLForConditionalGeneration
+INFO 05-06 04:48:37 [model.py:1745] Using max model len 8192
+INFO 05-06 04:48:40 [scheduler.py:216] Chunked prefill is enabled with max_num_batched_tokens=2048.
+WARNING 05-06 04:48:42 [system_utils.py:103] We must use the `spawn` multiprocessing start method. Overriding VLLM_WORKER_MULTIPROC_METHOD to 'spawn'. See https://docs.vllm.ai/en/latest/usage/troubleshooting.html#python-multiprocessing for more information. Reasons: CUDA is initialized
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m INFO 05-06 04:48:54 [core.py:93] Initializing a V1 LLM engine (v0.11.2) with config: model='/home/s2025244189/.cache/modelscope/hub/models/OpenDataLab/MinerU2___5-Pro-2604-1___2B', speculative_config=None, tokenizer='/home/s2025244189/.cache/modelscope/hub/models/OpenDataLab/MinerU2___5-Pro-2604-1___2B', skip_tokenizer_init=False, tokenizer_mode=auto, revision=None, tokenizer_revision=None, trust_remote_code=False, dtype=torch.bfloat16, max_seq_len=8192, download_dir=None, load_format=auto, tensor_parallel_size=1, pipeline_parallel_size=1, data_parallel_size=1, disable_custom_all_reduce=False, quantization=None, enforce_eager=False, kv_cache_dtype=auto, device_config=cuda, structured_outputs_config=StructuredOutputsConfig(backend='auto', disable_fallback=False, disable_any_whitespace=False, disable_additional_properties=False, reasoning_parser='', reasoning_parser_plugin='', enable_in_reasoning=False), observability_config=ObservabilityConfig(show_hidden_metrics_for_version=None, otlp_traces_endpoint=None, collect_detailed_traces=None), seed=0, served_model_name=/home/s2025244189/.cache/modelscope/hub/models/OpenDataLab/MinerU2___5-Pro-2604-1___2B, enable_prefix_caching=True, enable_chunked_prefill=True, pooler_config=None, compilation_config={'level': None, 'mode': <CompilationMode.VLLM_COMPILE: 3>, 'debug_dump_path': None, 'cache_dir': '', 'compile_cache_save_format': 'binary', 'backend': 'inductor', 'custom_ops': ['none'], 'splitting_ops': ['vllm::unified_attention', 'vllm::unified_attention_with_output', 'vllm::unified_mla_attention', 'vllm::unified_mla_attention_with_output', 'vllm::mamba_mixer2', 'vllm::mamba_mixer', 'vllm::short_conv', 'vllm::linear_attention', 'vllm::plamo2_mamba_mixer', 'vllm::gdn_attention_core', 'vllm::kda_attention', 'vllm::sparse_attn_indexer'], 'compile_mm_encoder': False, 'use_inductor': None, 'compile_sizes': [], 'inductor_compile_config': {'enable_auto_functionalized_v2': False, 'combo_kernels': True, 'benchmark_combo_kernel': True}, 'inductor_passes': {}, 'cudagraph_mode': <CUDAGraphMode.FULL_AND_PIECEWISE: (2, 1)>, 'cudagraph_num_of_warmups': 1, 'cudagraph_capture_sizes': [1, 2, 4, 8, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88, 96, 104, 112, 120, 128, 136, 144, 152, 160, 168, 176, 184, 192, 200, 208, 216, 224, 232, 240, 248, 256], 'cudagraph_copy_inputs': False, 'cudagraph_specialize_lora': True, 'use_inductor_graph_partition': False, 'pass_config': {}, 'max_cudagraph_capture_size': 256, 'local_cache_dir': None}
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m INFO 05-06 04:49:10 [parallel_state.py:1208] world_size=1 rank=0 local_rank=0 distributed_init_method=tcp://10.10.111.42:35563 backend=nccl
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m INFO 05-06 04:49:10 [parallel_state.py:1394] rank 0 in world size 1 is assigned as DP rank 0, PP rank 0, TP rank 0, EP rank 0
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m INFO 05-06 04:49:16 [gpu_model_runner.py:3259] Starting to load model /home/s2025244189/.cache/modelscope/hub/models/OpenDataLab/MinerU2___5-Pro-2604-1___2B...
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m INFO 05-06 04:49:19 [cuda.py:418] Valid backends: ['FLASH_ATTN', 'FLASHINFER', 'TRITON_ATTN', 'FLEX_ATTENTION']
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m INFO 05-06 04:49:19 [cuda.py:427] Using FLASH_ATTN backend.
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m INFO 05-06 04:49:23 [default_loader.py:314] Loading weights took 3.98 seconds
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m INFO 05-06 04:49:24 [gpu_model_runner.py:3338] Model loading took 2.1601 GiB memory and 6.483477 seconds
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m INFO 05-06 04:49:25 [gpu_model_runner.py:4088] Encoder cache will be initialized with a budget of 8100 tokens, and profiled with 1 video items of the maximum feature size.
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m INFO 05-06 04:49:52 [backends.py:631] Using cache directory: /home/s2025244189/.cache/vllm/torch_compile_cache/0785dbb6cf/rank_0_0/backbone for vLLM's torch.compile
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m INFO 05-06 04:49:52 [backends.py:647] Dynamo bytecode transform time: 14.29 s
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m INFO 05-06 04:49:59 [backends.py:251] Cache the graph for dynamic shape for later use
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m INFO 05-06 04:50:24 [backends.py:282] Compiling a graph for dynamic shape takes 31.26 s
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m INFO 05-06 04:50:25 [monitor.py:34] torch.compile takes 45.54 s in total
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m INFO 05-06 04:50:27 [gpu_worker.py:359] Available KV cache memory: 35.80 GiB
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m INFO 05-06 04:50:28 [kv_cache_utils.py:1229] GPU KV cache size: 3,128,352 tokens
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m INFO 05-06 04:50:28 [kv_cache_utils.py:1234] Maximum concurrency for 8,192 tokens per request: 381.88x
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m INFO 05-06 04:50:32 [gpu_model_runner.py:4244] Graph capturing finished in 4 secs, took 1.19 GiB
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m INFO 05-06 04:50:32 [core.py:250] init engine (profile, create kv cache, warmup model) took 67.89 seconds
+WARNING 05-06 04:50:43 [async_llm.py:288] Processor has been moved under OpenAIServing and will be removed from AsyncLLM in v0.13.
+
+[DONE] DHF 9/203: 02 开发计划E0/项目进度表.pdf
+[SKIP] DHF 10/203: 03 风险/PT9L--Attachment 7 01 Risk Management Plan PT9L-FXJH01 V1.0.docx
+[SKIP] DHF 11/203: 03 风险/PT9L--Attachment 7 02 Risk Assessment Report PT9L-FXPJ01 V1.0.docx
+[SKIP] DHF 12/203: 04 设计输入E0/设计评审计划表-设计输入E0.docx
+[SKIP] DHF 13/203: 04 设计输入E0/设计输入(封面)E0.docx
+[SKIP] DHF 14/203: 04 设计输入E0/设计输入汇总表E0.xlsx
+[SKIP] DHF 15/203: 04 设计输入E0/设计输入评审检查表.xlsx
+[SKIP] DHF 16/203: 04 设计输入E0/设计输入评审记录.docx
+[SKIP] DHF 17/203: 05 结构方案阶段及图样E0/结构图样阶段E0/结构图样评审检查表E0.xlsx
+[SKIP] DHF 18/203: 05 结构方案阶段及图样E0/结构图样阶段E0/设计评审计划表E0.docx
+[SKIP] DHF 19/203: 05 结构方案阶段及图样E0/结构图样阶段E0/设计评审记录E0.docx
+[SKIP] DHF 20/203: 05 结构方案阶段及图样E0/结构设计方案E0.docx
+[SKIP] DHF 21/203: 05 结构方案阶段及图样E0/结构设计方案评审检查表.xlsx
+[SKIP] DHF 22/203: 05 结构方案阶段及图样E0/设计评审计划表-方案评审E0.docx
+[SKIP] DHF 23/203: 05 结构方案阶段及图样E0/设计评审记录E0.docx
+[SKIP] DHF 24/203: 06 硬件方案阶段及图样E0/硬件图样阶段E0/硬件图样评审检查表E0.xlsx
+[SKIP] DHF 25/203: 06 硬件方案阶段及图样E0/硬件图样阶段E0/设计评审计划表E0.docx
+[SKIP] DHF 26/203: 06 硬件方案阶段及图样E0/硬件图样阶段E0/设计评审记录E0.docx
+[SKIP] DHF 27/203: 06 硬件方案阶段及图样E0/硬件设计方案E0.docx
+[SKIP] DHF 28/203: 06 硬件方案阶段及图样E0/硬件设计方案评审检查表E0.xlsx
+[SKIP] DHF 29/203: 06 硬件方案阶段及图样E0/设计评审计划表E0.docx
+[SKIP] DHF 30/203: 06 硬件方案阶段及图样E0/设计评审记录E0.docx
+[SKIP] DHF 31/203: 07 软件方案阶段及图样E0/质量策划E0/设计评审计划表-方案评审E0.docx
+[SKIP] DHF 32/203: 07 软件方案阶段及图样E0/质量策划E0/设计评审记录E0.docx
+[SKIP] DHF 33/203: 07 软件方案阶段及图样E0/质量策划E0/质量策划E0.docx
+[SKIP] DHF 34/203: 07 软件方案阶段及图样E0/质量策划E0/软件质量策划评审检查表E0.xlsx
+[SKIP] DHF 35/203: 07 软件方案阶段及图样E0/软件图样E0/设计评审计划表-图样评审E0.docx
+[SKIP] DHF 36/203: 07 软件方案阶段及图样E0/软件图样E0/设计评审记录E0.docx
+[RUN ] DHF 37/203: 07 软件方案阶段及图样E0/软件图样E0/软件图样E0.docx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/07 软件方案阶段及图样E0/软件图样E0/软件图样E0.docx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/07 软件方案阶段及图样E0/软件图样E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:43697
+API documentation: http://127.0.0.1:43697/docs
+
+[DONE] DHF 37/203: 07 软件方案阶段及图样E0/软件图样E0/软件图样E0.docx
+[SKIP] DHF 38/203: 07 软件方案阶段及图样E0/软件图样E0/软件图样评审检查表E0.xlsx
+[SKIP] DHF 39/203: 07 软件方案阶段及图样E0/软件方案E0/设计评审计划表-方案评审E0.docx
+[SKIP] DHF 40/203: 07 软件方案阶段及图样E0/软件方案E0/设计评审记录E0.docx
+[SKIP] DHF 41/203: 07 软件方案阶段及图样E0/软件方案E0/软件方案设计E0.docx
+[RUN ] DHF 42/203: 07 软件方案阶段及图样E0/软件方案E0/软件设计方案评审检查表E0.xlsx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/07 软件方案阶段及图样E0/软件方案E0/软件设计方案评审检查表E0.xlsx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/07 软件方案阶段及图样E0/软件方案E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:37035
+API documentation: http://127.0.0.1:37035/docs
+
+[DONE] DHF 42/203: 07 软件方案阶段及图样E0/软件方案E0/软件设计方案评审检查表E0.xlsx
+[RUN ] DHF 43/203: 07 软件方案阶段及图样E0/软件需求E0/设计评审计划表-方案评审E0.docx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/07 软件方案阶段及图样E0/软件需求E0/设计评审计划表-方案评审E0.docx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/07 软件方案阶段及图样E0/软件需求E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:59489
+API documentation: http://127.0.0.1:59489/docs
+
+[DONE] DHF 43/203: 07 软件方案阶段及图样E0/软件需求E0/设计评审计划表-方案评审E0.docx
+[RUN ] DHF 44/203: 07 软件方案阶段及图样E0/软件需求E0/设计评审记录E0.docx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/07 软件方案阶段及图样E0/软件需求E0/设计评审记录E0.docx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/07 软件方案阶段及图样E0/软件需求E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:36313
+API documentation: http://127.0.0.1:36313/docs
+
+[DONE] DHF 44/203: 07 软件方案阶段及图样E0/软件需求E0/设计评审记录E0.docx
+[RUN ] DHF 45/203: 07 软件方案阶段及图样E0/软件需求E0/软件需求规格E0.docx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/07 软件方案阶段及图样E0/软件需求E0/软件需求规格E0.docx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/07 软件方案阶段及图样E0/软件需求E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:47165
+API documentation: http://127.0.0.1:47165/docs
+
+[DONE] DHF 45/203: 07 软件方案阶段及图样E0/软件需求E0/软件需求规格E0.docx
+[RUN ] DHF 46/203: 07 软件方案阶段及图样E0/软件需求E0/软件需求规格书评审检查表E0.xlsx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/07 软件方案阶段及图样E0/软件需求E0/软件需求规格书评审检查表E0.xlsx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/07 软件方案阶段及图样E0/软件需求E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:47463
+API documentation: http://127.0.0.1:47463/docs
+
+[DONE] DHF 46/203: 07 软件方案阶段及图样E0/软件需求E0/软件需求规格书评审检查表E0.xlsx
+[RUN ] DHF 47/203: 08 T1样机/01-DFMEA E0/包装类FMEA E0.xlsx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/08 T1样机/01-DFMEA E0/包装类FMEA E0.xlsx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/08 T1样机/01-DFMEA E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:41485
+API documentation: http://127.0.0.1:41485/docs
+
+[DONE] DHF 47/203: 08 T1样机/01-DFMEA E0/包装类FMEA E0.xlsx
+[RUN ] DHF 48/203: 08 T1样机/01-DFMEA E0/潜在设计失效模式及后果分析（设计FMEA）封面E0.docx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/08 T1样机/01-DFMEA E0/潜在设计失效模式及后果分析（设计FMEA）封面E0.docx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/08 T1样机/01-DFMEA E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:41137
+API documentation: http://127.0.0.1:41137/docs
+
+[DONE] DHF 48/203: 08 T1样机/01-DFMEA E0/潜在设计失效模式及后果分析（设计FMEA）封面E0.docx
+[RUN ] DHF 49/203: 08 T1样机/01-DFMEA E0/硬件类 FMEA E0.xlsx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/08 T1样机/01-DFMEA E0/硬件类 FMEA E0.xlsx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/08 T1样机/01-DFMEA E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:46201
+API documentation: http://127.0.0.1:46201/docs
+
+[DONE] DHF 49/203: 08 T1样机/01-DFMEA E0/硬件类 FMEA E0.xlsx
+[RUN ] DHF 50/203: 08 T1样机/01-DFMEA E0/结构类FMEA  E0.xlsx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/08 T1样机/01-DFMEA E0/结构类FMEA  E0.xlsx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/08 T1样机/01-DFMEA E0' -b hybrid-auto-engine -m auto -l ch

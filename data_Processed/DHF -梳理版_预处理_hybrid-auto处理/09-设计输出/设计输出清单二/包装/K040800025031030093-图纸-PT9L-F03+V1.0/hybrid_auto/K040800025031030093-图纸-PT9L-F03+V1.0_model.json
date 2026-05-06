@@ -1,0 +1,274 @@
+[
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.032,
+                0.066,
+                0.047,
+                0.77
+            ],
+            "angle": 0,
+            "content": "1\n2\n3\n4\n5\n6\n7\n8"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.087,
+                0.042,
+                0.915,
+                0.057
+            ],
+            "angle": 0,
+            "content": "A | B | C | D | E | F | G | H"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.908,
+                0.066,
+                0.955,
+                0.083
+            ],
+            "angle": 0,
+            "content": "\\(⑤\\) 尺寸序号"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.058,
+                0.069,
+                0.129,
+                0.11
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.086,
+                0.161,
+                0.337,
+                0.369
+            ],
+            "angle": 0,
+            "content": "20.0\nR1.2\n25.0\n(01)00850044118700\n(10)201347011001\n二维码图案根据数字的变更相应变更\n字体：Myriad Pro 字高：4.5pt",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image_footnote",
+            "bbox": [
+                0.182,
+                0.353,
+                0.313,
+                0.369
+            ],
+            "angle": 0,
+            "content": "字体：Myriad Pro 字高：4.5pt"
+        },
+        {
+            "type": "image_footnote",
+            "bbox": [
+                0.182,
+                0.372,
+                0.34,
+                0.386
+            ],
+            "angle": 0,
+            "content": "第二行编码为批号：201347011001为变量"
+        },
+        {
+            "type": "image_footnote",
+            "bbox": [
+                0.257,
+                0.388,
+                0.349,
+                0.403
+            ],
+            "angle": 0,
+            "content": "(批号依据柯顿规则执行)"
+        },
+        {
+            "type": "image_footnote",
+            "bbox": [
+                0.257,
+                0.405,
+                0.338,
+                0.42
+            ],
+            "angle": 0,
+            "content": "第1-6位：制造令代码"
+        },
+        {
+            "type": "image_footnote",
+            "bbox": [
+                0.257,
+                0.422,
+                0.33,
+                0.437
+            ],
+            "angle": 0,
+            "content": "第7-9位：部件序号"
+        },
+        {
+            "type": "image_footnote",
+            "bbox": [
+                0.257,
+                0.44,
+                0.346,
+                0.454
+            ],
+            "angle": 0,
+            "content": "第10-12位：批次序列号"
+        },
+        {
+            "type": "image_footnote",
+            "bbox": [
+                0.186,
+                0.458,
+                0.388,
+                0.472
+            ],
+            "angle": 0,
+            "content": "(01)00850044118700 (10) 批号 (11) 生产日期 (17) 有效期"
+        },
+        {
+            "type": "image_footnote",
+            "bbox": [
+                0.186,
+                0.473,
+                0.405,
+                0.487
+            ],
+            "angle": 0,
+            "content": "批号、生产日期和有效期的信息内容按照生产现有规则执行"
+        },
+        {
+            "type": "image_footnote",
+            "bbox": [
+                0.186,
+                0.488,
+                0.32,
+                0.501
+            ],
+            "angle": 0,
+            "content": "并根据评审要求以上内容生成二维码"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.536,
+                0.198,
+                0.793,
+                0.56
+            ],
+            "angle": 0,
+            "content": "QR code image containing encoded data, no visible human-readable text",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image_footnote",
+            "bbox": [
+                0.54,
+                0.603,
+                0.79,
+                0.643
+            ],
+            "angle": 0,
+            "content": "(01)00850044118700"
+        },
+        {
+            "type": "image_footnote",
+            "bbox": [
+                0.555,
+                0.652,
+                0.771,
+                0.69
+            ],
+            "angle": 0,
+            "content": "(10)201347011001"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.087,
+                0.693,
+                0.145,
+                0.716
+            ],
+            "angle": 0,
+            "content": "技术要求"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.063,
+                0.728,
+                0.239,
+                0.825
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.728,
+                0.238,
+                0.75
+            ],
+            "angle": 0,
+            "content": "1. 材质：80g白色不干胶铜版纸",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.753,
+                0.192,
+                0.775
+            ],
+            "angle": 0,
+            "content": "2. 印刷颜色：单黑印刷",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.779,
+                0.142,
+                0.8
+            ],
+            "angle": 0,
+            "content": "3. 表面覆亮膜",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.063,
+                0.804,
+                0.206,
+                0.825
+            ],
+            "angle": 0,
+            "content": "4. 本件要求通过RoHS测试",
+            "merge_prev": false
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.032,
+                0.842,
+                0.967,
+                0.96
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>3</td><td></td><td></td><td>K04080002503</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td>±0.5</td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">彩包装标签</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-F03</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td><img src=\"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAArAJEDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiuB8U65q+s+JB4L8L3H2W5EYm1TUgM/Yoj0Vf+mjDp6Dn3AB0mteLvDvh4lNW1qytJcZEUko3keu3r+lcl8NfHHhy48K6dpz69Z/2gu9TDNMFckyMQBuxngjpW5ofw78L+HoS0OmQ3N0fmkvb0CaaRu7Fm6Z9sCsXwZ4U8PeIfhxpseqaRZXYZZQXeIbx+9fo4+Yfgazf8Rej/AEOyCf1Sfbmj67T/AK+49ForzBWv/hTqtpBPeTXvgu8lECPcNuk0yQ/dBbvEenPT/wBC9PrQ4wooooAKKKKACis3UvEOi6Pn+09WsbPHUXFwiH8ia5a4+MHg2OUwWd/PqVwP+WNhaySk/QgY/WgDu6K8/wD+E/8AEeof8gT4eaxID0fUpEsx9cNk0bfirqfV/DmixH+6JLmZfz+Q0AegVBdXlrYxGW7uYbeMfxyuEH5muG/4V9r2of8AIc+IWtzg9U09UslPt8oPFT2vwh8FwSie50yTULjvNfXMkxP1BOP0oA2rPxv4Y1HWYtIsddsrq+lDFIreUSZ2jJ5XI6ZOM9jW/XmepaPpmj/F/wAFQ6Zp1pZRG2vspbQrGD+7HXaBmvTKACiiigDA1Txr4e0a/ex1DURDcoAWTynbGRkchSOhrz34a+NfDlrYavqupakI9R1bUpriTMUjEIG2xrkKRgAcD3r2AgHqBXnnw2dNG1PxF4NuMJcWF9JdWqn+O1lO5SPXBJB9CRUNT6Nfd/wTqjPC6c0Jba+8t/L3dFvpr69+V1fxR4f8deMr2y1nW5ofC+nRosdrCJU+3SsMszlRnavTBx6jvXN2F/o3gfw5p+v6Bqc1trFvL/xMdMzI0V5EZCCCCNoYKQQQe3rXqWuaHr/h/wAW3XinwtZwajHfxImpaXJIImkZBhZI2PAbHBB/XPHIeF9I8SeOvCWkaNeafFpnheKUy3UrTB5r4LKWEaqPuru4JPpkelZtVPaLVWt/l5/8MdUZYT6pP3Jc3MrO67Stry+l1f3t1ax1firxn4M8Q+ENU0uTVFYXVq6oGgl4fGVP3ezAH8KZ4H+JWg3Hg3RU1HVNuofZo4pVaKQkuo25JC45xn8a3PiJrkXh3wPqE6gG6njNrZxKPmkmkG1Qo74znHoDWh4Q0T/hHvCGkaS4XzbW1RJCOhfGWx/wImrtU7r7v+Cc7ng7/BK3+Jb/APgH9dzbooorQ4wrG1nxVovh+aOHVL4W8kq7kUxu2RnGflBrZpCAeozSle2hpSdNSvUTa8nZ/fZ/keF+F9Q+H9x4r8WajrkVjcyS6mz2slzaNL+7Kg5AKnHOfevRbf4geCbOIRW2oQwRjokVrIoH4BK5bTdYv/BHijxU+peFdcubK/1E3EN1Y2wnQJtAycHIrobP4teB7uXyZNYWznH3or2F4Cv1LAD9ahqp0a+7/gnRGeDt70JX/wAS/wDkGXf+FleEf+gwv/fiX/4mj/hZXhH/AKDC/wDfiX/4mt2w1XS9VTfp1/Z3i9d1vMsg/Qmru1f7o/Klar3X3f8ABK9pgf8An3P/AMDX/wAgcr/wsrwj/wBBhf8AvxL/APE0f8LK8I/9Bhf+/Ev/AMTXVbV/uj8qNq/3R+VFqvdfd/wQ9pgf+fc//A1/8geQ69448OXHxU8JahFqQa1toLxZpPJkG0sgC8bcnPtXe2Hjrw1ql9FZWepiW4lOETyZBk9epXFYPiNR/wALl8E8D/j2v/8A0Wtd+AB0Ap2qd193/BIc8JZ2hLy95aevua6+nbzFooorQ5Ark/GHg+XXJ7TWNHvf7O8Q6fn7Ld4yrqesUg/iQ/pn6g9ZRQB53H8Sr3Rk+z+MvDOpadcIMNd2cJubV/8AaDLkj6HJFYPgr4lWdp4NsNN0vRdY1jUYw48q1tWCAmRiN0jcAYI55r2E/dP0rlfhr/yT7SvpL/6Nes3b2i9H+h2QUvqc3fTmj+U/+CZmh+Fta1rxBB4o8aGFbm2ydO0mBt0Vnn+Nj0eT36Dt2x31FFaHGFFFFABRRRQAVWvNOsdRi8q+s7e6j/uTxK4/IirNFAHF3/wn8D6g/mNoFvbyjlXs2aAqfUbCB+lU/wDhWd3Yc6F438RWOPuxzzi5iX6I4/rXoFFAHn/2D4p6Z/x761oGtIOv221e2dvp5fGaP+Ez8aadxq/w+uZUHWbS7xLjd9E4avQKKAPI08UweKPjB4SaDTNVsXtbe9EsWoWhhZd0Yx6jt6+leuUUUAFFFFAH/9k=\"/></td><td>Edition</td><td>V1.0</td></tr></table>"
+        }
+    ]
+]

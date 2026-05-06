@@ -1,0 +1,68 @@
+[
+    [
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">工 作 原 理 说 明</text>"
+        },
+        {
+            "type": "text",
+            "content": "PT9L红外体温计是一款快速测量体温的产品。具有简单易用、测量迅速、数据准确的特点。机芯主要由四部分组成：1、测温部分；2、电源部分；3、MCU系统；4、交互模块。"
+        },
+        {
+            "type": "text",
+            "content": "一  <text style=\"bold\">测温部分</text>"
+        },
+        {
+            "type": "text",
+            "content": "此部分利用温度传感器把人体温度转换成电信号，交给MCU进行处理。"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">二  电源管理：</text>"
+        },
+        {
+            "type": "text",
+            "content": "电源部分使用2颗AAA电池供电，使用升压芯片给整个系统提供电源。同时MCU的一路AD管脚接到电源上，用于检测电压，当电压低于预设值时发出提示。"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">三  MCU系统</text>"
+        },
+        {
+            "type": "text",
+            "content": "MCU采用合泰公司的BH67F2762芯片，具有功能强大、性能稳定、抗干扰能力强、低功耗、价格低廉等优点，适于大规模生产。"
+        },
+        {
+            "type": "text",
+            "content": "MCU的主要功能是采集温度传感器发出的电信号并计算出温度值，同时控制按键、显示和声音，使体温计完成测试及显示。"
+        },
+        {
+            "type": "text",
+            "content": "四  <text style=\"bold\">交互模块</text>"
+        },
+        {
+            "type": "text",
+            "content": "交互模块由显示、声音和按键组成，负责接收用户的指令和给出温度信息。"
+        },
+        {
+            "type": "text",
+            "content": "显示部分采用LCD屏幕，由MCU直接驱动，显示温度信息；"
+        },
+        {
+            "type": "text",
+            "content": "声音部分采用蜂鸣器，由MCU直接控制，在需要时给出声音；"
+        },
+        {
+            "type": "text",
+            "content": "按键部分同样由MCU控制，接收用户的按键信息。"
+        },
+        {
+            "type": "header",
+            "content": "<text style=\"bold\">PT9L-GZYL01                                                      工作原理说明</text>"
+        },
+        {
+            "type": "footer",
+            "content": "第 1 页 共 1 页              "
+        }
+    ]
+]

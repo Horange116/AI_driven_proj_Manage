@@ -1,0 +1,32 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table>\n  <tr>\n    <th colspan=\"6\"><p>硬件图样评审检查表</p></th>\n  </tr>\n  <tr>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td colspan=\"6\"><p>制表<em>(硬件工程师)</em>：              年   月   日   <strong>审核</strong><em>(硬件主管)</em>：               年   月   日   <strong>记录人</strong>：              年   月   日</p></td>\n  </tr>\n  <tr>\n    <td colspan=\"6\"><p>产品型号：PT9L            项目编号：30000078                    产品/项目名称：     </p></td>\n  </tr>\n  <tr>\n    <td><p>序号</p></td>\n    <td><p>分类</p></td>\n    <td><p>评审内容</p></td>\n    <td><p>实况描述</p></td>\n    <td colspan=\"2\"><p>结论</p></td>\n  </tr>\n  <tr>\n    <td><p>1</p></td>\n    <td rowspan=\"12\"><p>PCB\n设\n计</p></td>\n    <td><p>PCB网表与原理图对应一致性</p></td>\n    <td><p>一致</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>2</p></td>\n    <td><p>连线布通率应为100%</p></td>\n    <td><p>1</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>3</p></td>\n    <td><p>走线距定位孔应≧0.5mm</p></td>\n    <td><p>合格</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>4</p></td>\n    <td><p>过孔开窗设置</p></td>\n    <td><p>不开窗</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>5</p></td>\n    <td><p>测试点检查</p></td>\n    <td><p>大小：1.5mm                           数量：32</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>6</p></td>\n    <td><p>Mark点设置</p></td>\n    <td><p>数量：8</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>7</p></td>\n    <td><p>泪滴设置</p></td>\n    <td><p>无</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>8</p></td>\n    <td><p>敷铜设置</p></td>\n    <td><p>线宽：7mil       间距：15mil      与外形是否一致：是</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>9</p></td>\n    <td><p>DRC检查</p></td>\n    <td><p>通过</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>10</p></td>\n    <td><p>丝印设置</p></td>\n    <td><p>合格</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>11</p></td>\n    <td><p>PCB版本丝印设置</p></td>\n    <td><p>合格</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>12</p></td>\n    <td><p>有极性元件丝印设置</p></td>\n    <td><p>合格</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>13</p></td>\n    <td rowspan=\"4\"><p>结\n构\n配\n合</p></td>\n    <td><p>PCB外形图检查</p></td>\n    <td><p>合格</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>14</p></td>\n    <td><p>结构定位的元件摆放检查</p></td>\n    <td><p>合格</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>15</p></td>\n    <td><p>螺钉孔与走线及过孔限制</p></td>\n    <td><p>合格</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>16</p></td>\n    <td><p>元件的结构干涉</p></td>\n    <td><p>合格</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>17</p></td>\n    <td rowspan=\"9\"><p>工\n艺\n方\n面</p></td>\n    <td><p>调试元件位置检查</p></td>\n    <td><p>合格</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>18</p></td>\n    <td><p>LCD金手指背面距板边≧5mm不能放置元件</p></td>\n    <td><p></p></td>\n    <td colspan=\"2\"><p>□通过  □不通过  ■不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>19</p></td>\n    <td><p>外接引线焊盘距板边应≧1mm。</p></td>\n    <td><p>合格</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>20</p></td>\n    <td><p>插件焊盘（焊接面）距周围元件应≧1mm</p></td>\n    <td><p>合格</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>21</p></td>\n    <td><p>插装元件本体距板边应≧2mm</p></td>\n    <td><p>合格</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>22</p></td>\n    <td><p>锅仔片￠12以内不能放置元件</p></td>\n    <td><p></p></td>\n    <td colspan=\"2\"><p>□通过  □不通过  ■不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>23</p></td>\n    <td><p>工装定位孔的设置</p></td>\n    <td><p>合格</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>24</p></td>\n    <td><p>PCB回流焊传送边距板边≧5mm不能有任何元件</p></td>\n    <td><p>合格</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>25</p></td>\n    <td><p>单面板适用性检查</p></td>\n    <td><p></p></td>\n    <td colspan=\"2\"><p>□通过  □不通过  ■不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>26</p></td>\n    <td rowspan=\"4\"><p>拼\n版\n检\n查</p></td>\n    <td><p>长≤300，宽≤200</p></td>\n    <td><p>合格</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>27</p></td>\n    <td><p>直边距离0.15mm，邮票孔距离1.2mm。</p></td>\n    <td><p>合格</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>28</p></td>\n    <td><p>拼版方式检查</p></td>\n    <td><p>合格</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td><p>29</p></td>\n    <td><p>对称性检查</p></td>\n    <td><p>合格</p></td>\n    <td colspan=\"2\"><p>■通过  □不通过  □不适用</p></td>\n  </tr>\n  <tr>\n    <td colspan=\"2\"><p>其他说明</p></td>\n    <td colspan=\"4\"><p></p></td>\n  </tr>\n</table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [],
+            "page_idx": 0
+        }
+    ],
+    "_backend": "office",
+    "_version_name": "3.1.6"
+}

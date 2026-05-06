@@ -1,0 +1,159 @@
+{
+  "format": "docreview-pdf-layout-probe-v1",
+  "source_name": "T-Z1-探头盖-v1.0-20241104.pdf",
+  "content_hash": "6229cda6d49299b50ac2249e431c9fe0bdb91932e8563d7c9ddc5b5110b45f49",
+  "page_count": 1,
+  "engine": "pymupdf",
+  "capabilities": {
+    "text_blocks": true,
+    "word_coordinates": true,
+    "row_clustering": true,
+    "vector_drawings": true,
+    "tables": false,
+    "ocr": false,
+    "semantic_table_reconstruction": false
+  },
+  "limits": [
+    "Rows are geometric text clusters, not verified semantic tables.",
+    "Vector drawings are counted but not converted into Gantt/task bars.",
+    "Scanned-image OCR is not enabled.",
+    "PDF W1 output is text/layout-audit evidence, not semantic Gantt reconstruction."
+  ],
+  "totals": {
+    "text_block_count": 6,
+    "word_count": 12,
+    "row_count": 10,
+    "table_like_row_count": 0,
+    "drawing_path_count": 2141,
+    "drawing_item_count": 21831,
+    "line_item_count": 21825,
+    "rectangle_item_count": 6
+  },
+  "pages": [
+    {
+      "page_index": 1,
+      "width": 595.32,
+      "height": 841.92,
+      "text_block_count": 6,
+      "word_count": 12,
+      "row_count": 10,
+      "table_like_row_count": 0,
+      "drawing_path_count": 2141,
+      "drawing_item_count": 21831,
+      "line_item_count": 21825,
+      "rectangle_item_count": 6,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            15.03,
+            111.97,
+            24.21,
+            121.09
+          ],
+          "word_count": 1,
+          "text": "更"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            15.03,
+            130.57,
+            24.21,
+            139.69
+          ],
+          "word_count": 1,
+          "text": "改"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            32.14,
+            123.46,
+            42.7,
+            165.81
+          ],
+          "word_count": 1,
+          "text": "初版制作"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            15.03,
+            122.52,
+            444.16,
+            186.96
+          ],
+          "word_count": 2,
+          "text": "记 SECTION"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            15.03,
+            167.97,
+            24.21,
+            177.09
+          ],
+          "word_count": 1,
+          "text": "录"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            427.98,
+            191.1,
+            444.16,
+            215.25
+          ],
+          "word_count": 1,
+          "text": "A-A"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            15.39,
+            259.81,
+            23.79,
+            293.66
+          ],
+          "word_count": 1,
+          "text": "更改时间"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            184.51,
+            393.72,
+            450.64,
+            407.49
+          ],
+          "word_count": 2,
+          "text": "A A"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            48.75,
+            778.21,
+            61.47,
+            803.65
+          ],
+          "word_count": 1,
+          "text": "探头"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            559.36,
+            793.44,
+            566.86,
+            823.79
+          ],
+          "word_count": 1,
+          "text": "尺寸序号"
+        }
+      ]
+    }
+  ]
+}

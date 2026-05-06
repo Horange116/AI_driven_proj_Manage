@@ -1,0 +1,62 @@
+{
+  "format": "docreview-pdf-intake-flow-v1",
+  "generated_at": "2026-05-01T06:29:24.290938+00:00",
+  "source": "C:\\Users\\Administrator\\Documents\\New project\\DHF -梳理版\\08 T1样机\\11-运输试验评估报告\\跌落.pdf",
+  "source_sha256": "023a9840cb06f97765a7e75cdd5f2bb22fb9bac5c7011d9ec7c2fce354794ed8",
+  "run_root": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\跌落-20260501T142635",
+  "probe_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\跌落-20260501T142635\\probe.json",
+  "classification_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\跌落-20260501T142635\\classification.json",
+  "classification_ms": 0,
+  "classification": {
+    "pdf_type": "drawing",
+    "route": "vlm",
+    "template": "drawing",
+    "reason": "Route override applied after classification: Probe router detected many vector drawings/rectangles; visual layout is material.",
+    "must_preserve": [
+      "drawings",
+      "title blocks",
+      "layout objects"
+    ],
+    "risk": [
+      "probe cannot name the drawing type without visual supplement"
+    ],
+    "confidence": "medium",
+    "classifier": "probe",
+    "needs_vlm_supplement": false
+  },
+  "route_result": {
+    "route": "vlm",
+    "page_count": 3,
+    "processed_pages": 3,
+    "page_results": [
+      {
+        "page": 1,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\跌落-20260501T142635\\pages\\page-001.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\跌落-20260501T142635\\page-001-vlm.md",
+        "elapsed_ms": 65895,
+        "chars": 3739,
+        "required_sections_present": true
+      },
+      {
+        "page": 2,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\跌落-20260501T142635\\pages\\page-002.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\跌落-20260501T142635\\page-002-vlm.md",
+        "elapsed_ms": 57044,
+        "chars": 4132,
+        "required_sections_present": true
+      },
+      {
+        "page": 3,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\跌落-20260501T142635\\pages\\page-003.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\跌落-20260501T142635\\page-003-vlm.md",
+        "elapsed_ms": 45143,
+        "chars": 2760,
+        "required_sections_present": true
+      }
+    ],
+    "combined_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\跌落-20260501T142635\\combined-visual-transcript.md",
+    "all_required_sections_present": true,
+    "elapsed_ms": 168586
+  },
+  "elapsed_ms": 168713
+}

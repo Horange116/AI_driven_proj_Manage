@@ -1,0 +1,244 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "子程序测试记录",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "(V1.0)",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "产 品 型 号："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "     PT9L      ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "项 目 编 号："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "  30000078 ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "产品/项目名称："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "    红外体温计     ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "编    制",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "（软件工程师）",
+                                    "style": [
+                                        "italic"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "                        年   月   日",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "审    核",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "（软 件主 管）",
+                                    "style": [
+                                        "italic"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "                        年   月   日",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件编号：PT9L-RZCL01V1.0                                               子程序测试记录"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "历史版本记录",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>更改日期</strong></p></td><td><p><strong>版本描述</strong></p></td><td><p><strong>版本</strong></p></td><td><p><strong>更改人</strong></p></td><td><p><strong>审核人</strong></p></td></tr><tr><td><p>1</p></td><td><p>2024.3.6</p></td><td><p>起草</p></td><td><p>V1.0</p></td><td><p>王迪</p></td><td><p>侯广伟</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件编号：PT9L-RZCL01V1.0                                               子程序测试记录"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "page_idx": 1
+        }
+    ],
+    "_backend": "office",
+    "_version_name": "3.1.6"
+}

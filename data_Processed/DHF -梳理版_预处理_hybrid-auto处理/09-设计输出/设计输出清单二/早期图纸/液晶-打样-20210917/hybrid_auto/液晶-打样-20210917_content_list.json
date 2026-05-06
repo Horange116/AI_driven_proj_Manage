@@ -1,0 +1,132 @@
+[
+    {
+        "type": "table",
+        "img_path": "images/108c24e29dc5304a386b76b84242447a70896312cf48092bb667889842e458ff.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>3</td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>IT0</td><td>Model NO.</td><td></td></tr><tr><td>2</td><td>Design</td><td></td><td></td><td>X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td></tr><tr><td>1</td><td>初版制作</td><td></td><td></td><td>XX</td><td></td><td>Scale</td><td>2:1</td><td>Drawing NO.</td></tr><tr><td>No.</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Unit5</td><td>mm</td></tr></table>",
+        "bbox": [
+            0,
+            0,
+            129,
+            998
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "产品符合rohs ",
+        "bbox": [
+            163,
+            70,
+            236,
+            388
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "术要求 ：",
+        "bbox": [
+            238,
+            70,
+            273,
+            162
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a279cc31894fb8c9532d9bd44f6ea9646c054c92b934938d37a7834a22b928a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>P1N</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr><tr><td></td><td></td><td></td><td></td><td>50</td><td>51</td><td>52</td><td>53</td><td>54</td><td>55</td><td>56</td><td>57</td><td>58</td><td>59</td><td>510</td><td>511</td><td></td></tr><tr><td>COM1</td><td></td><td>COM1</td><td></td><td>IF</td><td>1B</td><td>2F</td><td>2B</td><td>3F</td><td>3B</td><td>P5</td><td>P9</td><td>P13</td><td>P17</td><td>P21</td><td>-</td><td></td></tr><tr><td>COM2</td><td></td><td>COM2</td><td></td><td>1G</td><td>1G</td><td>2G</td><td>2C</td><td>3G</td><td>3C</td><td>P6</td><td>P10</td><td>P14</td><td>P18</td><td>P22</td><td>-</td><td></td></tr><tr><td>COM3</td><td>COM3</td><td></td><td></td><td>IE</td><td>1D</td><td>2E</td><td>2D</td><td>3E</td><td>3D</td><td>P7</td><td>P11</td><td>P15</td><td>P19</td><td>-</td><td>-</td><td></td></tr></table>",
+        "bbox": [
+            258,
+            315,
+            354,
+            744
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/865bea0ef35329d9119c955b710e2802c5f4f2352cc87fd128d9df5bd8ddb0e4.jpg",
+        "image_caption": [
+            "分段代码图"
+        ],
+        "image_footnote": [],
+        "content": "0-3M 3-36M+1\np10 p11 p12\n+WIM 36M\np13-p22\np12\np11\np10\np10d\np12\np2\n3\n2\n1\nD\nC\nF\nA\n6\n5\n6\n4\n6\n7\n8\n9\nLd\nPd 7 Pd 8 Pd 9\nPd 6\nPd 5\nPd 4\nPd 3\nPd 2\nPd 1\n6d 8d 9d 16",
+        "sub_type": "text_image",
+        "bbox": [
+            490,
+            675,
+            818,
+            906
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6c832386c2011a67c01e34143e03c9b343dee6ce915e25423b938a60de50a30.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "0.76±0.07\nREAR GLASS\n4-0.40±0.4\nFRONT GLASS\n1.7 MAX\n③",
+        "sub_type": "text_image",
+        "bbox": [
+            457,
+            539,
+            885,
+            638
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/b76f56c991dcdfdd4fa1db2dbaa6857ff4973ee93596807030be68a12bdf024e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "22.00\n21.20\n20.00 MIN V.A\n20.00 MIN V.A\n31.50±0.2\n29.50±0.2\n28.70\n27.50 MIN V.A\n0-3M-36M36M+\n5.00 MAX\n14.00±0.5\n3.00\n3.50\n1\n16\n1\n0.50 MAX\nP 1.0*15=15.00\n3.50±0.2\n①\n②",
+        "sub_type": "text_image",
+        "bbox": [
+            371,
+            101,
+            895,
+            492
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "andon ",
+        "bbox": [
+            915,
+            24,
+            959,
+            99
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "8\n7\n6\n5\n4\n3\n2\n1 ",
+        "bbox": [
+            129,
+            0,
+            998,
+            13
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "尺寸序 ",
+        "bbox": [
+            946,
+            936,
+            963,
+            988
+        ],
+        "page_idx": 0
+    }
+]

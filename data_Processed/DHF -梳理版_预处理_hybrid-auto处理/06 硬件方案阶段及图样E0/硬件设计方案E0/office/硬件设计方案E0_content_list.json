@@ -1,0 +1,23 @@
+[
+    {
+        "type": "text",
+        "text": "**硬件设计方案**",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><tr><td><p><strong>产品型号：PT9L                              项目编号：30000078                         产品/项目名称：红外体温计</strong></p></td></tr><tr><td><p><strong>申请</strong><em>(硬件工程师)</em><strong>：</strong>                     年  月  日                                        <strong>审核</strong><em>(硬件主管)</em><strong>：</strong>                      年  月  日</p></td></tr><tr><td><img src=\"images/22a78ac521f9211a98a0ac93315cd85ad5cee5024fe96b7289dd44bfd9038f30.png\"/></td></tr><tr><td><p><strong>主板方案内容：PT9L红外体温计采用合泰的MCU BH67F2762，电源部分采用的升压片SR1833，无存储器。  </strong></p></td></tr><tr><td><ul><li><strong>评审未通过，重新提交文件再次评审；</strong></li><li><strong>评审通过，需按照评审记录进行修改；</strong></li><li><strong>评审通过，文件放行。\t</strong></li></ul><p><strong>批准</strong><em>(技术负责人)</em><strong>：</strong> <strong> </strong>        年  月  日</p></td></tr></table>",
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "文件编号： <u>PT9L-YJFA01</u>  V1.0                                                                                    硬件设计方案",
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "第 2 页 / 共 2 页",
+        "page_idx": 0
+    }
+]

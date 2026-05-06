@@ -1,0 +1,46 @@
+{
+  "format": "docreview-pdf-intake-flow-v1",
+  "generated_at": "2026-05-01T04:59:36.369132+00:00",
+  "source": "C:\\Users\\Administrator\\Documents\\New project\\DHF -梳理版\\09-设计输出\\设计输出清单二\\包装\\K040800021487620814-图纸-PT1-F07+V1.0(1).pdf",
+  "source_sha256": "3b883e142cc9337b31640c5b382bbaaac29912508d06dac4f920e9642735fb9a",
+  "run_root": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\K040800021487620814-图纸-PT1-F07-V1-0-1--20260501T125839",
+  "probe_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\K040800021487620814-图纸-PT1-F07-V1-0-1--20260501T125839\\probe.json",
+  "classification_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\K040800021487620814-图纸-PT1-F07-V1-0-1--20260501T125839\\classification.json",
+  "classification_ms": 0,
+  "classification": {
+    "pdf_type": "drawing",
+    "route": "vlm",
+    "template": "drawing",
+    "reason": "Probe router detected drawing/label filename; visual title blocks and artwork require VLM.",
+    "must_preserve": [
+      "title block",
+      "drawing text",
+      "visual layout"
+    ],
+    "risk": [
+      "probe route based partly on filename"
+    ],
+    "confidence": "high",
+    "classifier": "probe",
+    "needs_vlm_supplement": false
+  },
+  "route_result": {
+    "route": "vlm",
+    "page_count": 1,
+    "processed_pages": 1,
+    "page_results": [
+      {
+        "page": 1,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\K040800021487620814-图纸-PT1-F07-V1-0-1--20260501T125839\\pages\\page-001.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\K040800021487620814-图纸-PT1-F07-V1-0-1--20260501T125839\\page-001-vlm.md",
+        "elapsed_ms": 56324,
+        "chars": 3518,
+        "required_sections_present": true
+      }
+    ],
+    "combined_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\K040800021487620814-图纸-PT1-F07-V1-0-1--20260501T125839\\combined-visual-transcript.md",
+    "all_required_sections_present": true,
+    "elapsed_ms": 56453
+  },
+  "elapsed_ms": 56578
+}

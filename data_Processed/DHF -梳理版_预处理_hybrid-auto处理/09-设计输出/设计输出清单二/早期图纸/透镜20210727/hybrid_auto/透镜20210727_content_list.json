@@ -1,0 +1,79 @@
+[
+    {
+        "type": "table",
+        "img_path": "images/64eefbe5aa0f06bd861c2909c4beac26672a1032ee41525ed7e16de81639b617.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>3</td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>PMMA</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>2</td><td></td><td>Design</td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td></tr><tr><td>1</td><td></td><td>初版制作</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td></tr><tr><td>No.</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td></tr></table>",
+        "bbox": [
+            0,
+            0,
+            129,
+            998
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d27c34b7fae94aba16816426f6490d51e0648ad488c4ebdda66e715e7b081e65.jpg",
+        "image_caption": [
+            "andon "
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            157,
+            30,
+            858,
+            934
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/f19d41a8b2876a214a541df17c3049f401630bbb53bbda1fe32bbbe4c0ccd116.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\">LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>DIM</td><td>5</td><td>$ \\pm0.03 $</td><td>$ \\pm0.1 $</td></tr><tr><td>&lt; 5~5</td><td>$ \\pm0.05 $</td><td>$ \\pm0.1 $</td><td>$ \\pm0.15 $</td></tr><tr><td>&gt; 15~50</td><td>$ \\pm0.05 $</td><td>$ \\pm0.1 $</td><td>$ \\pm0.2 $</td></tr><tr><td>&lt; 50~100</td><td>$ \\pm0.08 $</td><td>$ \\pm0.2 $</td><td>$ \\pm0.3 $</td></tr><tr><td>&gt;100</td><td>$ \\pm0.1\\% $</td><td>$ \\pm0.2\\% $</td><td>$ \\pm0.3\\% $</td></tr><tr><td>ANGUL4R</td><td>$ \\pm0.1\\circ $</td><td>$ \\pm0.5\\circ $</td><td>$ \\pm0.5\\circ $</td></tr><tr><td colspan=\"4\">SELECTT LEVEL</td></tr></table>",
+        "bbox": [
+            129,
+            873,
+            305,
+            994
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "8\n7\n6\n5\n4\n3\n2\n1 ",
+        "bbox": [
+            129,
+            0,
+            998,
+            13
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "尺寸序 ",
+        "bbox": [
+            946,
+            936,
+            964,
+            988
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "H | G | F | D | C | B | A | ",
+        "bbox": [
+            971,
+            0,
+            991,
+            998
+        ],
+        "page_idx": 0
+    }
+]

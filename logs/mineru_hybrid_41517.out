@@ -1,0 +1,98 @@
+Started at: Wed 06 May 2026 04:20:34 AM CST
+Host: node42
+CUDA_VISIBLE_DEVICES=4
+MinerU hybrid batch started: 2026-05-06T04:20:34
+PROJECT_ROOT: /home/s2025244189/s2025244265/AI_driven_proj_Manage
+MINERU_MODEL_SOURCE: modelscope
+Selected datasets: DHF, DMR
+
+[DHF] input : /home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理
+[DHF] output: /home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理
+[DHF] files : 203
+[SKIP] DHF 1/203: 01 立项批准书E0/客户需求书(封面)E0.docx
+[SKIP] DHF 2/203: 01 立项批准书E0/客户需求书E0.xlsx
+[SKIP] DHF 3/203: 01 立项批准书E0/客户需求评审单E0.docx
+[SKIP] DHF 4/203: 01 立项批准书E0/立项批准书E0.docx
+[SKIP] DHF 5/203: 02 开发计划E0/设计开发计划(封面)E0.docx
+[RUN ] DHF 6/203: 02 开发计划E0/设计开发计划表E0.xlsx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/02 开发计划E0/设计开发计划表E0.xlsx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/02 开发计划E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:38275
+API documentation: http://127.0.0.1:38275/docs
+
+[DONE] DHF 6/203: 02 开发计划E0/设计开发计划表E0.xlsx
+[SKIP] DHF 7/203: 02 开发计划E0/设计开发计划评审表E0.docx
+[SKIP] DHF 8/203: 02 开发计划E0/项目组成员名单E0.docx
+[RUN ] DHF 9/203: 02 开发计划E0/项目进度表.pdf
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/02 开发计划E0/项目进度表.pdf' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/02 开发计划E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:47713
+API documentation: http://127.0.0.1:47713/docs
+
+[FAIL] DHF 9/203: 02 开发计划E0/项目进度表.pdf | code=1
+[SKIP] DHF 10/203: 03 风险/PT9L--Attachment 7 01 Risk Management Plan PT9L-FXJH01 V1.0.docx
+[SKIP] DHF 11/203: 03 风险/PT9L--Attachment 7 02 Risk Assessment Report PT9L-FXPJ01 V1.0.docx
+[SKIP] DHF 12/203: 04 设计输入E0/设计评审计划表-设计输入E0.docx
+[SKIP] DHF 13/203: 04 设计输入E0/设计输入(封面)E0.docx
+[SKIP] DHF 14/203: 04 设计输入E0/设计输入汇总表E0.xlsx
+[SKIP] DHF 15/203: 04 设计输入E0/设计输入评审检查表.xlsx
+[SKIP] DHF 16/203: 04 设计输入E0/设计输入评审记录.docx
+[SKIP] DHF 17/203: 05 结构方案阶段及图样E0/结构图样阶段E0/结构图样评审检查表E0.xlsx
+[SKIP] DHF 18/203: 05 结构方案阶段及图样E0/结构图样阶段E0/设计评审计划表E0.docx
+[SKIP] DHF 19/203: 05 结构方案阶段及图样E0/结构图样阶段E0/设计评审记录E0.docx
+[SKIP] DHF 20/203: 05 结构方案阶段及图样E0/结构设计方案E0.docx
+[SKIP] DHF 21/203: 05 结构方案阶段及图样E0/结构设计方案评审检查表.xlsx
+[RUN ] DHF 22/203: 05 结构方案阶段及图样E0/设计评审计划表-方案评审E0.docx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/05 结构方案阶段及图样E0/设计评审计划表-方案评审E0.docx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/05 结构方案阶段及图样E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:49539
+API documentation: http://127.0.0.1:49539/docs
+
+[DONE] DHF 22/203: 05 结构方案阶段及图样E0/设计评审计划表-方案评审E0.docx
+[RUN ] DHF 23/203: 05 结构方案阶段及图样E0/设计评审记录E0.docx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/05 结构方案阶段及图样E0/设计评审记录E0.docx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/05 结构方案阶段及图样E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:58641
+API documentation: http://127.0.0.1:58641/docs
+
+[DONE] DHF 23/203: 05 结构方案阶段及图样E0/设计评审记录E0.docx
+[RUN ] DHF 24/203: 06 硬件方案阶段及图样E0/硬件图样阶段E0/硬件图样评审检查表E0.xlsx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/06 硬件方案阶段及图样E0/硬件图样阶段E0/硬件图样评审检查表E0.xlsx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/06 硬件方案阶段及图样E0/硬件图样阶段E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:34265
+API documentation: http://127.0.0.1:34265/docs
+
+[DONE] DHF 24/203: 06 硬件方案阶段及图样E0/硬件图样阶段E0/硬件图样评审检查表E0.xlsx
+[RUN ] DHF 25/203: 06 硬件方案阶段及图样E0/硬件图样阶段E0/设计评审计划表E0.docx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/06 硬件方案阶段及图样E0/硬件图样阶段E0/设计评审计划表E0.docx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/06 硬件方案阶段及图样E0/硬件图样阶段E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:42279
+API documentation: http://127.0.0.1:42279/docs
+
+[DONE] DHF 25/203: 06 硬件方案阶段及图样E0/硬件图样阶段E0/设计评审计划表E0.docx
+[RUN ] DHF 26/203: 06 硬件方案阶段及图样E0/硬件图样阶段E0/设计评审记录E0.docx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/06 硬件方案阶段及图样E0/硬件图样阶段E0/设计评审记录E0.docx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/06 硬件方案阶段及图样E0/硬件图样阶段E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:50341
+API documentation: http://127.0.0.1:50341/docs
+
+[DONE] DHF 26/203: 06 硬件方案阶段及图样E0/硬件图样阶段E0/设计评审记录E0.docx
+[RUN ] DHF 27/203: 06 硬件方案阶段及图样E0/硬件设计方案E0.docx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/06 硬件方案阶段及图样E0/硬件设计方案E0.docx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/06 硬件方案阶段及图样E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:51865
+API documentation: http://127.0.0.1:51865/docs
+
+[DONE] DHF 27/203: 06 硬件方案阶段及图样E0/硬件设计方案E0.docx
+[RUN ] DHF 28/203: 06 硬件方案阶段及图样E0/硬件设计方案评审检查表E0.xlsx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/06 硬件方案阶段及图样E0/硬件设计方案评审检查表E0.xlsx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/06 硬件方案阶段及图样E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:47669
+API documentation: http://127.0.0.1:47669/docs
+
+[DONE] DHF 28/203: 06 硬件方案阶段及图样E0/硬件设计方案评审检查表E0.xlsx
+[RUN ] DHF 29/203: 06 硬件方案阶段及图样E0/设计评审计划表E0.docx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/06 硬件方案阶段及图样E0/设计评审计划表E0.docx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/06 硬件方案阶段及图样E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:36561
+API documentation: http://127.0.0.1:36561/docs
+
+[DONE] DHF 29/203: 06 硬件方案阶段及图样E0/设计评审计划表E0.docx
+[RUN ] DHF 30/203: 06 硬件方案阶段及图样E0/设计评审记录E0.docx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/06 硬件方案阶段及图样E0/设计评审记录E0.docx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/06 硬件方案阶段及图样E0' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:36789
+API documentation: http://127.0.0.1:36789/docs
+
+[DONE] DHF 30/203: 06 硬件方案阶段及图样E0/设计评审记录E0.docx
+[RUN ] DHF 31/203: 07 软件方案阶段及图样E0/质量策划E0/设计评审计划表-方案评审E0.docx
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/07 软件方案阶段及图样E0/质量策划E0/设计评审计划表-方案评审E0.docx' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/07 软件方案阶段及图样E0/质量策划E0' -b hybrid-auto-engine -m auto -l ch

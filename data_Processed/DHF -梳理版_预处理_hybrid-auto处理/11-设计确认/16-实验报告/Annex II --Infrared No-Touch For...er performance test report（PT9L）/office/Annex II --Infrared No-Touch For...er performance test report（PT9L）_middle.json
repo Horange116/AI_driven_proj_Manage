@@ -1,0 +1,744 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "image",
+                                            "image_path": "bda2af6db15a44acbcd3c880ead62918ede916b13340ad69adcc867cba628563.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Infrared No-Touch Forehead Thermometer performance test report",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Sample name:"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " Infrared No-Touch Forehead Thermometer",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Model:"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " PT9L                                  ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Date:"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " July 11, 2024                             ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "ANDON HEALTH CO., LTD"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "Test report content",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " Report number: A20107"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "ANDON HEALTH CO., LTD"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Test Report Home Page",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "is_numbered_style": false,
+                    "level": 10
+                },
+                {
+                    "type": "image",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "image",
+                                            "image_path": "bda2af6db15a44acbcd3c880ead62918ede916b13340ad69adcc867cba628563.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Page 1 of 5 pages"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>Sample Name</p></td><td><p>Infrared No-Touch Forehead Thermometer</p></td><td><p>Sample No.</p></td><td><p>YP2407017</p></td></tr><tr><td><p>Model</p></td><td><p>PT9L</p></td><td><p>sample quantity</p></td><td><p>1 unit</p></td></tr><tr><td><p>Number</p></td><td><p>LOT No.：KE04</p></td><td><p>Test Place</p></td><td><p>Area B,Testing Center</p></td></tr><tr><td><p><a></a>Environment</p></td><td><p>16℃~24℃，40%RH~64%RH</p></td><td><p>Test Date</p></td><td><p>On July 10,2024,</p><p>On July 11,2024</p></td></tr><tr><td><p>Test Items</p></td><td colspan=\"3\"><p>Accuracy</p></td></tr><tr><td><p>Reference documents for the test</p></td><td colspan=\"3\"><p>Infrared No-Touch Forehead Thermometer Product Accelerated Testing Protocol</p></td></tr><tr><td><p> Test Conclusion</p></td><td colspan=\"3\"><p><a></a>The accuracy of the tested Infrared No-Touch Forehead Thermometer meets the requirements of the Infrared No-Touch Forehead Thermometer Accelerated Life Test Protocol.</p><p>Report date: July 11,2024</p></td></tr><tr><td><p>Remarks</p></td><td colspan=\"3\"><p>The damp-heat aging test was carried out by Tianxu(Tianjin)Testing Technology Service Co.,LTD.</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Approver:"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "                                        ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "Prepared:"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "                   ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "ANDON HEALTH CO., LTD"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"3\"><p>1</p></td><td rowspan=\"3\"><p>Accuracy</p></td><td><p>33.0℃±0.3℃；</p></td><td><p>0.0℃</p></td><td><p>Meet the requirement</p></td><td><p>—</p></td></tr><tr><td><p>37.0℃±0.2℃；</p></td><td><p>-0.1℃</p></td><td><p>Meet the requirement</p></td><td><p>—</p></td></tr><tr><td><p>41.0℃±0.2℃</p></td><td><p>-0.1℃</p></td><td><p>Meet the requirement</p></td><td><p>—</p></td></tr><tr><td colspan=\"6\"><p>Following of this page blank</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "ANDON HEALTH CO., LTD"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "Test report content",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " Report number: A20107"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "ANDON HEALTH CO., LTD "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "Report content",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "14",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " / "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "5",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "14 ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "/ "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "5",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"6\"><p>The damp-heat Accelerated aging test </p><p>Temperature: 40℃;  Humidity: 95% RH;  Time: 14.8h</p></td></tr><tr><td rowspan=\"3\"><p>1</p></td><td rowspan=\"3\"><p>Accuracy</p></td><td><p>33.0℃±0.3℃；</p></td><td><p>-0.1℃</p></td><td><p>Meet the requirement</p></td><td><p>—</p></td></tr><tr><td><p>37.0℃±0.2℃；</p></td><td><p>-0.2℃</p></td><td><p>Meet the requirement</p></td><td><p>—</p></td></tr><tr><td><p>41.0℃±0.2℃</p></td><td><p>0.0℃</p></td><td><p>Meet the requirement</p></td><td><p>—</p></td></tr><tr><td colspan=\"6\"><p>Following of this page blank</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "ANDON HEALTH CO., LTD"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "Test report content",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " Report number: A20107"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "ANDON HEALTH CO., LTD "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "Report content",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "14",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " / "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "5",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "14 ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "/ "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "5",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p><strong>Photos of Samples and Accessories</strong></p></td></tr><tr><td><p><img alt=\"微信图片_20241114172657\" src=\"4d5a58b84102ada68ed964dc53cd4bc99177d62969d359315e6abf92b8d58584.jpg\"/></p><p>Front of the Infrared No-Touch Forehead Thermometer</p><p><img alt=\"微信图片_20241114172725\" src=\"9820a97999c5f3eb9dfd5655542565d5f5453084a7206f8a3374e7e997218f9c.jpg\"/></p><p>Back of the Infrared No-Touch Forehead Thermometer</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "ANDON HEALTH CO., LTD "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "Photo Document",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "14",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " / "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "5",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "14 ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "/ "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "5",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p><strong>Photos of Samples and Accessories</strong></p></td></tr><tr><td><p><img alt=\"IMG_256\" src=\"3e043afab5ed1032e51005e58669e9b9266050613c2effc70cbe9bb063edacad.jpg\"/></p><p>Nameplate of the Infrared No-Touch Forehead Thermometer</p></td></tr><tr><td><p><strong> Description of the Sample and Condition</strong></p></td></tr><tr><td><ol><li>The tested sample includes: 1 pcs Infrared No-Touch Forehead Thermometer.</li><li>The basic functions of the sample are normal before and after the test.</li></ol></td></tr><tr><td><p>Following of this page blank</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "ANDON HEALTH CO., LTD "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "Photo Document",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "14",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " / "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "5",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "14 ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "/ "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "5",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "page_idx": 5
+        }
+    ],
+    "_backend": "office",
+    "_version_name": "3.1.6"
+}

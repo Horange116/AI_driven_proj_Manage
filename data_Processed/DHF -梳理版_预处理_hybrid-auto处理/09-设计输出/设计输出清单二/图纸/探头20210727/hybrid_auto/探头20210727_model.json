@@ -1,0 +1,223 @@
+[
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.0,
+                0.0,
+                0.999,
+                0.028
+            ],
+            "angle": 0,
+            "content": "A B C D E F G H"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.0,
+                0.03,
+                0.014,
+                0.999
+            ],
+            "angle": 0,
+            "content": "1\n2\n3\n4\n5\n6\n7\n8\nN"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.936,
+                0.033,
+                0.99,
+                0.054
+            ],
+            "angle": 0,
+            "content": "⑧ 尺寸序号",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.024,
+                0.038,
+                0.102,
+                0.083
+            ],
+            "angle": 0,
+            "content": "andon",
+            "merge_prev": false
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.134,
+                0.246,
+                0.242,
+                0.274
+            ],
+            "angle": 0,
+            "content": "SECTION A-A"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.179,
+                0.304,
+                0.307,
+                0.562
+            ],
+            "angle": 0,
+            "content": "0.8\n9.58±0.05\n①\n19.14±0.05",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.464,
+                0.238,
+                0.485,
+                0.274
+            ],
+            "angle": 0,
+            "content": "A"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.435,
+                0.308,
+                0.65,
+                0.611
+            ],
+            "angle": 0,
+            "content": "φ6.8±0.05\n3.65±0.05\n1±0.05",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.66,
+                0.056,
+                0.782,
+                0.245
+            ],
+            "angle": 0,
+            "content": "Pure geometric diagram of concentric and overlapping rings without any text or symbols",
+            "sub_type": "natural_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.726,
+                0.274,
+                0.85,
+                0.636
+            ],
+            "angle": 0,
+            "content": "② 3.86±0.05\n0.9",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.465,
+                0.655,
+                0.485,
+                0.69
+            ],
+            "angle": 0,
+            "content": "A"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.061,
+                0.644,
+                0.117,
+                0.664
+            ],
+            "angle": 0,
+            "content": "产品技术要求："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.668,
+                0.236,
+                0.689
+            ],
+            "angle": 0,
+            "content": "1. 带编号为重要尺寸, 需要IQC测量;",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.692,
+                0.463,
+                0.737
+            ],
+            "angle": 0,
+            "content": "2. 材质为TPU（灰色）；产品外观良好、无拉伤，变形，批锋，熔接痕，气纹，顶白，缺胶，缩水等不良现象；",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.739,
+                0.35,
+                0.784
+            ],
+            "angle": 0,
+            "content": "3. 须试装产品，并能顺利装入产品。未标注尺寸以样板为准；品质部检验结构时，请以结构签板和组装（实配）为准",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.075,
+                0.787,
+                0.17,
+                0.807
+            ],
+            "angle": 0,
+            "content": "4. 产品符合ROHS 2.0",
+            "merge_prev": false
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.075,
+                0.668,
+                0.463,
+                0.807
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.875,
+                0.691,
+                0.999,
+                0.869
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"2\">DTM\\LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt; 5</td><td>±0.03</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 5~15</td><td>±0.05</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 15~50</td><td>±0.05</td><td>±0.1</td><td>±0.2</td></tr><tr><td>&gt; 50~100</td><td>±0.08</td><td>±0.2</td><td>±0.3</td></tr><tr><td>&gt;100</td><td>±0.1%</td><td>±0.2%</td><td>±0.3%</td></tr><tr><td>ANGULAR</td><td>±0.1°</td><td>±0.5°</td><td>±0.5°</td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\">B</td></tr></table>"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.0,
+                0.869,
+                0.999,
+                0.999
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>TPU</td><td>Model NO.</td><td colspan=\"2\">T-Z1</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">探头</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>2:1</td><td>Drawing NO.</td><td colspan=\"2\">T-Z1-P03</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>"
+        }
+    ]
+]

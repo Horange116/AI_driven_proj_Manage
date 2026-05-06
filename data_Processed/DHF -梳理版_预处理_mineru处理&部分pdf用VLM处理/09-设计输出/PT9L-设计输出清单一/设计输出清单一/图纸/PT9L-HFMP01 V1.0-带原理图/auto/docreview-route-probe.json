@@ -1,0 +1,4353 @@
+{
+  "format": "docreview-pdf-layout-probe-v1",
+  "source_name": "PT9L-HFMP01 V1.0-带原理图.pdf",
+  "content_hash": "773e68897686b07bf1f355a05c9f4be5112d91930ed594346ecdc307ec8c3a0b",
+  "page_count": 10,
+  "engine": "pymupdf",
+  "capabilities": {
+    "text_blocks": true,
+    "word_coordinates": true,
+    "row_clustering": true,
+    "vector_drawings": true,
+    "tables": false,
+    "ocr": false,
+    "semantic_table_reconstruction": false
+  },
+  "limits": [
+    "Rows are geometric text clusters, not verified semantic tables.",
+    "Vector drawings are counted but not converted into Gantt/task bars.",
+    "Scanned-image OCR is not enabled.",
+    "PDF W1 output is text/layout-audit evidence, not semantic Gantt reconstruction."
+  ],
+  "totals": {
+    "text_block_count": 2645,
+    "word_count": 6801,
+    "row_count": 379,
+    "table_like_row_count": 289,
+    "drawing_path_count": 10752,
+    "drawing_item_count": 38464,
+    "line_item_count": 33473,
+    "rectangle_item_count": 219
+  },
+  "pages": [
+    {
+      "page_index": 1,
+      "width": 595.25,
+      "height": 841.85,
+      "text_block_count": 13,
+      "word_count": 35,
+      "row_count": 13,
+      "table_like_row_count": 3,
+      "drawing_path_count": 21,
+      "drawing_item_count": 21,
+      "line_item_count": 1,
+      "rectangle_item_count": 20,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            276.06,
+            49.58,
+            333.93,
+            63.98
+          ],
+          "word_count": 1,
+          "text": "文档清单"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            39.54,
+            70.96,
+            109.74,
+            81.77
+          ],
+          "word_count": 1,
+          "text": "产品型号:PT9L"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            39.54,
+            85.57,
+            304.14,
+            96.37
+          ],
+          "word_count": 3,
+          "text": "提交: 审核: 批准:"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            62.22,
+            105.6,
+            529.65,
+            116.4
+          ],
+          "word_count": 4,
+          "text": "版本 图纸号 板层 版本"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            63.07,
+            121.09,
+            528.67,
+            133.39
+          ],
+          "word_count": 4,
+          "text": "V1.0 PT9L-HFXS01 V1.0 V1.0"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            283.62,
+            136.21,
+            347.93,
+            146.16
+          ],
+          "word_count": 3,
+          "text": "Top Layer 层"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            283.62,
+            151.33,
+            352.97,
+            161.28
+          ],
+          "word_count": 3,
+          "text": "Top Overlay 层"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            283.62,
+            166.45,
+            362.82,
+            176.4
+          ],
+          "word_count": 3,
+          "text": "Bottom Layer 层"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            63.06,
+            181.58,
+            528.68,
+            193.87
+          ],
+          "word_count": 7,
+          "text": "V1.0 PT9L-HFMP01 V1.0 Bottom Overlay 层 V1.0"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            283.62,
+            196.7,
+            352.97,
+            206.64
+          ],
+          "word_count": 3,
+          "text": "Drill Layer 层"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            283.62,
+            211.82,
+            363.11,
+            221.76
+          ],
+          "word_count": 1,
+          "text": "拼板示意图(顶层)"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            283.62,
+            226.94,
+            363.11,
+            236.88
+          ],
+          "word_count": 1,
+          "text": "拼板示意图(底层)"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            284.51,
+            242.32,
+            314.35,
+            252.26
+          ],
+          "word_count": 1,
+          "text": "尺寸图"
+        }
+      ]
+    },
+    {
+      "page_index": 2,
+      "width": 842.0,
+      "height": 595.0,
+      "text_block_count": 401,
+      "word_count": 732,
+      "row_count": 50,
+      "table_like_row_count": 39,
+      "drawing_path_count": 881,
+      "drawing_item_count": 1721,
+      "line_item_count": 917,
+      "rectangle_item_count": 22,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            169.28,
+            66.39,
+            672.25,
+            69.74
+          ],
+          "word_count": 8,
+          "text": "1 2 3 4 5 6 7 8"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            149.14,
+            76.14,
+            644.91,
+            87.22
+          ],
+          "word_count": 6,
+          "text": "POWER LVD MUTE KEY KEY VBAT"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            410.86,
+            84.23,
+            651.42,
+            97.42
+          ],
+          "word_count": 8,
+          "text": "VBAT VBAT COR16 R16 NC/10k PIR1601 COB1 B1"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            175.3,
+            93.59,
+            681.71,
+            109.33
+          ],
+          "word_count": 28,
+          "text": "COF1 F1 VBAT PIVBAT01 COVBAT VBAT COL1 L1 COU1 U1 3.3V COVCC PIR102 COR1 COB3 PIR802 COR8 R8 COB01 B-1 PIB0101 DI_KEY1 PIC501 PIB101 PIR1602 COC5 PIB102 GND"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            166.2,
+            104.81,
+            652.1,
+            113.36
+          ],
+          "word_count": 29,
+          "text": "PIF101 PIF102 PIL101 10uH PIL102 PIU105 5 LX VOUT PIU102 2 PIC301 PIC401 PIVCC01 VCC R1 200k PIB301 1 B3 PIB306 6 PIR801 100k COMK MK PIC502 C5 0.1uF"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            136.89,
+            110.13,
+            704.73,
+            121.41
+          ],
+          "word_count": 44,
+          "text": "A COBAT BAT PIBAT01 MF-MSMF050 COD1 D1 PID102 PIC101 COC1 C1 PIC201 COC2 C2 PIU104 4 GND CE PIU101 1 DO_PCTL PIC302 COC3 C3 22uF PIC402 COC4 C4 22uF AI_LVD PIR202 PIR101 PIB302 PIB303 2 3 PIB305 PIB304 5 4 DI_MK PIMK01 VBAT A"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            162.7,
+            115.29,
+            644.11,
+            131.03
+          ],
+          "word_count": 17,
+          "text": "PIBAT02 SS15 PID101 PIC102 100uF/16V PIC202 22uF SR1833 PIPCTL01 COR2 R2 100k PIR902 COR9 R9 PIR1701 GND"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            414.0,
+            124.83,
+            610.8,
+            135.16
+          ],
+          "word_count": 8,
+          "text": "PIR201 PIR901 0 COR17 R17 NC/10k COB2 B2"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            197.31,
+            126.49,
+            641.09,
+            143.56
+          ],
+          "word_count": 18,
+          "text": "GND COGND GND PIGND01 GND COPCTL PCTL GND GND B-2 COB02 PIB0201 DI_KEY2 PIR1702 PIC601 PIB201 PIB202 GND"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            289.48,
+            140.56,
+            611.3,
+            149.86
+          ],
+          "word_count": 7,
+          "text": "DO_PCTL低电平：3.3V OFF GND PIC602 C6 0.1uF COC6"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            289.48,
+            148.07,
+            339.39,
+            152.78
+          ],
+          "word_count": 2,
+          "text": "DO_PCTL高电平：3.3V ON"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            596.36,
+            156.81,
+            603.48,
+            160.16
+          ],
+          "word_count": 1,
+          "text": "GND"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            149.15,
+            168.44,
+            558.05,
+            175.82
+          ],
+          "word_count": 3,
+          "text": "MCU LED SENSOR"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            470.0,
+            176.26,
+            478.9,
+            180.8
+          ],
+          "word_count": 2,
+          "text": "COLEDR LEDR"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            434.02,
+            182.65,
+            512.0,
+            190.42
+          ],
+          "word_count": 12,
+          "text": "3.3V PIR501 COR5 R5 PIR502 120 PILEDR01 1 PILEDR02 2 DO_LEDR PIR01"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            509.2,
+            190.1,
+            581.26,
+            201.66
+          ],
+          "word_count": 7,
+          "text": "COR R PIR1101 COS2 S2 S1 COS1"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            262.79,
+            197.36,
+            578.5,
+            212.22
+          ],
+          "word_count": 14,
+          "text": "3.3V-1 COC10 C10 GND COTX TX 3.3V COLEDW LEDW COR11 R11 300K PIS201 PIS101"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            241.63,
+            200.69,
+            692.88,
+            216.43
+          ],
+          "word_count": 32,
+          "text": "3.3V PIR301 COR3 R3 PIR302 0 1uF PIC1002 PIC1001 PITX01 PIR601 COR6 R6 PIR602 39 PILEDW01 1 PILEDW02 2 DO_LEDW PIW01 PIR1102 PIR1001 COR10 R10100K PIR1002 AI_AN1 AI_AN0 AI_OPO COR14 R14 AI_AN2"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            136.89,
+            212.66,
+            704.54,
+            226.64
+          ],
+          "word_count": 18,
+          "text": "B 0.1uF COC11 C11 BUZ COW W C13 COC13 NTC+ VTP+ Inside the MCU PIR1402 1k PIR1401 B"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            262.8,
+            214.82,
+            552.6,
+            230.33
+          ],
+          "word_count": 15,
+          "text": "COC12 C12 PIC1102 PIC1101 DI_KEY1 DI_MK AI_AN4 AI_NTC AI_LVD DI_KEY2 DO_LEDY COLEDY LEDY PIC1302 PIC1301"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            185.1,
+            225.39,
+            645.0,
+            242.33
+          ],
+          "word_count": 60,
+          "text": "PIR402 COR4 R4 PIR401 PIC1202 1uF PIC1201 48 PIU2048 47 PIU2047 46 PIU2046 45 PIU2045 44 PIU2044 43 PIU2043 42 PIU2042 41 PIU2041 40 PIU2040 39 PIU2039 38 DO PIU2038 37 PIU2037 COU2 U2 BH67F2762 3.3V PIR701 COR7 R7 PIR702 120 PILEDY01 1 PILEDY02 2 DO_LEDY PIY01 COY Y AI_AN4 NC/0.1uF 2 PISENSOR02 1 PISENSOR01 PIR1202 COR12 R12 PIR1201 1k"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            189.42,
+            233.35,
+            689.8,
+            246.43
+          ],
+          "word_count": 12,
+          "text": "0 GND PIC1402 COSENSOR SENSOR PIC1502 AI_AN3 PIC1602 PIC1601 COC17 C17 PIC1701"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            204.7,
+            243.13,
+            689.8,
+            258.01
+          ],
+          "word_count": 23,
+          "text": "GND VDD/VIN VSS PA3/AN7 PA4/SCK PA5/SCS PA6/SDO 高电平：LED灭 COC14 C14 NC/0.1uF PIC1401 COC15 C15 56pF PIC1501 PIR1302 R13 COR13 COC16 C16 0.1uF PIC1702"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            280.71,
+            243.84,
+            641.02,
+            268.75
+          ],
+          "word_count": 14,
+          "text": "VOREG/VREFP PB2/INT1/LVDIN PB3/PTPI/OPIP PB4/INT3/AN4 PB5/INT2/AN5 PA1/INT0/AN6 低电平：LED亮 4 PISENSOR04 3 PISENSOR03 PIR1301 1k 0.1uF"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            182.3,
+            261.53,
+            662.8,
+            272.73
+          ],
+          "word_count": 26,
+          "text": "COC7 C7 PIC701 PIC802 COC8 C8 PIU202 PIU201 1 2 AVSS/VREFN VCM PB6/VDDIO PA7/SDI PIU2035 PIU2036 35 36 DO_LEDW DO_LEDR 3.3V PIICP01 1 NTC- VTP- VCM"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            173.98,
+            271.22,
+            412.03,
+            280.11
+          ],
+          "word_count": 25,
+          "text": "VCM 10uF PIC702 PIC801 0.1uF AI_AN0 AI_AN1 PIU203 PIU204 3 4 AN0 AN1 PA0/ICPDA PA2/ICPCK PIU2034 PIU2033 34 33 ICPDA ICPCK PIICP02 PIICP03 2 3"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            230.39,
+            278.6,
+            412.03,
+            287.49
+          ],
+          "word_count": 17,
+          "text": "AI_AN2 AI_AN3 PIU205 PIU206 5 6 AN2 AN3 PC2/SEG19 PC1/SEG9 PIU2032 PIU2031 32 31 DO_PCTL PIICP04 4"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            230.39,
+            284.76,
+            413.05,
+            294.88
+          ],
+          "word_count": 17,
+          "text": "AI_OPO LCD_COM0 PIU207 PIU208 7 8 LNOPO PE5/COM0 PC3/SEG20 PC4/SEG21 PIU2030 PIU2029 30 29 GND COICP ICP"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            230.39,
+            292.46,
+            484.62,
+            303.84
+          ],
+          "word_count": 23,
+          "text": "LCD_COM1 LCD_COM2 PIU209 PIU2010 10 9 PE4/COM1 PE3/COM2 PC5/SEG22 PC6/SEG23 PIU2027 PIU2028 28 27 COCOM3 COCOM2 COM3 PICOM301 LCD_COM3 PILCD01 COLCD LCD 1"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            230.39,
+            300.75,
+            482.2,
+            309.64
+          ],
+          "word_count": 26,
+          "text": "LCD_COM3 LCD_S0 PIU2011 PIU2012 12 11 PE2/COM3 SEG39/COM4 PD0/SEG25 PC7/SEG24 PIU2026 PIU2025 25 26 LCD_S11 COCOM1 COM2 COM1 PICOM201 PICOM101 LCD_COM2 LCD_COM1 PILCD02 PILCD03 2 3"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            280.71,
+            300.12,
+            550.2,
+            319.91
+          ],
+          "word_count": 25,
+          "text": "SEG38/COM5 PLCD VMAX PE1/SEG34 PE0/SEG33 PD7/SEG32 PD6/SEG31 PD5/SEG30 PD4/SEG29 PD3/SEG28 PD2/SEG27 PD1/SEG26 COCOM0 COSEG0 COM0 SEG0 PICOM001 PISEG001 LCD_COM0 LCD_S0 PILCD04 PILCD05 4 5 NTC"
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            136.89,
+            314.16,
+            704.54,
+            324.4
+          ],
+          "word_count": 18,
+          "text": "C COSEG1 COSEG2 SEG1 SEG2 PISEG101 PISEG201 LCD_S1 LCD_S2 PILCD06 PILCD07 6 7 CONTC2 NTC2 CONTC1 NTC1 C"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            278.86,
+            318.98,
+            636.95,
+            334.73
+          ],
+          "word_count": 42,
+          "text": "13 PIU2013 14 PIU2014 15 PIU2015 16 PIU2016 17 PIU2017 18 PIU2018 19 PIU2019 20 PIU2020 21 PIU2021 22 PIU2022 23 PIU2023 24 PIU2024 COSEG3 COSEG4 SEG3 SEG4 PISEG301 PISEG401 LCD_S3 LCD_S4 PILCD08 PILCD09 8 9 PINTC201 10k CONTC NTC PINTC101 VCM"
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            278.86,
+            328.7,
+            622.6,
+            344.74
+          ],
+          "word_count": 34,
+          "text": "LCD_S1 LCD_S2 LCD_S3 LCD_S4 LCD_S5 LCD_S6 LCD_S7 LCD_S8 LCD_S9 LCD_S10 COSEG5 COSEG6 COSEG7 SEG5 SEG6 SEG7 PISEG601 PISEG501 LCD_S5 LCD_S6 LCD_S7 PILCD011 PILCD010 10 11 PIR1501 AI_NTC COR15 R15 PIC1801 C18 COC18 PINTC01 PINTC02"
+        },
+        {
+          "row_index": 35,
+          "bbox": [
+            429.4,
+            338.86,
+            611.3,
+            349.36
+          ],
+          "word_count": 16,
+          "text": "COSEG8 COSEG9 SEG8 SEG9 PISEG701 PISEG801 LCD_S8 LCD_S9 PILCD012 PILCD013 12 13 PIR1502 10k PIC1802 0.1uF"
+        },
+        {
+          "row_index": 36,
+          "bbox": [
+            274.7,
+            346.7,
+            483.88,
+            355.77
+          ],
+          "word_count": 16,
+          "text": "COC9 C9 PIC901 3.3V-1 COSEG10 COSEG11 SEG10 SEG11 PISEG901 PISEG1001 LCD_S10 LCD_S11 PILCD014 PILCD015 14 15"
+        },
+        {
+          "row_index": 37,
+          "bbox": [
+            271.01,
+            353.56,
+            483.88,
+            360.56
+          ],
+          "word_count": 5,
+          "text": "4.7uF PIC902 PISEG1101 PILCD016 16"
+        },
+        {
+          "row_index": 38,
+          "bbox": [
+            278.57,
+            367.18,
+            285.68,
+            370.53
+          ],
+          "word_count": 1,
+          "text": "GND"
+        },
+        {
+          "row_index": 39,
+          "bbox": [
+            533.46,
+            371.49,
+            549.93,
+            378.88
+          ],
+          "word_count": 1,
+          "text": "BEEP"
+        },
+        {
+          "row_index": 40,
+          "bbox": [
+            606.5,
+            391.86,
+            619.8,
+            396.24
+          ],
+          "word_count": 2,
+          "text": "COBUZZER BUZZER"
+        },
+        {
+          "row_index": 41,
+          "bbox": [
+            569.4,
+            396.87,
+            607.9,
+            401.12
+          ],
+          "word_count": 4,
+          "text": "PIBZ01 DO BUZ PIBUZZER01"
+        },
+        {
+          "row_index": 42,
+          "bbox": [
+            568.0,
+            400.8,
+            607.9,
+            408.82
+          ],
+          "word_count": 3,
+          "text": "COBZ BZ PIBUZZER02"
+        },
+        {
+          "row_index": 43,
+          "bbox": [
+            592.67,
+            415.33,
+            599.79,
+            418.68
+          ],
+          "word_count": 1,
+          "text": "GND"
+        },
+        {
+          "row_index": 44,
+          "bbox": [
+            136.89,
+            423.04,
+            704.73,
+            426.4
+          ],
+          "word_count": 2,
+          "text": "D D"
+        },
+        {
+          "row_index": 45,
+          "bbox": [
+            644.38,
+            438.64,
+            683.9,
+            442.66
+          ],
+          "word_count": 2,
+          "text": "Buzzer Frequency:4kHz"
+        },
+        {
+          "row_index": 46,
+          "bbox": [
+            169.28,
+            468.84,
+            672.25,
+            472.2
+          ],
+          "word_count": 8,
+          "text": "1 2 3 4 5 6 7 8"
+        },
+        {
+          "row_index": 47,
+          "bbox": [
+            9.59,
+            509.64,
+            686.14,
+            521.14
+          ],
+          "word_count": 7,
+          "text": "3 产品名称 红外体温计 产品型号 PT9L 版本 V1.0"
+        },
+        {
+          "row_index": 48,
+          "bbox": [
+            10.31,
+            523.54,
+            450.35,
+            534.31
+          ],
+          "word_count": 4,
+          "text": "2 原理图编号 PT9L-HFXS01 V1.0"
+        },
+        {
+          "row_index": 49,
+          "bbox": [
+            10.31,
+            536.95,
+            713.51,
+            549.52
+          ],
+          "word_count": 10,
+          "text": "1 设计 审核 批准 第 1 页 共 1 页"
+        },
+        {
+          "row_index": 50,
+          "bbox": [
+            6.23,
+            548.92,
+            581.03,
+            561.86
+          ],
+          "word_count": 9,
+          "text": "NO. 更 改 记 录 更改时间 日期 日期 日期"
+        }
+      ]
+    },
+    {
+      "page_index": 3,
+      "width": 842.0,
+      "height": 595.0,
+      "text_block_count": 159,
+      "word_count": 323,
+      "row_count": 42,
+      "table_like_row_count": 31,
+      "drawing_path_count": 402,
+      "drawing_item_count": 1940,
+      "line_item_count": 1359,
+      "rectangle_item_count": 53,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            387.4,
+            105.1,
+            395.8,
+            111.09
+          ],
+          "word_count": 1,
+          "text": "COLCD"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            379.6,
+            109.95,
+            461.2,
+            124.34
+          ],
+          "word_count": 28,
+          "text": "PASENSOR01 PALCD01 COCOM2 PASENSOR02 PALCD02 PALCD03 COCOM0 PALCD04 PASENSOR03 PALCD05 COSEG1 PALCD06 COSENSOR PALCD07 COSEG3 PALCD08 PALCD09 COSEG5 PALCD010 PALCD011 COSEG7 PALCD012 PALCD013 COSEG9 PALCD014 PALCD015 COSEG11 PALCD016"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            378.4,
+            121.61,
+            458.2,
+            132.69
+          ],
+          "word_count": 14,
+          "text": "PAS101 COS1 PACOM201 PACOM001 PASEG101 PASEG301 COSEG4 PASEG501 COSEG6 PASEG701 COSEG8 PASEG901 COSEG10 PASEG1101"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            385.0,
+            130.5,
+            450.4,
+            142.93
+          ],
+          "word_count": 14,
+          "text": "COC14 PAC1401 PAC1402 COR10 COC17 COR13 PAR1301 PAR1302 COC16 COC9 PASEG401 PASEG601 PASEG801 PASEG1001"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            374.2,
+            137.67,
+            427.6,
+            148.89
+          ],
+          "word_count": 13,
+          "text": "COC15 PAS201 PAC1502 PAC1501 PAR1002 PAR1001 PAC1701 PAC1702 PAR1202 COSEG0 PAC1602 COSEG2 PAC902"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            379.6,
+            145.76,
+            450.4,
+            154.89
+          ],
+          "word_count": 11,
+          "text": "COS2 COC13 PAC1301 PAC1302 PAR1401 PAR1402 PAR1201 PAC1601 PASEG201 PAC901 COU2"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            382.6,
+            149.38,
+            416.8,
+            160.29
+          ],
+          "word_count": 8,
+          "text": "COR11 CONTC1 PAR1101 PAR1102 COR14 COCOM1 COR12 PASEG001"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            379.6,
+            155.53,
+            442.0,
+            167.51
+          ],
+          "word_count": 15,
+          "text": "CONTC PANTC101 PACOM101 PAU2013 PAU2014 PAU2015 PAU2016 PAU2017 PAU2018 PAU2019 PAU2020 PAU2021 PAU2022 PAU2023 PAU2024"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            379.0,
+            161.84,
+            450.4,
+            172.33
+          ],
+          "word_count": 8,
+          "text": "PANTC02 PAU2012 PAU2010 PAU2011 COCOM3 PAU2025 PAU2027 PAU2026"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            379.0,
+            170.81,
+            453.4,
+            183.13
+          ],
+          "word_count": 11,
+          "text": "PANTC01 PAU207 PAU209 PAU206 PAU208 PACOM301 COPCTL PAU2028 PAU2030 PAU2029 PAU2031"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            389.8,
+            177.87,
+            450.4,
+            192.13
+          ],
+          "word_count": 14,
+          "text": "COR15 PAC702 COC8 PAC801 PAU205 PAU203 PAU204 PAU202 COB02 PAPCTL01 PAU2032 PAU2034 PAU2033 PAU2035"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            383.2,
+            187.13,
+            450.4,
+            192.69
+          ],
+          "word_count": 7,
+          "text": "PAR1501 PAR1502 PAC701 CONTC2 PAC802 PAU201 PAU2036"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            382.0,
+            190.32,
+            441.99,
+            201.72
+          ],
+          "word_count": 22,
+          "text": "COC18 PAC1801 PAC1802 COC7 PANTC201 PAR401 PAR402 COR4 COB01 PAU2048 PAU2047 PAU2046 PAU2045 PAU2044 PAU2043 PAU2042 PAB0201 PAU2041 PAU2040 PAU2039 PAU2038 PAU2037"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            407.2,
+            196.33,
+            454.0,
+            210.12
+          ],
+          "word_count": 9,
+          "text": "COC12 PAC1202 PAC1201 PAB0101 PAC1102 PAC1101 COC11 PATX01 COTX"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            402.4,
+            206.53,
+            436.6,
+            215.52
+          ],
+          "word_count": 8,
+          "text": "COR3 PAR301 PAR302 PAC1002 PAC1001 COBZ COC10 PABZ01"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            391.0,
+            213.13,
+            461.8,
+            225.13
+          ],
+          "word_count": 7,
+          "text": "COMK PAMK01 PAICP01 PAICP02 PAICP03 PAICP04 COICP"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            410.8,
+            224.64,
+            461.8,
+            237.09
+          ],
+          "word_count": 19,
+          "text": "COR7 COW COBUZZER PAR701 PAR702 PAW01 PAR601 PAR602 PAR501 PAR502 COR2 PAR202 PAR201 PAC602 COC6 PAC601 COC5 PAC501 PAC502"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            392.2,
+            230.53,
+            470.2,
+            240.69
+          ],
+          "word_count": 12,
+          "text": "PAGND01 COY COR6 COR5 PAR101 PAR102 PAR1701 PAR1702 PAVBAT01 PAR1602 PAR1601 COR16"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            391.0,
+            237.84,
+            454.0,
+            249.72
+          ],
+          "word_count": 6,
+          "text": "COGND PAY01 PAR01 COR COR1 COR17"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            414.41,
+            245.64,
+            425.81,
+            250.89
+          ],
+          "word_count": 1,
+          "text": "COLEDW"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            392.21,
+            251.04,
+            448.61,
+            256.29
+          ],
+          "word_count": 8,
+          "text": "COLEDY PALEDY02 PALEDY01 PALEDW02 PALEDW01 PALEDR02 PALEDR01 COLEDR"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            403.0,
+            259.78,
+            437.21,
+            269.53
+          ],
+          "word_count": 2,
+          "text": "PABUZZER01 PABUZZER02"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            382.6,
+            276.53,
+            388.6,
+            280.28
+          ],
+          "word_count": 2,
+          "text": "PAR901 PAR902"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            383.2,
+            279.84,
+            465.4,
+            290.52
+          ],
+          "word_count": 4,
+          "text": "COR9 COL1 PAVBAT01 COVBAT"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            383.8,
+            287.65,
+            461.2,
+            300.71
+          ],
+          "word_count": 10,
+          "text": "COB3 COC4 PAC401 COC3 PAC301 PAU101 PAU102 PAU105 PAL102 PAGND01"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            404.2,
+            296.04,
+            443.8,
+            303.69
+          ],
+          "word_count": 5,
+          "text": "PAC402 PAC302 PAU103 PAU104 PAL101"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            370.6,
+            301.61,
+            448.6,
+            309.11
+          ],
+          "word_count": 6,
+          "text": "PAB301 PAB304 COU1 PAC202 PAC201 COC2"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            450.4,
+            307.44,
+            455.8,
+            312.69
+          ],
+          "word_count": 1,
+          "text": "COC1"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            370.6,
+            311.81,
+            452.8,
+            320.5
+          ],
+          "word_count": 4,
+          "text": "PAB302 PAB305 PAC102 PAC101"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            406.0,
+            319.44,
+            412.0,
+            324.69
+          ],
+          "word_count": 1,
+          "text": "COR8"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            370.6,
+            322.76,
+            463.6,
+            331.27
+          ],
+          "word_count": 5,
+          "text": "PAB303 PAB306 PAR801 PAR802 COF1"
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            451.6,
+            328.93,
+            465.4,
+            337.92
+          ],
+          "word_count": 1,
+          "text": "PAF102"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            410.8,
+            332.72,
+            445.6,
+            346.96
+          ],
+          "word_count": 4,
+          "text": "COD1 PAD101 COB1 PAD102"
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            431.8,
+            341.5,
+            440.8,
+            347.5
+          ],
+          "word_count": 1,
+          "text": "COBAT"
+        },
+        {
+          "row_index": 35,
+          "bbox": [
+            451.61,
+            348.73,
+            465.41,
+            357.72
+          ],
+          "word_count": 1,
+          "text": "PAF101"
+        },
+        {
+          "row_index": 36,
+          "bbox": [
+            394.01,
+            345.29,
+            448.01,
+            372.27
+          ],
+          "word_count": 4,
+          "text": "PABAT02 PAB101 PAB102 PABAT01"
+        },
+        {
+          "row_index": 37,
+          "bbox": [
+            433.6,
+            405.85,
+            439.6,
+            411.09
+          ],
+          "word_count": 1,
+          "text": "COB2"
+        },
+        {
+          "row_index": 38,
+          "bbox": [
+            409.6,
+            423.3,
+            431.2,
+            434.54
+          ],
+          "word_count": 2,
+          "text": "PAB201 PAB202"
+        },
+        {
+          "row_index": 39,
+          "bbox": [
+            9.59,
+            506.73,
+            686.14,
+            522.99
+          ],
+          "word_count": 7,
+          "text": "3 产品名称 红外体温计 产品型号 PT9L 版本 V1.0"
+        },
+        {
+          "row_index": 40,
+          "bbox": [
+            10.31,
+            524.01,
+            713.44,
+            535.27
+          ],
+          "word_count": 7,
+          "text": "2 PCB编号 PT9L-HFMP01 V1.0 Top Layer 层"
+        },
+        {
+          "row_index": 41,
+          "bbox": [
+            10.31,
+            536.95,
+            713.5,
+            548.68
+          ],
+          "word_count": 10,
+          "text": "1 设计 审核 批准 第 1 页 共 7 页"
+        },
+        {
+          "row_index": 42,
+          "bbox": [
+            6.23,
+            548.92,
+            581.03,
+            561.86
+          ],
+          "word_count": 9,
+          "text": "NO. 更 改 记 录 更改时间 日期 日期 日期"
+        }
+      ]
+    },
+    {
+      "page_index": 4,
+      "width": 842.0,
+      "height": 595.0,
+      "text_block_count": 157,
+      "word_count": 323,
+      "row_count": 42,
+      "table_like_row_count": 31,
+      "drawing_path_count": 290,
+      "drawing_item_count": 921,
+      "line_item_count": 791,
+      "rectangle_item_count": 2,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            387.4,
+            105.1,
+            395.8,
+            111.09
+          ],
+          "word_count": 1,
+          "text": "COLCD"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            379.6,
+            109.95,
+            461.2,
+            124.34
+          ],
+          "word_count": 28,
+          "text": "PASENSOR01 PALCD01 COCOM2 PASENSOR02 PALCD02 PALCD03 COCOM0 PALCD04 PASENSOR03 PALCD05 COSEG1 PALCD06 COSENSOR PALCD07 COSEG3 PALCD08 PALCD09 COSEG5 PALCD010 PALCD011 COSEG7 PALCD012 PALCD013 COSEG9 PALCD014 PALCD015 COSEG11 PALCD016"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            378.4,
+            121.61,
+            458.2,
+            132.69
+          ],
+          "word_count": 14,
+          "text": "PAS101 COS1 PACOM201 PACOM001 PASEG101 PASEG301 COSEG4 PASEG501 COSEG6 PASEG701 COSEG8 PASEG901 COSEG10 PASEG1101"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            385.0,
+            130.5,
+            450.4,
+            142.93
+          ],
+          "word_count": 14,
+          "text": "COC14 PAC1401 PAC1402 COR10 COC17 COR13 PAR1301 PAR1302 COC16 COC9 PASEG401 PASEG601 PASEG801 PASEG1001"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            374.2,
+            137.67,
+            427.6,
+            148.89
+          ],
+          "word_count": 13,
+          "text": "COC15 PAS201 PAC1502 PAC1501 PAR1002 PAR1001 PAC1701 PAC1702 PAR1202 COSEG0 PAC1602 COSEG2 PAC902"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            379.6,
+            145.76,
+            450.4,
+            154.89
+          ],
+          "word_count": 11,
+          "text": "COS2 COC13 PAC1301 PAC1302 PAR1401 PAR1402 PAR1201 PAC1601 PASEG201 PAC901 COU2"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            382.6,
+            149.38,
+            416.8,
+            160.29
+          ],
+          "word_count": 8,
+          "text": "COR11 CONTC1 PAR1101 PAR1102 COR14 COCOM1 COR12 PASEG001"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            379.6,
+            155.53,
+            442.0,
+            167.51
+          ],
+          "word_count": 15,
+          "text": "CONTC PANTC101 PACOM101 PAU2013 PAU2014 PAU2015 PAU2016 PAU2017 PAU2018 PAU2019 PAU2020 PAU2021 PAU2022 PAU2023 PAU2024"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            379.0,
+            161.84,
+            450.4,
+            172.33
+          ],
+          "word_count": 8,
+          "text": "PANTC02 PAU2012 PAU2010 PAU2011 COCOM3 PAU2025 PAU2027 PAU2026"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            379.0,
+            170.81,
+            453.4,
+            183.13
+          ],
+          "word_count": 11,
+          "text": "PANTC01 PAU207 PAU209 PAU206 PAU208 PACOM301 COPCTL PAU2028 PAU2030 PAU2029 PAU2031"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            389.8,
+            177.87,
+            450.4,
+            192.13
+          ],
+          "word_count": 14,
+          "text": "COR15 PAC702 COC8 PAC801 PAU205 PAU203 PAU204 PAU202 COB02 PAPCTL01 PAU2032 PAU2034 PAU2033 PAU2035"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            383.2,
+            187.13,
+            450.4,
+            192.69
+          ],
+          "word_count": 7,
+          "text": "PAR1501 PAR1502 PAC701 CONTC2 PAC802 PAU201 PAU2036"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            382.0,
+            190.32,
+            441.99,
+            201.72
+          ],
+          "word_count": 22,
+          "text": "COC18 PAC1801 PAC1802 COC7 PANTC201 PAR401 PAR402 COR4 COB01 PAU2048 PAU2047 PAU2046 PAU2045 PAU2044 PAU2043 PAU2042 PAB0201 PAU2041 PAU2040 PAU2039 PAU2038 PAU2037"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            407.2,
+            196.33,
+            454.0,
+            210.12
+          ],
+          "word_count": 9,
+          "text": "COC12 PAC1202 PAC1201 PAB0101 PAC1102 PAC1101 COC11 PATX01 COTX"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            402.4,
+            206.53,
+            436.6,
+            215.52
+          ],
+          "word_count": 8,
+          "text": "COR3 PAR301 PAR302 PAC1002 PAC1001 COBZ COC10 PABZ01"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            391.0,
+            213.13,
+            461.8,
+            225.13
+          ],
+          "word_count": 7,
+          "text": "COMK PAMK01 PAICP01 PAICP02 PAICP03 PAICP04 COICP"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            410.8,
+            224.64,
+            461.8,
+            237.09
+          ],
+          "word_count": 19,
+          "text": "COR7 COW COBUZZER PAR701 PAR702 PAW01 PAR601 PAR602 PAR501 PAR502 COR2 PAR202 PAR201 PAC602 COC6 PAC601 COC5 PAC501 PAC502"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            392.2,
+            230.53,
+            470.2,
+            240.69
+          ],
+          "word_count": 12,
+          "text": "PAGND01 COY COR6 COR5 PAR101 PAR102 PAR1701 PAR1702 PAVBAT01 PAR1602 PAR1601 COR16"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            391.0,
+            237.84,
+            454.0,
+            249.72
+          ],
+          "word_count": 6,
+          "text": "COGND PAY01 PAR01 COR COR1 COR17"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            414.41,
+            245.64,
+            425.81,
+            250.89
+          ],
+          "word_count": 1,
+          "text": "COLEDW"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            392.21,
+            251.04,
+            448.61,
+            256.29
+          ],
+          "word_count": 8,
+          "text": "COLEDY PALEDY02 PALEDY01 PALEDW02 PALEDW01 PALEDR02 PALEDR01 COLEDR"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            403.0,
+            259.78,
+            437.21,
+            269.53
+          ],
+          "word_count": 2,
+          "text": "PABUZZER01 PABUZZER02"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            382.6,
+            276.53,
+            388.6,
+            280.28
+          ],
+          "word_count": 2,
+          "text": "PAR901 PAR902"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            383.2,
+            279.84,
+            465.4,
+            290.52
+          ],
+          "word_count": 4,
+          "text": "COR9 COL1 PAVBAT01 COVBAT"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            383.8,
+            287.65,
+            461.2,
+            300.71
+          ],
+          "word_count": 10,
+          "text": "COB3 COC4 PAC401 COC3 PAC301 PAU101 PAU102 PAU105 PAL102 PAGND01"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            404.2,
+            296.04,
+            443.8,
+            303.69
+          ],
+          "word_count": 5,
+          "text": "PAC402 PAC302 PAU103 PAU104 PAL101"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            370.6,
+            301.61,
+            448.6,
+            309.11
+          ],
+          "word_count": 6,
+          "text": "PAB301 PAB304 COU1 PAC202 PAC201 COC2"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            450.4,
+            307.44,
+            455.8,
+            312.69
+          ],
+          "word_count": 1,
+          "text": "COC1"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            370.6,
+            311.81,
+            452.8,
+            320.5
+          ],
+          "word_count": 4,
+          "text": "PAB302 PAB305 PAC102 PAC101"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            406.0,
+            319.44,
+            412.0,
+            324.69
+          ],
+          "word_count": 1,
+          "text": "COR8"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            370.6,
+            322.76,
+            463.6,
+            331.27
+          ],
+          "word_count": 5,
+          "text": "PAB303 PAB306 PAR801 PAR802 COF1"
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            451.6,
+            328.93,
+            465.4,
+            337.92
+          ],
+          "word_count": 1,
+          "text": "PAF102"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            410.8,
+            332.72,
+            445.6,
+            346.96
+          ],
+          "word_count": 4,
+          "text": "COD1 PAD101 COB1 PAD102"
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            431.8,
+            341.5,
+            440.8,
+            347.5
+          ],
+          "word_count": 1,
+          "text": "COBAT"
+        },
+        {
+          "row_index": 35,
+          "bbox": [
+            451.61,
+            348.73,
+            465.41,
+            357.72
+          ],
+          "word_count": 1,
+          "text": "PAF101"
+        },
+        {
+          "row_index": 36,
+          "bbox": [
+            394.01,
+            345.29,
+            448.01,
+            372.27
+          ],
+          "word_count": 4,
+          "text": "PABAT02 PAB101 PAB102 PABAT01"
+        },
+        {
+          "row_index": 37,
+          "bbox": [
+            433.6,
+            405.85,
+            439.6,
+            411.09
+          ],
+          "word_count": 1,
+          "text": "COB2"
+        },
+        {
+          "row_index": 38,
+          "bbox": [
+            409.6,
+            423.3,
+            431.2,
+            434.54
+          ],
+          "word_count": 2,
+          "text": "PAB201 PAB202"
+        },
+        {
+          "row_index": 39,
+          "bbox": [
+            9.59,
+            506.73,
+            681.1,
+            522.99
+          ],
+          "word_count": 7,
+          "text": "3 产品名称 红外体温计 产品型号 PT9L 版本 V1.0"
+        },
+        {
+          "row_index": 40,
+          "bbox": [
+            10.31,
+            524.02,
+            713.44,
+            535.27
+          ],
+          "word_count": 7,
+          "text": "2 PCB编号 PT9L-HFMP01 V1.0 Top Overlay 层"
+        },
+        {
+          "row_index": 41,
+          "bbox": [
+            10.31,
+            536.47,
+            713.5,
+            548.68
+          ],
+          "word_count": 10,
+          "text": "1 设计 审核 批准 第 2 页 共 7 页"
+        },
+        {
+          "row_index": 42,
+          "bbox": [
+            6.23,
+            548.92,
+            581.03,
+            561.85
+          ],
+          "word_count": 9,
+          "text": "NO. 更 改 记 录 更改时间 日期 日期 日期"
+        }
+      ]
+    },
+    {
+      "page_index": 5,
+      "width": 842.0,
+      "height": 595.0,
+      "text_block_count": 157,
+      "word_count": 323,
+      "row_count": 42,
+      "table_like_row_count": 31,
+      "drawing_path_count": 530,
+      "drawing_item_count": 2000,
+      "line_item_count": 1369,
+      "rectangle_item_count": 103,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            445.6,
+            105.1,
+            454.0,
+            111.1
+          ],
+          "word_count": 1,
+          "text": "COLCD"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            380.2,
+            109.94,
+            461.2,
+            124.35
+          ],
+          "word_count": 28,
+          "text": "COSEG11 PALCD016 COSEG9 PALCD015 PALCD014 COSEG7 PALCD013 PALCD012 COSEG5 PALCD011 PALCD010 COSENSOR COSEG3 PALCD09 PALCD08 COSEG1 PALCD07 PALCD06 COCOM0 PASENSOR03 PALCD05 PALCD04 COCOM2 PALCD03 PASENSOR02 PALCD02 PALCD01 PASENSOR01"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            383.2,
+            121.61,
+            463.0,
+            132.69
+          ],
+          "word_count": 14,
+          "text": "COSEG10 PASEG1101 COSEG8 PASEG901 COSEG6 PASEG701 COSEG4 PASEG501 PASEG301 PASEG101 PACOM001 PACOM201 COS1 PAS101"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            391.0,
+            130.5,
+            456.4,
+            142.93
+          ],
+          "word_count": 14,
+          "text": "PASEG1001 PASEG801 PASEG601 PASEG401 COC9 COC16 COR13 PAR1302 PAR1301 COC17 COR10 PAC1402 COC14 PAC1401"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            413.8,
+            137.67,
+            467.2,
+            148.89
+          ],
+          "word_count": 13,
+          "text": "COSEG2 PAC902 COSEG0 PAC1602 PAR1202 PAC1702 PAC1701 PAR1001 PAR1002 PAC1501 PAS201 PAC1502 COC15"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            390.4,
+            145.76,
+            461.2,
+            154.89
+          ],
+          "word_count": 11,
+          "text": "COU2 PASEG201 PAC901 PAC1601 PAR1201 PAR1402 PAR1401 PAC1302 PAC1301 COC13 COS2"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            424.6,
+            149.38,
+            458.2,
+            160.29
+          ],
+          "word_count": 8,
+          "text": "COCOM1 PASEG001 COR12 COR14 CONTC1 PAR1102 PAR1101 COR11"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            399.4,
+            155.52,
+            461.2,
+            167.51
+          ],
+          "word_count": 15,
+          "text": "PAU2024 PAU2023 PAU2022 PAU2021 PAU2020 PAU2019 PAU2018 PAU2017 PAU2016 PAU2015 PAU2014 PAU2013 PACOM101 PANTC101 CONTC"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            390.4,
+            161.84,
+            461.8,
+            172.33
+          ],
+          "word_count": 8,
+          "text": "PAU2025 PAU2027 PAU2026 COCOM3 PAU2012 PAU2010 PAU2011 PANTC02"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            388.0,
+            170.81,
+            461.8,
+            183.13
+          ],
+          "word_count": 11,
+          "text": "COPCTL PAU2028 PAU2030 PAU2029 PAU2031 PACOM301 PAU207 PAU209 PAU206 PAU208 PANTC01"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            390.4,
+            177.87,
+            451.0,
+            192.13
+          ],
+          "word_count": 14,
+          "text": "PAU2032 PAU2034 PAU2033 PAU2035 PAPCTL01 COB02 PAU205 PAU203 PAU204 PAU202 COC8 PAC801 PAC702 COR15"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            390.4,
+            187.13,
+            457.6,
+            192.69
+          ],
+          "word_count": 7,
+          "text": "PAU2036 PAU201 CONTC2 PAC802 PAC701 PAR1502 PAR1501"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            399.41,
+            190.33,
+            458.8,
+            201.72
+          ],
+          "word_count": 22,
+          "text": "PAU2037 PAU2038 PAU2039 PAB0201 PAU2040 PAU2041 PAU2042 PAU2043 PAU2044 PAU2045 COB01 PAU2046 PAU2047 PAU2048 COR4 PANTC201 PAR401 PAR402 COC7 COC18 PAC1802 PAC1801"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            387.4,
+            196.33,
+            434.2,
+            210.12
+          ],
+          "word_count": 9,
+          "text": "COTX PATX01 COC11 PAC1101 PAB0101 PAC1102 PAC1201 COC12 PAC1202"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            404.2,
+            206.53,
+            439.0,
+            215.52
+          ],
+          "word_count": 8,
+          "text": "PABZ01 COC10 COBZ PAC1001 PAC1002 PAR302 PAR301 COR3"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            379.0,
+            213.13,
+            450.4,
+            225.12
+          ],
+          "word_count": 7,
+          "text": "COICP PAICP04 PAICP03 PAICP02 PAICP01 PAMK01 COMK"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            379.6,
+            224.64,
+            430.6,
+            237.09
+          ],
+          "word_count": 19,
+          "text": "COC5 PAC502 PAC501 COC6 PAC601 PAC602 PAR201 COR2 PAR202 COBUZZER PAR501 PAR502 PAW01 PAR601 PAR602 PAR701 PAR702 COW COR7"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            371.2,
+            230.53,
+            449.2,
+            240.69
+          ],
+          "word_count": 12,
+          "text": "COR16 PAR1601 PAVBAT01 PAR1602 PAR1702 PAR1701 PAR102 PAR101 COR5 COR6 COY PAGND01"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            386.8,
+            237.84,
+            450.4,
+            249.72
+          ],
+          "word_count": 6,
+          "text": "COR17 COR1 COR PAR01 PAY01 COGND"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            415.6,
+            245.65,
+            427.0,
+            250.9
+          ],
+          "word_count": 1,
+          "text": "COLEDW"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            392.8,
+            251.04,
+            448.6,
+            256.3
+          ],
+          "word_count": 8,
+          "text": "COLEDR PALEDR01 PALEDR02 PALEDW01 PALEDW02 PALEDY01 PALEDY02 COLEDY"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            404.2,
+            259.78,
+            437.8,
+            269.53
+          ],
+          "word_count": 2,
+          "text": "PABUZZER02 PABUZZER01"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            452.8,
+            276.53,
+            458.2,
+            280.28
+          ],
+          "word_count": 2,
+          "text": "PAR902 PAR901"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            376.0,
+            279.84,
+            457.6,
+            290.52
+          ],
+          "word_count": 4,
+          "text": "COVBAT PAVBAT01 COL1 COR9"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            380.2,
+            287.65,
+            457.6,
+            300.72
+          ],
+          "word_count": 10,
+          "text": "PAGND01 PAL102 PAU105 PAU101 PAU102 COC3 PAC301 COC4 PAC401 COB3"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            397.0,
+            296.04,
+            436.6,
+            303.69
+          ],
+          "word_count": 5,
+          "text": "PAL101 PAU104 PAU103 PAC302 PAC402"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            392.21,
+            301.61,
+            470.2,
+            309.11
+          ],
+          "word_count": 6,
+          "text": "COC2 PAC201 PAC202 COU1 PAB304 PAB301"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            385.6,
+            307.45,
+            390.4,
+            312.69
+          ],
+          "word_count": 1,
+          "text": "COC1"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            388.6,
+            311.81,
+            470.21,
+            320.5
+          ],
+          "word_count": 4,
+          "text": "PAC101 PAC102 PAB305 PAB302"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            429.4,
+            319.45,
+            435.4,
+            324.69
+          ],
+          "word_count": 1,
+          "text": "COR8"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            377.8,
+            322.76,
+            470.2,
+            331.27
+          ],
+          "word_count": 5,
+          "text": "COF1 PAR801 PAR802 PAB306 PAB303"
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            376.0,
+            328.93,
+            389.8,
+            337.92
+          ],
+          "word_count": 1,
+          "text": "PAF102"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            395.2,
+            332.72,
+            430.0,
+            346.97
+          ],
+          "word_count": 4,
+          "text": "PAD102 COB1 PAD101 COD1"
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            400.0,
+            341.5,
+            409.6,
+            347.5
+          ],
+          "word_count": 1,
+          "text": "COBAT"
+        },
+        {
+          "row_index": 35,
+          "bbox": [
+            376.01,
+            348.73,
+            389.81,
+            357.72
+          ],
+          "word_count": 1,
+          "text": "PAF101"
+        },
+        {
+          "row_index": 36,
+          "bbox": [
+            392.8,
+            345.28,
+            446.82,
+            372.27
+          ],
+          "word_count": 4,
+          "text": "PABAT01 PAB102 PAB101 PABAT02"
+        },
+        {
+          "row_index": 37,
+          "bbox": [
+            401.2,
+            405.85,
+            407.2,
+            411.09
+          ],
+          "word_count": 1,
+          "text": "COB2"
+        },
+        {
+          "row_index": 38,
+          "bbox": [
+            410.2,
+            423.3,
+            431.81,
+            434.54
+          ],
+          "word_count": 2,
+          "text": "PAB202 PAB201"
+        },
+        {
+          "row_index": 39,
+          "bbox": [
+            9.59,
+            506.25,
+            680.86,
+            522.51
+          ],
+          "word_count": 7,
+          "text": "3 产品名称 红外体温计 产品型号 PT9L 版本 V1.0"
+        },
+        {
+          "row_index": 40,
+          "bbox": [
+            10.31,
+            523.69,
+            713.44,
+            535.27
+          ],
+          "word_count": 7,
+          "text": "2 PCB编号 PT9L-HFMP01 V1.0 Bottom layer 层"
+        },
+        {
+          "row_index": 41,
+          "bbox": [
+            10.31,
+            537.19,
+            713.49,
+            548.68
+          ],
+          "word_count": 10,
+          "text": "1 设计 审核 批准 第 3 页 共 7 页"
+        },
+        {
+          "row_index": 42,
+          "bbox": [
+            6.23,
+            549.16,
+            581.02,
+            561.85
+          ],
+          "word_count": 9,
+          "text": "NO. 更 改 记 录 更改时间 日期 日期 日期"
+        }
+      ]
+    },
+    {
+      "page_index": 6,
+      "width": 842.0,
+      "height": 595.0,
+      "text_block_count": 156,
+      "word_count": 323,
+      "row_count": 42,
+      "table_like_row_count": 31,
+      "drawing_path_count": 450,
+      "drawing_item_count": 1641,
+      "line_item_count": 1538,
+      "rectangle_item_count": 3,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            445.6,
+            105.1,
+            454.0,
+            111.1
+          ],
+          "word_count": 1,
+          "text": "COLCD"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            380.2,
+            109.94,
+            461.2,
+            124.35
+          ],
+          "word_count": 28,
+          "text": "COSEG11 PALCD016 COSEG9 PALCD015 PALCD014 COSEG7 PALCD013 PALCD012 COSEG5 PALCD011 PALCD010 COSENSOR COSEG3 PALCD09 PALCD08 COSEG1 PALCD07 PALCD06 COCOM0 PASENSOR03 PALCD05 PALCD04 COCOM2 PALCD03 PASENSOR02 PALCD02 PALCD01 PASENSOR01"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            383.2,
+            121.61,
+            463.0,
+            132.69
+          ],
+          "word_count": 14,
+          "text": "COSEG10 PASEG1101 COSEG8 PASEG901 COSEG6 PASEG701 COSEG4 PASEG501 PASEG301 PASEG101 PACOM001 PACOM201 COS1 PAS101"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            391.0,
+            130.5,
+            456.4,
+            142.93
+          ],
+          "word_count": 14,
+          "text": "PASEG1001 PASEG801 PASEG601 PASEG401 COC9 COC16 COR13 PAR1302 PAR1301 COC17 COR10 PAC1402 COC14 PAC1401"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            413.8,
+            137.67,
+            467.2,
+            148.89
+          ],
+          "word_count": 13,
+          "text": "COSEG2 PAC902 COSEG0 PAC1602 PAR1202 PAC1702 PAC1701 PAR1001 PAR1002 PAC1501 PAS201 PAC1502 COC15"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            390.4,
+            145.76,
+            461.2,
+            154.89
+          ],
+          "word_count": 11,
+          "text": "COU2 PASEG201 PAC901 PAC1601 PAR1201 PAR1402 PAR1401 PAC1302 PAC1301 COC13 COS2"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            424.6,
+            149.38,
+            458.2,
+            160.29
+          ],
+          "word_count": 8,
+          "text": "COCOM1 PASEG001 COR12 COR14 CONTC1 PAR1102 PAR1101 COR11"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            399.4,
+            155.52,
+            461.2,
+            167.51
+          ],
+          "word_count": 15,
+          "text": "PAU2024 PAU2023 PAU2022 PAU2021 PAU2020 PAU2019 PAU2018 PAU2017 PAU2016 PAU2015 PAU2014 PAU2013 PACOM101 PANTC101 CONTC"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            390.4,
+            161.84,
+            461.8,
+            172.33
+          ],
+          "word_count": 8,
+          "text": "PAU2025 PAU2027 PAU2026 COCOM3 PAU2012 PAU2010 PAU2011 PANTC02"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            388.0,
+            170.81,
+            461.8,
+            183.13
+          ],
+          "word_count": 11,
+          "text": "COPCTL PAU2028 PAU2030 PAU2029 PAU2031 PACOM301 PAU207 PAU209 PAU206 PAU208 PANTC01"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            390.4,
+            177.87,
+            451.0,
+            192.13
+          ],
+          "word_count": 14,
+          "text": "PAU2032 PAU2034 PAU2033 PAU2035 PAPCTL01 COB02 PAU205 PAU203 PAU204 PAU202 COC8 PAC801 PAC702 COR15"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            390.4,
+            187.13,
+            457.6,
+            192.69
+          ],
+          "word_count": 7,
+          "text": "PAU2036 PAU201 CONTC2 PAC802 PAC701 PAR1502 PAR1501"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            399.41,
+            190.33,
+            458.8,
+            201.72
+          ],
+          "word_count": 22,
+          "text": "PAU2037 PAU2038 PAU2039 PAB0201 PAU2040 PAU2041 PAU2042 PAU2043 PAU2044 PAU2045 COB01 PAU2046 PAU2047 PAU2048 COR4 PANTC201 PAR401 PAR402 COC7 COC18 PAC1802 PAC1801"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            387.4,
+            196.33,
+            434.2,
+            210.12
+          ],
+          "word_count": 9,
+          "text": "COTX PATX01 COC11 PAC1101 PAB0101 PAC1102 PAC1201 COC12 PAC1202"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            404.2,
+            206.53,
+            439.0,
+            215.52
+          ],
+          "word_count": 8,
+          "text": "PABZ01 COC10 COBZ PAC1001 PAC1002 PAR302 PAR301 COR3"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            379.0,
+            213.13,
+            450.4,
+            225.12
+          ],
+          "word_count": 7,
+          "text": "COICP PAICP04 PAICP03 PAICP02 PAICP01 PAMK01 COMK"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            379.6,
+            224.64,
+            430.6,
+            237.09
+          ],
+          "word_count": 19,
+          "text": "COC5 PAC502 PAC501 COC6 PAC601 PAC602 PAR201 COR2 PAR202 COBUZZER PAR501 PAR502 PAW01 PAR601 PAR602 PAR701 PAR702 COW COR7"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            371.2,
+            230.53,
+            449.2,
+            240.69
+          ],
+          "word_count": 12,
+          "text": "COR16 PAR1601 PAVBAT01 PAR1602 PAR1702 PAR1701 PAR102 PAR101 COR5 COR6 COY PAGND01"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            386.8,
+            237.84,
+            450.4,
+            249.72
+          ],
+          "word_count": 6,
+          "text": "COR17 COR1 COR PAR01 PAY01 COGND"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            415.6,
+            245.65,
+            427.0,
+            250.9
+          ],
+          "word_count": 1,
+          "text": "COLEDW"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            392.8,
+            251.04,
+            448.6,
+            256.3
+          ],
+          "word_count": 8,
+          "text": "COLEDR PALEDR01 PALEDR02 PALEDW01 PALEDW02 PALEDY01 PALEDY02 COLEDY"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            404.2,
+            259.78,
+            437.8,
+            269.53
+          ],
+          "word_count": 2,
+          "text": "PABUZZER02 PABUZZER01"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            452.8,
+            276.53,
+            458.2,
+            280.28
+          ],
+          "word_count": 2,
+          "text": "PAR902 PAR901"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            376.0,
+            279.84,
+            457.6,
+            290.52
+          ],
+          "word_count": 4,
+          "text": "COVBAT PAVBAT01 COL1 COR9"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            380.2,
+            287.65,
+            457.6,
+            300.72
+          ],
+          "word_count": 10,
+          "text": "PAGND01 PAL102 PAU105 PAU101 PAU102 COC3 PAC301 COC4 PAC401 COB3"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            397.0,
+            296.04,
+            436.6,
+            303.69
+          ],
+          "word_count": 5,
+          "text": "PAL101 PAU104 PAU103 PAC302 PAC402"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            392.21,
+            301.61,
+            470.2,
+            309.11
+          ],
+          "word_count": 6,
+          "text": "COC2 PAC201 PAC202 COU1 PAB304 PAB301"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            385.6,
+            307.45,
+            390.4,
+            312.69
+          ],
+          "word_count": 1,
+          "text": "COC1"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            388.6,
+            311.81,
+            470.21,
+            320.5
+          ],
+          "word_count": 4,
+          "text": "PAC101 PAC102 PAB305 PAB302"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            429.4,
+            319.45,
+            435.4,
+            324.69
+          ],
+          "word_count": 1,
+          "text": "COR8"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            377.8,
+            322.76,
+            470.2,
+            331.27
+          ],
+          "word_count": 5,
+          "text": "COF1 PAR801 PAR802 PAB306 PAB303"
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            376.0,
+            328.93,
+            389.8,
+            337.92
+          ],
+          "word_count": 1,
+          "text": "PAF102"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            395.2,
+            332.72,
+            430.0,
+            346.97
+          ],
+          "word_count": 4,
+          "text": "PAD102 COB1 PAD101 COD1"
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            400.0,
+            341.5,
+            409.6,
+            347.5
+          ],
+          "word_count": 1,
+          "text": "COBAT"
+        },
+        {
+          "row_index": 35,
+          "bbox": [
+            376.01,
+            348.73,
+            389.81,
+            357.72
+          ],
+          "word_count": 1,
+          "text": "PAF101"
+        },
+        {
+          "row_index": 36,
+          "bbox": [
+            392.8,
+            345.28,
+            446.82,
+            372.27
+          ],
+          "word_count": 4,
+          "text": "PABAT01 PAB102 PAB101 PABAT02"
+        },
+        {
+          "row_index": 37,
+          "bbox": [
+            401.2,
+            405.85,
+            407.2,
+            411.09
+          ],
+          "word_count": 1,
+          "text": "COB2"
+        },
+        {
+          "row_index": 38,
+          "bbox": [
+            410.2,
+            423.3,
+            431.81,
+            434.54
+          ],
+          "word_count": 2,
+          "text": "PAB202 PAB201"
+        },
+        {
+          "row_index": 39,
+          "bbox": [
+            9.59,
+            507.2,
+            683.02,
+            523.47
+          ],
+          "word_count": 7,
+          "text": "3 产品名称 红外体温计 产品型号 PT9L 版本 V1.0"
+        },
+        {
+          "row_index": 40,
+          "bbox": [
+            10.31,
+            524.02,
+            713.44,
+            535.27
+          ],
+          "word_count": 7,
+          "text": "2 PCB编号 PT9L-HFMP01 V1.0 Bottom Overlay 层"
+        },
+        {
+          "row_index": 41,
+          "bbox": [
+            10.31,
+            537.18,
+            713.49,
+            548.68
+          ],
+          "word_count": 10,
+          "text": "1 设计 审核 批准 第 4 页 共 7 页"
+        },
+        {
+          "row_index": 42,
+          "bbox": [
+            6.23,
+            549.4,
+            581.02,
+            561.85
+          ],
+          "word_count": 9,
+          "text": "NO. 更 改 记 录 更改时间 日期 日期 日期"
+        }
+      ]
+    },
+    {
+      "page_index": 7,
+      "width": 842.0,
+      "height": 595.0,
+      "text_block_count": 165,
+      "word_count": 338,
+      "row_count": 43,
+      "table_like_row_count": 31,
+      "drawing_path_count": 218,
+      "drawing_item_count": 727,
+      "line_item_count": 190,
+      "rectangle_item_count": 2,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            376.6,
+            119.42,
+            781.63,
+            130.21
+          ],
+          "word_count": 3,
+          "text": "COLCD : 0.38±0.1mm"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            369.4,
+            126.9,
+            446.8,
+            140.54
+          ],
+          "word_count": 28,
+          "text": "PASENSOR01 PALCD01 COCOM2 PASENSOR02 PALCD02 PALCD03 COCOM0 PALCD04 PASENSOR03 PALCD05 COSEG1 PALCD06 COSENSOR PALCD07 COSEG3 PALCD08 PALCD09 COSEG5 PALCD010 PALCD011 COSEG7 PALCD012 PALCD013 COSEG9 PALCD014 PALCD015 COSEG11 PALCD016"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            368.2,
+            137.96,
+            443.8,
+            148.29
+          ],
+          "word_count": 14,
+          "text": "PAS101 COS1 PACOM201 PACOM001 PASEG101 PASEG301 COSEG4 PASEG501 COSEG6 PASEG701 COSEG8 PASEG901 COSEG10 PASEG1101"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            374.8,
+            146.24,
+            436.6,
+            158.53
+          ],
+          "word_count": 14,
+          "text": "COC14 PAC1401 PAC1402 COR10 COC17 COR13 PAR1301 PAR1302 COC16 COC9 PASEG401 PASEG601 PASEG801 PASEG1001"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            364.6,
+            152.67,
+            415.0,
+            163.28
+          ],
+          "word_count": 13,
+          "text": "COC15 PAS201 PAC1502 PAC1501 PAR1002 PAR1001 PAC1701 PAC1702 PAR1202 COSEG0 PAC1602 COSEG2 PAC902"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            369.4,
+            157.49,
+            775.38,
+            169.29
+          ],
+          "word_count": 13,
+          "text": "COS2 COC13 PAC1301 PAC1302 PAR1401 PAR1402 PAR1201 PAC1601 PASEG201 PAC901 COU2 : 1.2±0.1mm"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            372.4,
+            163.78,
+            404.2,
+            174.08
+          ],
+          "word_count": 8,
+          "text": "COR11 CONTC1 PAR1101 PAR1102 COR14 COCOM1 COR12 PASEG001"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            369.4,
+            170.07,
+            428.8,
+            181.31
+          ],
+          "word_count": 15,
+          "text": "CONTC PANTC101 PACOM101 PAU2013 PAU2014 PAU2015 PAU2016 PAU2017 PAU2018 PAU2019 PAU2020 PAU2021 PAU2022 PAU2023 PAU2024"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            368.8,
+            175.78,
+            436.6,
+            185.52
+          ],
+          "word_count": 8,
+          "text": "PANTC02 PAU2012 PAU2011 PAU2010 COCOM3 PAU2026 PAU2025 PAU2027"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            368.8,
+            184.76,
+            439.0,
+            196.33
+          ],
+          "word_count": 11,
+          "text": "PANTC01 PAU209 PAU206 PAU207 PAU208 PACOM301 COPCTL PAU2028 PAU2029 PAU2031 PAU2030"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            379.6,
+            191.21,
+            775.86,
+            204.73
+          ],
+          "word_count": 16,
+          "text": "COR15 PAC702 COC8 PAC801 PAU205 PAU204 PAU203 PAU202 COB02 PAPCTL01 PAU2032 PAU2033 PAU2034 PAU2035 : 1.1±0.1mm"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            373.0,
+            200.04,
+            436.6,
+            205.29
+          ],
+          "word_count": 7,
+          "text": "PAR1501 PAR1502 PAC701 CONTC2 PAC802 PAU201 PAU2036"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            371.8,
+            202.92,
+            428.8,
+            213.71
+          ],
+          "word_count": 22,
+          "text": "COC18 PAC1801 PAC1802 COC7 PANTC201 PAR402 PAR401 COR4 COB01 PAU2048 PAU2047 PAU2046 PAU2045 PAU2044 PAU2043 PAU2042 PAB0201 PAU2041 PAU2040 PAU2039 PAU2038 PAU2037"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            395.2,
+            208.33,
+            440.2,
+            221.51
+          ],
+          "word_count": 9,
+          "text": "COC12 PAC1202 PAC1201 PAB0101 PAC1102 PAC1101 COC11 PATX01 COTX"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            391.0,
+            217.93,
+            423.4,
+            226.92
+          ],
+          "word_count": 8,
+          "text": "COR3 PAR301 PAR302 PAC1002 PAC1001 COBZ COC10 PABZ01"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            380.2,
+            224.67,
+            776.1,
+            236.53
+          ],
+          "word_count": 9,
+          "text": "COMK PAMK01 PAICP01 PAICP02 PAICP03 PAICP04 COICP : 2.1±0.1mm"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            381.4,
+            235.44,
+            447.4,
+            249.11
+          ],
+          "word_count": 20,
+          "text": "PAGND01 COR7 COW COBUZZER PAR701 PAR702 PAW01 PAR601 PAR602 PAR501 PAR502 COR2 PAR202 PAR201 COC6 PAC602 PAC601 COC5 PAC501 PAC502"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            394.6,
+            241.47,
+            455.2,
+            253.89
+          ],
+          "word_count": 14,
+          "text": "COY COR6 COR5 COR PAR101 COR1 PAR102 COR17 PAR1701 PAR1702 PAVBAT01 PAR1602 PAR1601 COR16"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            380.2,
+            249.99,
+            419.2,
+            260.49
+          ],
+          "word_count": 4,
+          "text": "COGND PAY01 COLEDW PAR01"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            381.4,
+            259.75,
+            772.99,
+            270.54
+          ],
+          "word_count": 9,
+          "text": "COLEDY PALEDY02 PALEDY01 PALEDW02 PALEDW01 PALEDR02 PALEDR01 COLEDR :3.1±0.1mm"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            391.6,
+            268.93,
+            424.0,
+            277.92
+          ],
+          "word_count": 2,
+          "text": "PABUZZER01 PABUZZER02"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            372.4,
+            285.07,
+            377.8,
+            288.07
+          ],
+          "word_count": 2,
+          "text": "PAR901 PAR902"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            373.0,
+            288.39,
+            450.4,
+            297.71
+          ],
+          "word_count": 4,
+          "text": "COR9 COL1 PAVBAT01 COVBAT"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            373.0,
+            294.85,
+            773.47,
+            308.13
+          ],
+          "word_count": 11,
+          "text": "COB3 COC4 PAC401 COC3 PAC301 PAU101 PAU102 PAU105 PAL102 PAGND01 :0.8±0.1mm"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            392.8,
+            303.39,
+            430.6,
+            310.89
+          ],
+          "word_count": 5,
+          "text": "PAC402 PAC302 PAU103 PAU104 PAL101"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            361.0,
+            308.96,
+            441.4,
+            319.29
+          ],
+          "word_count": 7,
+          "text": "PAB301 PAB304 COU1 PAC202 PAC201 COC2 COC1"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            361.0,
+            318.56,
+            439.01,
+            326.49
+          ],
+          "word_count": 4,
+          "text": "PAB302 PAB305 PAC102 PAC101"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            361.0,
+            325.59,
+            449.2,
+            335.51
+          ],
+          "word_count": 5,
+          "text": "PAB303 PAB306 COR8 PAR801 COF1"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            398.8,
+            333.68,
+            451.0,
+            343.32
+          ],
+          "word_count": 2,
+          "text": "PAR802 PAF102"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            399.4,
+            338.26,
+            432.41,
+            351.76
+          ],
+          "word_count": 4,
+          "text": "COD1 PAD101 COB1 PAD102"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            418.6,
+            346.44,
+            427.6,
+            351.69
+          ],
+          "word_count": 1,
+          "text": "COBAT"
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            437.21,
+            352.92,
+            451.01,
+            361.92
+          ],
+          "word_count": 1,
+          "text": "PAF101"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            383.21,
+            349.77,
+            434.21,
+            375.26
+          ],
+          "word_count": 4,
+          "text": "PABAT02 PAB101 PAB102 PABAT01"
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            686.58,
+            363.91,
+            730.53,
+            378.52
+          ],
+          "word_count": 1,
+          "text": "双面板"
+        },
+        {
+          "row_index": 35,
+          "bbox": [
+            686.58,
+            381.42,
+            752.27,
+            396.02
+          ],
+          "word_count": 1,
+          "text": "材质：FR4"
+        },
+        {
+          "row_index": 36,
+          "bbox": [
+            421.0,
+            397.46,
+            759.83,
+            414.39
+          ],
+          "word_count": 2,
+          "text": "COB2 颜色：绿油"
+        },
+        {
+          "row_index": 37,
+          "bbox": [
+            687.59,
+            415.28,
+            790.14,
+            432.21
+          ],
+          "word_count": 1,
+          "text": "表面处理：喷锡"
+        },
+        {
+          "row_index": 38,
+          "bbox": [
+            397.6,
+            424.04,
+            418.0,
+            434.54
+          ],
+          "word_count": 2,
+          "text": "PAB201 PAB202"
+        },
+        {
+          "row_index": 39,
+          "bbox": [
+            687.59,
+            432.91,
+            790.14,
+            447.51
+          ],
+          "word_count": 1,
+          "text": "所有过孔不开窗"
+        },
+        {
+          "row_index": 40,
+          "bbox": [
+            9.59,
+            507.2,
+            688.29,
+            523.47
+          ],
+          "word_count": 7,
+          "text": "3 产品名称 红外体温计 产品型号 PT9L 版本 V1.0"
+        },
+        {
+          "row_index": 41,
+          "bbox": [
+            10.31,
+            523.06,
+            713.44,
+            535.27
+          ],
+          "word_count": 7,
+          "text": "2 PCB编号 PT9L-HFMP01 V1.0 Drill Layer 层"
+        },
+        {
+          "row_index": 42,
+          "bbox": [
+            10.31,
+            536.47,
+            713.5,
+            548.68
+          ],
+          "word_count": 10,
+          "text": "1 设计 审核 批准 第 5 页 共 7 页"
+        },
+        {
+          "row_index": 43,
+          "bbox": [
+            6.23,
+            549.16,
+            581.02,
+            561.85
+          ],
+          "word_count": 9,
+          "text": "NO. 更 改 记 录 更改时间 日期 日期 日期"
+        }
+      ]
+    },
+    {
+      "page_index": 8,
+      "width": 842.0,
+      "height": 595.0,
+      "text_block_count": 711,
+      "word_count": 2196,
+      "row_count": 47,
+      "table_like_row_count": 46,
+      "drawing_path_count": 2790,
+      "drawing_item_count": 9151,
+      "line_item_count": 7923,
+      "rectangle_item_count": 2,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            313.6,
+            108.53,
+            515.8,
+            112.28
+          ],
+          "word_count": 4,
+          "text": "PA1010101 PA2010101 PA3010101 PA4010101"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            295.59,
+            122.02,
+            574.6,
+            128.49
+          ],
+          "word_count": 103,
+          "text": "PASENSOR01 PALCD01 PASENSOR02 PALCD02 PALCD03 PALCD04 PASENSOR03 PALCD05 PALCD06 PALCD07 PALCD08 PALCD09 PALCD010 PALCD011 PALCD012 PALCD013 PALCD014 PALCD015 PALCD016 PASENSOR01 PALCD01 PASENSOR02 PALCD02 PALCD03 PALCD04 PASENSOR03 PALCD05 PALCD06 PALCD07 PALCD08 PALCD09 PALCD010 PALCD011 PALCD012 PALCD013 PALCD014 PALCD015 PALCD016 PASENSOR01 PALCD01 PASENSOR02 PALCD02 PALCD03 PALCD04 PASENSOR03 PALCD05 PALCD06 PALCD07 PALCD08 PALCD09 PALCD010 PALCD011 PALCD012 PALCD013 PALCD014 PALCD015 PALCD016 PASENSOR01 PALCD01 PASENSOR02 PALCD02 PALCD03 PALCD04 PASENSOR03 PALCD05 PALCD06 PALCD07 PALCD08 PALCD09 PALCD010 PALCD011 PALCD012 PALCD013 PALCD014 PALCD015 PALCD016 PASENSOR01 PALCD01 PASENSOR02 PALCD02 PALCD03 PALCD04 PASENSOR03 PALCD05 PALCD06 PALCD07 PALCD08 PALCD09 PALCD010 PALCD011 PALCD012 PALCD013 PALCD014 PALCD015 PALCD016 COCOM2 COCOM0 COSEG1 COSEG3 COSEG5 COSEG7 COSEG9 COSEG11"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            294.4,
+            127.13,
+            573.4,
+            132.09
+          ],
+          "word_count": 49,
+          "text": "PAS101 PACOM201 PACOM001 PASEG101 PASEG301 PASEG501 PASEG701 PASEG901 PASEG1101 PAS101 PACOM201 PACOM001 PASEG101 PASEG301 PASEG501 PASEG701 PASEG901 PASEG1101 PAS101 PACOM201 PACOM001 PASEG101 PASEG301 PASEG501 PASEG701 PASEG901 PASEG1101 PAS101 PACOM201 PACOM001 PASEG101 PASEG301 PASEG501 PASEG701 PASEG901 PASEG1101 PAS101 PACOM201 PACOM001 PASEG101 PASEG301 PASEG501 PASEG701 PASEG901 PASEG1101 COSEG4 COSEG6 COSEG8 COSEG10"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            295.0,
+            132.07,
+            559.6,
+            141.67
+          ],
+          "word_count": 132,
+          "text": "PAS201 PAC1502 PAC1501 PAC1401 PAR1002 PAC1301 PAC1402 PAR1001 PAC1302 PAC1701 PAR1401 PAC1702 PAR1301 PAR1402 PAR1302 PAR1202 PAR1201 PAC1602 PAC1601 PASEG201 PASEG401 PAC902 PAC901 PASEG601 PASEG801 PASEG1001 PAS201 PAC1502 PAC1501 PAC1401 PAR1002 PAC1301 PAC1402 PAR1001 PAC1302 PAC1701 PAR1401 PAC1702 PAR1301 PAR1402 PAR1302 PAR1202 PAR1201 PAC1602 PAC1601 PASEG201 PAC902 PAC901 PASEG401 PASEG601 PASEG801 PASEG1001 PAS201 PAC1502 PAC1501 PAC1401 PAR1002 PAC1301 PAC1402 PAR1001 PAC1302 PAC1701 PAR1401 PAC1702 PAR1301 PAR1402 PAR1302 PAR1202 PAR1201 PAC1602 PAC1601 PASEG201 PASEG401 PAC902 PAC901 PASEG601 PASEG801 PASEG1001 PAS201 PAC1502 PAC1501 PAC1401 PAR1002 PAC1301 PAC1402 PAR1001 PAC1302 PAC1701 PAR1401 PAC1702 PAR1301 PAR1402 PAR1202 PAR1302 PAR1201 PAC1602 PAC1601 PASEG201 PASEG401 PAC902 PAC901 PASEG601 PASEG801 PASEG1001 PAS201 PAC1502 PAC1501 PAC1401 PAR1002 PAC1301 PAC1402 PAR1001 PAC1302 PAC1701 PAR1401 PAC1702 PAR1301 PAR1402 PAR1302 PAR1202 PAR1201 PAC1602 PAC1601 PASEG201 PAC902 PAC901 PASEG401 PASEG601 PASEG801 PASEG1001 COSEG0 COSEG2"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            295.0,
+            140.47,
+            557.2,
+            150.69
+          ],
+          "word_count": 112,
+          "text": "PANTC02 PANTC101 PAR1101 PAR1102 PACOM101 PAU2011 PAU2012 PASEG001 PAU2013 PAU2014 PAU2015 PAU2016 PAU2017 PAU2018 PAU2019 PAU2020 PAU2021 PAU2022 PAU2023 PAU2024 PAU2025 PAU2026 PANTC02 PANTC101 PAR1101 PAR1102 PACOM101 PASEG001 PAU2011 PAU2012 PAU2013 PAU2014 PAU2015 PAU2016 PAU2017 PAU2018 PAU2019 PAU2020 PAU2021 PAU2022 PAU2023 PAU2024 PAU2025 PAU2026 PANTC02 PANTC101 PAR1101 PAR1102 PACOM101 PASEG001 PAU2011 PAU2012 PAU2013 PAU2014 PAU2015 PAU2016 PAU2017 PAU2018 PAU2019 PAU2020 PAU2021 PAU2022 PAU2023 PAU2024 PAU2025 PAU2026 PANTC02 PANTC101 PAR1101 PAR1102 PACOM101 PAU2011 PAU2012 PASEG001 PAU2013 PAU2014 PAU2015 PAU2016 PAU2017 PAU2018 PAU2019 PAU2020 PAU2021 PAU2022 PAU2023 PAU2024 PAU2025 PAU2026 PANTC02 PANTC101 PAR1101 PAR1102 PACOM101 PASEG001 PAU2011 PAU2012 PAU2013 PAU2014 PAU2015 PAU2016 PAU2017 PAU2018 PAU2019 PAU2020 PAU2021 PAU2022 PAU2023 PAU2024 PAU2025 PAU2026 COCOM1 COCOM3"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            295.0,
+            149.16,
+            523.6,
+            157.88
+          ],
+          "word_count": 95,
+          "text": "PANTC01 PAU204 PAU209 PAU207 PAU205 PAU2010 PAU208 PAU206 PAU203 PACOM301 PAPCTL01 PAU2028 PAU2030 PAU2032 PAU2029 PAU2031 PAU2033 PAU2027 PAU2034 PANTC01 PAU204 PAU209 PAU207 PAU205 PAU2010 PAU208 PAU206 PAU203 PACOM301 PAPCTL01 PAU2028 PAU2030 PAU2032 PAU2029 PAU2031 PAU2033 PAU2027 PAU2034 PANTC01 PAU204 PAU209 PAU207 PAU205 PAU2010 PAU208 PAU206 PAU203 PACOM301 PAPCTL01 PAU2028 PAU2030 PAU2032 PAU2029 PAU2031 PAU2033 PAU2027 PAU2034 PANTC01 PAU204 PAU209 PAU207 PAU205 PAU2010 PAU208 PAU206 PAU203 PACOM301 PAPCTL01 PAU2028 PAU2030 PAU2032 PAU2029 PAU2031 PAU2033 PAU2027 PAU2034 PANTC01 PAU204 PAU209 PAU207 PAU205 PAU2010 PAU208 PAU206 PAU203 PACOM301 PAPCTL01 PAU2028 PAU2029 PAU2030 PAU2031 PAU2032 PAU2033 PAU2027 PAU2034"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            296.8,
+            156.96,
+            523.6,
+            165.69
+          ],
+          "word_count": 145,
+          "text": "PAC1801 PAR1501 PAC1802 PAR1502 PAC702 PAC701 PANTC201 PAR402 PAC801 PAR401 PAC802 PAU202 PAU201 PAB0101 PAU2048 PAU2047 PAU2046 PAU2045 PAU2044 PAU2043 PAU2042 PAB0201 PAU2041 PAU2040 PAU2039 PAU2038 PAU2037 PAU2035 PAU2036 PAC1801 PAR1501 PAC1802 PAR1502 PAC702 PAC701 PAR402 PAC801 PAC802 PAR401 PANTC201 PAU202 PAU201 PAB0101 PAU2048 PAU2047 PAU2046 PAU2045 PAU2044 PAU2043 PAB0201 PAU2042 PAU2041 PAU2040 PAU2039 PAU2038 PAU2037 PAU2035 PAU2036 PAC1801 PAR1501 PAC1802 PAR1502 PAC702 PAC701 PAR402 PAC801 PAC802 PAR401 PANTC201 PAU202 PAU201 PAB0101 PAU2048 PAU2047 PAU2046 PAU2045 PAU2044 PAU2043 PAB0201 PAU2042 PAU2041 PAU2040 PAU2039 PAU2038 PAU2037 PAU2035 PAU2036 PAC1801 PAR1501 PAC1802 PAR1502 PAC702 PAC701 PANTC201 PAR402 PAC801 PAC802 PAR401 PAU202 PAU201 PAB0101 PAU2048 PAU2047 PAU2046 PAU2045 PAU2044 PAU2043 PAU2042 PAB0201 PAU2041 PAU2040 PAU2039 PAU2038 PAU2037 PAU2035 PAU2036 PAC1801 PAR1501 PAC1802 PAR1502 PAC702 PAC701 PAR402 PAC801 PAR401 PAC802 PANTC201 PAU202 PAU201 PAB0101 PAU2048 PAU2047 PAU2046 PAU2045 PAU2044 PAU2043 PAU2042 PAB0201 PAU2041 PAU2040 PAU2039 PAU2038 PAU2037 PAU2035 PAU2036"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            309.4,
+            163.59,
+            522.4,
+            170.49
+          ],
+          "word_count": 50,
+          "text": "PAC1202 PAR301 PAR302 PAC1201 PAC1102 PAC1002 PAC1101 PAC1001 PABZ01 PATX01 PAC1202 PAR301 PAC1201 PAR302 PAC1102 PAC1002 PAC1101 PAC1001 PABZ01 PATX01 PAC1202 PAR301 PAC1201 PAR302 PAC1102 PAC1002 PAC1101 PAC1001 PABZ01 PATX01 PAC1202 PAR301 PAC1201 PAR302 PAC1102 PAC1002 PAC1101 PAC1001 PABZ01 PATX01 PAC1202 PAR301 PAC1201 PAR302 PAC1102 PAC1002 PAC1101 PAC1001 PABZ01 PATX01"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            304.0,
+            168.99,
+            525.4,
+            174.68
+          ],
+          "word_count": 25,
+          "text": "PAMK01 PAICP01 PAICP02 PAICP03 PAICP04 PAMK01 PAICP01 PAICP02 PAICP03 PAICP04 PAMK01 PAICP01 PAICP02 PAICP03 PAICP04 PAMK01 PAICP01 PAICP02 PAICP03 PAICP04 PAMK01 PAICP01 PAICP02 PAICP03 PAICP04"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            300.99,
+            175.13,
+            562.0,
+            181.28
+          ],
+          "word_count": 106,
+          "text": "PAGND01 PAR701 PAR702 PAW01 PAR601 PAR602 PAR501 PAR502 PAR101 PAR202 PAR102 PAR201 PAC602 PAR1701 PAC601 PAR1702 PAVBAT01 PAR1602 PAC501 PAR1601 PAC502 PAGND01 PAR701 PAR702 PAW01 PAR601 PAR602 PAR501 PAR502 PAR101 PAR202 PAR102 PAR201 PAC602 PAR1701 PAC601 PAR1702 PAVBAT01 PAR1602 PAC501 PAR1601 PAC502 PAGND01 PAR701 PAR702 PAW01 PAR601 PAR602 PAR501 PAR502 PAR101 PAR202 PAR102 PAR201 PAC602 PAR1701 PAR1702 PAC601 PAVBAT01 PAR1602 PAC501 PAR1601 PAC502 PAGND01 PAR701 PAR702 PAW01 PAR601 PAR602 PAR501 PAR502 PAR202 PAR101 PAR102 PAR201 PAC602 PAR1701 PAC601 PAR1702 PAVBAT01 PAR1602 PAC501 PAR1601 PAC502 PAGND01 PAR701 PAR702 PAW01 PAR601 PAR602 PAR501 PAR502 PAR202 PAR101 PAR201 PAR102 PAC602 PAR1701 PAC601 PAR1702 PAVBAT01 PAC501 PAR1602 PAR1601 PAC502 COBUZZER"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            305.8,
+            181.59,
+            515.2,
+            186.09
+          ],
+          "word_count": 10,
+          "text": "PAY01 PAR01 PAY01 PAR01 PAY01 PAR01 PAY01 PAR01 PAY01 PAR01"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            306.99,
+            186.81,
+            517.0,
+            189.07
+          ],
+          "word_count": 30,
+          "text": "PALEDY02 PALEDY01 PALEDW02 PALEDW01 PALEDR02 PALEDR01 PALEDY02 PALEDY01 PALEDW02 PALEDW01 PALEDR02 PALEDR01 PALEDY02 PALEDY01 PALEDW02 PALEDW01 PALEDR02 PALEDR01 PALEDY02 PALEDY01 PALEDW02 PALEDW01 PALEDR02 PALEDR01 PALEDY02 PALEDY01 PALEDW02 PALEDW01 PALEDR02 PALEDR01"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            305.81,
+            190.58,
+            517.6,
+            195.09
+          ],
+          "word_count": 10,
+          "text": "PABUZZER01 PABUZZER02 PABUZZER01 PABUZZER02 PABUZZER01 PABUZZER02 PABUZZER01 PABUZZER02 PABUZZER01 PABUZZER02"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            296.8,
+            198.36,
+            524.8,
+            204.68
+          ],
+          "word_count": 15,
+          "text": "PAR901 PAR902 PAVBAT01 PAR901 PAR902 PAVBAT01 PAR901 PAR902 PAVBAT01 PAR901 PAR902 PAVBAT01 PAR901 PAR902 PAVBAT01"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            291.4,
+            203.47,
+            528.4,
+            213.08
+          ],
+          "word_count": 70,
+          "text": "PAB301 PAB304 PAC401 PAC402 PAC301 PAC302 PAU101 PAU102 PAU103 PAU105 PAU104 PAL102 PAL101 PAGND01 PAB301 PAB304 PAC401 PAC402 PAC301 PAC302 PAU101 PAU102 PAU103 PAU105 PAU104 PAL102 PAL101 PAGND01 PAB301 PAB304 PAC401 PAC402 PAC301 PAC302 PAU101 PAU102 PAU103 PAU105 PAU104 PAL102 PAL101 PAGND01 PAB301 PAB304 PAC401 PAC402 PAC301 PAC302 PAU101 PAU102 PAU103 PAU105 PAU104 PAL102 PAL101 PAGND01 PAB301 PAB304 PAC401 PAC402 PAC301 PAC302 PAU101 PAU102 PAU103 PAU105 PAU104 PAL102 PAL101 PAGND01"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            318.99,
+            210.82,
+            519.4,
+            213.07
+          ],
+          "word_count": 10,
+          "text": "PAC202 PAC201 PAC202 PAC201 PAC202 PAC201 PAC202 PAC201 PAC202 PAC201"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            291.4,
+            214.13,
+            524.8,
+            218.47
+          ],
+          "word_count": 20,
+          "text": "PAB302 PAB305 PAC102 PAC101 PAB302 PAB305 PAC102 PAC101 PAB302 PAB305 PAC102 PAC101 PAB302 PAB305 PAC102 PAC101 PAB302 PAB305 PAC102 PAC101"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            291.4,
+            218.93,
+            530.2,
+            226.89
+          ],
+          "word_count": 35,
+          "text": "PAB303 PAB306 PAB101 PAR801 PAR802 PAB102 PAF102 PAB303 PAB306 PAB101 PAR801 PAR802 PAB102 PAF102 PAB303 PAB306 PAR801 PAR802 PAB101 PAB102 PAF102 PAB303 PAB306 PAB101 PAR801 PAR802 PAB102 PAF102 PAB303 PAB306 PAB101 PAR801 PAR802 PAB102 PAF102"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            312.4,
+            223.9,
+            565.6,
+            230.47
+          ],
+          "word_count": 11,
+          "text": "PAD101 PAD102 PAD101 PAD102 PAD101 PAD102 PAD101 PAD102 PAD101 PAD102 COBAT"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            302.17,
+            229.21,
+            530.2,
+            241.96
+          ],
+          "word_count": 15,
+          "text": "PABAT02 PABAT01 PAF101 PABAT02 PABAT01 PAF101 PABAT02 PABAT01 PAF101 PABAT02 PABAT01 PAF101 PABAT02 PABAT01 PAF101"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            308.8,
+            253.45,
+            514.61,
+            258.69
+          ],
+          "word_count": 10,
+          "text": "PAB201 PAB202 PAB201 PAB202 PAB201 PAB202 PAB201 PAB202 PAB201 PAB202"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            308.81,
+            289.44,
+            514.6,
+            294.69
+          ],
+          "word_count": 11,
+          "text": "PAB202 PAB201 PAB202 PAB201 PAB202 PAB201 PAB202 PAB201 COB2 PAB202 PAB201"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            300.99,
+            305.41,
+            521.81,
+            318.16
+          ],
+          "word_count": 10,
+          "text": "PABAT01 PABAT02 PABAT01 PABAT02 PABAT01 PABAT02 PABAT01 PABAT02 PABAT01 PABAT02"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            293.2,
+            313.59,
+            496.0,
+            318.08
+          ],
+          "word_count": 5,
+          "text": "PAF101 PAF101 PAF101 PAF101 PAF101"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            293.2,
+            317.95,
+            514.6,
+            327.66
+          ],
+          "word_count": 32,
+          "text": "PAF102 PAD102 PAB102 PAD101 PAB101 PAR802 PAF102 PAD102 PAB102 PAD101 PAB101 PAR802 PAF102 PAD102 PAB102 PAD101 PAB101 PAR802 PAF102 PAD102 PAB102 PAD101 PAB101 PAR802 PAF102 PAD102 COB1 PAB102 PAD101 COD1 PAB101 PAR802"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            299.2,
+            326.33,
+            532.61,
+            334.88
+          ],
+          "word_count": 37,
+          "text": "PAC101 PAC102 PAR801 PAB306 PAB305 PAB303 PAB302 PAC101 PAC102 PAR801 PAB306 PAB305 PAB303 PAB302 PAC101 PAC102 PAR801 PAB306 PAB305 PAB303 PAB302 PAC101 PAC102 PAR801 PAB306 PAB305 PAB303 PAB302 COF1 PAC101 PAC102 PAR801 COR8 PAB306 PAB305 PAB303 PAB302"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            295.0,
+            334.42,
+            532.61,
+            344.47
+          ],
+          "word_count": 69,
+          "text": "PAGND01 PAL101 PAC201 PAC202 PAU104 PAU103 PAU102 PAC302 PAC301 PAC402 PAC401 PAB304 PAB301 PAGND01 PAL101 PAC201 PAC202 PAU104 PAU103 PAU102 PAC302 PAC301 PAC402 PAC401 PAB304 PAB301 PAGND01 PAL101 PAC201 PAC202 PAU104 PAU103 PAU102 PAC302 PAC301 PAC402 PAC401 PAB304 PAB301 PAGND01 PAL101 PAC201 PAC202 PAU104 PAU103 PAU102 PAC302 PAC301 PAC402 PAC401 PAB304 PAB301 PAGND01 COC1 COC2 PAL101 PAC201 PAC202 PAU104 COU1 PAU103 PAU102 PAC302 PAC301 PAC402 PAC401 PAB304 COB3 PAB301"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            299.2,
+            343.28,
+            526.6,
+            349.27
+          ],
+          "word_count": 25,
+          "text": "PAVBAT01 PAL102 PAU105 PAU101 PAVBAT01 PAL102 PAU105 PAU101 PAVBAT01 PAL102 PAU105 PAU101 PAVBAT01 PAL102 PAU105 PAU101 COVBAT PAVBAT01 PAL102 COL1 PAU105 PAU101 COC3 COC4 COR9"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            328.6,
+            349.56,
+            527.2,
+            351.06
+          ],
+          "word_count": 10,
+          "text": "PAR902 PAR901 PAR902 PAR901 PAR902 PAR901 PAR902 PAR901 PAR902 PAR901"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            306.4,
+            353.79,
+            517.6,
+            358.29
+          ],
+          "word_count": 10,
+          "text": "PABUZZER02 PABUZZER01 PABUZZER02 PABUZZER01 PABUZZER02 PABUZZER01 PABUZZER02 PABUZZER01 PABUZZER02 PABUZZER01"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            306.4,
+            360.22,
+            522.4,
+            367.29
+          ],
+          "word_count": 43,
+          "text": "PALEDR01 PAR01 PALEDR02 PALEDW01 PALEDW02 PALEDY01 PAY01 PALEDY02 PALEDR01 PAR01 PALEDR02 PALEDW01 PALEDW02 PALEDY01 PAY01 PALEDY02 PALEDR01 PAR01 PALEDR02 PALEDW01 PALEDW02 PALEDY01 PAY01 PALEDY02 PALEDR01 PAR01 PALEDR02 PALEDW01 PALEDW02 PALEDY01 PAY01 PALEDY02 COLEDR PALEDR01 PAR01 PALEDR02 PALEDW01 COLEDW PALEDW02 PALEDY01 PAY01 PALEDY02 COLEDY"
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            295.0,
+            365.62,
+            523.0,
+            375.07
+          ],
+          "word_count": 118,
+          "text": "PAVBAT01 PAR1601 PAC502 PAR1602 PAC501 PAR1702 PAC601 PAR1701 PAC602 PAR102 PAR201 PAR101 PAR202 PAR502 PAR501 PAW01 PAR602 PAR601 PAR702 PAR701 PAGND01 PAVBAT01 PAR1601 PAC502 PAR1602 PAC501 PAR1702 PAC601 PAR1701 PAC602 PAR102 PAR201 PAR101 PAR202 PAR502 PAR501 PAW01 PAR602 PAR601 PAR702 PAR701 PAGND01 PAR1601 PAC502 PAVBAT01 PAR1602 PAC501 PAR1702 PAC601 PAR1701 PAC602 PAR102 PAR201 PAR101 PAR202 PAR502 PAR501 PAW01 PAR602 PAR601 PAR702 PAR701 PAGND01 PAVBAT01 PAR1601 PAC502 PAR1602 PAC501 PAR1702 PAC601 PAR1701 PAC602 PAR102 PAR201 PAR101 PAR202 PAR502 PAR501 PAW01 PAR602 PAR601 PAR702 PAR701 PAGND01 COR16 PAVBAT01 COC5 PAC502 PAR1601 PAC501 PAR1602 COC6 COR17 PAC601 PAR1702 PAC602 PAR1701 PAR102 PAR201 COR1 COR2 PAR101 PAR202 COR COW COR5 PAR502 PAR501 PAW01 PAR602 COR6 PAR601 PAR702 PAR701 COR7 COY PAGND01 COGND"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            298.61,
+            374.17,
+            523.0,
+            382.89
+          ],
+          "word_count": 55,
+          "text": "PAICP04 PAICP03 PABZ01 PAICP02 PAC1001 PAICP01 PAC1002 PAR302 PAR301 PAMK01 PAICP04 PAICP03 PABZ01 PAICP02 PAC1001 PAICP01 PAC1002 PAR302 PAR301 PAMK01 PAICP04 PAICP03 PABZ01 PAICP02 PAC1001 PAICP01 PAC1002 PAR302 PAR301 PAMK01 PAICP04 PAICP03 PABZ01 PAICP02 PAC1001 PAICP01 PAC1002 PAR302 PAR301 PAMK01 COICP PAICP04 PAICP03 PABZ01 PAICP02 COC10 COBZ PAC1001 PAICP01 PAC1002 PAR302 PAR301 COR3 PAMK01 COMK"
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            301.6,
+            381.53,
+            527.2,
+            391.87
+          ],
+          "word_count": 140,
+          "text": "PATX01 PAU2037 PAU2038 PAU2039 PAB0201 PAU2040 PAU2041 PAU2042 PAU2043 PAU2044 PAC1101 PAU2045 PAB0101 PAU2046 PAC1102 PAU2047 PAU2048 PAC1201 PAC1202 PANTC201 PAC802 PAR401 PAR402 PAC701 PAC1802 PAC1801 PATX01 PAU2037 PAU2038 PAU2039 PAB0201 PAU2040 PAU2041 PAU2042 PAU2043 PAU2044 PAU2045 PAC1101 PAU2046 PAB0101 PAU2047 PAC1102 PAU2048 PAC1201 PAC1202 PANTC201 PAC802 PAR401 PAR402 PAC701 PAC1802 PAC1801 PATX01 PAU2037 PAU2038 PAU2039 PAB0201 PAU2040 PAU2041 PAU2042 PAU2043 PAU2044 PAU2045 PAC1101 PAB0101 PAU2046 PAC1102 PAU2047 PAU2048 PAC1201 PAC1202 PANTC201 PAC802 PAR401 PAR402 PAC701 PAC1802 PAC1801 PATX01 PAU2037 PAU2038 PAU2039 PAB0201 PAU2040 PAU2041 PAU2042 PAU2043 PAU2044 PAC1101 PAU2045 PAB0101 PAU2046 PAC1102 PAU2047 PAU2048 PAC1201 PAC1202 PANTC201 PAC802 PAR401 PAR402 PAC701 PAC1802 PAC1801 COTX COPCTL PATX01 PAU2037 PAU2038 PAU2039 PAB0201 PAU2040 PAU2041 COC11 PAU2042 PAU2043 PAU2044 PAU2045 PAC1101 PAB0101 PAU2046 COB01 PAC1102 PAU2047 PAU2048 PAC1201 COC12 COU2 PAC1202 CONTC2 COR4 PANTC201 PAR401 PAR402 PAC802 COC7 PAC701 COC18 PAC1802 PAC1801"
+        },
+        {
+          "row_index": 35,
+          "bbox": [
+            299.8,
+            389.19,
+            528.4,
+            397.89
+          ],
+          "word_count": 103,
+          "text": "PAU2032 PAU2035 PAU2033 PAU2030 PAU2036 PAU2034 PAU2031 PAPCTL01 PAU202 PAU204 PAU207 PAU201 PAU203 PAU205 PAU206 PAC801 PAC702 PANTC01 PAR1502 PAR1501 PAU2032 PAU2035 PAU2033 PAU2030 PAU2036 PAU2034 PAU2031 PAPCTL01 PAU202 PAU204 PAU207 PAU201 PAU203 PAU205 PAU206 PAC801 PAC702 PANTC01 PAR1502 PAR1501 PAU2032 PAU2035 PAU2033 PAU2030 PAU2036 PAU2034 PAU2031 PAPCTL01 PAU202 PAU204 PAU207 PAU201 PAU203 PAU205 PAU206 PAC801 PAC702 PANTC01 PAR1502 PAR1501 PAU2032 PAU2035 PAU2033 PAU2030 PAU2036 PAU2034 PAU2031 PAPCTL01 PAU202 PAU204 PAU207 PAU201 PAU203 PAU205 PAU206 PAC801 PAC702 PANTC01 PAR1502 PAR1501 PAU2032 PAU2035 PAU2033 PAU2030 PAU2036 PAU2034 PAU2031 PAPCTL01 COB02 PAU201 PAU202 PAU203 PAU204 PAU205 PAU207 PAU206 COC8 PAC801 PAC702 COR15 PANTC01 PAR1502 PAR1501"
+        },
+        {
+          "row_index": 36,
+          "bbox": [
+            299.8,
+            396.07,
+            528.4,
+            404.49
+          ],
+          "word_count": 70,
+          "text": "PAU2028 PAU2026 PAU2029 PAU2027 PAU2025 PACOM301 PAU209 PAU2011 PAU208 PAU2010 PAU2012 PACOM101 PANTC101 PANTC02 PAU2028 PAU2026 PAU2029 PAU2027 PAU2025 PACOM301 PAU209 PAU2011 PAU208 PAU2010 PAU2012 PACOM101 PANTC101 PANTC02 PAU2028 PAU2026 PAU2029 PAU2027 PAU2025 PACOM301 PAU209 PAU2011 PAU208 PAU2010 PAU2012 PACOM101 PANTC101 PANTC02 PAU2028 PAU2026 PAU2029 PAU2027 PAU2025 PACOM301 PAU209 PAU2011 PAU208 PAU2010 PAU2012 PACOM101 PANTC02 PANTC101 PAU2028 PAU2026 PAU2029 PAU2027 PAU2025 PACOM301 PAU208 PAU209 PAU2010 PAU2011 PAU2012 PACOM101 PANTC101 PANTC02"
+        },
+        {
+          "row_index": 37,
+          "bbox": [
+            304.0,
+            401.79,
+            528.4,
+            408.69
+          ],
+          "word_count": 80,
+          "text": "PAU2024 PAU2023 PAU2022 PAU2021 PAU2020 PAU2019 PAU2018 PAU2017 PAU2016 PAU2015 PAU2014 PAU2013 PASEG001 PAR1102 PAR1101 PAU2024 PAU2023 PAU2022 PAU2021 PAU2020 PAU2019 PAU2018 PAU2017 PAU2016 PAU2015 PAU2014 PAU2013 PASEG001 PAR1102 PAR1101 PAU2024 PAU2023 PAU2022 PAU2021 PAU2020 PAU2019 PAU2018 PAU2017 PAU2016 PAU2015 PAU2014 PAU2013 PASEG001 PAR1102 PAR1101 PAU2024 PAU2023 PAU2022 PAU2021 PAU2020 PAU2019 PAU2018 PAU2017 PAU2016 PAU2015 PAU2014 PAU2013 PASEG001 PAR1102 PAR1101 PAU2024 PAU2023 PAU2022 PAU2021 PAU2020 PAU2019 PAU2018 PAU2017 PAU2016 PAU2015 PAU2014 PAU2013 PASEG001 COR12 COR14 PAR1102 CONTC1 PAR1101 COR11 CONTC"
+        },
+        {
+          "row_index": 38,
+          "bbox": [
+            313.0,
+            407.47,
+            530.8,
+            417.09
+          ],
+          "word_count": 117,
+          "text": "PASEG201 PAC901 PAC902 PAC1601 PAC1602 PAR1201 PAR1202 PAR1302 PAR1402 PAC1702 PAR1301 PAR1401 PAC1701 PAC1302 PAR1001 PAC1301 PAR1002 PAC1402 PAC1401 PAC1501 PAS201 PAC1502 PASEG201 PAC901 PAC902 PAC1601 PAC1602 PAR1201 PAR1202 PAR1302 PAR1402 PAC1702 PAR1301 PAR1401 PAC1701 PAC1302 PAR1001 PAC1301 PAR1002 PAC1402 PAC1401 PAC1501 PAS201 PAC1502 PASEG201 PAC901 PAC902 PAC1601 PAC1602 PAR1201 PAR1202 PAR1302 PAR1402 PAC1702 PAR1301 PAR1401 PAC1701 PAC1302 PAR1001 PAC1301 PAR1002 PAC1402 PAC1401 PAC1501 PAS201 PAC1502 PASEG201 PAC901 PAC902 PAC1601 PAC1602 PAR1201 PAR1202 PAR1302 PAR1402 PAC1702 PAR1301 PAR1401 PAC1701 PAC1302 PAR1001 PAC1301 PAR1002 PAC1402 PAC1401 PAC1501 PAS201 PAC1502 COC9 PASEG201 PAC901 PAC902 COC16 PAC1601 PAC1602 PAR1201 PAR1202 PAR1302 PAR1301 PAC1702 PAR1402 COC17 PAC1701 PAR1401 COR10 PAR1001 PAC1302 PAR1002 PAC1301 PAC1402 COC13 PAC1401 PAC1501 PAS201 COS2 PAC1502 COC15"
+        },
+        {
+          "row_index": 39,
+          "bbox": [
+            298.0,
+            413.93,
+            529.0,
+            423.67
+          ],
+          "word_count": 69,
+          "text": "PASEG1101 PASEG1001 PASEG901 PASEG801 PASEG701 PASEG601 PASEG501 PASEG401 PASEG301 PASEG101 PACOM001 PACOM201 PAS101 PASEG1101 PASEG1001 PASEG901 PASEG801 PASEG701 PASEG601 PASEG501 PASEG401 PASEG301 PASEG101 PACOM001 PACOM201 PAS101 PASEG1101 PASEG1001 PASEG901 PASEG801 PASEG701 PASEG601 PASEG501 PASEG401 PASEG301 PASEG101 PACOM001 PACOM201 PAS101 PASEG1101 PASEG1001 PASEG901 PASEG801 PASEG701 PASEG601 PASEG501 PASEG401 PASEG301 PASEG101 PACOM001 PACOM201 PAS101 PASEG1101 PASEG1001 PASEG901 PASEG801 PASEG701 PASEG601 PASEG501 COSENSOR PASEG401 PASEG301 PASEG101 COR13 PACOM001 PACOM201 COC14 COS1 PAS101"
+        },
+        {
+          "row_index": 40,
+          "bbox": [
+            299.19,
+            420.24,
+            528.41,
+            426.1
+          ],
+          "word_count": 95,
+          "text": "PALCD016 PALCD015 PALCD014 PALCD013 PALCD012 PALCD011 PALCD010 PALCD09 PALCD08 PALCD07 PALCD06 PASENSOR03 PALCD05 PALCD04 PALCD03 PASENSOR02 PALCD02 PALCD01 PASENSOR01 PALCD016 PALCD015 PALCD014 PALCD013 PALCD012 PALCD011 PALCD010 PALCD09 PALCD08 PALCD07 PALCD06 PASENSOR03 PALCD05 PALCD04 PALCD03 PASENSOR02 PALCD02 PALCD01 PASENSOR01 PALCD016 PALCD015 PALCD014 PALCD013 PALCD012 PALCD011 PALCD010 PALCD09 PALCD08 PALCD07 PALCD06 PASENSOR03 PALCD05 PALCD04 PALCD03 PASENSOR02 PALCD02 PALCD01 PASENSOR01 PALCD016 PALCD015 PALCD014 PALCD013 PALCD012 PALCD011 PALCD010 PALCD09 PALCD08 PALCD07 PALCD06 PASENSOR03 PALCD05 PALCD04 PALCD03 PASENSOR02 PALCD02 PALCD01 PASENSOR01 PALCD016 PALCD015 PALCD014 PALCD013 PALCD012 PALCD011 PALCD010 PALCD09 PALCD08 PALCD07 PALCD06 PASENSOR03 PALCD05 PALCD04 PALCD03 PASENSOR02 PALCD02 PALCD01 PASENSOR01"
+        },
+        {
+          "row_index": 41,
+          "bbox": [
+            521.2,
+            426.82,
+            524.8,
+            429.07
+          ],
+          "word_count": 1,
+          "text": "COLCD"
+        },
+        {
+          "row_index": 42,
+          "bbox": [
+            308.2,
+            435.99,
+            509.8,
+            440.49
+          ],
+          "word_count": 4,
+          "text": "PA3010101 PA4010101 PA1010101 PA2010101"
+        },
+        {
+          "row_index": 43,
+          "bbox": [
+            298.6,
+            441.24,
+            519.4,
+            446.49
+          ],
+          "word_count": 4,
+          "text": "CO30101 CO40101 CO10101 CO20101"
+        },
+        {
+          "row_index": 44,
+          "bbox": [
+            9.59,
+            507.2,
+            712.75,
+            523.47
+          ],
+          "word_count": 7,
+          "text": "3 产品名称 红外体温计 产品型号 PT9L 版本 V1.0"
+        },
+        {
+          "row_index": 45,
+          "bbox": [
+            10.31,
+            524.02,
+            714.3,
+            535.42
+          ],
+          "word_count": 5,
+          "text": "2 PCB编号 PT9L-HFMP01 V1.0 拼板示意图(顶层)"
+        },
+        {
+          "row_index": 46,
+          "bbox": [
+            10.31,
+            537.66,
+            713.49,
+            548.68
+          ],
+          "word_count": 10,
+          "text": "1 设计 审核 批准 第 6 页 共 7 页"
+        },
+        {
+          "row_index": 47,
+          "bbox": [
+            6.23,
+            549.16,
+            581.02,
+            561.85
+          ],
+          "word_count": 9,
+          "text": "NO. 更 改 记 录 更改时间 日期 日期 日期"
+        }
+      ]
+    },
+    {
+      "page_index": 9,
+      "width": 842.0,
+      "height": 595.0,
+      "text_block_count": 720,
+      "word_count": 2196,
+      "row_count": 47,
+      "table_like_row_count": 46,
+      "drawing_path_count": 4360,
+      "drawing_item_count": 16201,
+      "line_item_count": 15245,
+      "rectangle_item_count": 12,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            313.0,
+            96.39,
+            522.4,
+            100.88
+          ],
+          "word_count": 4,
+          "text": "PA3010101 PA4010101 PA1010101 PA2010101"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            252.4,
+            111.22,
+            542.2,
+            120.68
+          ],
+          "word_count": 151,
+          "text": "COSEG11 COSEG9 COSEG8 COSEG7 COSEG6 COSEG5 COSEG4 COSEG3 COSEG1 COCOM0 COCOM2 PASEG1101 PALCD016 PALCD015 PASEG901 PALCD014 PALCD013 PASEG701 PALCD012 PALCD011 PASEG501 PALCD010 PALCD09 PASEG301 PALCD08 PALCD07 PASEG101 PALCD06 PASENSOR03 PALCD05 PACOM001 PALCD04 PALCD03 PASENSOR02 PACOM201 PALCD02 PALCD01 PASENSOR01 PAS101 PASEG1101 PALCD016 PALCD015 PASEG901 PALCD014 PALCD013 PASEG701 PALCD012 PALCD011 PASEG501 PALCD010 PALCD09 PASEG301 PALCD08 PALCD07 PASEG101 PALCD06 PASENSOR03 PALCD05 PACOM001 PALCD04 PASENSOR02 PALCD03 PACOM201 PALCD02 PALCD01 PASENSOR01 PAS101 PASEG1101 PALCD016 PALCD015 PASEG901 PALCD014 PALCD013 PASEG701 PALCD012 PALCD011 PASEG501 PALCD010 PALCD09 PASEG301 PALCD08 PALCD07 PASEG101 PALCD06 PASENSOR03 PALCD05 PACOM001 PALCD04 PALCD03 PASENSOR02 PACOM201 PALCD02 PALCD01 PASENSOR01 PAS101 PASEG1101 PALCD016 PALCD015 PASEG901 PALCD014 PALCD013 PASEG701 PALCD012 PALCD011 PASEG501 PALCD010 PALCD09 PASEG301 PALCD08 PALCD07 PASEG101 PALCD06 PASENSOR03 PALCD05 PACOM001 PALCD04 PASENSOR02 PALCD03 PACOM201 PALCD02 PALCD01 PASENSOR01 PAS101 PASEG1101 PALCD016 PALCD015 PASEG901 PALCD014 PALCD013 PASEG701 PALCD012 PALCD011 PASEG501 PALCD010 PALCD09 PASEG301 PALCD08 PALCD07 PASEG101 PALCD06 PASENSOR03 PALCD05 PACOM001 PALCD04 PALCD03 PASENSOR02 PACOM201 PALCD02 PALCD01 PASENSOR01 PAS101"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            253.6,
+            118.42,
+            541.6,
+            130.87
+          ],
+          "word_count": 133,
+          "text": "COSEG10 COSEG2 COSEG0 PASEG1001 PASEG801 PASEG601 PASEG401 PAC902 PASEG201 PAC901 PAC1602 PAC1601 PAR1202 PAR1201 PAR1302 PAR1301 PAR1402 PAC1702 PAR1401 PAC1701 PAC1302 PAR1001 PAC1402 PAC1301 PAR1002 PAC1401 PAC1501 PAS201 PAC1502 PASEG1001 PASEG801 PASEG601 PASEG401 PAC902 PASEG201 PAC901 PAC1602 PAC1601 PAR1202 PAR1201 PAR1302 PAR1301 PAR1402 PAC1702 PAR1401 PAC1701 PAC1302 PAR1001 PAC1402 PAC1301 PAR1002 PAC1401 PAC1501 PAS201 PAC1502 PASEG1001 PASEG801 PASEG601 PASEG401 PAC902 PASEG201 PAC901 PAC1602 PAC1601 PAR1202 PAR1201 PAR1302 PAR1301 PAR1402 PAC1702 PAR1401 PAC1701 PAC1302 PAR1001 PAC1402 PAC1301 PAR1002 PAC1401 PAC1501 PAS201 PAC1502 PASEG1001 PASEG801 PASEG601 PASEG401 PAC902 PASEG201 PAC901 PAC1602 PAC1601 PAR1202 PAR1201 PAR1302 PAR1301 PAR1402 PAC1702 PAR1401 PAC1701 PAC1302 PAR1001 PAC1402 PAC1301 PAR1002 PAC1401 PAC1501 PAS201 PAC1502 PASEG1001 PASEG801 PASEG601 PASEG401 PAC902 PASEG201 PAC901 PAC1602 PAC1601 PAR1202 PAR1201 PAR1302 PAR1301 PAR1402 PAC1702 PAR1401 PAC1701 PAC1302 PAR1001 PAC1402 PAC1301 PAR1002 PAC1401 PAC1501 PAS201 PAC1502"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            269.8,
+            129.53,
+            541.6,
+            140.49
+          ],
+          "word_count": 112,
+          "text": "COCOM3 COCOM1 PAU2025 PAU2026 PAU2024 PAU2023 PAU2022 PAU2021 PAU2020 PAU2019 PAU2018 PAU2017 PAU2016 PAU2015 PAU2014 PAU2013 PAU2011 PAU2012 PASEG001 PACOM101 PAR1102 PAR1101 PANTC101 PANTC02 PAU2025 PAU2026 PAU2024 PAU2023 PAU2022 PAU2021 PAU2020 PAU2019 PAU2018 PAU2017 PAU2016 PAU2015 PAU2014 PAU2013 PASEG001 PAU2011 PAU2012 PACOM101 PAR1102 PAR1101 PANTC101 PANTC02 PAU2025 PAU2026 PAU2024 PAU2023 PAU2022 PAU2021 PAU2020 PAU2019 PAU2018 PAU2017 PAU2016 PAU2015 PAU2014 PAU2013 PAU2011 PAU2012 PASEG001 PACOM101 PAR1102 PAR1101 PANTC101 PANTC02 PAU2025 PAU2026 PAU2024 PAU2023 PAU2022 PAU2021 PAU2020 PAU2019 PAU2018 PAU2017 PAU2016 PAU2015 PAU2014 PAU2013 PASEG001 PAU2011 PAU2012 PACOM101 PAR1102 PAR1101 PANTC101 PANTC02 PAU2025 PAU2026 PAU2024 PAU2023 PAU2022 PAU2021 PAU2020 PAU2019 PAU2018 PAU2017 PAU2016 PAU2015 PAU2014 PAU2013 PASEG001 PAU2011 PAU2012 PACOM101 PAR1102 PAR1101 PANTC101 PANTC02"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            304.6,
+            138.96,
+            541.6,
+            148.28
+          ],
+          "word_count": 95,
+          "text": "PAU2028 PAU2030 PAU2033 PAU2029 PAU2031 PAU2034 PAU2027 PAU2032 PAPCTL01 PAU206 PAU209 PAU207 PAU204 PAU2010 PAU208 PAU205 PAU203 PACOM301 PANTC01 PAU2028 PAU2030 PAU2033 PAU2029 PAU2031 PAU2034 PAU2027 PAU2032 PAPCTL01 PACOM301 PAU206 PAU209 PAU207 PAU204 PAU2010 PAU208 PAU205 PAU203 PANTC01 PAU2028 PAU2030 PAU2033 PAU2029 PAU2031 PAU2034 PAU2027 PAU2032 PAPCTL01 PAU206 PAU209 PAU207 PAU204 PAU2010 PAU208 PAU205 PAU203 PACOM301 PANTC01 PAU2028 PAU2030 PAU2033 PAU2029 PAU2031 PAU2034 PAU2027 PAU2032 PAPCTL01 PACOM301 PAU206 PAU209 PAU207 PAU204 PAU208 PAU205 PAU203 PAU2010 PANTC01 PAU2028 PAU2029 PAU2030 PAU2031 PAU2033 PAU2034 PAU2027 PAU2032 PAPCTL01 PACOM301 PAU206 PAU2010 PAU209 PAU208 PAU207 PAU205 PAU204 PAU203 PANTC01"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            304.6,
+            146.76,
+            539.8,
+            156.08
+          ],
+          "word_count": 145,
+          "text": "PAU2035 PAU2036 PAU2037 PAU2038 PAB0201 PAU2039 PAU2040 PAU2041 PAU2042 PAU2043 PAU2044 PAU2045 PAU2046 PAB0101 PAU2047 PAU2048 PAU202 PAU201 PANTC201 PAC801 PAC802 PAR402 PAR401 PAC702 PAC701 PAR1502 PAC1802 PAR1501 PAC1801 PAU2035 PAU2036 PAU2037 PAU2038 PAU2039 PAB0201 PAU2040 PAU2041 PAU2042 PAU2043 PAU2044 PAU2045 PAU2046 PAB0101 PAU2047 PAU2048 PAU202 PAU201 PANTC201 PAC801 PAC802 PAR402 PAR401 PAC702 PAC701 PAR1502 PAC1802 PAR1501 PAC1801 PAU2035 PAU2036 PAU2037 PAU2038 PAU2039 PAB0201 PAU2040 PAU2041 PAU2042 PAU2043 PAU2044 PAU2045 PAU2046 PAB0101 PAU2047 PAU2048 PAU202 PAU201 PANTC201 PAC801 PAC802 PAR402 PAR401 PAC702 PAC701 PAR1502 PAC1802 PAR1501 PAC1801 PAU2035 PAU2036 PAU2037 PAU2038 PAU2039 PAB0201 PAU2040 PAU2041 PAU2042 PAU2043 PAU2044 PAU2045 PAU2046 PAB0101 PAU2047 PAU2048 PAU202 PAU201 PANTC201 PAC801 PAC802 PAR402 PAR401 PAC702 PAC701 PAR1502 PAC1802 PAR1501 PAC1801 PAU2035 PAU2036 PAU2037 PAU2038 PAU2039 PAU2040 PAB0201 PAU2041 PAU2042 PAU2043 PAU2044 PAU2045 PAU2046 PAB0101 PAU2047 PAU2048 PAU202 PAU201 PANTC201 PAC801 PAC802 PAR402 PAR401 PAC702 PAC701 PAR1502 PAC1802 PAR1501 PAC1801"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            306.4,
+            154.13,
+            527.2,
+            160.88
+          ],
+          "word_count": 50,
+          "text": "PATX01 PABZ01 PAC1101 PAC1001 PAC1102 PAC1002 PAC1201 PAR302 PAC1202 PAR301 PATX01 PABZ01 PAC1101 PAC1001 PAC1102 PAC1002 PAC1201 PAR302 PAC1202 PAR301 PATX01 PABZ01 PAC1101 PAC1001 PAC1102 PAC1002 PAC1201 PAR302 PAC1202 PAR301 PATX01 PABZ01 PAC1101 PAC1001 PAC1102 PAC1002 PAC1201 PAR302 PAC1202 PAR301 PATX01 PABZ01 PAC1101 PAC1001 PAC1102 PAC1002 PAC1201 PAR302 PAC1202 PAR301"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            303.4,
+            159.38,
+            532.61,
+            165.09
+          ],
+          "word_count": 25,
+          "text": "PAICP04 PAICP03 PAICP02 PAICP01 PAMK01 PAICP04 PAICP03 PAICP02 PAICP01 PAMK01 PAICP04 PAICP03 PAICP02 PAICP01 PAMK01 PAICP04 PAICP03 PAICP02 PAICP01 PAMK01 PAICP04 PAICP03 PAICP02 PAICP01 PAMK01"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            265.6,
+            165.38,
+            535.61,
+            172.28
+          ],
+          "word_count": 106,
+          "text": "COBUZZER PAVBAT01 PAC502 PAR1601 PAC501 PAR1602 PAC601 PAR1702 PAC602 PAR1701 PAR201 PAR102 PAR202 PAR101 PAR501 PAR502 PAW01 PAR601 PAR602 PAR701 PAR702 PAGND01 PAR1601 PAC502 PAVBAT01 PAC501 PAR1602 PAR1702 PAC601 PAR1701 PAC602 PAR102 PAR201 PAR202 PAR101 PAR501 PAR502 PAW01 PAR601 PAR602 PAR701 PAR702 PAGND01 PAVBAT01 PAR1601 PAC502 PAR1602 PAC501 PAR1702 PAC601 PAR1701 PAC602 PAR102 PAR201 PAR101 PAR202 PAR501 PAR502 PAW01 PAR601 PAR602 PAR701 PAR702 PAGND01 PAR1601 PAVBAT01 PAC502 PAR1602 PAC501 PAR1702 PAC601 PAR1701 PAC602 PAR102 PAR201 PAR101 PAR202 PAR501 PAR502 PAW01 PAR601 PAR602 PAR701 PAR702 PAGND01 PAR1601 PAC502 PAVBAT01 PAR1602 PAC501 PAR1702 PAC601 PAR1701 PAC602 PAR102 PAR201 PAR101 PAR202 PAR501 PAR502 PAW01 PAR601 PAR602 PAR701 PAR702 PAGND01"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            313.6,
+            172.73,
+            530.2,
+            176.48
+          ],
+          "word_count": 10,
+          "text": "PAR01 PAY01 PAR01 PAY01 PAR01 PAY01 PAR01 PAY01 PAR01 PAY01"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            311.8,
+            177.81,
+            529.62,
+            180.07
+          ],
+          "word_count": 30,
+          "text": "PALEDR01 PALEDR02 PALEDW01 PALEDW02 PALEDY01 PALEDY02 PALEDR01 PALEDR02 PALEDW01 PALEDW02 PALEDY01 PALEDY02 PALEDR01 PALEDR02 PALEDW01 PALEDW02 PALEDY01 PALEDY02 PALEDR01 PALEDR02 PALEDW01 PALEDW02 PALEDY01 PALEDY02 PALEDR01 PALEDR02 PALEDW01 PALEDW02 PALEDY01 PALEDY02"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            311.2,
+            181.58,
+            530.21,
+            186.09
+          ],
+          "word_count": 10,
+          "text": "PABUZZER02 PABUZZER01 PABUZZER02 PABUZZER01 PABUZZER02 PABUZZER01 PABUZZER02 PABUZZER01 PABUZZER02 PABUZZER01"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            304.0,
+            189.96,
+            539.8,
+            196.28
+          ],
+          "word_count": 15,
+          "text": "PAVBAT01 PAR902 PAR901 PAVBAT01 PAR902 PAR901 PAVBAT01 PAR902 PAR901 PAVBAT01 PAR902 PAR901 PAVBAT01 PAR902 PAR901"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            299.8,
+            195.07,
+            529.6,
+            202.27
+          ],
+          "word_count": 60,
+          "text": "PAGND01 PAL101 PAL102 PAU105 PAU104 PAU101 PAU102 PAU103 PAC301 PAC302 PAC401 PAC402 PAGND01 PAL102 PAL101 PAU105 PAU104 PAU101 PAU102 PAU103 PAC301 PAC302 PAC401 PAC402 PAGND01 PAL102 PAL101 PAU105 PAU104 PAU101 PAU102 PAU103 PAC301 PAC302 PAC401 PAC402 PAGND01 PAL102 PAL101 PAU105 PAU104 PAU101 PAU102 PAU103 PAC301 PAC302 PAC401 PAC402 PAGND01 PAL102 PAL101 PAU105 PAU104 PAU101 PAU102 PAU103 PAC301 PAC302 PAC401 PAC402"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            309.4,
+            201.67,
+            545.8,
+            204.67
+          ],
+          "word_count": 20,
+          "text": "PAC201 PAC202 PAB304 PAB301 PAC201 PAC202 PAB304 PAB301 PAC201 PAC202 PAB304 PAB301 PAC201 PAC202 PAB304 PAB301 PAC201 PAC202 PAB304 PAB301"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            304.0,
+            206.47,
+            545.8,
+            210.68
+          ],
+          "word_count": 20,
+          "text": "PAC101 PAC102 PAB305 PAB302 PAC101 PAC102 PAB305 PAB302 PAC101 PAC102 PAB305 PAB302 PAC101 PAC102 PAB305 PAB302 PAC101 PAC102 PAB305 PAB302"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            298.0,
+            211.13,
+            545.8,
+            219.09
+          ],
+          "word_count": 35,
+          "text": "PAF102 PAB102 PAB101 PAR801 PAR802 PAB306 PAB303 PAF102 PAB102 PAB101 PAR801 PAR802 PAB306 PAB303 PAF102 PAB102 PAB101 PAR801 PAR802 PAB306 PAB303 PAF102 PAB102 PAB101 PAR801 PAR802 PAB306 PAB303 PAF102 PAB102 PAB101 PAR801 PAR802 PAB306 PAB303"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            261.4,
+            215.95,
+            523.61,
+            222.71
+          ],
+          "word_count": 11,
+          "text": "COBAT PAD102 PAD101 PAD102 PAD101 PAD102 PAD101 PAD102 PAD101 PAD102 PAD101"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            298.0,
+            222.01,
+            534.4,
+            234.76
+          ],
+          "word_count": 15,
+          "text": "PAF101 PABAT01 PABAT02 PAF101 PABAT01 PABAT02 PAF101 PABAT01 PABAT02 PAF101 PABAT01 PABAT02 PAF101 PABAT01 PABAT02"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            314.2,
+            246.7,
+            527.2,
+            252.7
+          ],
+          "word_count": 10,
+          "text": "PAB202 PAB201 PAB202 PAB201 PAB202 PAB201 PAB202 PAB201 PAB202 PAB201"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            314.2,
+            284.62,
+            527.2,
+            289.89
+          ],
+          "word_count": 11,
+          "text": "PAB201 PAB202 COB2 PAB201 PAB202 PAB201 PAB202 PAB201 PAB202 PAB201 PAB202"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            307.0,
+            301.35,
+            535.63,
+            313.35
+          ],
+          "word_count": 10,
+          "text": "PABAT02 PABAT01 PABAT02 PABAT01 PABAT02 PABAT01 PABAT02 PABAT01 PABAT02 PABAT01"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            334.0,
+            309.53,
+            543.4,
+            313.28
+          ],
+          "word_count": 5,
+          "text": "PAF101 PAF101 PAF101 PAF101 PAF101"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            314.2,
+            313.76,
+            543.4,
+            323.46
+          ],
+          "word_count": 32,
+          "text": "PAB101 PAR802 COD1 PAD101 PAB102 COB1 PAD102 PAF102 PAB101 PAR802 PAD101 PAB102 PAD102 PAF102 PAB101 PAR802 PAD101 PAB102 PAD102 PAF102 PAR802 PAB101 PAD101 PAB102 PAD102 PAF102 PAB101 PAR802 PAD101 PAB102 PAD102 PAF102"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            295.6,
+            322.88,
+            518.8,
+            327.67
+          ],
+          "word_count": 17,
+          "text": "PAB303 PAB306 COR8 PAR801 COF1 PAB303 PAB306 PAR801 PAB303 PAB306 PAR801 PAB303 PAB306 PAR801 PAB303 PAB306 PAR801"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            295.6,
+            327.08,
+            537.4,
+            333.07
+          ],
+          "word_count": 21,
+          "text": "PAB302 PAB305 PAC102 PAC101 COC1 PAB302 PAB305 PAC102 PAC101 PAB302 PAB305 PAC102 PAC101 PAB302 PAB305 PAC102 PAC101 PAB302 PAB305 PAC102 PAC101"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            295.6,
+            332.33,
+            541.6,
+            340.87
+          ],
+          "word_count": 68,
+          "text": "PAB301 COB3 PAB304 PAC402 PAC401 PAC302 PAC301 PAU103 PAU102 COU1 PAU104 PAC202 PAL101 PAC201 COC2 PAGND01 PAB301 PAB304 PAC402 PAC401 PAC302 PAC301 PAU103 PAU102 PAU104 PAC202 PAL101 PAC201 PAGND01 PAB301 PAB304 PAC402 PAC401 PAC302 PAC301 PAU103 PAU102 PAU104 PAC202 PAL101 PAC201 PAGND01 PAB301 PAB304 PAC402 PAC401 PAC302 PAC301 PAU103 PAU102 PAU104 PAC202 PAL101 PAC201 PAGND01 PAB301 PAB304 PAC402 PAC401 PAC302 PAC301 PAU103 PAU102 PAU104 PAC202 PAL101 PAC201 PAGND01"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            301.6,
+            339.68,
+            537.4,
+            346.27
+          ],
+          "word_count": 25,
+          "text": "COR9 COC4 COC3 PAU101 PAU105 PAL102 COL1 PAVBAT01 COVBAT PAU101 PAU105 PAL102 PAVBAT01 PAU101 PAU105 PAL102 PAVBAT01 PAU101 PAU105 PAL102 PAVBAT01 PAU101 PAU105 PAL102 PAVBAT01"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            301.6,
+            346.56,
+            507.4,
+            348.06
+          ],
+          "word_count": 10,
+          "text": "PAR901 PAR902 PAR901 PAR902 PAR901 PAR902 PAR901 PAR902 PAR901 PAR902"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            311.2,
+            350.78,
+            530.21,
+            355.29
+          ],
+          "word_count": 10,
+          "text": "PABUZZER01 PABUZZER02 PABUZZER01 PABUZZER02 PABUZZER01 PABUZZER02 PABUZZER01 PABUZZER02 PABUZZER01 PABUZZER02"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            305.81,
+            357.81,
+            529.6,
+            364.89
+          ],
+          "word_count": 43,
+          "text": "COLEDY PAY01 PALEDY02 PALEDY01 COLEDW PALEDW02 PALEDW01 PAR01 PALEDR02 PALEDR01 COLEDR PAY01 PALEDY02 PALEDY01 PALEDW02 PALEDW01 PAR01 PALEDR02 PALEDR01 PAY01 PALEDY02 PALEDY01 PALEDW02 PALEDW01 PAR01 PALEDR02 PALEDR01 PAY01 PALEDY02 PALEDY01 PALEDW02 PALEDW01 PAR01 PALEDR02 PALEDR01 PAY01 PALEDY02 PALEDY01 PALEDW02 PALEDW01 PAR01 PALEDR02 PALEDR01"
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            305.2,
+            363.08,
+            541.6,
+            372.67
+          ],
+          "word_count": 118,
+          "text": "COGND PAGND01 COY COR7 PAR702 PAR701 PAW01 COR6 PAR602 PAR601 COR5 PAR502 PAR501 COW COR COR2 PAR101 PAR202 COR1 PAR102 PAR201 COR17 COC6 PAC602 PAR1701 PAC601 PAR1702 PAVBAT01 COC5 PAC501 PAR1602 PAC502 PAR1601 COR16 PAGND01 PAR702 PAR701 PAW01 PAR602 PAR601 PAR502 PAR501 PAR101 PAR202 PAR102 PAR201 PAC602 PAR1701 PAC601 PAR1702 PAVBAT01 PAC501 PAR1602 PAC502 PAR1601 PAGND01 PAR702 PAR701 PAW01 PAR602 PAR601 PAR502 PAR501 PAR101 PAR202 PAR102 PAR201 PAC602 PAR1701 PAR1702 PAC601 PAVBAT01 PAC501 PAR1602 PAC502 PAR1601 PAGND01 PAR702 PAR701 PAW01 PAR602 PAR601 PAR502 PAR501 PAR101 PAR202 PAR102 PAR201 PAR1701 PAC602 PAR1702 PAC601 PAVBAT01 PAR1602 PAC501 PAR1601 PAC502 PAGND01 PAR702 PAR701 PAW01 PAR601 PAR602 PAR501 PAR502 PAR101 PAR202 PAR102 PAR201 PAR1701 PAC602 PAR1702 PAC601 PAVBAT01 PAR1602 PAC501 PAR1601 PAC502"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            305.2,
+            371.78,
+            537.99,
+            377.48
+          ],
+          "word_count": 27,
+          "text": "COMK PAMK01 PAICP01 PAICP02 PAICP03 PAICP04 COICP PAMK01 PAICP01 PAICP02 PAICP03 PAICP04 PAMK01 PAICP01 PAICP02 PAICP03 PAICP04 PAMK01 PAICP01 PAICP02 PAICP03 PAICP04 PAMK01 PAICP01 PAICP02 PAICP03 PAICP04"
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            301.0,
+            376.73,
+            535.01,
+            387.09
+          ],
+          "word_count": 73,
+          "text": "COC18 PANTC201 PAR401 COR3 COC12 COU2 PAC1202 PAR301 PAC1201 PAR302 PAB0101 PAC1002 PAC1102 PAC1101 PAC1001 COBZ COC10 COC11 PABZ01 PATX01 COTX PANTC201 PAR401 PAR301 PAC1202 PAR302 PAC1201 PAB0101 PAC1002 PAC1102 PAC1001 PAC1101 PABZ01 PATX01 PAR401 PANTC201 PAR301 PAC1202 PAR302 PAC1201 PAB0101 PAC1002 PAC1102 PAC1001 PAC1101 PABZ01 PATX01 PANTC201 PAR401 PAR301 PAC1202 PAR302 PAC1201 PAB0101 PAC1002 PAC1102 PAC1001 PAC1101 PABZ01 PATX01 PAR401 PANTC201 PAR301 PAC1202 PAC1201 PAR302 PAB0101 PAC1002 PAC1102 PAC1001 PAC1101 PABZ01 PATX01"
+        },
+        {
+          "row_index": 35,
+          "bbox": [
+            301.6,
+            383.33,
+            536.2,
+            393.08
+          ],
+          "word_count": 152,
+          "text": "PAR1501 PAC1801 PAR1502 PAC1802 COR15 COC7 PAC701 PAC702 CONTC2 PAC802 PAC801 PAR402 COR4 PAU202 PAU203 PAU201 COB01 PAU2048 PAU2047 PAU2046 PAU2045 PAU2044 PAU2043 COB02 PAB0201 PAU2042 PAU2041 PAU2040 PAU2039 PAU2038 COPCTL PAU2037 PAPCTL01 PAU2034 PAU2035 PAU2036 PAC1801 PAR1501 PAC1802 PAR1502 PAC701 PAC702 PAC802 PAC801 PAR402 PAU202 PAU201 PAU203 PAU2048 PAU2047 PAU2046 PAU2045 PAU2044 PAU2043 PAU2042 PAB0201 PAU2041 PAU2040 PAU2039 PAU2038 PAU2037 PAPCTL01 PAU2034 PAU2035 PAU2036 PAC1801 PAR1501 PAC1802 PAR1502 PAC701 PAC702 PAC802 PAC801 PAR402 PAU202 PAU201 PAU203 PAU2048 PAU2047 PAU2046 PAU2045 PAU2044 PAU2043 PAB0201 PAU2042 PAU2041 PAU2040 PAU2039 PAU2038 PAU2037 PAPCTL01 PAU2034 PAU2035 PAU2036 PAC1801 PAR1501 PAC1802 PAR1502 PAC701 PAC702 PAC802 PAC801 PAR402 PAU202 PAU201 PAU203 PAU2048 PAU2047 PAU2046 PAU2045 PAU2044 PAU2043 PAU2042 PAB0201 PAU2041 PAU2040 PAU2039 PAU2038 PAU2037 PAPCTL01 PAU2034 PAU2036 PAU2035 PAC1801 PAR1501 PAC1802 PAR1502 PAC701 PAC702 PAC802 PAC801 PAR402 PAU202 PAU201 PAU203 PAU2048 PAU2047 PAU2046 PAU2045 PAU2044 PAU2043 PAB0201 PAU2042 PAU2041 PAU2040 PAU2039 PAU2038 PAU2037 PAPCTL01 PAU2034 PAU2036 PAU2035"
+        },
+        {
+          "row_index": 36,
+          "bbox": [
+            299.8,
+            390.53,
+            536.2,
+            401.49
+          ],
+          "word_count": 96,
+          "text": "PANTC01 PANTC02 COC8 PAU205 PAU208 PAU2010 PAU2011 PAU206 PAU209 PAU204 PAU207 PACOM301 PAU2031 PAU2026 PAU2032 PAU2029 PAU2027 PAU2033 PAU2030 PAU2028 PANTC01 PANTC02 PAU2010 PAU205 PAU208 PAU206 PAU209 PAU2011 PAU204 PAU207 PACOM301 PAU2031 PAU2026 PAU2032 PAU2029 PAU2027 PAU2033 PAU2030 PAU2028 PANTC01 PANTC02 PAU205 PAU208 PAU2010 PAU206 PAU209 PAU2011 PAU204 PAU207 PACOM301 PAU2031 PAU2026 PAU2032 PAU2029 PAU2027 PAU2033 PAU2030 PAU2028 PANTC01 PANTC02 PAU205 PAU208 PAU2010 PAU206 PAU209 PAU2011 PAU204 PAU207 PACOM301 PAU2031 PAU2026 PAU2033 PAU2032 PAU2030 PAU2029 PAU2028 PAU2027 PANTC01 PANTC02 PAU205 PAU208 PAU206 PAU209 PAU2010 PAU2011 PAU204 PAU207 PACOM301 PAU2031 PAU2026 PAU2033 PAU2030 PAU2028 PAU2032 PAU2029 PAU2027"
+        },
+        {
+          "row_index": 37,
+          "bbox": [
+            300.4,
+            398.79,
+            536.2,
+            408.08
+          ],
+          "word_count": 100,
+          "text": "CONTC COR11 PANTC101 CONTC1 PAR1101 PAR1102 COR14 PACOM101 COR12 PASEG001 PAU2012 PAU2013 PAU2014 PAU2015 PAU2016 PAU2017 PAU2018 PAU2019 PAU2020 PAU2021 PAU2022 PAU2023 PAU2024 PAU2025 PANTC101 PAR1101 PAR1102 PACOM101 PAU2012 PASEG001 PAU2013 PAU2014 PAU2015 PAU2016 PAU2017 PAU2018 PAU2019 PAU2020 PAU2021 PAU2022 PAU2023 PAU2024 PAU2025 PANTC101 PAR1101 PAR1102 PACOM101 PASEG001 PAU2012 PAU2013 PAU2014 PAU2015 PAU2016 PAU2017 PAU2018 PAU2019 PAU2020 PAU2021 PAU2022 PAU2023 PAU2024 PAU2025 PANTC101 PAR1101 PAR1102 PACOM101 PAU2012 PASEG001 PAU2013 PAU2014 PAU2015 PAU2016 PAU2017 PAU2018 PAU2019 PAU2020 PAU2021 PAU2022 PAU2023 PAU2024 PAU2025 PANTC101 PAR1101 PAR1102 PACOM101 PAU2012 PASEG001 PAU2013 PAU2014 PAU2015 PAU2016 PAU2017 PAU2018 PAU2019 PAU2020 PAU2021 PAU2022 PAU2023 PAU2024 PAU2025"
+        },
+        {
+          "row_index": 38,
+          "bbox": [
+            297.4,
+            406.13,
+            523.0,
+            416.49
+          ],
+          "word_count": 117,
+          "text": "COC15 PAS201 COS2 COC13 PAC1502 PAC1501 PAC1401 PAC1402 PAR1002 PAC1301 COR10 PAR1001 PAC1302 COC17 PAR1401 PAC1701 PAR1402 PAR1301 PAC1702 PAR1302 PAR1201 PAR1202 COC16 PAC1601 PAC1602 PASEG201 COC9 PAC901 PAC902 PAS201 PAC1502 PAC1501 PAC1401 PAC1301 PAR1002 PAC1402 PAC1302 PAR1001 PAR1401 PAC1701 PAR1402 PAC1702 PAR1301 PAR1302 PAR1201 PAR1202 PAC1601 PAC1602 PASEG201 PAC901 PAC902 PAS201 PAC1502 PAC1501 PAC1401 PAC1301 PAR1002 PAC1402 PAC1302 PAR1001 PAR1401 PAC1701 PAR1402 PAC1702 PAR1301 PAR1302 PAR1201 PAR1202 PAC1601 PAC1602 PASEG201 PAC901 PAC902 PAS201 PAC1502 PAC1501 PAC1401 PAC1301 PAR1002 PAC1402 PAC1302 PAR1001 PAR1401 PAC1701 PAR1402 PAC1702 PAR1301 PAR1302 PAR1201 PAR1202 PAC1601 PAC1602 PASEG201 PAC901 PAC902 PAS201 PAC1502 PAC1501 PAC1401 PAC1301 PAR1002 PAC1402 PAC1302 PAR1001 PAR1401 PAC1701 PAR1402 PAC1702 PAR1301 PAR1302 PAR1201 PAR1202 PAC1601 PAC1602 PASEG201 PAC901 PAC902"
+        },
+        {
+          "row_index": 39,
+          "bbox": [
+            299.2,
+            413.48,
+            538.6,
+            421.28
+          ],
+          "word_count": 68,
+          "text": "PAS101 COC14 COS1 PACOM201 PACOM001 COR13 PASEG101 PASEG301 PASEG401 PASEG501 PASEG601 PASEG701 PASEG801 PASEG901 PASEG1001 PASEG1101 PAS101 PACOM201 PACOM001 PASEG101 PASEG301 PASEG401 PASEG501 PASEG601 PASEG701 PASEG801 PASEG901 PASEG1001 PASEG1101 PAS101 PACOM201 PACOM001 PASEG101 PASEG301 PASEG401 PASEG501 PASEG601 PASEG701 PASEG801 PASEG901 PASEG1001 PASEG1101 PAS101 PACOM201 PACOM001 PASEG101 PASEG301 PASEG401 PASEG501 PASEG601 PASEG701 PASEG801 PASEG901 PASEG1001 PASEG1101 PAS101 PACOM201 PACOM001 PASEG101 PASEG301 PASEG401 PASEG501 PASEG601 PASEG701 PASEG801 PASEG901 PASEG1001 PASEG1101"
+        },
+        {
+          "row_index": 40,
+          "bbox": [
+            300.4,
+            418.9,
+            537.46,
+            426.09
+          ],
+          "word_count": 96,
+          "text": "PASENSOR01 PALCD01 PASENSOR02 PALCD02 PALCD03 PALCD04 PASENSOR03 PALCD05 PALCD06 COSENSOR PALCD07 PALCD08 PALCD09 PALCD010 PALCD011 PALCD012 PALCD013 PALCD014 PALCD015 PALCD016 PASENSOR01 PALCD01 PASENSOR02 PALCD02 PALCD03 PALCD04 PASENSOR03 PALCD05 PALCD06 PALCD07 PALCD08 PALCD09 PALCD010 PALCD011 PALCD012 PALCD013 PALCD014 PALCD015 PALCD016 PASENSOR01 PALCD01 PASENSOR02 PALCD02 PALCD03 PALCD04 PASENSOR03 PALCD05 PALCD06 PALCD07 PALCD08 PALCD09 PALCD010 PALCD011 PALCD012 PALCD013 PALCD014 PALCD015 PALCD016 PASENSOR01 PALCD01 PASENSOR02 PALCD02 PALCD03 PALCD04 PASENSOR03 PALCD05 PALCD06 PALCD07 PALCD08 PALCD09 PALCD010 PALCD011 PALCD012 PALCD013 PALCD014 PALCD015 PALCD016 PASENSOR01 PALCD01 PASENSOR02 PALCD02 PALCD03 PALCD04 PASENSOR03 PALCD05 PALCD06 PALCD07 PALCD08 PALCD09 PALCD010 PALCD011 PALCD012 PALCD013 PALCD014 PALCD015 PALCD016"
+        },
+        {
+          "row_index": 41,
+          "bbox": [
+            303.4,
+            426.08,
+            307.6,
+            429.07
+          ],
+          "word_count": 1,
+          "text": "COLCD"
+        },
+        {
+          "row_index": 42,
+          "bbox": [
+            319.0,
+            435.99,
+            528.41,
+            440.49
+          ],
+          "word_count": 4,
+          "text": "PA2010101 PA1010101 PA3010101 PA4010101"
+        },
+        {
+          "row_index": 43,
+          "bbox": [
+            309.4,
+            441.1,
+            538.0,
+            447.1
+          ],
+          "word_count": 4,
+          "text": "CO20101 CO10101 CO40101 CO30101"
+        },
+        {
+          "row_index": 44,
+          "bbox": [
+            9.59,
+            506.96,
+            719.94,
+            523.23
+          ],
+          "word_count": 7,
+          "text": "3 产品名称 红外体温计 产品型号 PT9L 版本 V1.0"
+        },
+        {
+          "row_index": 45,
+          "bbox": [
+            10.31,
+            524.02,
+            714.3,
+            535.27
+          ],
+          "word_count": 5,
+          "text": "2 PCB编号 PT9L-HFMP01 V1.0 拼板示意图(底层)"
+        },
+        {
+          "row_index": 46,
+          "bbox": [
+            10.31,
+            537.66,
+            713.49,
+            548.68
+          ],
+          "word_count": 10,
+          "text": "1 设计 审核 批准 第 7 页 共 7 页"
+        },
+        {
+          "row_index": 47,
+          "bbox": [
+            6.23,
+            549.16,
+            581.02,
+            561.85
+          ],
+          "word_count": 9,
+          "text": "NO. 更 改 记 录 更改时间 日期 日期 日期"
+        }
+      ]
+    },
+    {
+      "page_index": 10,
+      "width": 841.92,
+      "height": 595.32,
+      "text_block_count": 6,
+      "word_count": 12,
+      "row_count": 11,
+      "table_like_row_count": 0,
+      "drawing_path_count": 810,
+      "drawing_item_count": 4141,
+      "line_item_count": 4140,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            142.67,
+            44.04,
+            160.07,
+            131.04
+          ],
+          "word_count": 1,
+          "text": "技术要求："
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            99.31,
+            42.82,
+            139.14,
+            165.71
+          ],
+          "word_count": 2,
+          "text": "2.产品符合rohs 1.TH.=1.0±0.1"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            8.74,
+            105.11,
+            18.34,
+            114.71
+          ],
+          "word_count": 1,
+          "text": "更"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            8.74,
+            124.31,
+            18.34,
+            133.91
+          ],
+          "word_count": 1,
+          "text": "改"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            8.74,
+            143.51,
+            18.34,
+            153.11
+          ],
+          "word_count": 1,
+          "text": "记"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            8.74,
+            162.52,
+            18.34,
+            172.12
+          ],
+          "word_count": 1,
+          "text": "录"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            99.31,
+            174.41,
+            116.71,
+            200.33
+          ],
+          "word_count": 1,
+          "text": "2.0"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            9.12,
+            256.2,
+            17.76,
+            290.92
+          ],
+          "word_count": 1,
+          "text": "更改时间"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            64.73,
+            637.09,
+            71.21,
+            669.62
+          ],
+          "word_count": 1,
+          "text": "环氧树脂板"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            44.79,
+            788.03,
+            55.71,
+            804.3
+          ],
+          "word_count": 1,
+          "text": "PCB"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            565.08,
+            801.6,
+            572.88,
+            832.8
+          ],
+          "word_count": 1,
+          "text": "尺寸序号"
+        }
+      ]
+    }
+  ]
+}

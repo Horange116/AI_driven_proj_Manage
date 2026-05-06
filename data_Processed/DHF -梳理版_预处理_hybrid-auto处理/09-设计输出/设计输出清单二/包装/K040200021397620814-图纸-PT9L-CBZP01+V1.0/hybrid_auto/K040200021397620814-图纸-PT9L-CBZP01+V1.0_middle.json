@@ -1,0 +1,679 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "bbox": [
+                        80,
+                        64,
+                        220,
+                        121
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                80,
+                                64,
+                                220,
+                                121
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        64,
+                                        220,
+                                        121
+                                    ],
+                                    "type": "text",
+                                    "content": "andon"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        1699,
+                        65,
+                        1823,
+                        93
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                1699,
+                                65,
+                                1823,
+                                93
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        1699,
+                                        65,
+                                        1823,
+                                        93
+                                    ],
+                                    "type": "text",
+                                    "content": "X 尺寸序号"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        707,
+                        188,
+                        1403,
+                        1007
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                707,
+                                188,
+                                1403,
+                                1007
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        707,
+                                        188,
+                                        1403,
+                                        1007
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                707,
+                                                188,
+                                                1403,
+                                                1007
+                                            ],
+                                            "type": "image",
+                                            "content": "iHealth\nINCLUDES\niHealth® PT9L\nInfrared No-Touch Forehead Thermometer\n159mm\n36mm\n58.5mm\niHealth\n3-in-1 Measurement Mode\nDynamic Measurement Mode\nColor Coded Fever Alert\n40 Temperature Memories\nPT9L-CBZP01 V2.0\niHealth PT9L\nInfrared No-Touch Forehead Thermometer\nModel: PT9L\nMeasurement Distance: ±1.18in(3cm)\nReference Body Site: Oral\nPower Source: DC 2 x 1.5V== SIZE AAA batteries\nMeasurement Range: 89.6°F-109.2°F (32°C-42.9°C)\nMeasurement Precision: ±0.4°F/0.2°C within 95°F-107.6°F\n(35°C-42°C), and ±0.5°F/0.3°C for other temperature ranges.\nResolution: 0.1°F/0.1°C\nClinical Reproducibility: Within ±0.5°F/0.3°C\nOperating Conditions: Temperature: 50°F-104°F(10°C-40°C)\nHumidity: 15-95%RH, non-condensing\nAtmospheric Pressure: 70kPa-106kPa\nTransportation and Storage Conditions:\nTemperature: -4°F-131°F (-20°C-55°C);\nHumidity: 15-95%RH, non-condensing;\nAtmospheric Pressure: 70kPa-106kPa\nManufactured for:\nUSA:\niHealth Labs, Inc. www.ihealthlabs.com\n880 W Maude Ave, Sunnyvale, CA 94085 USA +1-855-816-7705\nEurope:\niHealthLabs Europe SAS www.ihealthlabs.eu\n36 Rue de Ponthieu, 75008, Paris, France\nEC REP iHealthLabs Europe SAS www.ihealthlabs.eu\n36 Rue de Ponthieu, 75008, Paris, France\nANDON HEALTH CO., LTD.\nNo. 3 Jumping Street, Yuan Road, Nankai District,\nTianjin 300190, China.\niHealth is a trademark of iHealth Labs, Inc., registered in the U.S.\nand other countries.\n©2024 iHealth Labs, Inc.\nAll rights reserved.\nMade in China",
+                                            "image_path": "72d6ee5eea0a4f4ff1eeab14367138b8a5fa206fb646bfd9dfba55124e62600d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "sub_type": "text_image"
+                },
+                {
+                    "bbox": [
+                        99,
+                        899,
+                        436,
+                        937
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                99,
+                                899,
+                                436,
+                                937
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        899,
+                                        436,
+                                        937
+                                    ],
+                                    "type": "text",
+                                    "content": "本件要求通过RoHS测试"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        99,
+                        951,
+                        510,
+                        989
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                99,
+                                951,
+                                510,
+                                989
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        951,
+                                        510,
+                                        989
+                                    ],
+                                    "type": "text",
+                                    "content": "说明：材质为：350g白卡，覆哑膜"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        99,
+                        1003,
+                        566,
+                        1035
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                99,
+                                1003,
+                                566,
+                                1035
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        1003,
+                                        566,
+                                        1035
+                                    ],
+                                    "type": "text",
+                                    "content": "尺寸：58.5X36X159mm，公差：±1mm"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        101,
+                        1051,
+                        860,
+                        1087
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                101,
+                                1051,
+                                860,
+                                1087
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        1051,
+                                        860,
+                                        1087
+                                    ],
+                                    "type": "text",
+                                    "content": "印刷颜色：4色+2专色印刷:PANTONE 1655C +PANTONE Cool Gray 11C"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "merge_prev": false
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        28,
+                        1139,
+                        1857,
+                        1301
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                28,
+                                1139,
+                                1857,
+                                1301
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        28,
+                                        1139,
+                                        1857,
+                                        1301
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                28,
+                                                1139,
+                                                1857,
+                                                1301
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td></td><td>K04020002139</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">彩包装</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-CBZP01</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "8360c9948e5b17bc61f1c1dd824b6113042a511eed1d90f88d590b4bb9a61d52.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        26,
+                        82,
+                        48,
+                        1040
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                26,
+                                82,
+                                48,
+                                1040
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        82,
+                                        48,
+                                        1040
+                                    ],
+                                    "type": "text",
+                                    "content": "1\n2\n3\n4\n5\n6\n7\n8"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        135,
+                        30,
+                        1750,
+                        49
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                135,
+                                30,
+                                1750,
+                                49
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        135,
+                                        30,
+                                        1750,
+                                        49
+                                    ],
+                                    "type": "text",
+                                    "content": "A | B | C | D | E | F | G | H"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                1882,
+                1334
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "bbox": [
+                        80,
+                        64,
+                        220,
+                        121
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                80,
+                                64,
+                                220,
+                                121
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        64,
+                                        220,
+                                        121
+                                    ],
+                                    "type": "text",
+                                    "content": "andon"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        1699,
+                        65,
+                        1823,
+                        93
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                1699,
+                                65,
+                                1823,
+                                93
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        1699,
+                                        65,
+                                        1823,
+                                        93
+                                    ],
+                                    "type": "text",
+                                    "content": "X 尺寸序号"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        707,
+                        188,
+                        1403,
+                        1007
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                707,
+                                188,
+                                1403,
+                                1007
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        707,
+                                        188,
+                                        1403,
+                                        1007
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                707,
+                                                188,
+                                                1403,
+                                                1007
+                                            ],
+                                            "type": "image",
+                                            "content": "iHealth\nINCLUDES\niHealth® PT9L\nInfrared No-Touch Forehead Thermometer\n159mm\n36mm\n58.5mm\niHealth\n3-in-1 Measurement Mode\nDynamic Measurement Mode\nColor Coded Fever Alert\n40 Temperature Memories\nPT9L-CBZP01 V2.0\niHealth PT9L\nInfrared No-Touch Forehead Thermometer\nModel: PT9L\nMeasurement Distance: ±1.18in(3cm)\nReference Body Site: Oral\nPower Source: DC 2 x 1.5V== SIZE AAA batteries\nMeasurement Range: 89.6°F-109.2°F (32°C-42.9°C)\nMeasurement Precision: ±0.4°F/0.2°C within 95°F-107.6°F\n(35°C-42°C), and ±0.5°F/0.3°C for other temperature ranges.\nResolution: 0.1°F/0.1°C\nClinical Reproducibility: Within ±0.5°F/0.3°C\nOperating Conditions: Temperature: 50°F-104°F(10°C-40°C)\nHumidity: 15-95%RH, non-condensing\nAtmospheric Pressure: 70kPa-106kPa\nTransportation and Storage Conditions:\nTemperature: -4°F-131°F (-20°C-55°C);\nHumidity: 15-95%RH, non-condensing;\nAtmospheric Pressure: 70kPa-106kPa\nManufactured for:\nUSA:\niHealth Labs, Inc. www.ihealthlabs.com\n880 W Maude Ave, Sunnyvale, CA 94085 USA +1-855-816-7705\nEurope:\niHealthLabs Europe SAS www.ihealthlabs.eu\n36 Rue de Ponthieu, 75008, Paris, France\nEC REP iHealthLabs Europe SAS www.ihealthlabs.eu\n36 Rue de Ponthieu, 75008, Paris, France\nANDON HEALTH CO., LTD.\nNo. 3 Jumping Street, Yuan Road, Nankai District,\nTianjin 300190, China.\niHealth is a trademark of iHealth Labs, Inc., registered in the U.S.\nand other countries.\n©2024 iHealth Labs, Inc.\nAll rights reserved.\nMade in China",
+                                            "image_path": "72d6ee5eea0a4f4ff1eeab14367138b8a5fa206fb646bfd9dfba55124e62600d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "sub_type": "text_image"
+                },
+                {
+                    "bbox": [
+                        99,
+                        899,
+                        436,
+                        937
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                99,
+                                899,
+                                436,
+                                937
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        899,
+                                        436,
+                                        937
+                                    ],
+                                    "type": "text",
+                                    "content": "本件要求通过RoHS测试"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        99,
+                        951,
+                        510,
+                        989
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                99,
+                                951,
+                                510,
+                                989
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        951,
+                                        510,
+                                        989
+                                    ],
+                                    "type": "text",
+                                    "content": "说明：材质为：350g白卡，覆哑膜"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        99,
+                        1003,
+                        566,
+                        1035
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                99,
+                                1003,
+                                566,
+                                1035
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        99,
+                                        1003,
+                                        566,
+                                        1035
+                                    ],
+                                    "type": "text",
+                                    "content": "尺寸：58.5X36X159mm，公差：±1mm"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        101,
+                        1051,
+                        860,
+                        1087
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                101,
+                                1051,
+                                860,
+                                1087
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        1051,
+                                        860,
+                                        1087
+                                    ],
+                                    "type": "text",
+                                    "content": "印刷颜色：4色+2专色印刷:PANTONE 1655C +PANTONE Cool Gray 11C"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "merge_prev": false
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        28,
+                        1139,
+                        1857,
+                        1301
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                28,
+                                1139,
+                                1857,
+                                1301
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        28,
+                                        1139,
+                                        1857,
+                                        1301
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                28,
+                                                1139,
+                                                1857,
+                                                1301
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td></td><td>K04020002139</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">彩包装</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-CBZP01</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "8360c9948e5b17bc61f1c1dd824b6113042a511eed1d90f88d590b4bb9a61d52.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "3.1.6"
+}

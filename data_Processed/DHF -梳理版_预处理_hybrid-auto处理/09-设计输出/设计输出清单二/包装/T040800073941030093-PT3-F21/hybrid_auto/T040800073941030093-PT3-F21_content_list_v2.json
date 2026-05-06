@@ -1,0 +1,539 @@
+[
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/4809d559548ef4cd0bc46d4b75c3513203aa346a871a7e74c5d951034fc31abd.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>商品ID</td><td>SKU编码</td><td>商品名称</td><td>69码</td><td>产品型号</td></tr><tr><td>108237</td><td>3017452</td><td>iHealth 非接触式红外体温仪</td><td>6971177140117</td><td>PT3</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                13,
+                47,
+                757,
+                141
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d5d85ee0cc87c0780cd4b1cf13c46d494bb04d3fea9a09f950be4f5b5b7a8bcc.jpg"
+                },
+                "content": "20mm",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "背面有VOID防拆字样"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                344,
+                410,
+                427,
+                556
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "图纸提供单位"
+                    }
+                ]
+            },
+            "bbox": [
+                782,
+                80,
+                825,
+                94
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "北京爱和健康科技有限公司"
+                    }
+                ]
+            },
+            "bbox": [
+                809,
+                112,
+                929,
+                131
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "项目名称"
+                    }
+                ]
+            },
+            "bbox": [
+                782,
+                158,
+                813,
+                172
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "防拆签"
+                    }
+                ]
+            },
+            "bbox": [
+                809,
+                184,
+                840,
+                203
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "版本号"
+                    }
+                ]
+            },
+            "bbox": [
+                782,
+                225,
+                805,
+                238
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "V1.0 "
+                    }
+                ]
+            },
+            "bbox": [
+                809,
+                252,
+                829,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "规格"
+                    }
+                ]
+            },
+            "bbox": [
+                784,
+                283,
+                802,
+                297
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PT3-F21 "
+                    }
+                ]
+            },
+            "bbox": [
+                809,
+                326,
+                847,
+                342
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "设计时间"
+                    }
+                ]
+            },
+            "bbox": [
+                782,
+                359,
+                812,
+                373
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2019.04.03 "
+                    }
+                ]
+            },
+            "bbox": [
+                809,
+                386,
+                856,
+                402
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "设计师"
+                    }
+                ]
+            },
+            "bbox": [
+                782,
+                425,
+                805,
+                439
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "李杰"
+                    }
+                ]
+            },
+            "bbox": [
+                809,
+                449,
+                831,
+                466
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "材质工艺要求"
+                    }
+                ]
+            },
+            "bbox": [
+                782,
+                480,
+                825,
+                494
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "材质要求: 透明PET 0.025不干胶"
+                    }
+                ]
+            },
+            "bbox": [
+                782,
+                507,
+                923,
+                523
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "制作工序： 模切"
+                    }
+                ]
+            },
+            "bbox": [
+                782,
+                562,
+                852,
+                579
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "工艺要求: 色相正确、印迹牢固、"
+                    }
+                ]
+            },
+            "bbox": [
+                782,
+                601,
+                927,
+                618
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "套印准确、各色套印、"
+                    }
+                ]
+            },
+            "bbox": [
+                831,
+                622,
+                925,
+                640
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "不露杂色，套印误差≤0.1mm"
+                    }
+                ]
+            },
+            "bbox": [
+                831,
+                644,
+                963,
+                661
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "模切走位≤±0.5mm"
+                    }
+                ]
+            },
+            "bbox": [
+                831,
+                667,
+                921,
+                683
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本件要求通过RoHS测试"
+                    }
+                ]
+            },
+            "bbox": [
+                831,
+                689,
+                933,
+                706
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "颜色及专色：无 "
+                    }
+                ]
+            },
+            "bbox": [
+                782,
+                718,
+                844,
+                735
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "纹理要求"
+                    }
+                ]
+            },
+            "bbox": [
+                782,
+                767,
+                812,
+                782
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8890b590a6ce47e565a2c3f4522fae033dd7794799411c22bb12729164ec2c9e.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                821,
+                788,
+                854,
+                839
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "纹理方向"
+                    }
+                ]
+            },
+            "bbox": [
+                865,
+                786,
+                900,
+                802
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "选择正确的"
+                    }
+                ]
+            },
+            "bbox": [
+                867,
+                806,
+                894,
+                817
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "方向图标拖"
+                    }
+                ]
+            },
+            "bbox": [
+                867,
+                819,
+                894,
+                829
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "动到图纸里"
+                    }
+                ]
+            },
+            "bbox": [
+                867,
+                831,
+                894,
+                841
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/288b7136767b218a1fdd383703ab973c881fc2442d9a2ced3731d3853c97058b.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                906,
+                790,
+                940,
+                837
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "比例 1:1 单位 mm"
+                    }
+                ]
+            },
+            "bbox": [
+                887,
+                897,
+                979,
+                915
+            ]
+        }
+    ]
+]

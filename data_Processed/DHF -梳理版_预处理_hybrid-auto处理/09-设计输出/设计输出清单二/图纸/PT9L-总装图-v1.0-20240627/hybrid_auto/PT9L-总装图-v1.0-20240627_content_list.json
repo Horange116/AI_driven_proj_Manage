@@ -1,0 +1,78 @@
+[
+    {
+        "type": "text",
+        "text": "☒ 尺寸序号",
+        "bbox": [
+            945,
+            38,
+            982,
+            53
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "andon ",
+        "bbox": [
+            33,
+            42,
+            84,
+            73
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d9216b786447806b2899a12f041790e538c8d19abadb298031cc6e1e425a0d9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Exploded view diagram of a device with numbered parts for identification",
+        "sub_type": "text_image",
+        "bbox": [
+            57,
+            89,
+            644,
+            808
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/17f0f9a8c9194726d4d0744c1f2879f5b9a1e5228d8473ad9a24fc5381e7462a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>23</td><td>M2X5</td><td>螺钉</td><td>3</td></tr><tr><td>22</td><td>PT5-M02</td><td>正极弹簧</td><td>1</td></tr><tr><td>21</td><td>PT5-M03</td><td>负极弹簧</td><td>1</td></tr><tr><td>20</td><td>PT3-P10</td><td>双连弹簧</td><td>1</td></tr><tr><td>19</td><td></td><td>7号碱性电池</td><td>2</td></tr><tr><td>18</td><td>T-Z1-P04</td><td>电池盖</td><td>1</td></tr><tr><td>17</td><td>T-Z1-P08</td><td>保护盖</td><td>1</td></tr><tr><td>16</td><td>T-Z1-P02</td><td>下盖</td><td>1</td></tr><tr><td>15</td><td>T-Z1-P07</td><td>支架</td><td>1</td></tr><tr><td>14</td><td>PT3-M03</td><td>金属套</td><td>1</td></tr><tr><td>13</td><td>PT3-M01</td><td>压块</td><td>1</td></tr><tr><td>12</td><td></td><td>红外传感器</td><td>1</td></tr><tr><td>11</td><td>T-Z1-P10</td><td>PCB</td><td>1</td></tr><tr><td>10</td><td></td><td>快速探温电阻</td><td>1</td></tr><tr><td>09</td><td>M2X5</td><td>螺钉</td><td>7</td></tr><tr><td>08</td><td></td><td>PCB</td><td>1</td></tr><tr><td>07</td><td>T-Z1-P06</td><td>开关帽</td><td>1</td></tr><tr><td>06</td><td>T-Z1-P10</td><td>导光板</td><td>1</td></tr><tr><td>05</td><td>PT9L-L01</td><td>液晶</td><td>1</td></tr><tr><td>04</td><td>T-Z1-P12</td><td>斑马条</td><td>1</td></tr><tr><td>03</td><td>T-Z1-P05</td><td>按键</td><td>1</td></tr><tr><td>02</td><td>T-Z1-P01</td><td>上盖</td><td>1</td></tr><tr><td>01</td><td>T-Z1-P09</td><td>透镜</td><td>1</td></tr><tr><td>序号</td><td>零件编号</td><td>零件名称</td><td>数量</td></tr></table>",
+        "bbox": [
+            697,
+            327,
+            988,
+            870
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/cbc55081b1b57a503b15c45ef1152310e546a52830e3b662c4df7e07743e3d88.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>6</td><td></td><td></td><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>ABS</td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>5</td><td></td><td></td><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">总装图</td></tr><tr><td>4</td><td></td><td></td><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-A01</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+        "bbox": [
+            10,
+            872,
+            988,
+            984
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "A | B | C | D | E | F | G | H ",
+        "bbox": [
+            8,
+            11,
+            988,
+            33
+        ],
+        "page_idx": 0
+    }
+]

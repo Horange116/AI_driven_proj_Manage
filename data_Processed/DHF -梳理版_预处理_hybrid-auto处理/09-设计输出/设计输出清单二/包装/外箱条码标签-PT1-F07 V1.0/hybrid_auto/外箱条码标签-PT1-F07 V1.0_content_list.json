@@ -1,0 +1,114 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/ec88961a2fc5b4f6aca6f907b1ce2430c424cc5f42cc9ad658c657ed689e618e.jpg",
+        "image_caption": [
+            "andon "
+        ],
+        "image_footnote": [],
+        "content": "40mm\n15mm\n(10)201012011001\n比例：1:1\n说明：\n字体：Myriad Pro 6pt\n(10) 批号：201012011001为变量\n（批号依据柯顿规则执行）\n第1-6位：制造令代码\n第7-9位：部件序号\n第10-12位：批次序列号",
+        "sub_type": "text_image",
+        "bbox": [
+            83,
+            196,
+            370,
+            450
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "chart",
+        "img_path": "images/20535e9c698620ae7146a3a7e6bb2c6258ac00aabba88febb91f68379ca7e7ab.jpg",
+        "content": "| Segment | Value |\n| ------- | ----- |\n| Top Left | 40mm  |\n| Bottom Right | 15mm  |\n| Bottom Left (10) | 201012011001 |",
+        "chart_caption": [],
+        "chart_footnote": [],
+        "sub_type": "bar",
+        "bbox": [
+            407,
+            381,
+            913,
+            705
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本件要求通过RoHS测试",
+        "bbox": [
+            66,
+            707,
+            231,
+            734
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "说明：80g不干胶铜版纸 覆膜",
+        "bbox": [
+            68,
+            744,
+            252,
+            769
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "印刷颜色: 单黑",
+        "bbox": [
+            67,
+            786,
+            179,
+            813
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/b1851ebd09fb8ac075a12cafa74d2cde6660db7b75ba9fcd02892df848723c36.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>3</td><td></td><td></td><td>K04080002148</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT1</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td>±0.3</td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">条码标签</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT1-F07</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td><img src=\"images/9e411f799c34f04edc1249d9579f28163c5741363987a0d4c4af50481616cf43.jpg\"/></td><td>Edition</td><td>V1.0</td></tr></table>",
+        "bbox": [
+            30,
+            847,
+            966,
+            963
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "1\n2\n3\n4\n5\n6\n7\n8 ",
+        "bbox": [
+            32,
+            82,
+            43,
+            774
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "A | B | C | D | E | F | G | H ",
+        "bbox": [
+            86,
+            45,
+            912,
+            58
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "尺寸序号",
+        "bbox": [
+            907,
+            68,
+            954,
+            85
+        ],
+        "page_idx": 0
+    }
+]

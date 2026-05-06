@@ -1,0 +1,96 @@
+[
+    [
+        {
+            "type": "table",
+            "bbox": [
+                0.0,
+                0.0,
+                0.131,
+                0.999
+            ],
+            "angle": 270,
+            "content": "<table><tr><td>3</td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>PMMA</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>2</td><td>Design</td><td></td><td></td><td>X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td></tr><tr><td>1</td><td>初版制作</td><td></td><td></td><td>XX</td><td></td><td>Scale</td><td></td><td>Drawing NO.</td></tr><tr><td>No.</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>X°</td><td></td><td>Units</td><td>mm</td></tr></table>"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.131,
+                0.0,
+                0.999,
+                0.014
+            ],
+            "angle": 270,
+            "content": "8\n7\n6\n5\n4\n3\n2\n1"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.916,
+                0.024,
+                0.963,
+                0.102
+            ],
+            "angle": 270,
+            "content": "uōpūn",
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.284,
+                0.182,
+                0.688,
+                0.548
+            ],
+            "angle": 270,
+            "content": "4±0.1\nR515+0.05\nR32540.05",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.373,
+                0.678,
+                0.493,
+                0.892
+            ],
+            "angle": 270,
+            "content": "4. 单面背散，背胶厚度0.05~0.1mm，背胶牢固，\n不可出现背胶分离的情况\n5. 部氏硬度：50±5度\n6. 出货排脱需要方便生产加工取放\n7. 本件要求通过R0HS测试",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.678,
+                0.562,
+                0.784
+            ],
+            "angle": 270,
+            "content": "1. 标注厚度不包含骨胶\n2. 材质：聚氨酯",
+            "merge_prev": false
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.131,
+                0.875,
+                0.307,
+                0.999
+            ],
+            "angle": 270,
+            "content": "<table><tr><td rowspan=\"2\">LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>DTM</td><td>A</td><td></td><td></td></tr><tr><td>&lt; 5</td><td>≠003</td><td>≠01</td><td>≠015</td></tr><tr><td>&gt; 5~50</td><td>≠005</td><td>≠01</td><td>≠02</td></tr><tr><td>&lt; 50~100</td><td>≠008</td><td>≠02</td><td>≠03</td></tr><tr><td>&gt;100</td><td>≠0%</td><td>≠02%</td><td>≠03%</td></tr><tr><td>ANGULFR</td><td>≠0.10</td><td>≠0.50</td><td>≠0.50</td></tr><tr><td colspan=\"4\">SLEELT LEVEL</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.947,
+                0.937,
+                0.965,
+                0.989
+            ],
+            "angle": 270,
+            "content": "\\(⑧\\) 才序号"
+        }
+    ]
+]

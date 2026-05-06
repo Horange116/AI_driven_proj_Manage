@@ -1,0 +1,72 @@
+{
+  "format": "docreview-pdf-intake-flow-v1",
+  "generated_at": "2026-05-01T07:10:07.440742+00:00",
+  "source": "C:\\Users\\Administrator\\Documents\\New project\\DHF -梳理版\\11-设计确认\\16-实验报告\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告.pdf",
+  "source_sha256": "8cea14ecb11cd1b48262627b4ee14036c1d7c8c920811500e4d7b2a2bdc4e4db",
+  "run_root": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723",
+  "probe_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\probe.json",
+  "classification_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\classification.json",
+  "classification_ms": 0,
+  "classification": {
+    "pdf_type": "drawing",
+    "route": "mineru",
+    "template": "drawing",
+    "reason": "Route override applied after classification: Probe router detected many vector drawings/rectangles; visual layout is material.",
+    "must_preserve": [
+      "drawings",
+      "title blocks",
+      "layout objects"
+    ],
+    "risk": [
+      "probe cannot name the drawing type without visual supplement"
+    ],
+    "confidence": "medium",
+    "classifier": "probe",
+    "needs_vlm_supplement": false
+  },
+  "route_result": {
+    "route": "mineru",
+    "command": "C:\\Users\\Administrator\\.docreview-local-state\\mineru-runtime\\Scripts\\mineru.exe",
+    "backend": "pipeline",
+    "output_dir": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru",
+    "exit_code": 0,
+    "elapsed_ms": 163471,
+    "stdout_tail": "Start MinerU FastAPI Service: http://127.0.0.1:56659\nAPI documentation: http://127.0.0.1:56659/docs\n",
+    "stderr_tail": "t/s]\nOCR-det ch:  33%|███▎      | 7/21 [00:00<00:01, 10.98it/s]\nOCR-det ch:  43%|████▎     | 9/21 [00:00<00:00, 12.17it/s]\nOCR-det ch:  52%|█████▏    | 11/21 [00:01<00:00, 12.79it/s]\nOCR-det ch:  67%|██████▋   | 14/21 [00:01<00:00, 15.87it/s]\nOCR-det ch:  81%|████████  | 17/21 [00:01<00:00, 17.43it/s]\nOCR-det ch:  90%|█████████ | 19/21 [00:01<00:00, 17.48it/s]\nOCR-det ch: 100%|██████████| 21/21 [00:01<00:00, 17.08it/s]\nOCR-det ch: 100%|██████████| 21/21 [00:01<00:00, 12.89it/s]\n\nSeal Predict:   0%|          | 0/1 [00:00<?, ?it/s]\n\nFetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]\u001b[A\nFetching 1 files: 100%|██████████| 1/1 [00:00<?, ?it/s]\n\n\nFetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]\u001b[A\nFetching 1 files: 100%|██████████| 1/1 [00:00<?, ?it/s]\n\nSeal Predict: 100%|██████████| 1/1 [00:01<00:00,  1.80s/it]\nSeal Predict: 100%|██████████| 1/1 [00:01<00:00,  1.80s/it]\n\nProcessing pages:   0%|          | 0/21 [00:00<?, ?it/s]\nProcessing pages:  10%|▉         | 2/21 [00:00<00:01, 16.87it/s]\nProcessing pages:  19%|█▉        | 4/21 [00:00<00:01, 14.96it/s]\nProcessing pages:  29%|██▊       | 6/21 [00:00<00:01, 14.95it/s]\nProcessing pages:  38%|███▊      | 8/21 [00:00<00:00, 14.53it/s]\nProcessing pages:  48%|████▊     | 10/21 [00:00<00:00, 14.60it/s]\nProcessing pages:  57%|█████▋    | 12/21 [00:00<00:00, 14.95it/s]\nProcessing pages:  67%|██████▋   | 14/21 [00:00<00:00, 15.59it/s]\nProcessing pages:  81%|████████  | 17/21 [00:01<00:00, 16.95it/s]\nProcessing pages:  90%|█████████ | 19/21 [00:01<00:00, 17.09it/s]\n\nOCR-rec Predict:   0%|          | 0/7 [00:00<?, ?it/s]\u001b[A\n\nOCR-rec Predict:  86%|████████▌ | 6/7 [00:00<00:00, 12.75it/s]\u001b[A\nOCR-rec Predict: 100%|██████████| 7/7 [00:00<00:00, 12.55it/s]\n\nProcessing pages: 100%|██████████| 21/21 [00:02<00:00,  9.55it/s]\n2026-05-01 15:09:56.469 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 21/21 pages | 1 of 1 batch finished | task#1 [2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告]\n",
+    "output_files": [
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告.md",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告_content_list.json",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告_content_list_v2.json",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告_layout.pdf",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告_middle.json",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告_model.json",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告_origin.pdf",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告_span.pdf",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\0a449a734f6dbee6aa74816fa0aab460a285b988b95b6518f7d4f2644bbcb69e.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\0c438678d8712d5290d627b46d48cdf015b96a3579bb3c64809c2a899599eeb0.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\1b71a17bf83093f64dbbde57ccc67afb0019b32fd51a9471fbf05d96c6b0115b.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\25734aa7a6fd098119494d4f69a93602781665da3de90b860fd74c1fdc0a2b60.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\29b107aa4fdcb46e32a830ec8323618206565c84e73862cbce30186eb0b3e35c.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\3eb7d21006ac8f378ea87b563bc6502cd0cb2d9b6683f7cc497a9aa275a38dce.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\41a309199e81b6ebfba9fdc7cd6f31968d89e51c276978bb01e97584d6eeef51.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\4627e5885ab868074586ff1b5a0ae52739793491cae1a2843801e022e09237af.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\604b5234923c91d3e37e8332ae9ec1b51ef28f7a831d1dae629863d5f1b42ef4.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\61622f138277f8a2edcd82e3e0bb98001c86f353bfbf8fa70c371a7e5051be84.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\72ac178b85c41cce2ea83234e5b2f186a1a8ef0f61603aa697efcc1a0401bdf8.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\748cb19449176ce2e56e2dcc72009a2a5fa9f8021bf4da53106a78be6bdf190b.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\7e839513ff8d3f635e9455bdb58127d4071301ab9b3bc545c2a957a993f69463.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\8209bf24129eecb0b6fc6c8e349b51a9815a4d36d61489f706f5cea4af7eadfb.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\8b1ed335473d26e66477f1692ddcd1c80c9b7d1ba08d2256a46b7c2998868adf.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\95ec8dbf15c551d9e2c388150c4d5313133a9ac81db6e7de6422338d59801a28.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\9be9a364eca74b60c56310fceb94b356cf914496bec3ff6942cbb489d00217b4.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\a964ed0518a7ae2a34fbdb604948f2e4d79ee5dcbdebcdc2c6e45b3f44104daa.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\b2d38d84b07b388f1752f67211861e168fb7d3eeb36375bf06a362f525bfa7ee.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\bca309390d0d3d759bd06abebc4dc55b009672757ed1ce7eb747a06dac50bf4d.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\c910ac7ce582602a64609714d53ea8500147838b58d0cc0fea8a0916a470c7e7.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\e08f96d67390bf0157edab219a50c27cea8d408508692d5977a6c945302afd37.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\f1695f76bf9601c14acd568c5fe6bf74a609c19458614d32f6792a7b4b9182b5.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-05-29-ETX202303-07-078-03R1-PT9L-红外体温计-正式报告-20260501T150723\\mineru\\2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告\\auto\\images\\fe783432ea9ffae0540e0062abe18b490b597047c092c4c8afab9f607c2b3e10.jpg"
+    ]
+  },
+  "elapsed_ms": 163688
+}

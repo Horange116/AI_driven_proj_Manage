@@ -1,0 +1,63 @@
+[
+    {
+        "type": "text",
+        "text": "**工艺说明**",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**（V1.0）**",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "产 品 型 号：      <u>PT9L</u>     ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "项 目 编 号：     <u>30000078</u>   ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "产品/项目名称：   <u>红外体温计</u>   ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**编    制**：                     <u>年   月   日</u>",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**审    核**：                     <u>年   月   日</u>",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**批    准**：                     <u>年   月   日</u>",
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "文件编号：<u>PT9L-GYSM01 V1.0</u>                                               工艺说明                               ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**历史版本记录** ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>修改日期</strong></p></td><td><p><strong>修改描述</strong></p></td><td><p><strong>版本</strong></p></td><td><p><strong>编制</strong></p></td><td><p><strong>批准</strong></p></td></tr><tr><td><p>1</p></td><td><p> 2024年4月20日</p></td><td><p>              起草</p></td><td><p>V1.0</p></td><td><p>万龙</p></td><td><p>侯广伟</p></td></tr><tr><td></td><td><p> </p></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "文件编号：<u>PT5-GZSM01 V1.0</u>                                                                                          PT5 工装操作说明                                ",
+        "page_idx": 1
+    }
+]

@@ -1,0 +1,169 @@
+[
+    [
+        {
+            "type": "table",
+            "bbox": [
+                0.0,
+                0.0,
+                0.118,
+                0.999
+            ],
+            "angle": 270,
+            "content": "<table><tr><td>6</td><td></td><td>3</td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>ABS</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>5</td><td></td><td>2</td><td></td><td>Design</td><td></td><td></td><td>X</td><td></td><td>Part name</td><td>下盖</td></tr><tr><td>4</td><td></td><td>1</td><td>初版制作</td><td>2021.07.15</td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Td Z1-P11</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td></tr></table>"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.12,
+                0.0,
+                0.999,
+                0.014
+            ],
+            "angle": 270,
+            "content": "8\n7\n6\n5\n4\n3\n2\n1"
+        },
+        {
+            "type": "image_block",
+            "bbox": [
+                0.119,
+                0.036,
+                0.964,
+                0.999
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.14,
+                0.036,
+                0.38,
+                0.611
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.458,
+                0.036,
+                0.718,
+                0.615
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.735,
+                0.036,
+                0.964,
+                0.601
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.158,
+                0.661,
+                0.337,
+                0.777
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.476,
+                0.641,
+                0.648,
+                0.741
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.706,
+                0.648,
+                0.9,
+                0.793
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.155,
+                0.796,
+                0.337,
+                0.888
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.368,
+                0.815,
+                0.836,
+                0.969
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.119,
+                0.913,
+                0.242,
+                0.997
+            ],
+            "angle": 270,
+            "content": "<table><tr><td rowspan=\"2\">LEVEL</td><td colspan=\"4\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td><td></td></tr><tr><td>DTM</td><td>A</td><td>B</td><td>C</td><td></td></tr><tr><td>DTM</td><td>&gt;5-15</td><td>≤0.05</td><td>≤0.1</td><td>≤0.15</td></tr><tr><td>&gt;5-50</td><td>≤0.05</td><td>≤0.1</td><td>≤0.2</td><td>≤0.3</td></tr><tr><td>&gt;50~100</td><td>≤0.08</td><td>≤0.2</td><td>≤0.3</td><td></td></tr><tr><td>&gt;100</td><td>≤0.1%</td><td>≤0.2%</td><td>≤0.3%</td><td></td></tr><tr><td>AGLWR</td><td>≤0.1%</td><td>≤0.2%</td><td>≤0.3%</td><td></td></tr><tr><td colspan=\"5\">SELECT LEVEL</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.955,
+                0.955,
+                0.969,
+                0.993
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.973,
+                0.0,
+                0.999,
+                0.999
+            ],
+            "angle": 270,
+            "content": "H | G | F | E | F | G | H"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.955,
+                0.955,
+                0.97,
+                0.995
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ]
+]

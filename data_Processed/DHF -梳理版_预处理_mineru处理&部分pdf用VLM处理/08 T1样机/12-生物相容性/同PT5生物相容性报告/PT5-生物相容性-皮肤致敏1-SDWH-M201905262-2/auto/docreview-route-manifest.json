@@ -1,0 +1,149 @@
+{
+  "format": "docreview-pdf-intake-flow-v1",
+  "generated_at": "2026-05-01T04:29:17.296966+00:00",
+  "source": "C:\\Users\\Administrator\\Documents\\New project\\DHF -梳理版\\08 T1样机\\12-生物相容性\\同PT5生物相容性报告\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2.pdf",
+  "source_sha256": "6434fa3cb322c1dde16df9d3a4464b5c585015688cee50fbfa578eac3e46421d",
+  "run_root": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922",
+  "probe_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\probe.json",
+  "classification_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\classification.json",
+  "classification_ms": 0,
+  "classification": {
+    "pdf_type": "scanned",
+    "route": "vlm",
+    "template": "scanned",
+    "reason": "Probe router found weak text extraction; use visual route.",
+    "must_preserve": [
+      "visible text",
+      "page image"
+    ],
+    "risk": [
+      "OCR/VLM output remains candidate until reviewed"
+    ],
+    "confidence": "medium",
+    "classifier": "probe",
+    "needs_vlm_supplement": true
+  },
+  "route_result": {
+    "route": "vlm",
+    "page_count": 14,
+    "processed_pages": 14,
+    "page_results": [
+      {
+        "page": 1,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\pages\\page-001.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\page-001-vlm.md",
+        "elapsed_ms": 46144,
+        "chars": 3095,
+        "required_sections_present": true
+      },
+      {
+        "page": 2,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\pages\\page-002.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\page-002-vlm.md",
+        "elapsed_ms": 51998,
+        "chars": 7324,
+        "required_sections_present": true
+      },
+      {
+        "page": 3,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\pages\\page-003.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\page-003-vlm.md",
+        "elapsed_ms": 18293,
+        "chars": 1364,
+        "required_sections_present": true
+      },
+      {
+        "page": 4,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\pages\\page-004.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\page-004-vlm.md",
+        "elapsed_ms": 47784,
+        "chars": 2722,
+        "required_sections_present": true
+      },
+      {
+        "page": 5,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\pages\\page-005.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\page-005-vlm.md",
+        "elapsed_ms": 33238,
+        "chars": 2151,
+        "required_sections_present": true
+      },
+      {
+        "page": 6,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\pages\\page-006.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\page-006-vlm.md",
+        "elapsed_ms": 35973,
+        "chars": 2706,
+        "required_sections_present": true
+      },
+      {
+        "page": 7,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\pages\\page-007.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\page-007-vlm.md",
+        "elapsed_ms": 40515,
+        "chars": 3044,
+        "required_sections_present": true
+      },
+      {
+        "page": 8,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\pages\\page-008.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\page-008-vlm.md",
+        "elapsed_ms": 49400,
+        "chars": 3539,
+        "required_sections_present": true
+      },
+      {
+        "page": 9,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\pages\\page-009.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\page-009-vlm.md",
+        "elapsed_ms": 69916,
+        "chars": 3999,
+        "required_sections_present": true
+      },
+      {
+        "page": 10,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\pages\\page-010.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\page-010-vlm.md",
+        "elapsed_ms": 25198,
+        "chars": 1910,
+        "required_sections_present": true
+      },
+      {
+        "page": 11,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\pages\\page-011.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\page-011-vlm.md",
+        "elapsed_ms": 74748,
+        "chars": 3654,
+        "required_sections_present": true
+      },
+      {
+        "page": 12,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\pages\\page-012.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\page-012-vlm.md",
+        "elapsed_ms": 64067,
+        "chars": 3813,
+        "required_sections_present": true
+      },
+      {
+        "page": 13,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\pages\\page-013.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\page-013-vlm.md",
+        "elapsed_ms": 19555,
+        "chars": 1631,
+        "required_sections_present": true
+      },
+      {
+        "page": 14,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\pages\\page-014.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\page-014-vlm.md",
+        "elapsed_ms": 16244,
+        "chars": 1514,
+        "required_sections_present": true
+      }
+    ],
+    "combined_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2-20260501T121922\\combined-visual-transcript.md",
+    "all_required_sections_present": true,
+    "elapsed_ms": 595170
+  },
+  "elapsed_ms": 595267
+}

@@ -1,0 +1,1197 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "用户现场测试计划",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "V1.0"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "产  品  型 号 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "     PT9L          ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "项  目  编 号 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "        30000078   ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "产品/项目名称 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "     红外体温计    ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "编    制",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "（软件工程师）",
+                        "style": [
+                            "italic"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "                        年   月   日",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "审    核",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "（软 件主 管）",
+                        "style": [
+                            "italic"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "                        年   月   日",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "批    准",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "（技术负责人）",
+                        "style": [
+                            "italic"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "                        年   月   日",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "历史版本记录",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>更改日期</strong></p></td><td><p><strong>版本描述</strong></p></td><td><p><strong>版本</strong></p></td><td><p><strong>更改人</strong></p></td><td><p><strong>批准人</strong></p></td></tr><tr><td><p>1</p></td><td><p>2024.05.18</p></td><td><p>起草</p></td><td><p>V1.0 </p></td><td><p>王迪</p></td><td><p>侯广伟</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号：PT9L - RYCJ01 V1.0                              用户现场测试计划"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号：PT9L - RYCJ01  V1.0                             用户现场测试计划"
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "测试目的"
+                    }
+                ],
+                "level": 1
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "证明用户在仅提供用户说明书的情况下能够正常完成体温测量，确认机器能够满足预期用途和用户需求。"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "测试方法"
+                    }
+                ],
+                "level": 1
+            }
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "ordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "1.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "采用试产完成的产品样机，仅提供用户说明书，不提供其它附加培训和随机文件以外的材料，模拟用户实际使用环境；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "2.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "由受试用户自行操作完成相应功能，并记录用户操作过程，项目组人员对其操作过程进行评估；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "3.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "对受试用户进行问卷调查，评估其对产品的理解程度和用户说明书的适宜性。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "测试要求"
+                    }
+                ],
+                "level": 1
+            }
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "ordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "1.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "采用试产完成的产品样机；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "2.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "测试前向受试用户声明：本测试是对该体温计产品进行测试，不是受试用户个人；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "3.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "参与用户测试的受试用户人群需要是普通用户和专业技术人员组成。受试用户年龄要求12岁以上成人。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "4.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "测试人员不少于9人。性别要求男、女均有，每个性别的比例不低于30%。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "测试流程"
+                    }
+                ],
+                "level": 1
+            }
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "ordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "1.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "记录受试用户的年龄、性别等个人信息；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "2.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "提供受试用户被测样机和用户说明书，用户自行学习；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "3.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "用户按照操作要求列表（如下表）进行测试；"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p><strong>编号</strong></p></td><td><p><strong>操作要求列表</strong></p></td></tr><tr><td><p>1</p></td><td><p>安装电池</p></td></tr><tr><td><p>2</p></td><td><p>在婴儿模式测量体温</p></td></tr><tr><td><p>3</p></td><td><p>在成人模式测量体温</p></td></tr><tr><td><p>4</p></td><td><p>在物温模式测量物温</p></td></tr><tr><td><p>5</p></td><td><p>关机</p></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "要求，2，3应当进行至少3次。"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "ordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "1.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "测试人员在评审用户现场测试记录表中的用户使用过程记录时，检查用户操作是否正确。若操作过程中发现异常情况或新的风险，应进行记录；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "2.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "针对每一个测试用户，执行a~d流程。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "注：",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "受试用户信息见附件1：受试用户信息记录表"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "测试记录表见附件2：用户现场测试记录表"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "用户现场测试问卷调查见附件3：用户现场测试问卷调查表"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "接收准则"
+                    }
+                ],
+                "level": 1
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "通过检查用户现场记录和用户现场测试总结报告，满足下列要求，则视为用户现场测试通过。"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "测试采用了试产完成的产品样机，"
+                    }
+                ],
+                "level": 2
+            }
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "参加测试的受试者分布应满足上述“3. 测试要求”中d部分的要求；"
+                    }
+                ],
+                "level": 2
+            }
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "按照本计划的测试方法、测试流程进行用户现场测试；"
+                    }
+                ],
+                "level": 2
+            }
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "《用户现场测试记录》中无异常测试现象或异常测试现象被解决；"
+                    }
+                ],
+                "level": 2
+            }
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "测试总结报告"
+                    }
+                ],
+                "level": 1
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "汇总测试配置项目和用户现场测试记录文件，评估测试人群分布，根据接收准则得出测试结论，输出《用户现场测试总结报告》。"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号：PT9L - RYCJ01 V1.0                              用户现场测试计划"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号：PT9L - RYCJ01  V1.0                          用户现场测试计划"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "第7页/共10页"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "第8页/共10页"
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "附件1：受试用户信息记录表"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p>受试用户编号</p></td><td></td></tr><tr><td><p>受试用户类别</p></td><td><p>□专业技术人员     □普通用户</p></td></tr><tr><td><p>姓名</p></td><td></td></tr><tr><td><p>性别</p></td><td><p>□男           □女</p></td></tr><tr><td><p>年龄</p></td><td></td></tr><tr><td><p>软件版本</p></td><td><p>□国内  □美版 □欧版</p></td></tr><tr><td><p>教育程度</p></td><td><p>□初中  □高中 □大学</p></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号：PT9L - RYCJ01 V1.0                              用户现场测试计划"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号：PT9L - RYCJ01  V1.0                          用户现场测试计划"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "第7页/共10页"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "第8页/共10页"
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "附件2：用户现场测试记录表"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>操作要求列表</strong></p></td><td><p><strong>用户测试过程记录</strong></p></td><td><p><strong>异常测试现象记录</strong></p></td><td><p><strong>错误评估及解决措施</strong></p></td><td><p><strong>备注</strong></p></td></tr><tr><td><p>1</p></td><td><p>安装电池</p></td><td><p>电池安装完毕后，LCD全显，且蜂鸣器“滴”一下：</p><p>□正常  □异常</p></td><td></td><td></td><td></td></tr><tr><td><p>2</p></td><td><p>在婴儿模式测量体温</p></td><td><p>待机状态下，用户按键测量额温，LCD能显示体温数据：</p><p>□正常  □异常</p><p>测量结果：No1：               </p></td><td></td><td></td><td></td></tr><tr><td><p>3</p></td><td><p>在成人模式测量体温</p></td><td><p>显示婴儿体温数据状态下，用户短按设置按键，切换到成人模式，短按测量键测量额温，LCD能显示体温数据：</p><p>□正常  □异常</p><p>测量结果：No1：               </p></td><td></td><td></td><td></td></tr><tr><td><p>4</p></td><td><p>在物温模式测量物温</p></td><td><p>显示成人体温数据状态下，用户短按设置按键，切换到物温模式，短按测量键测量恒温物体物温，LCD能显示物温数据：</p><p>□正常  □异常</p><p>测量结果：No1：               </p></td><td></td><td></td><td></td></tr><tr><td><p>5</p></td><td><p>关机</p></td><td><p>测量结束后，不对体温计操作，等待关机：</p><p>                              □正常  □异常</p><p>关机时间：</p><p>□感觉自动关机时间较长，关机较慢</p><p>□感觉自动关机时间合理</p><p>□感觉自动关机时间较短，关机太快</p></td><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "附件3：用户现场测试记录表——性能部分"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>操作要求列表</strong></p></td><td><p><strong>用户测试过程记录</strong></p></td><td><p><strong>异常测试现象记录</strong></p></td><td><p><strong>错误评估及解决措施</strong></p></td><td><p><strong>备注</strong></p></td></tr><tr><td><p>1</p></td><td><p>准确性测试</p></td><td><ol><li>提供一个经过校验的体温计，用户测量成人体温，测量3次，测得的体温数据为：</li></ol><p>No1：                         </p><p>No2：                         </p><p>No3：                         </p><ol><li>提供一个经过校验的水银体温计，用户测量腋温，测量一次，测得的体温数据为：</li></ol><p>No1：                         </p></td><td></td><td></td><td></td></tr><tr><td><p>2</p></td><td><p>重复性测试</p></td><td><p>用户测量成人体温，测量10次，分别记录10次的测量值；</p><p>No1：                         </p><p>No2：                         </p><p>No3：                         </p><p>No4：                         </p><p>No5：                         </p><p>No6：                         </p><p>No7：                         </p><p>No8：                         </p><p>No9：                         </p><p>No10：                        </p><p>你感觉体温计准确性如何：</p><p>□很准 □一般 □不准 </p></td><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "附件4：用户现场测试记录表——其他部分"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>操作要求列表</strong></p></td><td><p><strong>用户测试过程记录</strong></p></td><td><p><strong>异常测试现象记录</strong></p></td><td><p><strong>错误评估及解决措施</strong></p></td><td><p><strong>备注</strong></p></td></tr><tr><td><p>1</p></td><td><p>体温计的LCD显示</p></td><td><ol><li>LCD的亮度感受：</li></ol><p>□刺眼 □很好 □一般 □太暗</p><ol><li>LCD的显示内容：</li></ol><p>   □内容明确，感觉很好 </p><p>□能懂内容，感觉一般</p><p>□看不懂内容，感觉较混乱</p></td><td></td><td></td><td></td></tr><tr><td><p>2</p></td><td><p>体温计的反应速度</p></td><td><p>□反应很迅速，测量过程很快，简单易用，感觉很好 </p><p>□反应速度一般，测量过程较快，感觉一般</p><p>□反应速度慢，测量过程不合理，看不懂，感觉不好</p></td><td></td><td></td><td></td></tr><tr><td><p>3</p></td><td><p>你认为需要改进的部分</p></td><td><p>1、                           </p><p> </p><p> </p><p>2、                           </p><p> </p><p> </p><p>3、                           </p><p> </p><p> </p></td><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "风险评估：",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p>是否发现新的风险</p></td><td><p>□未发现    □有新风险，解决方案：</p></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号：PT9L - RYCJ01 V1.0                                                                                             用户现场测试计划"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号：PT9L - RYCJ01 V1.0                              用户现场测试计划"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "第7页/共10页"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "第8页/共10页"
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "附件5： "
+                    },
+                    {
+                        "type": "text",
+                        "content": "用户现场测试问卷调查表",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "受试用户编号："
+                    },
+                    {
+                        "type": "text",
+                        "content": "           ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "问卷内容：",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "ordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "1.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "用户说明书可读性"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(1)非常容易   (2) 容易   (3) 一般   (4) 困难   (5) 非常困难"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "ordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "1.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "标签（彩包装、机身标识）的可读性"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(1)非常容易   (2) 容易   (3) 一般   (4) 困难   (5) 非常困难"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "ordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "1.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "LCD显示内容是否易懂"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(1)非常容易   (2) 容易   (3) 一般   (4) 困难   (5) 非常困难"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "ordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "1.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "LCD显示是否清楚"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(1)非常清楚   (2)清楚   (3) 一般   (4) 不清楚   (5) 非常不清楚"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "ordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "1.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "安装电池是否容易"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(1)非常容易   (2) 容易   (3) 一般   (4) 困难   (5) 非常困难"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "ordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "1.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "按键的易用性"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(1)非常容易   (2) 容易   (3) 一般   (4) 困难   (5) 非常困难"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "ordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "1.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "用户说明书和产品随机文件中是否容易找到提供售后服务信息"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(1)非常容易   (2) 容易   (3) 一般   (4) 困难   (5) 非常困难"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "ordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "1.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "是否提供了用户说明书和产品随机文件以外的材料？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(1)是  (2) 否"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号：PT9L - RYCJ01 V1.0                                                                                             用户现场测试计划"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号：PT9L - RYCJ01 V1.0                              用户现场测试计划"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "第7页/共10页"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "第8页/共10页"
+                    }
+                ]
+            }
+        }
+    ]
+]

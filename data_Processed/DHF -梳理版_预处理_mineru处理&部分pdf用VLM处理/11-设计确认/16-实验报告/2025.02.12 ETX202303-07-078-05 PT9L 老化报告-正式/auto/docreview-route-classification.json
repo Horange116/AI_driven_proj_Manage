@@ -1,0 +1,17 @@
+{
+  "pdf_type": "table",
+  "route": "mineru",
+  "template": "table",
+  "reason": "Route override applied after classification: Probe router detected text/table-heavy PDF with limited visual drawing density.",
+  "must_preserve": [
+    "tables",
+    "headers",
+    "reading order"
+  ],
+  "risk": [
+    "validate MinerU table fidelity before canonical promotion"
+  ],
+  "confidence": "medium",
+  "classifier": "probe",
+  "needs_vlm_supplement": false
+}

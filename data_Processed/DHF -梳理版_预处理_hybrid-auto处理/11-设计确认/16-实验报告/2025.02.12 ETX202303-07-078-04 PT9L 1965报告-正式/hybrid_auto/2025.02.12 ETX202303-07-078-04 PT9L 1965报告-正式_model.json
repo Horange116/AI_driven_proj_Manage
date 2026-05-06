@@ -1,0 +1,1716 @@
+[
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.105,
+                0.06,
+                0.36,
+                0.073
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.104,
+                0.093,
+                0.894,
+                0.543
+            ],
+            "angle": 0,
+            "content": "<table><tr><td colspan=\"2\">TEST REPORTASTM E1965 - 98 (2023)Standard Specification forInfrared Thermometers for Intermittent Determination of Patient Temperature</td></tr><tr><td>Date of issue......:</td><td>2024-09-30</td></tr><tr><td>Standard......:</td><td>ASTM E1965 - 98 (2023)</td></tr><tr><td>Procedure deviation......:</td><td>N/A</td></tr><tr><td>Non-standard test method......:</td><td>N/A</td></tr><tr><td>Type of test object......:</td><td>Infrared No-Touch Forehead Thermometer</td></tr><tr><td>Trademark......:</td><td>N/A</td></tr><tr><td>Model/type reference......:</td><td>PT9L</td></tr><tr><td>Report No ......:</td><td>ETX202303-07-078-04</td></tr><tr><td>Testing period......:</td><td>2024.07.09~2024.10.08</td></tr><tr><td>Manufacturer......:</td><td>ANDON HEALTH CO., LTD.</td></tr><tr><td>Address......:</td><td>No.3 JinPing Street, YaAn Road, Nankai District, Tianjin, China</td></tr><tr><td>Test laboratory......Address......</td><td>Tianxu(Tianjin)Testing Technology Service Co.,LTD101, First floor, Building L,No.3 JinPing Street,Ya An Road,Nankai District, Tianjin,China</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.631,
+                0.602,
+                0.826,
+                0.739
+            ],
+            "angle": 0,
+            "content": "检测技术服务有限公司\n2024.9.30\n检验检测专用章\n2024.9.30",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.232,
+                0.667,
+                0.783,
+                0.703
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.224,
+                0.71,
+                0.79,
+                0.739
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.105,
+                0.058,
+                0.361,
+                0.074
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.229,
+                0.677,
+                0.344,
+                0.706
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.362,
+                0.658,
+                0.636,
+                0.715
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.213,
+                0.702,
+                0.645,
+                0.748
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.049,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.095,
+                0.102,
+                0.921,
+                0.884
+            ],
+            "angle": 0,
+            "content": "<table><tr><td colspan=\"2\">GENERAL INFORMATION</td></tr><tr><td colspan=\"2\">Test item particulars (see also Clause 5):</td></tr><tr><td>Classification of installation and use ...... :</td><td>Hand-held ME equipment</td></tr><tr><td>Device type (component/sub-assembly/ equipment/system) ...... :</td><td>Equipment</td></tr><tr><td>Intended use (Including type of patient, application location)...... :</td><td>The Infrared No-Touch Forehead Thermometer is intended for the intermittent measurement of body temperature from the forehead skin surface on people of all ages. It can be used by consumers in the household environment and by healthcare providers.</td></tr><tr><td>Mode of operation ...... :</td><td>Continuous</td></tr><tr><td>Supply connection ...... :</td><td>internally powered</td></tr><tr><td>Accessories and detachable parts included ...... :</td><td>N/A</td></tr><tr><td>Other options include ...... :</td><td>N/A</td></tr><tr><td colspan=\"2\">Possible test case verdicts:</td></tr><tr><td>- test case does not apply to the test object ...... :</td><td>N/A</td></tr><tr><td>- test object does meet the requirement ...... :</td><td>Pass (P)</td></tr><tr><td>- test object was not evaluated for the requirement...... :</td><td>N/E</td></tr><tr><td colspan=\"2\">Abbreviations used in the report:</td></tr><tr><td colspan=\"2\">General remarks:&quot;(see Attachment #)&quot; refers to additional information appended to the report.&quot;(see appended table)&quot; refers to a table appended to the report.The tests results presented in this report relate only to the object tested.This report shall not be reproduced except in full without the written approval of the testing laboratory.List of test equipment must be kept on file and available for review.This Test Report Form is intended for the investigation of clinical thermometers for body temperature measurement in accordance with ASTM E 1965-98(2023).Additional test data and/or information provided in the attachments to this report.Throughout this report a □ comma / ☒ point is used as the decimal separator.</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.48,
+                0.929,
+                0.519,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.049,
+                0.354,
+                0.064
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.476,
+                0.926,
+                0.522,
+                0.944
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.05,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.095,
+                0.083,
+                0.923,
+                0.878
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>General product information:The Infrared No-Touch Forehead Thermometer is intended for the intermittent measurement of body temperature from the forehead skin surface on people of all ages. It can be used by consumers in the household environment and by healthcare providers.</td></tr><tr><td>Tests performed (name of test and test clause):All the requirements of ASTM E 1965-98(2023) were evaluated in this test report except the following clauses:- 5.5.1 Clinical Accuracy is not evaluated in this report.- 5.9.1 Housing Materials is not evaluated in this report.- 6.2 Clinical Accuracy Tests</td></tr><tr><td>Test result:The test item passed the test specification(s). All apply to the test object does meet the requirement.</td></tr><tr><td>General disclaimer:The test results presented in this report relate only to the object tested.Without permission of the Report department this test report is not permitted to be duplicated in extracts.</td></tr><tr><td>Condition of acceptability:1) 5.5.1 Clinical Accuracy is not evaluated in this report.2) 5.9.1 Housing Materials is not evaluated in this report.3) 6.2 Clinical Accuracy Tests.</td></tr><tr><td>Copy of marking plateThe artwork below may be only a draft. The use of certification marks on a product must be authorized by the respective NCBs that own these marks.<img src=\"data:image/jpeg;base64,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\"/></td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.48,
+                0.929,
+                0.519,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.09,
+                0.05,
+                0.353,
+                0.063
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.476,
+                0.926,
+                0.522,
+                0.944
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.049,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.095,
+                0.083,
+                0.923,
+                0.131
+            ],
+            "angle": 0,
+            "content": "<table><tr><td colspan=\"4\">ASTM E 1965-98(2023)</td></tr><tr><td>Clause</td><td>Requirement + Test</td><td>Result - Remark</td><td>Verdict</td></tr></table>"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.095,
+                0.146,
+                0.923,
+                0.906
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>5</td><td colspan=\"2\">Requirements</td><td>P</td></tr><tr><td>5.1</td><td colspan=\"2\">The following requirements shall apply to any IR thermometer that is labeled to meet these specifications.</td><td>P</td></tr><tr><td>5.2</td><td colspan=\"2\">Displayed Temperature Range</td><td>P</td></tr><tr><td>5.2.1</td><td>In any display mode, an ear canal IR thermometer shall display a subject&#x27;s temperature over a minimum range of 34.4 to 42.2 °C (94.0 to 108.0 °F).</td><td>No ear mode</td><td>N/A</td></tr><tr><td>5.2.2</td><td>A skin IR thermometer shall display a subject&#x27;s temperature over a minimum range of 22 to 40.0 °C (71.6 to 104.0 °F).</td><td>32°C~42.9°C</td><td>N/A</td></tr><tr><td>5.3</td><td colspan=\"2\">Maximum Permissible Laboratory Error (for an Ear Canal IR Thermometer)</td><td>N/A</td></tr><tr><td>5.3.1</td><td colspan=\"2\">Within the manufacturer&#x27;s specified operating ambient conditions (see 5.6), laboratory error δ as measured according to 6.1.4 shall be no greater than values specified below:</td><td>N/A</td></tr><tr><td>5.3.1.1</td><td>For blackbody temperature range from 36 to 39 °C (96.8 to 102.2 °F)0.2 °C (0.4 °F).</td><td>No ear mode</td><td>N/A</td></tr><tr><td>5.3.1.2</td><td>For blackbody temperatures less than 36 °C (96.8°F) or greater than 39 °C (102.2 °F)0.3 °C (0.5 °F).</td><td>No ear mode</td><td>N/A</td></tr><tr><td>5.4</td><td colspan=\"2\">Maximum Permissible Laboratory Error (for a Skin IR Thermometer):</td><td>P</td></tr><tr><td>5.4.1</td><td>Within the manufacturer&#x27;s specified operating ambient conditions (see 5.6) over the display temperature range as specified in 5.2.2, laboratory error δ as measured according to 6.1.5 shall be no greater than 0.3 °C (0.5 °F).</td><td>See Table 5.6.1</td><td>P</td></tr><tr><td>5.5</td><td colspan=\"2\">Special Requirements</td><td>P</td></tr><tr><td>5.5.1</td><td>Clinical Accuracy</td><td></td><td>N/E</td></tr><tr><td>5.5.1.1</td><td>The clinical accuracy requirement is applicable only to an ear canal IR thermometer system and the corresponding age groups of subjects for which such a thermometer is labeled or implied to be used.</td><td></td><td>N/E</td></tr><tr><td>5.5.1.2</td><td>Clinical accuracy shall be determined separately for each of the following conditions: for each device model, foreach adjusted display mode, and for every age group of febrile and afebrile subjects on which the IR thermometer is intended to be used.</td><td>Clinical accuracy is not evaluated in this report.</td><td>N/E</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.48,
+                0.929,
+                0.519,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.049,
+                0.354,
+                0.064
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.477,
+                0.926,
+                0.522,
+                0.944
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.049,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.097,
+                0.083,
+                0.923,
+                0.905
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>5.5.1.3</td><td>Any disclosure of clinical accuracy claims shall be accompanied by disclosure of methodology and procedures.Such information shall be made available on request.</td><td></td><td>N/E</td></tr><tr><td>5.5.1.4</td><td>Clinical accuracy should be determined in the form of two characteristics — clinical bias with stated uncertainty and clinical repeatability, as defined in 3.2.9.</td><td></td><td>N/E</td></tr><tr><td>5.6</td><td colspan=\"2\">Ambient Conditions</td><td>P</td></tr><tr><td>5.6.1</td><td colspan=\"2\">Operating Temperature Range</td><td>P</td></tr><tr><td>5.6.1.1</td><td>The system shall meet laboratory error requirements as specified in 5.3 or 5.4, or both, when operating in an environment from 16 to 40 °C (60.8 to 104.0 °F).</td><td>See TABLE 5.6.1</td><td>P</td></tr><tr><td>5.6.1.2</td><td>If the operating temperature range is narrower than specified in 5.6.1.1, the device shall be clearly labeled with a cautionary statement of the maximum or minimum operating temperatures, or both.</td><td>Operating temperature is 10°C -40°C.</td><td>N/A</td></tr><tr><td>5.6.1.3</td><td>Under no circumstances may the upper limit of operating temperature range be less than 35 °C (95 °F).</td><td>Operating temperature is 10°C -40°C.</td><td>P</td></tr><tr><td>5.6.2</td><td>Operating Humidity Range—The relative humidity rge for the operating temperature range as specified in 5.6.1 is up to 95 %, noncondensing.</td><td>Operating Humidity Range : 15%-95%RH</td><td>P</td></tr><tr><td>5.6.3</td><td colspan=\"2\">Shock</td><td>P</td></tr><tr><td>5.6.3.1</td><td>The instrument with batteries installed (if appli-cable) without a carrying (storage) casing shall withstand drops with controlled orientation of the device without degradation of accuracy as specified in 5.3 or 5.4, or both, for a blackbody temperature of or near 37 °C (98.6 °F), when tested according to 6.3.</td><td>See TABLE 5.6.3</td><td>P</td></tr><tr><td>5.6.3.2</td><td>If an IR thermometer does not meet the requirement of 5.6.3.1, a means of detecting and informing the user of its inoperable state, after being subjected to shock, shall be provided.</td><td></td><td>P</td></tr><tr><td>5.6.4</td><td>Storage Conditions—The instrument shall meet the accuracy requirements of 5.3 or 5.4, or both, after having been stored or transported, or both, at any point in an environment of -20 to +50 °C (-4 to +122 °F) and relative humidity up to 95 %, noncondensing, for a period of one month. The test procedure is specified in 6.1.6.</td><td>See TABLE 5.6.4</td><td>P</td></tr></table>",
+            "cell_merge": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.48,
+                0.929,
+                0.518,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.049,
+                0.354,
+                0.064
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.477,
+                0.926,
+                0.522,
+                0.944
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.049,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.096,
+                0.083,
+                0.923,
+                0.876
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>5.6.5</td><td>Cleaning and Disinfection—Instrument performance shall not be degraded by using the manufacturer&#x27;s recommended procedures for cleaning and disinfection provided in the instruction manual. Such procedures are part of the required documentation in 7.2.2.</td><td>See TABLE 5.6.5</td><td>P</td></tr><tr><td>5.6.6</td><td>Electromagnetic Immunity—An IR thermometer that is intended for professional use shall meet the accuracy requirements of 5.3 or 5.4, or both, for temperature ranges of 6.3.2, during and after exposure to electromagnetic interference.</td><td>Not for professional use</td><td>N/A</td></tr><tr><td>5.6.7</td><td>Electrostatic Discharge—An IR thermometer shall meet the accuracy requirements of 5.3 and 5.4, or both, for temperature ranges of 6.3.2, after 5 s after being subjected to electrostatic discharge.</td><td>See TABLE 5.6.7</td><td>P</td></tr><tr><td>5.7</td><td>Low Power Supply Operation—The instrument shall operate at power supply voltage lower by no less than 0.1 V than that required for indication of low power supply sign as specified by 5.8.3. The test of operation is defined in 6.3.2 and 6.3.3.</td><td>See TABLE 5.7</td><td>P</td></tr><tr><td>5.8</td><td>Display and Human Interface</td><td></td><td>P</td></tr><tr><td>5.8.1</td><td>Resolution—The resolution of a display shall be 0.1 °C (0.1 °F).</td><td></td><td>P</td></tr><tr><td>5.8.2</td><td>Modes:</td><td></td><td>P</td></tr><tr><td>5.8.2.1</td><td>An IR thermometer shall indicate in what mode the instrument is set.</td><td>Adjusted mode</td><td>P</td></tr><tr><td>5.8.2.2</td><td>Unadjusted Mode—The unadjusted mode shall be accessible by the user either by setting the instrument into that mode directly or by a conversion technique from adjusted mode.</td><td>CAL mode</td><td>P</td></tr><tr><td>5.8.2.3</td><td>The adjusted mode sets an IR thermometer to represent a reference body site, such as core, oral, rectal, etc.</td><td>Adjusted mode ,reference body site:oral.</td><td>P</td></tr><tr><td>5.8.3</td><td>Warning Signs—The instrument shall have means to inform the operator when the following are outside the operating ranges specified by the manufacturer: power supply,subject temperature, and ambient temperature.</td><td>Low power supply:2.7V , Outside the operating temperature range and ambient temperature show “---”.</td><td>P</td></tr><tr><td>5.9</td><td>Construction</td><td></td><td></td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.48,
+                0.929,
+                0.518,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.049,
+                0.354,
+                0.064
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.478,
+                0.927,
+                0.522,
+                0.944
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.049,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.096,
+                0.083,
+                0.923,
+                0.891
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>5.9.1</td><td>Housing Materials—All materials that may come in contact with the operator or a subject shall be nontoxic.</td><td>See Biocompatibility test report provide by manufacture.</td><td>N/E</td></tr><tr><td>5.9.2</td><td>Probe Covers</td><td></td><td>N/A</td></tr><tr><td>5.9.2.1</td><td>To provide a sanitary barrier between a subject and the probe, a probe cover that comes in contact with a subject,</td><td>No probe cover used.</td><td>N/A</td></tr><tr><td>5.9.2.2</td><td>A probe and a probe cover of the system shall have shape and dimensions that prevent injury to a subject of any age.</td><td></td><td>N/A</td></tr><tr><td>5.9.2.3</td><td>A probe cover shall not increase laboratory errors whose limits are set in 5.3.1.</td><td></td><td>N/A</td></tr><tr><td>5.10</td><td>Labeling and Marking (Instruments and Accessories)</td><td></td><td>P</td></tr><tr><td>5.10.1</td><td>Thermometer and Accessories:</td><td></td><td>P</td></tr><tr><td>5.10.1.1</td><td>A thermometer shall clearly indicate the units of its temperature scale.</td><td>See “Instruction for Use” of the User&#x27;s Manual.</td><td>P</td></tr><tr><td>5.10.1.2</td><td>An IR thermometer housing shall be clearly marked with the trade name or type of the device, or both,model designation, name of the manufacturer or distributor,and lot number or serial number.</td><td>See marking plate.</td><td>P</td></tr><tr><td>5.10.1.3</td><td>An IR thermometer intended for professional use shall be conspicuously labelled with an indication of the unadjusted or adjusted mode(s), or both, that correspond to the temperature value(s) capable of being displayed by the instrument. Such labeling is optional for IR thermometers that display only one mode and are intended for non-professional use. However, as required in 7.2.1.3, the instruction manual for both professional and non-professional use IR thermometers shall specify the body site(s) (that is, oral, rectal, core) used to reference the adjusted temperature value(s) displayed.</td><td>Non-professional use.</td><td>N/A</td></tr><tr><td>5.10.2</td><td>Probe Covers Package</td><td>No Probe Covers used.</td><td>N/A</td></tr><tr><td>5.10.2.1</td><td>The package shall state the name and type of the enclosed products, name of the manufacturer or distributor, lot number or serial number, and expiration date (if the probe covers have limited shelf life).</td><td></td><td>N/A</td></tr></table>",
+            "cell_merge": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.48,
+                0.929,
+                0.518,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.049,
+                0.354,
+                0.064
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.478,
+                0.927,
+                0.522,
+                0.944
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.049,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.097,
+                0.084,
+                0.922,
+                0.284
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>5.10.2.2</td><td>The thermometer model(s) for which the covers are intended for use shall be specified on the probe cover package.</td><td></td><td>N/A</td></tr><tr><td>5.10.2.3</td><td>The package shall state whether the probe cover is intended for single use or multiple use.</td><td>single</td><td>N/A</td></tr><tr><td>5.10.2.4</td><td>Any probe cover handling, application, storage, or cleaning procedures which impact the ability of an IR thermometer to meet the requirements for maximum permissible laboratory error specified in 5.3 shall be stated.</td><td></td><td>N/A</td></tr></table>",
+            "cell_merge": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.097,
+                0.299,
+                0.922,
+                0.842
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>6</td><td colspan=\"2\">Test Methods</td><td>P</td></tr><tr><td>6.1</td><td>The tests are not required for every produced instrument. However, each producer or distributor who represents its instruments as conforming to this specification shall utilize statistically based sampling plans that are appropriate for each particular manufacturing process, in the design qualification of the device, and shall keep such essential records as are necessary to document with a high degree of assurance its claims that all of the requirements of this specification are met.</td><td></td><td>P</td></tr><tr><td>6.1.1</td><td>The manufacturer shall make the sampling plans available upon request.</td><td></td><td>P</td></tr><tr><td>6.1.1.1</td><td>Laboratory Accuracy Tests</td><td></td><td>P</td></tr><tr><td>6.1.1.2</td><td>General—Laboratory accuracy tests are intended for verifying compliance of the design and construction of a particular type or model of IR thermometer with the error limitations specified in 5.3 or 5.4, or both</td><td></td><td>P</td></tr><tr><td>6.1.3</td><td>Blackbody</td><td></td><td>P</td></tr><tr><td>6.1.3.1</td><td>Under laboratory conditions, an IR thermometer shall be tested against a blackbody standard. A recommended blackbody design is provided in Annex A1. The temperature of a blackbody shall be measured by the IR thermometer being tested in accordance with a procedure recommended by the manufacturer for the particular IR thermometer.</td><td></td><td>P</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.48,
+                0.929,
+                0.518,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.049,
+                0.354,
+                0.064
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.476,
+                0.926,
+                0.522,
+                0.944
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.049,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.096,
+                0.083,
+                0.923,
+                0.844
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>6.1.3.2</td><td>The true temperature of the blackbody shall be monitored by a contact imbedded or immersed thermometer with uncertainty no greater than ± 0.03 °C (±0.05 °F).</td><td></td><td>P</td></tr><tr><td>6.1.3.3</td><td>A manufacturer may require that an IR thermometer is tested only with a manufacturer-specified blackbody, rather than that described in Annex A1.</td><td></td><td>P</td></tr><tr><td>6.1.4</td><td>Ear Canal Type IR Thermometer</td><td>No ear type mode.</td><td>N/A</td></tr><tr><td>6.1.4.1</td><td>Tests shall be repeated for three blackbody temperatures, <eq>t_{BB}</eq> set within ±0.5 °C (± 1 °F) of the following temperatures: 35, 37, and 41 °C, (95, 98.6, and 105.8 °F). At each blackbody temperature, the tests shall be repeated under the ambient conditions stated in Table 1.</td><td></td><td>N/A</td></tr><tr><td>6.1.4.2</td><td>Prior to the measurements, the IR thermometer shall be stabilized at given conditions of ambient temperature and humidity for a minimum of 30 min or longer if so specified by the manufacturer .</td><td></td><td>N/A</td></tr><tr><td>6.1.4.3</td><td>At each combination of operating temperature and humidity in Table 1, at least six measurements shall be taken for each blackbody temperature, <eq>t_{BB}</eq>. The number of readings shall be the same for all combinations. A new disposable probe cover (if applicable) must be used for each test reading. The rate and method of temperature taking shall be in compliance with the manufacturer&#x27;s recommendations .</td><td></td><td>N/A</td></tr><tr><td>6.1.4.4</td><td>The requirements of 5.3 demand that no individual error δ j exceeds the specified limits for laboratory error. The individual measurement error is......:</td><td></td><td>N/A</td></tr><tr><td>6.1.4.5</td><td>In each mode, three data sets shall be formed. Each data set is comprised of values δj obtained at the same blackbody temperature setting by pooling together values for all combinations of operating temperature and humidities obtained at that blackbody temperature. The largest δj is a measure of the laboratory error of a system.</td><td></td><td>N/A</td></tr></table>",
+            "cell_merge": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.48,
+                0.929,
+                0.518,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.049,
+                0.354,
+                0.064
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.477,
+                0.926,
+                0.522,
+                0.944
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.049,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.096,
+                0.083,
+                0.923,
+                0.768
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>6.1.4.6</td><td>The correction method to arrive at unadjusted temperature tj from readings in adjusted mode(s) shall be used according to the manufacturer&#x27;s recommendation. Such recommendations shall be available from the manufacturer on request and provided in the service and repair manual, if any (see 7.3)</td><td></td><td>N/A</td></tr><tr><td>6.1.4.7</td><td>To comply with this standard, the greatest calculated error δj from all data sets measured and calculated for all display modes shall conform with requirements set forth in 5.3.</td><td></td><td>N/A</td></tr><tr><td>6.1.5</td><td>Skin Type IR Thermometer</td><td></td><td>P</td></tr><tr><td>6.1.5.1</td><td>Testing is as specified in 6.1.4 except that blackbody temperatures shall be set within ±1 °C (±2 °F) from the following temperatures: 23, 30, and 38 °C (73, 86, and 100 °F)</td><td></td><td>P</td></tr><tr><td>6.1.5.2</td><td>The greatest calculated error δj from all data sets shall conform with requirements set forth in 5.4.</td><td></td><td>P</td></tr><tr><td>6.1.6</td><td>Storage Test-To test compliance with storage conditions, an IR thermometer shall be maintained in an environmental chamber at temperature -20 °C (-4 °F), relative humidity below 50 %, for a period of 30 days and at 50 °C (122 °F), relative humidity no less than 75 % noncondensing, for a period of 30 days. After each exposure the IR thermometer shall be tested according to 6.3.2 and 6.3.3</td><td></td><td>P</td></tr><tr><td>6.2</td><td>Clinical Accuracy Tests—This specification does not prescribe an actual method for determining clinical accuracy or establish specifications for values which characterize clinical accuracy. Manufacturers shall perform clinical accuracy testing in accordance with methods acceptable to the U.S. Food and Drug Administration. An example of a method which may be used for this purpose is provided in X2.3.</td><td></td><td>N/E</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.477,
+                0.929,
+                0.524,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.049,
+                0.354,
+                0.064
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.473,
+                0.926,
+                0.527,
+                0.944
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.05,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.097,
+                0.083,
+                0.923,
+                0.829
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>6.2.1</td><td>Purpose of Tests — Clinical accuracy tests are intended for evaluation of accuracy of built-in instrumentational or combined site offsets, or both, and performance of an IR thermometer in assessing internal body temperatures from actual subjects. While this specification does not set limits for clinical accuracy, it is the responsibility of a manufacturer to determine values characterizing clinical accuracy and disclose them upon request.</td><td></td><td>N/E</td></tr><tr><td>6.2.2</td><td>Reference Sites—The tests shall be performed on groups of subjects by using an internal body site (for example, pulmonary artery or sublingual cavity) for the reference measurements. During clinical tests, the IR thermometer under test shall be set in the corresponding mode.</td><td></td><td>N/E</td></tr><tr><td>6.3</td><td>Shock Test</td><td></td><td>P</td></tr><tr><td>6.3.1</td><td>To test the ability of an IR thermometer to comply with 5.6.3, it shall be subjected to a fall from a height of 1 m (39 in.) onto a 50 mm (2 in.) thick hardwood board (hardwood of density higher than 700 kg/m3) that lies flat on a rigid base (concrete block). The test shall be performed with a controlled orientation of the device once for each of two axes (see Fig. 1) where the IR thermometer probe faces down. Axis A is defined as an optical axis of the probe. Axis B passes through the IR thermometer center of gravity and the point where the window of the probe crosses axis A.</td><td></td><td>P</td></tr><tr><td>6.3.2</td><td>The IR thermometer&#x27;s operation shall be tested by measuring the temperature of a blackbody that is set within ±0.5 °C (±1 °F) from 37 °C (98.6 °F), at ambient temperature in the range from 20 to 26 °C (68 to 79 °F) and relative humidity in the range from 40 to 70 %. A total of at least five measurements shall be performed by using a new disposable probe cover (if applicable) for every measurement. The IR thermometer shall be set in an unadjusted mode as specified in 5.8.2.2.</td><td></td><td>P</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.476,
+                0.929,
+                0.524,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.09,
+                0.05,
+                0.353,
+                0.063
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.473,
+                0.926,
+                0.527,
+                0.945
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.049,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.096,
+                0.083,
+                0.923,
+                0.847
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>6.3.3</td><td>The unadjusted temperature value shall be subtracted from the blackbody setting. The absolute value of the largest error shall be no greater than the error limit set forth in 5.3 (or 5.4, whichever is applicable) for the blackbody temperature range from 36 to 39 °C (96.8 to 102.2 °F).</td><td></td><td>P</td></tr><tr><td>6.4</td><td>Electromagnetic Susceptibility Test</td><td></td><td>N/A</td></tr><tr><td>6.4.1</td><td>The instrument under test shall be exposed to a modulated electromagnetic radiofrequency field with the following characteristics and in accordance with standards IEC601-1-2 and IEC 1000-4-3</td><td></td><td>N/A</td></tr><tr><td>6.4.1.1</td><td>Field Strength—3 V/m</td><td></td><td>N/A</td></tr><tr><td>6.4.1.2</td><td>Carrier Frequency Range—26 MHz to 1 GHz;</td><td></td><td>N/A</td></tr><tr><td>6.4.1.3</td><td>Frequency Sweep Interval: 1 MHz/s, minimum;</td><td></td><td>N/A</td></tr><tr><td>6.4.1.4</td><td>Frequency Interval Dwell Time: The greater of either 1 s. or the measurement response time of the instrument under test</td><td></td><td>N/A</td></tr><tr><td>6.4.1.5</td><td>AM modulation, 80 % index with a sine wave or 100 % with a square wave having a 50 % duty cycle. A modulation frequency that is within each significant signalprocessing passband of the instrument under test shall be used. For devices not having a defined passband, modulation shall be 1 Hz, 10 Hz, and 1 kHz.</td><td></td><td>N/A</td></tr><tr><td>6.4.2</td><td>Specific conditions for testing are as follows</td><td></td><td>N/A</td></tr><tr><td>6.4.2.1</td><td>No change of the probe covers is required while performing the electromagnetic compatibility test</td><td></td><td>N/A</td></tr><tr><td>6.4.2.2</td><td>The IR thermometer probe shall be aimed at a target whose surface temperature is within the display range of the IR thermometer. The target does not have to be a blackbody</td><td></td><td>N/A</td></tr><tr><td>6.4.2.3</td><td>IR thermometers capable of producing continuous temperature readings shall have their readings taken successively and compared to one another during the frequency sweep interval</td><td></td><td>N/A</td></tr></table>",
+            "cell_merge": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.476,
+                0.929,
+                0.524,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.049,
+                0.354,
+                0.064
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.473,
+                0.926,
+                0.527,
+                0.945
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.05,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.097,
+                0.083,
+                0.923,
+                0.882
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>6.4.2.4</td><td>IR thermometers not capable of producing continuous temperature readings shall have their circuitry modified to allow for continuous monitoring of the IR and reference temperature signals. The peak excursions of the monitored IR and reference temperature signals measured during frequency sweep interval shall be recalculated to represent the corresponding temperature excursions. On request, the manufacturer shall make available the method of the circuit modification.</td><td></td><td>N/A</td></tr><tr><td>6.4.2.5</td><td>IR thermometers having digital output shall have their signal monitored at the output of the analog-to-digital converter.</td><td></td><td>N/A</td></tr><tr><td>6.4.2.6</td><td>Non-conductive and dielectric connections (for example, fiber-optic) shall be used between the IR thermometer and all test equipment so as to minimize perturbations of the electromagnetic field</td><td></td><td>N/A</td></tr><tr><td>6.4.2.7</td><td>Calculated temperature excursions shall deviate from one another by value no greater than required by 5.6.6</td><td></td><td>N/A</td></tr><tr><td>6.5</td><td>Electrostatic Discharge Tests</td><td></td><td>P</td></tr><tr><td>6.5.1</td><td>The effects of electrostatic discharge on accuracy of an IR thermometer shall be tested in compliance with provisions of standard IEC 1000-4-2: 1995. Specific conditions for testing are as follows:</td><td></td><td>P</td></tr><tr><td>6.5.1.1</td><td>The IR thermometer shall be in a “power on” state when subjected to electrostatic discharge.</td><td></td><td>P</td></tr><tr><td>6.5.1.2</td><td>Ten air and ten contact discharges shall be applied</td><td></td><td>P</td></tr><tr><td>6.5.1.3</td><td>If IR thermometer under test has no exposed electrically conductive parts, only air discharge shall be applied</td><td></td><td>P</td></tr><tr><td>6.5.2</td><td>Air Discharge</td><td></td><td>P</td></tr><tr><td>6.5.2.1</td><td>The discharge shall be aimed at an electrically nonconductive part of the IR thermometer probe with no probe cover attached.</td><td></td><td>P</td></tr><tr><td>6.5.2.2</td><td>The level of discharge shall be 2, 4, and 8 kV</td><td></td><td>P</td></tr><tr><td>6.5.3</td><td>Contact Discharge</td><td></td><td>P</td></tr></table>",
+            "cell_merge": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.476,
+                0.929,
+                0.524,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.09,
+                0.05,
+                0.353,
+                0.063
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.473,
+                0.926,
+                0.527,
+                0.944
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.049,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.097,
+                0.083,
+                0.923,
+                0.216
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>6.5.3.1</td><td>The probe of the electrostatic discharge device shall touch one of the electrically conductive parts on the</td><td></td><td>P</td></tr><tr><td>6.5.3.2</td><td>The level of discharge shall be 2, 4, and 6 kV</td><td></td><td>P</td></tr><tr><td>6.5.4</td><td>After electrostatic discharge, the IR thermometer shall be tested according to the procedures of 6.3.2 and 6.3.3.</td><td></td><td>P</td></tr></table>",
+            "cell_merge": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.096,
+                0.248,
+                0.923,
+                0.913
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>7</td><td colspan=\"2\">Documentation</td><td>P</td></tr><tr><td>7.1</td><td colspan=\"2\">Identification</td><td></td></tr><tr><td>7.1.1</td><td>In order that purchasers may identify products conforming to requirements of this specification, producers and distributors may include a statement of compliance in conjunction with their name and address on product labels or associated printed materials, or both, such as invoices, sales literature, and the like. The following statement is suggested: “This infrared thermometer meets requirements established in ASTM Standard (E1965-98). Full responsibility for the conformance of this product to the standard is assumed by (name and address of producer or distributor).” In the event one or more provisions of this standard are not met, a cautionary statement shall be included.</td><td>See User&#x27;s Manual.</td><td>P</td></tr><tr><td>7.1.2</td><td>The IR thermometer shall be identified as intended for professional or consumer use, or both, as applicable.</td><td>Consumer use.</td><td>P</td></tr><tr><td>7.2</td><td>Instruction Manual</td><td></td><td>P</td></tr><tr><td>7.2.1</td><td>Specifications — An instruction manual shall be provided and contain the system specifications including, but not limited to, the following:</td><td>See “Product specifications” of the User&#x27;s Manual.</td><td>P</td></tr><tr><td>7.2.1.1</td><td>Displayed temperature range.</td><td>See “Product specifications” of the User&#x27;s Manual.</td><td>P</td></tr><tr><td>7.2.1.2</td><td>Maximum laboratory error.</td><td>See “Product specifications” of the User&#x27;s Manual.</td><td>P</td></tr><tr><td>7.2.1.3</td><td>Body site(s) used as a reference for adjusting the displayed temperature value.</td><td>See “Product specifications” of the User&#x27;s Manual.</td><td>P</td></tr><tr><td>7.2.1.4</td><td>Applicable subject categories for each display mode.</td><td>See “Product specifications” of the User&#x27;s Manual.</td><td>P</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.476,
+                0.929,
+                0.524,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.049,
+                0.354,
+                0.064
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.473,
+                0.926,
+                0.527,
+                0.944
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.049,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.096,
+                0.083,
+                0.923,
+                0.786
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>7.2.1.5</td><td>Required period of recalibration or reverification, if applicable.</td><td>No such part.</td><td>N/A</td></tr><tr><td>7.2.1.6</td><td>Environmental characteristics (operating and storage</td><td>See “Product specifications” of the User&#x27;s Manual.</td><td>P</td></tr><tr><td>7.2.1.7</td><td>Statement informing that clinical accuracy characteristics and procedures are available from the manufacturer on request.</td><td>See “Product specifications” of the User&#x27;s Manual.</td><td>P</td></tr><tr><td>7.2.2</td><td>Detailed instructions—The instruction manual shall contain adequate instructions for use with sufficient detail for training in the operation, application, care, and biological and physical cleaning of the instrument and accessories. The instruction manual shall include warnings if performance of the instrument may be adversely affected should one or more of the following occur</td><td>See “Maintenance” of the User&#x27;s Manual.</td><td>P</td></tr><tr><td>7.2.2.1</td><td>Operation outside of the manufacturer-specified subject temperature range.</td><td>See “Safety precautions” of the User&#x27;s Manual.</td><td>P</td></tr><tr><td>7.2.2.2</td><td>Operation outside of the manufacturer-specified operating temperature and humidity ranges.</td><td>See “Safety precautions” of the User&#x27;s Manual.</td><td>P</td></tr><tr><td>7.2.2.3</td><td>Storage outside of the manufacturer-specified ambient temperature and humidity ranges.</td><td>See “Safety precautions” of the User&#x27;s Manual.</td><td>P</td></tr><tr><td>7.2.2.4</td><td>Mechanical shock.</td><td>See “Safety precautions” of User&#x27;s Manual.</td><td>P</td></tr><tr><td>7.2.2.5</td><td>Manufacturer-defined soiled or damaged infrared optical components.</td><td>See “Safety precautions” of the User&#x27;s Manual.</td><td>P</td></tr><tr><td>7.2.2.6</td><td>Absent, defective, or soiled probe cover (if appli-cable).</td><td>No probe cover used.</td><td>N/A</td></tr><tr><td>7.2.2.7</td><td>Use of unspecified probe covers.</td><td></td><td>N/A</td></tr><tr><td>7.2.3</td><td>Blackbody—The instruction manual shall indicate the type and availability of a blackbody recommended for verifying laboratory or clinical accuracy, or both, if only such type is required by the manufacturer as addressed in 6.1.3.3.</td><td></td><td>N/A</td></tr></table>",
+            "cell_merge": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.476,
+                0.929,
+                0.524,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.049,
+                0.354,
+                0.064
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.473,
+                0.926,
+                0.527,
+                0.945
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.049,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.096,
+                0.083,
+                0.923,
+                0.866
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>7.2.4</td><td>The instruction manual shall specify whether the probe cover is intended for single use or multiple use. If multiple use is allowed, cleaning instructions and criteria for determining when a probe cover should be discarded shall be specified. Cleaning instructions shall be adequate to prevent cross-contamination between patients.</td><td></td><td>N/A</td></tr><tr><td>7.2.5</td><td>The instruction manual shall inform the user of differences in the accuracy of measurements obtained with IR thermometers versus contact thermometers (that is, mercury-in-glass and electronic thermometers). Such differences shall include, whenever applicable, a description of the anticipated error sources associated with disposable or reusable probe covers and sleeves, operators&#x27; technique, anatomical variations, earwax buildups, subject cooperation, etc. In addition, this section of the instruction manual that explains differences in the accuracy of measurements obtained with IR thermometers versus contact thermometers shall conspicuously include the following statement: “ASTM laboratory accuracy requirements in the display range of 37 to 39 °C (98 to 102 °F) for IR thermometers is ± 0.2 °C (±0.4 °F), whereas for mercury-in-glass and electronic thermometers, the requirement per ASTM Standards E667-86 and E1112-86 is ± 0.1 °C (±0.2 °F).”</td><td>See “Safety precautions” of User&#x27;s Manual.</td><td>P</td></tr><tr><td>7.3</td><td>Service and Repair Manual</td><td>See “Maintenance” of User&#x27;s Manual.</td><td>P</td></tr><tr><td>7.3.1</td><td>A detailed service manual shall be made available if user service or repair is permitted by the manufacturer.</td><td>See “Maintenance” of User&#x27;s Manual.</td><td>P</td></tr><tr><td>7.3.2</td><td>A service manual shall disclose values of instrumentation or combined site offsets, or both.</td><td>See “Maintenance” of User&#x27;s Manual.</td><td>P</td></tr><tr><td>7.3.3</td><td>A service manual shall provide a method of arriving at unadjusted readings from temperatures displayed in an adjusted mode.</td><td>See “Calibration” of User&#x27;s Manual.</td><td>P</td></tr></table>",
+            "cell_merge": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.476,
+                0.929,
+                0.524,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.049,
+                0.354,
+                0.064
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.473,
+                0.926,
+                0.527,
+                0.945
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.05,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.097,
+                0.084,
+                0.923,
+                0.265
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>7.4</td><td>Accuracy Determination — A manufacturer shall make available upon request specific instructions for tests to determine the laboratory error, clinical bias, and clinical repeatability of an IR thermometer. When describing how clinical tests are performed, the manufacturer shall disclose the profile of subject groups tested, including age and febrile status. A detailed procedure for taking reference temperatures also shall be disclosed.</td><td>See “Temperature reading hints” of User’s Manual.</td><td>P</td></tr></table>",
+            "cell_merge": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.097,
+                0.299,
+                0.923,
+                0.38
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>8</td><td>Keywords</td><td></td></tr><tr><td>8.1</td><td>auditory canal; body temperature; ear; fever; infrared;medical instrument; temperature; thermometer; tympanic</td><td></td></tr></table>"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.097,
+                0.432,
+                0.923,
+                0.905
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>5.6.1</td><td colspan=\"9\">TABLE: Operating Temperature Range</td><td>P</td></tr><tr><td></td><td colspan=\"6\">DISPLAYED OUTPUT RANGE(°C)......</td><td colspan=\"2\">32°C -42.9°C</td><td colspan=\"2\">--</td></tr><tr><td></td><td colspan=\"6\">Ambient conditions (°C / %rH) ...... :</td><td colspan=\"2\">21-22°C,50%-52%RH</td><td colspan=\"2\">--</td></tr><tr><td></td><td colspan=\"6\">Total uncertainty of REFERENCE TEMPERATURESOURCE (°C) ...... :</td><td colspan=\"2\">0.06</td><td colspan=\"2\">--</td></tr><tr><td></td><td colspan=\"2\">Combinationof ambient</td><td><eq>T_{BB}</eq>(°C)</td><td colspan=\"5\"><eq>T_j</eq>(°C)</td><td colspan=\"2\">Equation δ(°C)</td></tr><tr><td rowspan=\"5\">33°C</td><td>1</td><td>16°C45%RH</td><td>32.87</td><td>32.8</td><td>32.9</td><td>32.9</td><td>32.9</td><td>32.9</td><td colspan=\"2\">0.1</td></tr><tr><td>2</td><td>16°C,93%RH</td><td>32.87</td><td>32.8</td><td>32.9</td><td>32.9</td><td>32.9</td><td>32.9</td><td colspan=\"2\">0.1</td></tr><tr><td>3</td><td>25°C, 50%RH</td><td>32.87</td><td>32.8</td><td>32.7</td><td>32.8</td><td>32.7</td><td>32.7</td><td colspan=\"2\">0.2</td></tr><tr><td>4</td><td>39°C,20%RH</td><td>32.87</td><td>33.0</td><td>33.0</td><td>33.0</td><td>33.0</td><td>33.0</td><td colspan=\"2\">0.1</td></tr><tr><td>5</td><td>39°C,80%RH</td><td>32.82</td><td>33.0</td><td>33.0</td><td>33.0</td><td>33.0</td><td>33.0</td><td colspan=\"2\">0.2</td></tr><tr><td rowspan=\"5\">37°C</td><td>1</td><td>16°C45%RH</td><td>32.87</td><td>36.9</td><td>36.9</td><td>36.9</td><td>36.8</td><td>36.8</td><td colspan=\"2\">0.1</td></tr><tr><td>2</td><td>16°C,93%RH</td><td>32.87</td><td>36.9</td><td>36.9</td><td>36.8</td><td>36.9</td><td>36.8</td><td colspan=\"2\">0.1</td></tr><tr><td>3</td><td>25°C, 50%RH</td><td>36.91</td><td>36.9</td><td>36.8</td><td>36.8</td><td>36.8</td><td>36.9</td><td colspan=\"2\">0.1</td></tr><tr><td>4</td><td>39.5°C,20%R</td><td>36.85</td><td>36.9</td><td>36.9</td><td>36.9</td><td>36.9</td><td>37.0</td><td colspan=\"2\">0.1</td></tr><tr><td>5</td><td>39.5°C,85%R</td><td>37.00</td><td>37.1</td><td>37.1</td><td>37.2</td><td>37.2</td><td>37.2</td><td colspan=\"2\">0.2</td></tr><tr><td rowspan=\"2\">42°C</td><td>1</td><td>16°C45%RH</td><td>41.87</td><td>41.9</td><td>41.9</td><td>41.8</td><td>41.8</td><td>41.8</td><td colspan=\"2\">0.1</td></tr><tr><td>2</td><td>16°C,93%RH</td><td>41.88</td><td>41.9</td><td>41.8</td><td>41.8</td><td>41.8</td><td>41.8</td><td colspan=\"2\">0.1</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.476,
+                0.929,
+                0.524,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.09,
+                0.05,
+                0.353,
+                0.063
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.473,
+                0.927,
+                0.527,
+                0.944
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.05,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.095,
+                0.083,
+                0.923,
+                0.382
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"3\"></td><td>3</td><td>25°C, 50%RH</td><td>41.88</td><td>41.8</td><td>41.8</td><td>41.8</td><td>41.9</td><td>41.8</td><td>41.9</td><td>0.1</td></tr><tr><td>4</td><td>39.5°C,20%R</td><td>41.85</td><td>41.9</td><td>41.9</td><td>41.8</td><td>41.8</td><td>41.8</td><td>41.8</td><td>0.1</td></tr><tr><td>5</td><td>39.5°C,85%R</td><td>42.02</td><td>42.1</td><td>42.0</td><td>41.9</td><td>41.9</td><td>41.9</td><td>42.0</td><td>0.1</td></tr><tr><td colspan=\"11\">Supplementary information:1) Combination of the environmental temperature and humidity ranges:At each blackbody temperature, the tests shall be repeated under the ambient conditions stated in Table 1.2) The individual measurement error is: δj= |tj-tBB|Where:tj= displayed or calculated value of unadjustedtemperature,tBB= true temperature of the blackbody,j = sequential number of a reading,| | = signifies taking an absolute value.The largest δj is a measure of the laboratory error of a system.</td></tr></table>"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.095,
+                0.415,
+                0.923,
+                0.826
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>5.6.3</td><td colspan=\"8\">TABLE: SHOCK</td><td>P</td></tr><tr><td></td><td colspan=\"5\">the temperature of a blackbody (°C) ......</td><td colspan=\"2\">37°C</td><td colspan=\"2\">--</td></tr><tr><td></td><td colspan=\"5\">Ambient conditions (°C / %rH) ...... :</td><td colspan=\"2\">22-23°C, 50-52%RH</td><td colspan=\"2\">--</td></tr><tr><td></td><td colspan=\"5\">Total uncertainty of REFERENCE TEMPERATURE SOURCE (°C) ...... :</td><td colspan=\"2\">0.06</td><td colspan=\"2\">--</td></tr><tr><td></td><td>condition</td><td><eq>T_{BB}</eq>(°C)</td><td colspan=\"5\"><eq>T_j</eq>(°C)</td><td colspan=\"2\">Equation δ(°C)</td></tr><tr><td>37°C</td><td>After shock</td><td>36.82</td><td>36.9</td><td>36.8</td><td>36.8</td><td>36.8</td><td>36.8</td><td colspan=\"2\">0.1</td></tr><tr><td colspan=\"10\">Supplementary information:1)The individual measurement error is: δj= |tj-tBB|Where:tj= displayed or calculated value of unadjustedtemperature,tBB= true temperature of the blackbody,j = sequential number of a reading,| | = signifies taking an absolute value.The largest δj is a measure of the laboratory error of a system.</td></tr></table>"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.097,
+                0.859,
+                0.923,
+                0.888
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>5.6.4</td><td>TABLE:Storage Conditions</td><td>P</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.476,
+                0.929,
+                0.524,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.09,
+                0.05,
+                0.353,
+                0.063
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.473,
+                0.926,
+                0.527,
+                0.944
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.049,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.097,
+                0.083,
+                0.923,
+                0.564
+            ],
+            "angle": 0,
+            "content": "<table><tr><td></td><td colspan=\"5\">the temperature of a blackbody(°C) ......</td><td colspan=\"2\">37°C</td><td>--</td></tr><tr><td></td><td colspan=\"5\">Ambient conditions (°C / %rH) ...... :</td><td colspan=\"2\">21-22°C,50-54%RH</td><td>--</td></tr><tr><td></td><td colspan=\"5\">Total uncertainty of REFERENCE TEMPERATURESOURCE (°C) ...... :</td><td colspan=\"2\">0.06</td><td>--</td></tr><tr><td>the settingtemperatureof ablackbodycondition</td><td>Storagecondition</td><td><eq>T_{BB}</eq>(°C)</td><td colspan=\"5\"><eq>T_j</eq>(°C)</td><td>Equation δ(°C)</td></tr><tr><td>37°C</td><td>-20°C,</td><td>36.91</td><td>36.8</td><td>36.8</td><td>36.8</td><td>36.9</td><td>36.8</td><td>0.1</td></tr><tr><td>37°C</td><td>50°C,80%RH</td><td>36.87</td><td>36.8</td><td>36.8</td><td>36.8</td><td>36.9</td><td>36.9</td><td>0.1</td></tr><tr><td colspan=\"9\">Supplementary information:1)The individual measurement error is: <eq>\\delta_j = |t_j - t_{BB}|</eq>Where:<eq>t_j</eq>= displayed or calculated value of unadjustedtemperature,<eq>t_{BB}</eq>= true temperature of the blackbody,j= sequential number of a reading,||= signifies taking an absolute value.The largest δj is a measure of the laboratory error of a system.</td></tr></table>"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.097,
+                0.598,
+                0.923,
+                0.84
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>5.6.5</td><td colspan=\"8\">TABLE:Cleaning and Disinfection</td><td>P</td></tr><tr><td></td><td colspan=\"5\">the temperature of a blackbody (°C) ......</td><td colspan=\"2\">37°C</td><td colspan=\"2\">--</td></tr><tr><td></td><td colspan=\"5\">Ambient conditions (°C / %rH) ...... :</td><td colspan=\"2\">22-23°C, 50-52%RH</td><td colspan=\"2\">--</td></tr><tr><td></td><td colspan=\"5\">Total uncertainty of REFERENCE TEMPERATURE SOURCE (°C) ...... :</td><td colspan=\"2\">0.06</td><td colspan=\"2\">--</td></tr><tr><td colspan=\"2\">the setting temperature of a blackbody condition</td><td><eq>T_{BB}</eq>(°C)</td><td colspan=\"5\"><eq>T_j</eq>(°C)</td><td colspan=\"2\">Equation δ(°C)</td></tr><tr><td colspan=\"2\">37°C</td><td>36.92</td><td>36.9</td><td>36.9</td><td>37.0</td><td>37.0</td><td>37.0</td><td colspan=\"2\">0.1</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.476,
+                0.929,
+                0.524,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.049,
+                0.354,
+                0.064
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.473,
+                0.926,
+                0.527,
+                0.944
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.049,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.102,
+                0.107,
+                0.305,
+                0.122
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.101,
+                0.129,
+                0.464,
+                0.145
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.114,
+                0.152,
+                0.17,
+                0.164
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.174,
+                0.529,
+                0.189
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.197,
+                0.387,
+                0.211
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.219,
+                0.356,
+                0.233
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.104,
+                0.241,
+                0.379,
+                0.255
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.103,
+                0.263,
+                0.554,
+                0.277
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.096,
+                0.315,
+                0.922,
+                0.721
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>5.6.7</td><td colspan=\"8\">TABLE: Electrostatic Discharge</td><td>P</td></tr><tr><td></td><td colspan=\"5\">the temperature of a blackbody (°C) ......</td><td colspan=\"2\">37°C</td><td colspan=\"2\">--</td></tr><tr><td></td><td colspan=\"5\">Ambient conditions (°C / %rH) ...... :</td><td colspan=\"2\">22-23°C, 52-54%RH</td><td colspan=\"2\">--</td></tr><tr><td></td><td colspan=\"5\">Total uncertainty of REFERENCE TEMPERATURE SOURCE (°C) ...... :</td><td colspan=\"2\">0.06</td><td colspan=\"2\">--</td></tr><tr><td></td><td>condition</td><td><eq>T_{BB}</eq>(°C)</td><td colspan=\"5\"><eq>T_j</eq>(°C)</td><td colspan=\"2\">Equation δ(°C)</td></tr><tr><td>37°C</td><td>After ESD</td><td>36.92</td><td>36.8</td><td>36.8</td><td>36.8</td><td>36.8</td><td>36.8</td><td colspan=\"2\">0.1</td></tr><tr><td colspan=\"10\">Supplementary information:1)The individual measurement error is: δj= |tj-tBB|Where:tj= displayed or calculated value of unadjustedtemperature,tBB= true temperature of the blackbody,j = sequential number of a reading,| | = signifies taking an absolute value.The largest δj is a measure of the laboratory error of a system.</td></tr></table>"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.097,
+                0.737,
+                0.922,
+                0.904
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>5.7</td><td colspan=\"3\">TABLE:Low Power Supply Operation</td><td>P</td></tr><tr><td></td><td>the temperature of a blackbody (°C) ......</td><td>37°C</td><td colspan=\"2\">--</td></tr><tr><td></td><td>Ambient conditions (°C / %rH) ...... :</td><td>22-23°C, 48-50%RH</td><td colspan=\"2\">--</td></tr><tr><td></td><td>Total uncertainty of REFERENCE TEMPERATURE SOURCE (°C) ...... :</td><td>0.06</td><td colspan=\"2\">--</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.475,
+                0.929,
+                0.524,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.049,
+                0.354,
+                0.064
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.102,
+                0.194,
+                0.389,
+                0.212
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.099,
+                0.216,
+                0.359,
+                0.235
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.103,
+                0.239,
+                0.381,
+                0.256
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.473,
+                0.926,
+                0.527,
+                0.945
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.103,
+                0.108,
+                0.307,
+                0.123
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.099,
+                0.128,
+                0.466,
+                0.146
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.113,
+                0.15,
+                0.174,
+                0.167
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.102,
+                0.173,
+                0.531,
+                0.19
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.102,
+                0.26,
+                0.556,
+                0.278
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.049,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.097,
+                0.083,
+                0.923,
+                0.416
+            ],
+            "angle": 0,
+            "content": "<table><tr><td></td><td colspan=\"5\">Power supply voltage......:</td><td colspan=\"2\">2.5V</td><td>--</td></tr><tr><td colspan=\"2\">the setting temperature of a blackbody condition</td><td><eq>T_{BB}</eq>(°C)</td><td colspan=\"5\"><eq>T_j</eq>(°C)</td><td>Equation δ(°C)</td></tr><tr><td colspan=\"2\">37</td><td>36.90</td><td>36.7</td><td>36.8</td><td>36.9</td><td>36.8</td><td>36.8</td><td>0.1</td></tr><tr><td colspan=\"9\">Supplementary information:1)The individual measurement error is: δj= |tj-tBB|Where:tj= displayed or calculated value of unadjustedtemperature,<eq>t_{BB}</eq>= true temperature of the blackbody,j = sequential number of a reading,|| = signifies taking an absolute value.The largest δj is a measure of the laboratory error of a system.</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.476,
+                0.929,
+                0.524,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.049,
+                0.354,
+                0.064
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.473,
+                0.926,
+                0.527,
+                0.944
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.05,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.348,
+                0.128,
+                0.651,
+                0.143
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.081,
+                0.166,
+                0.499,
+                0.389
+            ],
+            "angle": 0,
+            "content": "White digital thermometer placed on a wooden surface with yellow ruler for scale (no text or symbols visible)",
+            "sub_type": "natural_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.506,
+                0.168,
+                0.918,
+                0.389
+            ],
+            "angle": 0,
+            "content": "YP2407008\nPT91\nJX20403-07-078\n13 2025.11.17 17:23",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.081,
+                0.392,
+                0.5,
+                0.593
+            ],
+            "angle": 0,
+            "content": "Health Infrared No-Touch Forehead Thermometer\nModel: PT9L Power source: DC 2 x 1.5V==SIZE AAA batteries\nmeasurement position: Centre of the forehead surface\nmanufactured for iHealth Labs, Inc.\nAndon Health Co., LTD.\nNo.3 Jin Ping Street, Ya An Road, Nankai District,\nTianjin 300190, China.\nMade in China\nKE04\nIP22",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.348,
+                0.619,
+                0.529,
+                0.634
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.476,
+                0.929,
+                0.524,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.09,
+                0.05,
+                0.353,
+                0.063
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.473,
+                0.926,
+                0.527,
+                0.945
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.349,
+                0.618,
+                0.529,
+                0.634
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.348,
+                0.128,
+                0.651,
+                0.142
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ]
+]

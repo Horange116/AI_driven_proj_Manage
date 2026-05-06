@@ -1,0 +1,531 @@
+[
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.067,
+                0.022,
+                0.236,
+                0.081
+            ],
+            "angle": 0,
+            "content": "voion® 旺盈彩盒"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.345,
+                0.02,
+                0.652,
+                0.046
+            ],
+            "angle": 0,
+            "content": "旺盈彩盒纸品有限公司"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.264,
+                0.058,
+                0.734,
+                0.076
+            ],
+            "angle": 0,
+            "content": "GLORY COLOUR BOXES& PAPER LIMITED"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.101,
+                0.104,
+                0.322,
+                0.123
+            ],
+            "angle": 0,
+            "content": "报告日期：2017.06.27",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.412,
+                0.104,
+                0.567,
+                0.126
+            ],
+            "angle": 0,
+            "content": "Test Report",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.666,
+                0.105,
+                0.901,
+                0.124
+            ],
+            "angle": 0,
+            "content": "Report No:2017062725",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.232,
+                0.156,
+                0.742,
+                0.174
+            ],
+            "angle": 0,
+            "content": "送检公司：东莞市上合旺盈印刷有限公司营业七部付汉清",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.232,
+                0.184,
+                0.751,
+                0.202
+            ],
+            "angle": 0,
+            "content": "送检公司地址：东莞市东城区主山振兴路329号旺盈工业园",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.233,
+                0.212,
+                0.68,
+                0.23
+            ],
+            "angle": 0,
+            "content": "以下测试样品是由申请者提供及确认：红外体温计",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.233,
+                0.259,
+                0.47,
+                0.275
+            ],
+            "angle": 0,
+            "content": "样品编号 :NA",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.233,
+                0.285,
+                0.469,
+                0.301
+            ],
+            "angle": 0,
+            "content": "批号 :NA",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.233,
+                0.31,
+                0.469,
+                0.327
+            ],
+            "angle": 0,
+            "content": "订单/工程单号 :NA",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.233,
+                0.336,
+                0.479,
+                0.353
+            ],
+            "angle": 0,
+            "content": "供应商 : NA",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.233,
+                0.362,
+                0.478,
+                0.379
+            ],
+            "angle": 0,
+            "content": "送检数量 :1箱",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.233,
+                0.388,
+                0.499,
+                0.404
+            ],
+            "angle": 0,
+            "content": "客户名称/代码 :A1939",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.233,
+                0.413,
+                0.548,
+                0.43
+            ],
+            "angle": 0,
+            "content": "样品接收日期 :2017.06.27",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.233,
+                0.438,
+                0.66,
+                0.455
+            ],
+            "angle": 0,
+            "content": "测试周期 :2017.06.27-2017.06.27",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.233,
+                0.464,
+                0.569,
+                0.481
+            ],
+            "angle": 0,
+            "content": "测试方法 :请参见下一页",
+            "merge_prev": false
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.136,
+                0.536,
+                0.869,
+                0.624
+            ],
+            "angle": 0,
+            "content": "<table><tr><td colspan=\"3\">测试要求</td><td rowspan=\"2\">结果</td></tr><tr><td colspan=\"2\">参考标准</td><td>测试项目</td></tr><tr><td>1</td><td>客户要求</td><td>模拟运输</td><td>供参考</td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.381,
+                0.642,
+                0.669,
+                0.66
+            ],
+            "angle": 0,
+            "content": "更多测试细节请参考以下页面",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.062,
+                0.662,
+                0.936,
+                0.674
+            ],
+            "angle": 0,
+            "content": "******************************************************************************************",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.178,
+                0.686,
+                0.818,
+                0.706
+            ],
+            "angle": 0,
+            "content": "旺盈彩盒纸品有限公司实验室授权以下人员测试并签核本报告",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.222,
+                0.765,
+                0.376,
+                0.785
+            ],
+            "angle": 0,
+            "content": "测试：杨汝圭",
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.633,
+                0.735,
+                0.809,
+                0.813
+            ],
+            "angle": 0,
+            "content": "Box Plot Paper Co., Ltd.\n审核:宋刚\n物理实验室",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.091,
+                0.968,
+                0.397,
+                0.983
+            ],
+            "angle": 0,
+            "content": "东莞市上合旺盈印刷有限公司旺盈实验室"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.446,
+                0.967,
+                0.551,
+                0.983
+            ],
+            "angle": 0,
+            "content": "Page 1 of 2"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.632,
+                0.968,
+                0.906,
+                0.983
+            ],
+            "angle": 0,
+            "content": "地址：东莞市东城区主山振兴路329#"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.067,
+                0.022,
+                0.236,
+                0.081
+            ],
+            "angle": 0,
+            "content": "voion® 旺盈彩盒"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.345,
+                0.02,
+                0.652,
+                0.044
+            ],
+            "angle": 0,
+            "content": "旺盈彩盒纸品有限公司"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.264,
+                0.058,
+                0.734,
+                0.075
+            ],
+            "angle": 0,
+            "content": "GLORY COLOUR BOXES& PAPER LIMITED"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.101,
+                0.104,
+                0.322,
+                0.123
+            ],
+            "angle": 0,
+            "content": "报告日期：2017.06.27",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.412,
+                0.104,
+                0.567,
+                0.126
+            ],
+            "angle": 0,
+            "content": "Test Report",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.666,
+                0.105,
+                0.901,
+                0.124
+            ],
+            "angle": 0,
+            "content": "Report No:2017062725",
+            "merge_prev": false
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.137,
+                0.184,
+                0.303,
+                0.201
+            ],
+            "angle": 0,
+            "content": "1、模拟运输测试："
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.136,
+                0.204,
+                0.869,
+                0.317
+            ],
+            "angle": 0,
+            "content": "<table><tr><td colspan=\"2\">测试条件</td><td>重量</td><td>备注</td></tr><tr><td>环境</td><td>25±5°C;65±15%RH</td><td rowspan=\"3\">NA</td><td rowspan=\"3\">/</td></tr><tr><td>频率</td><td>200cycles</td></tr><tr><td>时间</td><td>3个面每个面测试1小时。</td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.136,
+                0.336,
+                0.71,
+                0.353
+            ],
+            "angle": 0,
+            "content": "判定标准：测试后包装表面无擦花、掉色现象，产品无破损现象。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.137,
+                0.377,
+                0.269,
+                0.394
+            ],
+            "angle": 0,
+            "content": "样品数量: 1箱",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.137,
+                0.404,
+                0.77,
+                0.428
+            ],
+            "angle": 0,
+            "content": "结果描述：按照标准测试后箱内样品出现磨花现象，测试结果仅供参考。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.137,
+                0.44,
+                0.223,
+                0.456
+            ],
+            "angle": 0,
+            "content": "测试图片:",
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.168,
+                0.462,
+                0.495,
+                0.64
+            ],
+            "angle": 0,
+            "content": "Open cardboard box containing a grid of white rectangular blocks (no visible text or symbols)",
+            "sub_type": "natural_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.51,
+                0.463,
+                0.835,
+                0.638
+            ],
+            "angle": 0,
+            "content": "磨亮",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.078,
+                0.668,
+                0.92,
+                0.683
+            ],
+            "angle": 0,
+            "content": "******************************报告结束******************************",
+            "merge_prev": false
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.09,
+                0.968,
+                0.397,
+                0.983
+            ],
+            "angle": 0,
+            "content": "东莞市上合旺盈印刷有限公司旺盈实验室"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.446,
+                0.967,
+                0.551,
+                0.983
+            ],
+            "angle": 0,
+            "content": "Page 2 of 2"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.632,
+                0.968,
+                0.906,
+                0.983
+            ],
+            "angle": 0,
+            "content": "地址：东莞市东城区主山振兴路329#"
+        }
+    ]
+]

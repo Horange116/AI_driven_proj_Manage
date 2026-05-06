@@ -1,0 +1,2239 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "bbox": [
+                        39,
+                        31,
+                        102,
+                        57
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                31,
+                                102,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        31,
+                                        102,
+                                        57
+                                    ],
+                                    "type": "text",
+                                    "content": "andon"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        55,
+                        90,
+                        224,
+                        213
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                55,
+                                90,
+                                224,
+                                213
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        90,
+                                        224,
+                                        213
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                55,
+                                                90,
+                                                224,
+                                                213
+                                            ],
+                                            "type": "image",
+                                            "content": "iHealth Infrared No-Touch Forehead Thermometer\nModel: PT9L Power source: DC 2 x 1.5V=5IZE AAA batteries\nMeasurement position: Centre of the forehead surface\nManufactured for iHealth Labs, Inc.\nAndon Health Co., LTD.\nNo.3 JinPing Street, YoYan Road, Nankai District,\nTianjin 300190, China.\nMade in China\nLOT 120711011001\nIP22\n批号:120711011001为变量\n（批号依据柯朝规则执行）\n第1-6位：制造令代码；\n第7-9位：邮件序号；\n第10-12位：批次序列号；\nR=2mm",
+                                            "image_path": "366e4bb2ebc033fd1c3c1194b48eaeb37f4bf5ddd77d9d0aa5adfbc01fc927a8.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                227,
+                                150,
+                                254
+                            ],
+                            "type": "image_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        227,
+                                        150,
+                                        254
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                66,
+                                                227,
+                                                150,
+                                                254
+                                            ],
+                                            "type": "text",
+                                            "content": "比例1:1"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 3,
+                    "sub_type": "text_image"
+                },
+                {
+                    "bbox": [
+                        359,
+                        128,
+                        639,
+                        142
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                359,
+                                128,
+                                639,
+                                142
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        359,
+                                        128,
+                                        639,
+                                        142
+                                    ],
+                                    "type": "text",
+                                    "content": "iHealth Infrared No-Touch Forehead Thermometer"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        359,
+                        145,
+                        681,
+                        157
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                359,
+                                145,
+                                681,
+                                157
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        359,
+                                        145,
+                                        681,
+                                        157
+                                    ],
+                                    "type": "text",
+                                    "content": "Model: PT9L Power source: DC 2 x 1.5V=SIZE AAA batteries"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        359,
+                        159,
+                        624,
+                        171
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                359,
+                                159,
+                                624,
+                                171
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        359,
+                                        159,
+                                        624,
+                                        171
+                                    ],
+                                    "type": "text",
+                                    "content": "Measurement position: Centre of the forehead surface"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        359,
+                        173,
+                        531,
+                        185
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                359,
+                                173,
+                                531,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        359,
+                                        173,
+                                        531,
+                                        185
+                                    ],
+                                    "type": "text",
+                                    "content": "Manufactured for iHealth Labs, Inc."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        359,
+                        188,
+                        395,
+                        228
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                359,
+                                188,
+                                395,
+                                228
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        359,
+                                        188,
+                                        395,
+                                        228
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                359,
+                                                188,
+                                                395,
+                                                228
+                                            ],
+                                            "type": "image",
+                                            "image_path": "8f37301804b070ecb0287e255a3a8cbd4383a23930756ea25a8146cf67aa57d4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        401,
+                        187,
+                        514,
+                        199
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                401,
+                                187,
+                                514,
+                                199
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        401,
+                                        187,
+                                        514,
+                                        199
+                                    ],
+                                    "type": "text",
+                                    "content": "Andon Health Co., LTD."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        401,
+                        202,
+                        630,
+                        229
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                401,
+                                202,
+                                630,
+                                229
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        401,
+                                        202,
+                                        630,
+                                        229
+                                    ],
+                                    "type": "text",
+                                    "content": "No.3 JinPing Street, YaAn Road, Nankai District, Tianjin 300190, China."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        360,
+                        229,
+                        432,
+                        241
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                360,
+                                229,
+                                432,
+                                241
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        360,
+                                        229,
+                                        432,
+                                        241
+                                    ],
+                                    "type": "text",
+                                    "content": "Made in China"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        360,
+                        248,
+                        393,
+                        267
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                360,
+                                248,
+                                393,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        360,
+                                        248,
+                                        393,
+                                        267
+                                    ],
+                                    "type": "text",
+                                    "content": "LOT"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        399,
+                        249,
+                        485,
+                        263
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                399,
+                                249,
+                                485,
+                                263
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        399,
+                                        249,
+                                        485,
+                                        263
+                                    ],
+                                    "type": "text",
+                                    "content": "120711011001"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        519,
+                        239,
+                        548,
+                        267
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                519,
+                                239,
+                                548,
+                                267
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        519,
+                                        239,
+                                        548,
+                                        267
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                519,
+                                                239,
+                                                548,
+                                                267
+                                            ],
+                                            "type": "image",
+                                            "image_path": "8fd53493439a4f12521cf0dee5dea59dcea32d476040e073207b5d84d84c4d17.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        551,
+                        240,
+                        578,
+                        267
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                551,
+                                240,
+                                578,
+                                267
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        551,
+                                        240,
+                                        578,
+                                        267
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                551,
+                                                240,
+                                                578,
+                                                267
+                                            ],
+                                            "type": "image",
+                                            "image_path": "570b9ef2432d10c4b40ac9ee9f0344b001695224771391de2d75c957962dbe1d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        581,
+                        240,
+                        665,
+                        267
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                581,
+                                240,
+                                665,
+                                267
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        581,
+                                        240,
+                                        665,
+                                        267
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                581,
+                                                240,
+                                                665,
+                                                267
+                                            ],
+                                            "type": "image",
+                                            "image_path": "8cd6a31317c7c6a5e85d7ad171c4f7178cf8ee1c3ceb945c0ef349ba1bb6b691.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        666,
+                        202,
+                        713,
+                        267
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                666,
+                                202,
+                                713,
+                                267
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        666,
+                                        202,
+                                        713,
+                                        267
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                666,
+                                                202,
+                                                713,
+                                                267
+                                            ],
+                                            "type": "image",
+                                            "image_path": "b0fa7e5dfe652a791acc43e72d430d531dc7309ccaff4da4da7a02a2fbbe9135.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "bbox": [
+                        492,
+                        318,
+                        635,
+                        333
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                492,
+                                318,
+                                635,
+                                333
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        492,
+                                        318,
+                                        635,
+                                        333
+                                    ],
+                                    "type": "text",
+                                    "content": "批号:120711011001为变量"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        492,
+                        338,
+                        624,
+                        354
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                492,
+                                338,
+                                624,
+                                354
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        492,
+                                        338,
+                                        624,
+                                        354
+                                    ],
+                                    "type": "text",
+                                    "content": "(批号依据柯顿规则执行)"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 20,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        492,
+                        359,
+                        605,
+                        374
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                492,
+                                359,
+                                605,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        492,
+                                        359,
+                                        605,
+                                        374
+                                    ],
+                                    "type": "text",
+                                    "content": "第1-6位: 制造令代码；"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 21,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        492,
+                        380,
+                        593,
+                        395
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                492,
+                                380,
+                                593,
+                                395
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        492,
+                                        380,
+                                        593,
+                                        395
+                                    ],
+                                    "type": "text",
+                                    "content": "第7-9位: 部件序号；"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 22,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        492,
+                        400,
+                        618,
+                        415
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                492,
+                                400,
+                                618,
+                                415
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        492,
+                                        400,
+                                        618,
+                                        415
+                                    ],
+                                    "type": "text",
+                                    "content": "第10-12位: 批次序列号；"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 23,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        43,
+                        394,
+                        212,
+                        412
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                43,
+                                394,
+                                212,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        394,
+                                        212,
+                                        412
+                                    ],
+                                    "type": "text",
+                                    "content": "本件要求通过RoHS测试"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 24,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        43,
+                        419,
+                        260,
+                        438
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                43,
+                                419,
+                                260,
+                                438
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        419,
+                                        260,
+                                        438
+                                    ],
+                                    "type": "text",
+                                    "content": "说明：材质为：25#透明PET覆哑胶"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 25,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        43,
+                        445,
+                        154,
+                        462
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                43,
+                                445,
+                                154,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        445,
+                                        154,
+                                        462
+                                    ],
+                                    "type": "text",
+                                    "content": "尺寸：40X18mm"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 26,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        45,
+                        469,
+                        179,
+                        487
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                45,
+                                469,
+                                179,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        469,
+                                        179,
+                                        487
+                                    ],
+                                    "type": "text",
+                                    "content": "印刷颜色：k+1专色"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 27,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        185,
+                        470,
+                        222,
+                        491
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                185,
+                                470,
+                                222,
+                                491
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        185,
+                                        470,
+                                        222,
+                                        491
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                185,
+                                                470,
+                                                222,
+                                                491
+                                            ],
+                                            "type": "image",
+                                            "image_path": "932b3986fb59cb15ad0f9da2ec19d7698abb80b725750d9381533e519c101482.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 28
+                        }
+                    ],
+                    "index": 28
+                },
+                {
+                    "bbox": [
+                        235,
+                        471,
+                        382,
+                        491
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                235,
+                                471,
+                                382,
+                                491
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        235,
+                                        471,
+                                        382,
+                                        491
+                                    ],
+                                    "type": "text",
+                                    "content": "PANTONE 286 C"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 29,
+                    "merge_prev": false
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        8,
+                        512,
+                        833,
+                        586
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                8,
+                                512,
+                                833,
+                                586
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        8,
+                                        512,
+                                        833,
+                                        586
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                8,
+                                                512,
+                                                833,
+                                                586
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td></td><td>K04080002502</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">铭牌</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-F02</td></tr><tr><td>No</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td><eq>X^{\\circ}</eq></td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "ab07f8f6164408b66bb691b1a76fd8f61973e05ac3610ad03286365ae8cbf979.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 30
+                        }
+                    ],
+                    "index": 30
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        8,
+                        32,
+                        19,
+                        467
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                8,
+                                32,
+                                19,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        8,
+                                        32,
+                                        19,
+                                        467
+                                    ],
+                                    "type": "text",
+                                    "content": "1\n2\n3\n4\n5\n6\n7\n8"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        8,
+                        7,
+                        833,
+                        19
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                8,
+                                7,
+                                833,
+                                19
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        8,
+                                        7,
+                                        833,
+                                        19
+                                    ],
+                                    "type": "text",
+                                    "content": "A B C D E F G H"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                841,
+                595
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "bbox": [
+                        39,
+                        31,
+                        102,
+                        57
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                31,
+                                102,
+                                57
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        31,
+                                        102,
+                                        57
+                                    ],
+                                    "type": "text",
+                                    "content": "andon"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        55,
+                        90,
+                        224,
+                        213
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                55,
+                                90,
+                                224,
+                                213
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        90,
+                                        224,
+                                        213
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                55,
+                                                90,
+                                                224,
+                                                213
+                                            ],
+                                            "type": "image",
+                                            "content": "iHealth Infrared No-Touch Forehead Thermometer\nModel: PT9L Power source: DC 2 x 1.5V=5IZE AAA batteries\nMeasurement position: Centre of the forehead surface\nManufactured for iHealth Labs, Inc.\nAndon Health Co., LTD.\nNo.3 JinPing Street, YoYan Road, Nankai District,\nTianjin 300190, China.\nMade in China\nLOT 120711011001\nIP22\n批号:120711011001为变量\n（批号依据柯朝规则执行）\n第1-6位：制造令代码；\n第7-9位：邮件序号；\n第10-12位：批次序列号；\nR=2mm",
+                                            "image_path": "366e4bb2ebc033fd1c3c1194b48eaeb37f4bf5ddd77d9d0aa5adfbc01fc927a8.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                227,
+                                150,
+                                254
+                            ],
+                            "type": "image_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        227,
+                                        150,
+                                        254
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                66,
+                                                227,
+                                                150,
+                                                254
+                                            ],
+                                            "type": "text",
+                                            "content": "比例1:1"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 3,
+                    "sub_type": "text_image"
+                },
+                {
+                    "bbox": [
+                        359,
+                        128,
+                        639,
+                        142
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                359,
+                                128,
+                                639,
+                                142
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        359,
+                                        128,
+                                        639,
+                                        142
+                                    ],
+                                    "type": "text",
+                                    "content": "iHealth Infrared No-Touch Forehead Thermometer"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        359,
+                        145,
+                        681,
+                        157
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                359,
+                                145,
+                                681,
+                                157
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        359,
+                                        145,
+                                        681,
+                                        157
+                                    ],
+                                    "type": "text",
+                                    "content": "Model: PT9L Power source: DC 2 x 1.5V=SIZE AAA batteries"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        359,
+                        159,
+                        624,
+                        171
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                359,
+                                159,
+                                624,
+                                171
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        359,
+                                        159,
+                                        624,
+                                        171
+                                    ],
+                                    "type": "text",
+                                    "content": "Measurement position: Centre of the forehead surface"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        359,
+                        173,
+                        531,
+                        185
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                359,
+                                173,
+                                531,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        359,
+                                        173,
+                                        531,
+                                        185
+                                    ],
+                                    "type": "text",
+                                    "content": "Manufactured for iHealth Labs, Inc."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        359,
+                        188,
+                        395,
+                        228
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                359,
+                                188,
+                                395,
+                                228
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        359,
+                                        188,
+                                        395,
+                                        228
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                359,
+                                                188,
+                                                395,
+                                                228
+                                            ],
+                                            "type": "image",
+                                            "image_path": "8f37301804b070ecb0287e255a3a8cbd4383a23930756ea25a8146cf67aa57d4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        401,
+                        187,
+                        514,
+                        199
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                401,
+                                187,
+                                514,
+                                199
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        401,
+                                        187,
+                                        514,
+                                        199
+                                    ],
+                                    "type": "text",
+                                    "content": "Andon Health Co., LTD."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        401,
+                        202,
+                        630,
+                        229
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                401,
+                                202,
+                                630,
+                                229
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        401,
+                                        202,
+                                        630,
+                                        229
+                                    ],
+                                    "type": "text",
+                                    "content": "No.3 JinPing Street, YaAn Road, Nankai District, Tianjin 300190, China."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        360,
+                        229,
+                        432,
+                        241
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                360,
+                                229,
+                                432,
+                                241
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        360,
+                                        229,
+                                        432,
+                                        241
+                                    ],
+                                    "type": "text",
+                                    "content": "Made in China"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        360,
+                        248,
+                        393,
+                        267
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                360,
+                                248,
+                                393,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        360,
+                                        248,
+                                        393,
+                                        267
+                                    ],
+                                    "type": "text",
+                                    "content": "LOT"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        399,
+                        249,
+                        485,
+                        263
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                399,
+                                249,
+                                485,
+                                263
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        399,
+                                        249,
+                                        485,
+                                        263
+                                    ],
+                                    "type": "text",
+                                    "content": "120711011001"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        519,
+                        239,
+                        548,
+                        267
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                519,
+                                239,
+                                548,
+                                267
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        519,
+                                        239,
+                                        548,
+                                        267
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                519,
+                                                239,
+                                                548,
+                                                267
+                                            ],
+                                            "type": "image",
+                                            "image_path": "8fd53493439a4f12521cf0dee5dea59dcea32d476040e073207b5d84d84c4d17.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        551,
+                        240,
+                        578,
+                        267
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                551,
+                                240,
+                                578,
+                                267
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        551,
+                                        240,
+                                        578,
+                                        267
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                551,
+                                                240,
+                                                578,
+                                                267
+                                            ],
+                                            "type": "image",
+                                            "image_path": "570b9ef2432d10c4b40ac9ee9f0344b001695224771391de2d75c957962dbe1d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        581,
+                        240,
+                        665,
+                        267
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                581,
+                                240,
+                                665,
+                                267
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        581,
+                                        240,
+                                        665,
+                                        267
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                581,
+                                                240,
+                                                665,
+                                                267
+                                            ],
+                                            "type": "image",
+                                            "image_path": "8cd6a31317c7c6a5e85d7ad171c4f7178cf8ee1c3ceb945c0ef349ba1bb6b691.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        666,
+                        202,
+                        713,
+                        267
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                666,
+                                202,
+                                713,
+                                267
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        666,
+                                        202,
+                                        713,
+                                        267
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                666,
+                                                202,
+                                                713,
+                                                267
+                                            ],
+                                            "type": "image",
+                                            "image_path": "b0fa7e5dfe652a791acc43e72d430d531dc7309ccaff4da4da7a02a2fbbe9135.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "bbox": [
+                        492,
+                        318,
+                        635,
+                        333
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                492,
+                                318,
+                                635,
+                                333
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        492,
+                                        318,
+                                        635,
+                                        333
+                                    ],
+                                    "type": "text",
+                                    "content": "批号:120711011001为变量"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        492,
+                        338,
+                        624,
+                        354
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                492,
+                                338,
+                                624,
+                                354
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        492,
+                                        338,
+                                        624,
+                                        354
+                                    ],
+                                    "type": "text",
+                                    "content": "(批号依据柯顿规则执行)"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 20,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        492,
+                        359,
+                        605,
+                        374
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                492,
+                                359,
+                                605,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        492,
+                                        359,
+                                        605,
+                                        374
+                                    ],
+                                    "type": "text",
+                                    "content": "第1-6位: 制造令代码；"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 21,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        492,
+                        380,
+                        593,
+                        395
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                492,
+                                380,
+                                593,
+                                395
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        492,
+                                        380,
+                                        593,
+                                        395
+                                    ],
+                                    "type": "text",
+                                    "content": "第7-9位: 部件序号；"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 22,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        492,
+                        400,
+                        618,
+                        415
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                492,
+                                400,
+                                618,
+                                415
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        492,
+                                        400,
+                                        618,
+                                        415
+                                    ],
+                                    "type": "text",
+                                    "content": "第10-12位: 批次序列号；"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 23,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        43,
+                        394,
+                        212,
+                        412
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                43,
+                                394,
+                                212,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        394,
+                                        212,
+                                        412
+                                    ],
+                                    "type": "text",
+                                    "content": "本件要求通过RoHS测试"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 24,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        43,
+                        419,
+                        260,
+                        438
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                43,
+                                419,
+                                260,
+                                438
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        419,
+                                        260,
+                                        438
+                                    ],
+                                    "type": "text",
+                                    "content": "说明：材质为：25#透明PET覆哑胶"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 25,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        43,
+                        445,
+                        154,
+                        462
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                43,
+                                445,
+                                154,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        43,
+                                        445,
+                                        154,
+                                        462
+                                    ],
+                                    "type": "text",
+                                    "content": "尺寸：40X18mm"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 26,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        45,
+                        469,
+                        179,
+                        487
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                45,
+                                469,
+                                179,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        45,
+                                        469,
+                                        179,
+                                        487
+                                    ],
+                                    "type": "text",
+                                    "content": "印刷颜色：k+1专色"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 27,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        185,
+                        470,
+                        222,
+                        491
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                185,
+                                470,
+                                222,
+                                491
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        185,
+                                        470,
+                                        222,
+                                        491
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                185,
+                                                470,
+                                                222,
+                                                491
+                                            ],
+                                            "type": "image",
+                                            "image_path": "932b3986fb59cb15ad0f9da2ec19d7698abb80b725750d9381533e519c101482.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 28
+                        }
+                    ],
+                    "index": 28
+                },
+                {
+                    "bbox": [
+                        235,
+                        471,
+                        382,
+                        491
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                235,
+                                471,
+                                382,
+                                491
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        235,
+                                        471,
+                                        382,
+                                        491
+                                    ],
+                                    "type": "text",
+                                    "content": "PANTONE 286 C"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 29,
+                    "merge_prev": false
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        8,
+                        512,
+                        833,
+                        586
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                8,
+                                512,
+                                833,
+                                586
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        8,
+                                        512,
+                                        833,
+                                        586
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                8,
+                                                512,
+                                                833,
+                                                586
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td></td><td>K04080002502</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">铭牌</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-F02</td></tr><tr><td>No</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td><eq>X^{\\circ}</eq></td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "ab07f8f6164408b66bb691b1a76fd8f61973e05ac3610ad03286365ae8cbf979.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 30
+                        }
+                    ],
+                    "index": 30
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "3.1.6"
+}

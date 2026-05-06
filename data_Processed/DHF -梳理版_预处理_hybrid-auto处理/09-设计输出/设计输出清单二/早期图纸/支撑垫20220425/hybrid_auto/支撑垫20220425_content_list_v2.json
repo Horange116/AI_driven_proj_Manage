@@ -1,0 +1,149 @@
+[
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/eee7339e256d0d0135f1d51b9af2f376d9ef63171d98d9aa8fda7c3943e89de7.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>3</td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>聚氨酯</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>2</td><td>Design</td><td></td><td></td><td>X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td></tr><tr><td>1</td><td>初版制作</td><td></td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td></td></tr><tr><td>No.</td><td>更改时间</td><td>Approve</td><td></td><td></td><td></td><td>.X°</td><td></td><td>Units</td></tr><tr><td></td><td>更改记录</td><td>Approve</td><td></td><td></td><td></td><td>mm</td><td></td><td>mm</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                0,
+                0,
+                129,
+                998
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "uōpūn "
+                    }
+                ]
+            },
+            "bbox": [
+                915,
+                23,
+                961,
+                101
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c6d82ac9a6cbfb3290ccb66e3947959f61fbce442291dbe774b0661fdbf2cdbd.jpg"
+                },
+                "content": "4±0.1\nR515+0.05\nR32540.05",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                282,
+                181,
+                687,
+                546
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. 单面背散，背胶厚度0.05~0.1mm，背胶牢固，\n不可出现背胶分离的情况\n5. 部氏硬度：50±5度\n6. 出货排脱需要方便生产加工取放\n7. 本件要求通过R0HS测试"
+                    }
+                ]
+            },
+            "bbox": [
+                371,
+                677,
+                492,
+                891
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 标注厚度不包含骨胶\n2. 材质：聚氨酯"
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                677,
+                561,
+                783
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3f98302676a8fc50473d7f6123859bbaee377568be138cd30bd1ff9214ffe8fc.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>DTM</td><td>A</td><td></td><td></td></tr><tr><td>&lt; 5</td><td>≠003</td><td>≠01</td><td>≠015</td></tr><tr><td>&gt; 5~50</td><td>≠005</td><td>≠01</td><td>≠02</td></tr><tr><td>&lt; 50~100</td><td>≠008</td><td>≠02</td><td>≠03</td></tr><tr><td>&gt;100</td><td>≠0%</td><td>≠02%</td><td>≠03%</td></tr><tr><td>ANGULFR</td><td>≠0.10</td><td>≠0.50</td><td>≠0.50</td></tr><tr><td colspan=\"4\">SLEELT LEVEL</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                129,
+                873,
+                305,
+                998
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "8\n7\n6\n5\n4\n3\n2\n1 "
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                0,
+                998,
+                13
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "⑧"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 才序号"
+                    }
+                ]
+            },
+            "bbox": [
+                946,
+                936,
+                964,
+                988
+            ]
+        }
+    ]
+]

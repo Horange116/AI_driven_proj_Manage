@@ -1,0 +1,42 @@
+[
+    [
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">客户需求评审单</text>"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p><strong>客户需求编号</strong>：   PT9L-KHXQ01 V1.0     <strong>客户名称</strong>：  九安       <strong>客户代表</strong>：赵一平</p></td></tr><tr><td><p><strong>参加评审人员：</strong><em>（在适用的选项前□内划√，横线上填写姓名，不适用选项空白）</em></p><p>□技术总监                  ☑业务负责人      丛明      □项目负责人                 </p><p>□结构主管                  □硬件主管                  □软件主管                 </p><p><a id=\"OLE_LINK1\"></a>☑结构工程师    刘钊          ☑硬件工程师      万龙        ☑软件工程师      王迪       </p><p>☑认证工程师    王艳红        □物料工程师                  ☑客户代表     赵一平       </p><p>□平面设计工程师                 ☑资源开发工程师    刘昊         ☑导入工程师     孟兆君      </p><p>☑品质工程师     张勋      </p></td></tr><tr><td><p><strong>人员职责:</strong></p><p>  业务负责人:主要综合评估产品的开发成本，研发进度，以及产品的开发难度和总体可行性等；</p><p>  结构工程师:主要评估组件规格部分的要求在技术方案及法规要求方面是否可行；</p><p>硬件工程师:主要评估性能规格部分的要求在技术方案及法规要求方面是否可行；</p><p>软件工程师:主要评估功能规格部分的要求在技术方案及法规要求方面是否可行；</p><p>认证工程师:主要评估产品进行相应的测试和认证时的难度和可行性；</p><p>客户代表:主要向其它工程师介绍客户意图并且评估客户需求是否充分；</p><p>资源开发工程师:主要从物料的供应方面评估是否满足客户的相关要求；</p><p>导入工程师/品质工程师:主要评估客户需求在生产过程和产品质量控制过程中可能会遇到的问题及可能的解决方案；</p></td></tr><tr><td><p><strong>接收准则：</strong></p><p>1.客户需求表达清晰、明确；                                                                </p><p>2.客户需求－通用要求部分表达的内容完整，技术上可行；                                      </p><p>3.客户需求－功能规格部分表达的内容完整，技术上可行；                                      </p><p>4.客户需求－组件规格部分表达的内容完整，技术上可行；                                      </p><p>5.客户的要求已经充分体现在客户需求里，没有额外要补充的问题。                              </p></td></tr><tr><td><p><strong>评审时间：</strong>       年   月   日   时   分<strong>  评审地点：</strong>  二楼会议室　　　　　　　　　　　　  </p></td></tr></table>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">申请人</text><text style=\"italic\">(专业工程师)</text><text style=\"bold\">：</text><text style=\"underline\">             </text><text style=\"bold\">审核</text><text style=\"italic\">(业务负责人)</text><text style=\"bold\">：</text><text style=\"underline\">               </text><text style=\"bold\">批准</text><text style=\"italic\">(业务负责人)</text><text style=\"bold\">：</text><text style=\"underline\">            </text><text style=\"bold,underline\">   </text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"underline\">     年  月  日                        年  月  日                           年  月  日</text>"
+        },
+        {
+            "type": "header",
+            "content": "文件编号：<text style=\"underline\"> PT9L-KXPS01 </text>  V1.0                                          客户需求评审单"
+        },
+        {
+            "type": "footer",
+            "content": "第 1 页/共 3 页                                         "
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": "<table><tr><td><p><strong>评审内容：</strong></p><p><strong>1、关键技术分析及可行性（可另附页）</strong></p><table><tr><td><p><strong> 序号</strong></p></td><td><p><strong>项目</strong></p></td><td><p><strong>分析</strong></p></td><td><p><strong>可行性</strong></p></td></tr><tr><td><p>1.1</p></td><td><p>工作原理</p></td><td><p>红外体温计是通过使用红外传感器, 在不接触额头的情况下, 接收额头温度所辐射出的红外线信号，来计算人体温度。</p></td><td><p>可行</p></td></tr><tr><td><p>1.2</p></td><td><p>硬件方案</p></td><td><p>红外传感器可接收额头温度所辐射出的红外线信号, 并转换成感应电压, 通过测量该感应电压,并经过计算处理修正后, 将测量温度以数字的形式通过LCD显示器显示出测量体温值。</p></td><td><p>可行</p></td></tr><tr><td><p>1.3</p></td><td><p>算法技术</p></td><td><p>算法采用已有成熟技术</p></td><td><p>可行</p></td></tr><tr><td><p>1.4</p></td><td><p>软件实现</p></td><td><p>下位机用C语言进行编程开发。</p></td><td><p>可行</p></td></tr><tr><td><p>1.5</p></td><td><p>器件要求</p></td><td><p>MCU，测温模块</p></td><td><p>可行</p></td></tr><tr><td><p>1.6</p></td><td><p>结构要求</p></td><td><p>5.15 in x 1.37 in x 1.49 in，外壳采用ABS材料</p></td><td><p>可行</p></td></tr><tr><td><p>1.7</p></td><td><p>总体可行性</p></td><td><p>经分析以上条款，均可行。</p></td><td><p>可行</p></td></tr></table><p><strong>2、成本方面的要求</strong></p><p>符合一般体温计的研发成本要求。</p><p><strong>3、预估项目的整体周期</strong></p><p>预计项目研发周期为5个月。</p><p><strong>4、新的制造过程及工艺要求（如新的制作过程、工艺、设备、环境、场地、人员需求等）</strong></p><p><strong> </strong>无新的制造过程。</p><p><strong>5、需求是否被正确理解，是否有需要向客户反馈的意见</strong></p><p>  需求已被正确理解，无需要向客户反馈的意见。</p><p><strong>6、客户需求是否明确、清晰,疑问之处是否需要沟通  </strong></p><p>  客户需求已经明确清晰，无需要沟通之处。</p><p><strong>7、医疗器械的特定性能和安全使用所需的任何用户培训是否可获得</strong></p><p>  客户通过识别说明书中的内容来获得此信息。</p><p><strong>评审结论：</strong> </p><p>客户需求已经足够详细，针对客户需求的解决方案也确实可行。整个产品开发时间、成本、制作工艺要求也都可以满足客户需求。故此客户需求表详细、具体、可行。</p><p>确定王迪龙为项目负责人。</p><p> </p><p> <strong>批准</strong><em>(业务负责人)</em><strong>：</strong> <strong> </strong>        年    月    日</p><p> </p><p> <strong>评审人员签字：</strong> </p><table><tr><td><p>序号</p></td><td><p>职务</p></td><td><p>部门</p></td><td><p>姓名</p></td><td><p>签名</p></td><td><p>日期</p></td></tr><tr><td><p>1</p></td><td><p>业务负责人</p></td><td><p>智能产品部</p></td><td><p>丛明</p></td><td></td><td><p>       年   月   日</p></td></tr><tr><td><p>2</p></td><td><p>结构工程师</p></td><td><p>智能产品部</p></td><td><p>刘钊</p></td><td></td><td><p>       年   月   日</p></td></tr><tr><td><p>3</p></td><td><p>硬件工程师</p></td><td><p>智能产品部</p></td><td><p>万龙</p></td><td></td><td><p>       年   月   日</p></td></tr><tr><td><p>4</p></td><td><p>软件工程师</p></td><td><p>智能产品部</p></td><td><p>王迪</p></td><td></td><td><p>       年   月   日</p></td></tr><tr><td><p>5</p></td><td><p>认证工程师</p></td><td><p>认证检测中心</p></td><td><p>王艳红</p></td><td></td><td><p>       年   月   日</p></td></tr><tr><td><p>6</p></td><td><p>导入工程师</p></td><td><p>柯顿</p></td><td><p>孟兆君</p></td><td></td><td><p>       年   月   日</p></td></tr><tr><td><p>7</p></td><td><p>资源开发工程师</p></td><td><p>智能产品部</p></td><td><p>刘昊</p></td><td></td><td><p>     年   月   日</p></td></tr><tr><td><p>8</p></td><td><p>客户代表</p></td><td><p>智能产品部</p></td><td><p>赵一平</p></td><td></td><td><p>     年   月   日</p></td></tr><tr><td><p>9</p></td><td><p>品质工程师</p></td><td><p>柯顿</p></td><td><p>张勋</p></td><td></td><td><p>       年   月   日</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></td></tr></table>"
+        },
+        {
+            "type": "header",
+            "content": "文件编号：<text style=\"underline\"> PT9L-KXPS01 </text>  V1.0                                          客户需求评审单"
+        },
+        {
+            "type": "footer",
+            "content": "第 1 页/共 3 页                                         "
+        }
+    ]
+]

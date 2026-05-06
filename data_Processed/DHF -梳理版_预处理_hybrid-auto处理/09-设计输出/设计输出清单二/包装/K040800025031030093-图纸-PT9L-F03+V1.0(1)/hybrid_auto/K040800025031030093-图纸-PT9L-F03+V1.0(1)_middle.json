@@ -1,0 +1,1592 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        48,
+                        41,
+                        108,
+                        65
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                48,
+                                41,
+                                108,
+                                65
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        41,
+                                        108,
+                                        65
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                48,
+                                                41,
+                                                108,
+                                                65
+                                            ],
+                                            "type": "image",
+                                            "image_path": "50fda06e187b979d518ae38a06a9faeb5237853e1cf6e371b1acd8fdb3970d73.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        72,
+                        95,
+                        283,
+                        219
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                72,
+                                95,
+                                283,
+                                219
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        95,
+                                        283,
+                                        219
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                72,
+                                                95,
+                                                283,
+                                                219
+                                            ],
+                                            "type": "image",
+                                            "content": "20.0\nR1.2\n25.0\n(01)00850044118700\n(10)201347011001\n二维码图案根据数字的变更相应变更\n字体：Myriad Pro 字高：4.5pt",
+                                            "image_path": "8feeec89487b502f91e7dd60016aab38432a2f02dcccf86f37cdadb2568ae51c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                153,
+                                210,
+                                263,
+                                219
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        153,
+                                        210,
+                                        263,
+                                        219
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                153,
+                                                210,
+                                                263,
+                                                219
+                                            ],
+                                            "type": "text",
+                                            "content": "字体：Myriad Pro 字高：4.5pt"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                153,
+                                221,
+                                285,
+                                229
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        153,
+                                        221,
+                                        285,
+                                        229
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                153,
+                                                221,
+                                                285,
+                                                229
+                                            ],
+                                            "type": "text",
+                                            "content": "第二行编码为批号：201347011001为变量"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                216,
+                                230,
+                                293,
+                                239
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        230,
+                                        293,
+                                        239
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                216,
+                                                230,
+                                                293,
+                                                239
+                                            ],
+                                            "type": "text",
+                                            "content": "(批号依据柯顿规则执行)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                216,
+                                240,
+                                284,
+                                249
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        240,
+                                        284,
+                                        249
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                216,
+                                                240,
+                                                284,
+                                                249
+                                            ],
+                                            "type": "text",
+                                            "content": "第1-6位：制造令代码"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                216,
+                                251,
+                                277,
+                                260
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        251,
+                                        277,
+                                        260
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                216,
+                                                251,
+                                                277,
+                                                260
+                                            ],
+                                            "type": "text",
+                                            "content": "第7-9位：部件序号"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                216,
+                                261,
+                                290,
+                                270
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        261,
+                                        290,
+                                        270
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                216,
+                                                261,
+                                                290,
+                                                270
+                                            ],
+                                            "type": "text",
+                                            "content": "第10-12位：批次序列号"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                156,
+                                272,
+                                326,
+                                280
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        156,
+                                        272,
+                                        326,
+                                        280
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                156,
+                                                272,
+                                                326,
+                                                280
+                                            ],
+                                            "type": "text",
+                                            "content": "(01)00850044118700 (10) 批号 (11) 生产日期 (17) 有效期"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                156,
+                                281,
+                                340,
+                                289
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        156,
+                                        281,
+                                        340,
+                                        289
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                156,
+                                                281,
+                                                340,
+                                                289
+                                            ],
+                                            "type": "text",
+                                            "content": "批号、生产日期和有效期的信息内容按照生产现有规则执行"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                156,
+                                290,
+                                269,
+                                298
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        156,
+                                        290,
+                                        269,
+                                        298
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                156,
+                                                290,
+                                                269,
+                                                298
+                                            ],
+                                            "type": "text",
+                                            "content": "并根据评审要求以上内容生成二维码"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 4,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        450,
+                        117,
+                        666,
+                        333
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                450,
+                                117,
+                                666,
+                                333
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        450,
+                                        117,
+                                        666,
+                                        333
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                450,
+                                                117,
+                                                666,
+                                                333
+                                            ],
+                                            "type": "image",
+                                            "content": "QR code image containing encoded data, no visible human-readable text",
+                                            "image_path": "4ca25e00009f813df2669cc062958854e4fbcbb021412a38a0abeaec68a6b623.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                454,
+                                358,
+                                664,
+                                382
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        454,
+                                        358,
+                                        664,
+                                        382
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                454,
+                                                358,
+                                                664,
+                                                382
+                                            ],
+                                            "type": "text",
+                                            "content": "(01)00850044118700"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                466,
+                                387,
+                                648,
+                                410
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        466,
+                                        387,
+                                        648,
+                                        410
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                466,
+                                                387,
+                                                648,
+                                                410
+                                            ],
+                                            "type": "text",
+                                            "content": "(10)201347011001"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 14,
+                    "sub_type": "text_image"
+                },
+                {
+                    "bbox": [
+                        73,
+                        412,
+                        121,
+                        426
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                412,
+                                121,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        412,
+                                        121,
+                                        426
+                                    ],
+                                    "type": "text",
+                                    "content": "技术要求"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "bbox": [
+                        52,
+                        433,
+                        200,
+                        490
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 18,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                52,
+                                433,
+                                200,
+                                446
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        433,
+                                        200,
+                                        446
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                433,
+                                                200,
+                                                446
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 材质：80g白色不干胶铜版纸"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 19,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                448,
+                                161,
+                                461
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        448,
+                                        161,
+                                        461
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                448,
+                                                161,
+                                                461
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 印刷颜色：单黑印刷"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 20,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                463,
+                                119,
+                                476
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        463,
+                                        119,
+                                        476
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                463,
+                                                119,
+                                                476
+                                            ],
+                                            "type": "text",
+                                            "content": "3. 表面覆亮膜"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 21,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                478,
+                                173,
+                                490
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        478,
+                                        173,
+                                        490
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                478,
+                                                173,
+                                                490
+                                            ],
+                                            "type": "text",
+                                            "content": "4. 本件要求通过RoHS测试"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 22,
+                            "merge_prev": false
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        26,
+                        500,
+                        813,
+                        571
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                26,
+                                500,
+                                813,
+                                571
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        500,
+                                        813,
+                                        571
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                26,
+                                                500,
+                                                813,
+                                                571
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td></td><td>K04080002503</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td>±0.5</td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">彩包装标签</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-F03</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td><img src=\"9299213251f0a261c5d0569627c6c9ab994e3a30be0dd5873a20f5a7e14749bb.jpg\"/></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "5c6d29e09ecc82a7bb35ffcb9414500dd8c7533040276ebd527c0234ca9f9146.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        26,
+                        39,
+                        39,
+                        458
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                26,
+                                39,
+                                39,
+                                458
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        39,
+                                        39,
+                                        458
+                                    ],
+                                    "type": "text",
+                                    "content": "1\n2\n3\n4\n5\n6\n7\n8"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        73,
+                        24,
+                        769,
+                        33
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                24,
+                                769,
+                                33
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        24,
+                                        769,
+                                        33
+                                    ],
+                                    "type": "text",
+                                    "content": "A | B | C | D | E | F | G | H"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        763,
+                        39,
+                        803,
+                        49
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                763,
+                                39,
+                                803,
+                                49
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        763,
+                                        39,
+                                        803,
+                                        49
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "⑤"
+                                },
+                                {
+                                    "bbox": [
+                                        763,
+                                        39,
+                                        803,
+                                        49
+                                    ],
+                                    "type": "text",
+                                    "content": " 尺寸序号"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "page_size": [
+                841,
+                595
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        48,
+                        41,
+                        108,
+                        65
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                48,
+                                41,
+                                108,
+                                65
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        41,
+                                        108,
+                                        65
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                48,
+                                                41,
+                                                108,
+                                                65
+                                            ],
+                                            "type": "image",
+                                            "image_path": "50fda06e187b979d518ae38a06a9faeb5237853e1cf6e371b1acd8fdb3970d73.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        72,
+                        95,
+                        283,
+                        219
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                72,
+                                95,
+                                283,
+                                219
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        95,
+                                        283,
+                                        219
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                72,
+                                                95,
+                                                283,
+                                                219
+                                            ],
+                                            "type": "image",
+                                            "content": "20.0\nR1.2\n25.0\n(01)00850044118700\n(10)201347011001\n二维码图案根据数字的变更相应变更\n字体：Myriad Pro 字高：4.5pt",
+                                            "image_path": "8feeec89487b502f91e7dd60016aab38432a2f02dcccf86f37cdadb2568ae51c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                153,
+                                210,
+                                263,
+                                219
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        153,
+                                        210,
+                                        263,
+                                        219
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                153,
+                                                210,
+                                                263,
+                                                219
+                                            ],
+                                            "type": "text",
+                                            "content": "字体：Myriad Pro 字高：4.5pt"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                153,
+                                221,
+                                285,
+                                229
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        153,
+                                        221,
+                                        285,
+                                        229
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                153,
+                                                221,
+                                                285,
+                                                229
+                                            ],
+                                            "type": "text",
+                                            "content": "第二行编码为批号：201347011001为变量"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                216,
+                                230,
+                                293,
+                                239
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        230,
+                                        293,
+                                        239
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                216,
+                                                230,
+                                                293,
+                                                239
+                                            ],
+                                            "type": "text",
+                                            "content": "(批号依据柯顿规则执行)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                216,
+                                240,
+                                284,
+                                249
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        240,
+                                        284,
+                                        249
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                216,
+                                                240,
+                                                284,
+                                                249
+                                            ],
+                                            "type": "text",
+                                            "content": "第1-6位：制造令代码"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                216,
+                                251,
+                                277,
+                                260
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        251,
+                                        277,
+                                        260
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                216,
+                                                251,
+                                                277,
+                                                260
+                                            ],
+                                            "type": "text",
+                                            "content": "第7-9位：部件序号"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                216,
+                                261,
+                                290,
+                                270
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        261,
+                                        290,
+                                        270
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                216,
+                                                261,
+                                                290,
+                                                270
+                                            ],
+                                            "type": "text",
+                                            "content": "第10-12位：批次序列号"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                156,
+                                272,
+                                326,
+                                280
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        156,
+                                        272,
+                                        326,
+                                        280
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                156,
+                                                272,
+                                                326,
+                                                280
+                                            ],
+                                            "type": "text",
+                                            "content": "(01)00850044118700 (10) 批号 (11) 生产日期 (17) 有效期"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                156,
+                                281,
+                                340,
+                                289
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        156,
+                                        281,
+                                        340,
+                                        289
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                156,
+                                                281,
+                                                340,
+                                                289
+                                            ],
+                                            "type": "text",
+                                            "content": "批号、生产日期和有效期的信息内容按照生产现有规则执行"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                156,
+                                290,
+                                269,
+                                298
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        156,
+                                        290,
+                                        269,
+                                        298
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                156,
+                                                290,
+                                                269,
+                                                298
+                                            ],
+                                            "type": "text",
+                                            "content": "并根据评审要求以上内容生成二维码"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 4,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        450,
+                        117,
+                        666,
+                        333
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                450,
+                                117,
+                                666,
+                                333
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        450,
+                                        117,
+                                        666,
+                                        333
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                450,
+                                                117,
+                                                666,
+                                                333
+                                            ],
+                                            "type": "image",
+                                            "content": "QR code image containing encoded data, no visible human-readable text",
+                                            "image_path": "4ca25e00009f813df2669cc062958854e4fbcbb021412a38a0abeaec68a6b623.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                454,
+                                358,
+                                664,
+                                382
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        454,
+                                        358,
+                                        664,
+                                        382
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                454,
+                                                358,
+                                                664,
+                                                382
+                                            ],
+                                            "type": "text",
+                                            "content": "(01)00850044118700"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                466,
+                                387,
+                                648,
+                                410
+                            ],
+                            "type": "image_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        466,
+                                        387,
+                                        648,
+                                        410
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                466,
+                                                387,
+                                                648,
+                                                410
+                                            ],
+                                            "type": "text",
+                                            "content": "(10)201347011001"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 14,
+                    "sub_type": "text_image"
+                },
+                {
+                    "bbox": [
+                        73,
+                        412,
+                        121,
+                        426
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                412,
+                                121,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        412,
+                                        121,
+                                        426
+                                    ],
+                                    "type": "text",
+                                    "content": "技术要求"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "bbox": [
+                        52,
+                        433,
+                        200,
+                        490
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 18,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                52,
+                                433,
+                                200,
+                                446
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        433,
+                                        200,
+                                        446
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                433,
+                                                200,
+                                                446
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 材质：80g白色不干胶铜版纸"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 19,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                448,
+                                161,
+                                461
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        448,
+                                        161,
+                                        461
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                448,
+                                                161,
+                                                461
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 印刷颜色：单黑印刷"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 20,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                463,
+                                119,
+                                476
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        463,
+                                        119,
+                                        476
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                463,
+                                                119,
+                                                476
+                                            ],
+                                            "type": "text",
+                                            "content": "3. 表面覆亮膜"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 21,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                478,
+                                173,
+                                490
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        478,
+                                        173,
+                                        490
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                478,
+                                                173,
+                                                490
+                                            ],
+                                            "type": "text",
+                                            "content": "4. 本件要求通过RoHS测试"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 22,
+                            "merge_prev": false
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        26,
+                        500,
+                        813,
+                        571
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                26,
+                                500,
+                                813,
+                                571
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        500,
+                                        813,
+                                        571
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                26,
+                                                500,
+                                                813,
+                                                571
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td></td><td>K04080002503</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td>±0.5</td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">彩包装标签</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-F03</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td><img src=\"9299213251f0a261c5d0569627c6c9ab994e3a30be0dd5873a20f5a7e14749bb.jpg\"/></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "5c6d29e09ecc82a7bb35ffcb9414500dd8c7533040276ebd527c0234ca9f9146.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "3.1.6"
+}

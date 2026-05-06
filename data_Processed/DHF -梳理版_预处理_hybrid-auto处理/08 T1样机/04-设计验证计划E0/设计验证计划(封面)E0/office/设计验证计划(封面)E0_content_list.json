@@ -1,0 +1,24 @@
+[
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><tr><td><p>设计验证计划</p><p> V1.0</p><p>产  品  型 号   PT9L            .</p><p>\t\t项  目  编 号   30000078        .\t</p><p>产品/项目名称   红外体温计      .</p></td></tr><tr><td><p>包括文件：</p><p>□设计验证计划-通用要求部分 （文件编号：PT9L-YZTY01 V1.0 ）</p><p>□设计验证计划-功能规格部分 （文件编号：PT9L-YZGN01 V1.0 ） </p><p>□设计验证计划-性能规格部分 （文件编号：PT9L-YZXN01 V1.0 ）</p><p>□设计验证计划-组件规格部分 （文件编号：PT9L-YZZJ01 V1.0 ）</p><p>□设计验证计划-法规标准清单 （文件编号：PT9L-YZBZ01 V1.0 ）</p></td></tr><tr><td><p><strong>拟制</strong><em>（项目负责人）：</em>                       年   月   日</p><p><strong>审核</strong><em>（技术负责人）：</em>                       年   月   日</p><p><strong>批准</strong><em>(技术负责人)：</em><strong> </strong> <strong> </strong>       年   月   日</p></td></tr></table>",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**历史版本记录** ",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>修改日期</strong></p></td><td><p><strong>修改描述</strong></p></td><td><p><strong>版本</strong></p></td><td><p><strong>编制</strong></p></td><td><p><strong>批准</strong></p></td></tr><tr><td><p>1</p></td><td><p>24年03月1日</p></td><td><p>起草</p></td><td><p>V1.0</p></td><td><p>王迪龙</p></td><td><p>侯广伟</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "文件编号：  <u>PT9L-YZJH01</u> V1.0         设计验证计划  表号: QR-7.3-06/E0",
+        "page_idx": 0
+    }
+]

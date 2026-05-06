@@ -1,0 +1,48 @@
+{
+  "format": "docreview-pdf-layout-probe-v1",
+  "source_name": "T040800073941030093-PT3-F21.pdf",
+  "content_hash": "46f580993951e2ee73309d487d0300099506808bd38db3a58f6ae4e9cc47b75e",
+  "page_count": 1,
+  "engine": "pymupdf",
+  "capabilities": {
+    "text_blocks": true,
+    "word_coordinates": true,
+    "row_clustering": true,
+    "vector_drawings": true,
+    "tables": false,
+    "ocr": false,
+    "semantic_table_reconstruction": false
+  },
+  "limits": [
+    "Rows are geometric text clusters, not verified semantic tables.",
+    "Vector drawings are counted but not converted into Gantt/task bars.",
+    "Scanned-image OCR is not enabled.",
+    "PDF W1 output is text/layout-audit evidence, not semantic Gantt reconstruction."
+  ],
+  "totals": {
+    "text_block_count": 0,
+    "word_count": 0,
+    "row_count": 0,
+    "table_like_row_count": 0,
+    "drawing_path_count": 306,
+    "drawing_item_count": 7383,
+    "line_item_count": 4335,
+    "rectangle_item_count": 223
+  },
+  "pages": [
+    {
+      "page_index": 1,
+      "width": 741.45,
+      "height": 487.96,
+      "text_block_count": 0,
+      "word_count": 0,
+      "row_count": 0,
+      "table_like_row_count": 0,
+      "drawing_path_count": 306,
+      "drawing_item_count": 7383,
+      "line_item_count": 4335,
+      "rectangle_item_count": 223,
+      "rows": []
+    }
+  ]
+}

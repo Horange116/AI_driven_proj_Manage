@@ -1,0 +1,167 @@
+[
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.0,
+                0.0,
+                0.999,
+                0.03
+            ],
+            "angle": 0,
+            "content": "A B C D E F G H"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.936,
+                0.035,
+                0.99,
+                0.054
+            ],
+            "angle": 0,
+            "content": "⑧ 尺寸序号",
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.179,
+                0.306,
+                0.554,
+                0.719
+            ],
+            "angle": 0,
+            "content": "R3.25±0.05\nR5.75±0.05\n4±0.1",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.679,
+                0.413,
+                0.722,
+                0.435
+            ],
+            "angle": 0,
+            "content": "技术要求"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.678,
+                0.437,
+                0.892,
+                0.625
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.679,
+                0.438,
+                0.784,
+                0.459
+            ],
+            "angle": 0,
+            "content": "1. 标注厚度不包含背胶",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.679,
+                0.462,
+                0.753,
+                0.482
+            ],
+            "angle": 0,
+            "content": "2.材质：聚氨酯",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.679,
+                0.486,
+                0.743,
+                0.506
+            ],
+            "angle": 0,
+            "content": "3. 颜色：黑色",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.679,
+                0.509,
+                0.891,
+                0.553
+            ],
+            "angle": 0,
+            "content": "4. 单面背胶，背胶厚度0.05~0.1mm，背胶牢固，不可出现背胶分离的情况",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.679,
+                0.557,
+                0.774,
+                0.576
+            ],
+            "angle": 0,
+            "content": "5.邵氏硬度:50±5度",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.679,
+                0.579,
+                0.836,
+                0.6
+            ],
+            "angle": 0,
+            "content": "6. 出货排版需要方便生产加工取放",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.679,
+                0.603,
+                0.795,
+                0.624
+            ],
+            "angle": 0,
+            "content": "7. 本件要求通过RoHS测试",
+            "merge_prev": false
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.875,
+                0.691,
+                0.999,
+                0.869
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"2\">DTM\\LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt; 5</td><td>±0.03</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 5~15</td><td>±0.05</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 15~50</td><td>±0.05</td><td>±0.1</td><td>±0.2</td></tr><tr><td>&gt; 50~100</td><td>±0.08</td><td>±0.2</td><td>±0.3</td></tr><tr><td>&gt;100</td><td>±0.1%</td><td>±0.2%</td><td>±0.3%</td></tr><tr><td>ANGULAR</td><td>±0.1°</td><td>±0.5°</td><td>±0.5°</td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\">B</td></tr></table>"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.0,
+                0.87,
+                0.999,
+                0.999
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>3</td><td></td><td></td><td>K03020002129</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>聚氨酯</td><td>Model NO.</td><td colspan=\"2\">T-Z1</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">支撑垫</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td></td><td>Drawing NO.</td><td colspan=\"2\">T-Z1-P15</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>"
+        }
+    ]
+]

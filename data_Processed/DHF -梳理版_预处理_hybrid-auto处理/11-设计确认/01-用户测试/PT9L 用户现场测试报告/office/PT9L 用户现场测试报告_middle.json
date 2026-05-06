@@ -1,0 +1,1553 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "用户现场测试报告",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "V1.0"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "产  品  型 号 "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "     PT9L          ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "项  目  编 号 "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "        30000078   ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "产品/项目名称 "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "     红外体温计    ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "编    制",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "（软件工程师）",
+                                    "style": [
+                                        "italic"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "                        年   月   日",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "审    核",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "（软 件主 管）",
+                                    "style": [
+                                        "italic"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "                        年   月   日",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "批    准",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "（技术负责人）",
+                                    "style": [
+                                        "italic"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "                          年   月   日",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件编号："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "PT9L - RYCB01",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "  V1.0                      用户现场测试报告"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "历史版本记录",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>更改日期</strong></p></td><td><p><strong>版本描述</strong></p></td><td><p><strong>版本</strong></p></td><td><p><strong>更改人</strong></p></td><td><p><strong>批准人</strong></p></td></tr><tr><td><p>1</p></td><td><p>2024.05.24</p></td><td><p>起草</p></td><td><p>V1.0</p></td><td><p>王迪</p></td><td><p>侯广伟</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件编号："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "PT9L - RYCB01",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "  V1.0                      用户现场测试报告"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "第6页/共7页"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "测试说明"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "is_numbered_style": true,
+                    "level": 1,
+                    "section_number": "1."
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "本报告作为用户现场测试的总结报告，汇总用户现场测试所有信息，给出了用户现场测试结论。同时，由于国内、美版和欧版所有的操作步骤和功能模块完全相同，因此，在这里仅用一版样机进行测试确认即可。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "测试配置"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "is_numbered_style": true,
+                    "level": 1,
+                    "section_number": "2."
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>产品型号</p></td><td><p>PT9L</p></td></tr><tr><td><p>软件版本</p></td><td><p>主单片机</p><p>美版PT-HT2762-V0009-1.0.0</p></td></tr><tr><td><p>硬件版本</p></td><td><p>PT9L-HBMP V1.0</p></td></tr><tr><td><p>说明书版本</p></td><td><p>美版PT9L-SMSP01 V1.0</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件记录版本"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4,
+                    "is_numbered_style": true,
+                    "level": 1,
+                    "section_number": "3."
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>文件</p></td><td><p>文件名及版本</p></td></tr><tr><td><p>用户现场测试计划</p></td><td><p>PT9L-RYCJ01 V1.0</p></td></tr><tr><td><p>用户现场测试记录</p></td><td><p>PT9L-RYCL01 V1.0</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "测试人群评估"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "is_numbered_style": true,
+                    "level": 1,
+                    "section_number": "4."
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "人群汇总"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "is_numbered_style": true,
+                    "level": 2,
+                    "section_number": "4.1."
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"3\"><p>专业技术人员</p></td><td colspan=\"5\"><p>普通用户</p></td></tr><tr><td><p>序号</p></td><td><p>年龄</p></td><td><p>性别</p></td><td><p>教育水平</p></td><td><p>序号</p></td><td><p>年龄</p></td><td><p>性别</p></td><td><p>教育水平</p></td></tr><tr><td><p>1</p></td><td><p>33</p></td><td><p>□男■女</p></td><td><p>□初中□高中■大学</p></td><td><p>1</p></td><td><p>25</p></td><td><p>□男■女</p></td><td><p>□初中□高中■大学</p></td></tr><tr><td><p>2</p></td><td><p>37</p></td><td><p>■男□女</p></td><td><p>□初中□高中■大学</p></td><td><p>2</p></td><td><p>30</p></td><td><p>■男□女</p></td><td><p>□初中□高中■大学</p></td></tr><tr><td><p>3</p></td><td><p>35</p></td><td><p>■男□女</p></td><td><p>□初中□高中■大学</p></td><td><p>3</p></td><td><p>40</p></td><td><p>■男□女</p></td><td><p>□初中■高中□大学</p></td></tr><tr><td><p>4</p></td><td></td><td></td><td></td><td><p>4</p></td><td><p>16</p></td><td><p>■男□女</p></td><td><p>■初中□高中□大学</p></td></tr><tr><td><p>5</p></td><td></td><td></td><td></td><td><p>5</p></td><td><p>20</p></td><td><p>□男■女</p></td><td><p>□初中■高中□大学</p></td></tr><tr><td></td><td></td><td></td><td></td><td><p>6</p></td><td><p>13</p></td><td><p>■男□女</p></td><td><p>■初中□高中□大学</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件编号："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "PT9L - RYCB01",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "  V1.0                      用户现场测试报告"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件编号："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "PT9L - RYCB01",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "  V1.0                   用户现场测试报告"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "第6页/共7页"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "第4页/共7页"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                }
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "专业技术人员"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "is_numbered_style": true,
+                    "level": 2,
+                    "section_number": "4.2."
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "性别"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>性别</p></td><td><p>人数</p></td><td><p>%</p></td></tr><tr><td><p>女性</p></td><td><p>1</p></td><td><p>33%</p></td></tr><tr><td><p>男性</p></td><td><p>2</p></td><td><p>67%</p></td></tr><tr><td><p>总计</p></td><td><p>3</p></td><td><p>100%</p></td></tr><tr><td><p>结论：</p></td><td colspan=\"2\"><p>■符合要求 □不符合要求</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "年龄"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>年龄</p></td><td><p>人数</p></td><td><p>%</p></td></tr><tr><td><p>12~20</p></td><td><p>0</p></td><td><p>0%</p></td></tr><tr><td><p>21~30</p></td><td><p>0</p></td><td><p>75%</p></td></tr><tr><td><p>31~40</p></td><td><p>3</p></td><td><p>100%</p></td></tr><tr><td><p>41~50</p></td><td><p>0</p></td><td><p>0%</p></td></tr><tr><td><p>51~60</p></td><td><p>0</p></td><td><p>0%</p></td></tr><tr><td><p>61~</p></td><td><p>0</p></td><td><p>0%</p></td></tr><tr><td><p>总计</p></td><td><p>3</p></td><td><p>100%</p></td></tr><tr><td><p>结论</p></td><td colspan=\"2\"><p>■符合要求 □不符合要求</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "教育程度"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>教育程度</p></td><td><p>人数</p></td><td><p>%</p></td></tr><tr><td><p>初中</p></td><td><p>0</p></td><td><p>0%</p></td></tr><tr><td><p>高中</p></td><td><p>0</p></td><td><p>0%</p></td></tr><tr><td><p>大学</p></td><td><p>3</p></td><td><p>100%</p></td></tr><tr><td><p>总计</p></td><td><p>3</p></td><td><p>100%</p></td></tr><tr><td><p>结论</p></td><td colspan=\"2\"><p>■符合要求 □不符合要求</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "普通用户"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "is_numbered_style": true,
+                    "level": 2,
+                    "section_number": "4.3."
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "性别"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>性别</p></td><td><p>人数</p></td><td><p>%</p></td></tr><tr><td><p>女性</p></td><td><p>2</p></td><td><p>33%</p></td></tr><tr><td><p>男性</p></td><td><p>4</p></td><td><p>67%</p></td></tr><tr><td><p>总计</p></td><td><p>6</p></td><td><p>100%</p></td></tr><tr><td><p>结论：</p></td><td colspan=\"2\"><p>■符合要求 □不符合要求</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "年龄"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>年龄</p></td><td><p>人数</p></td><td><p>%</p></td></tr><tr><td><p>12~20</p></td><td><p>3</p></td><td><p>50%</p></td></tr><tr><td><p>21~30</p></td><td><p>2</p></td><td><p>33%</p></td></tr><tr><td><p>31~40</p></td><td><p>1</p></td><td><p>17%</p></td></tr><tr><td><p>41~50</p></td><td><p>0</p></td><td><p>0%</p></td></tr><tr><td><p>51~60</p></td><td><p>0</p></td><td><p>0%</p></td></tr><tr><td><p>61~</p></td><td><p>0</p></td><td><p>0%</p></td></tr><tr><td><p>总计</p></td><td><p>6</p></td><td><p>100%</p></td></tr><tr><td><p>结论</p></td><td colspan=\"2\"><p>■符合要求 □不符合要求</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "教育程度"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>教育程度</p></td><td><p>人数</p></td><td><p>%</p></td></tr><tr><td><p>初中</p></td><td><p>2</p></td><td><p>33%</p></td></tr><tr><td><p>高中</p></td><td><p>2</p></td><td><p>33%</p></td></tr><tr><td><p>大学</p></td><td><p>2</p></td><td><p>33%</p></td></tr><tr><td><p>总计</p></td><td><p>6</p></td><td><p>100%</p></td></tr><tr><td><p>结论</p></td><td colspan=\"2\"><p>■符合要求 □不符合要求</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "问卷调查汇总"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14,
+                    "is_numbered_style": true,
+                    "level": 1,
+                    "section_number": "5."
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "专业技术人员"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15,
+                    "is_numbered_style": true,
+                    "level": 2,
+                    "section_number": "5.1."
+                },
+                {
+                    "type": "list",
+                    "attribute": "ordered",
+                    "ilevel": 0,
+                    "blocks": [
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "用户说明书可读性"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>非常容易</p></td><td><p>容易</p></td><td><p>一般</p></td><td><p>困难</p></td><td><p>非常困难</p></td></tr><tr><td><p>3/3(100%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 17,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "type": "list",
+                    "attribute": "ordered",
+                    "ilevel": 0,
+                    "blocks": [
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "标签（彩包装、机身标识）的可读性"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>非常容易</p></td><td><p>容易</p></td><td><p>一般</p></td><td><p>困难</p></td><td><p>非常困难</p></td></tr><tr><td><p>3/3(100%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 19,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 19
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "3）LED显示内容是否易懂"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 20
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>非常容易</p></td><td><p>容易</p></td><td><p>一般</p></td><td><p>困难</p></td><td><p>非常困难</p></td></tr><tr><td><p>3/3(100%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 21,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 21
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "4）LED显示是否清楚"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 22
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>非常清楚</p></td><td><p>清楚</p></td><td><p>一般</p></td><td><p>不清楚</p></td><td><p>非常不清楚</p></td></tr><tr><td><p>3/3(100%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 23,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "5）安装电池是否容易"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 24
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>非常容易</p></td><td><p>容易</p></td><td><p>一般</p></td><td><p>困难</p></td><td><p>非常困难</p></td></tr><tr><td><p>3/3(100%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 25,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 25
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "6）按键的易用性"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 26
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>非常容易</p></td><td><p>容易</p></td><td><p>一般</p></td><td><p>困难</p></td><td><p>非常困难</p></td></tr><tr><td><p>3/3(100%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 27,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 27
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "7）用户说明书和产品随机文件中是否容易找到提供售后服务信息"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 28
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>非常容易</p></td><td><p>容易</p></td><td><p>一般</p></td><td><p>困难</p></td><td><p>非常困难</p></td></tr><tr><td><p>3/3(100%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td><td><p>0/3(0%)</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 29,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 29
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "8）是否提供了用户说明书和产品随机文件以外的材料？"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 30
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>是</p></td><td><p>否</p></td></tr><tr><td><p>0/3(0%)</p></td><td><p>3/3(100%)</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 31,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 31
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "普通用户"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 32,
+                    "is_numbered_style": true,
+                    "level": 2,
+                    "section_number": "5.2."
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "1）用户说明书可读性"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 33
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>非常容易</p></td><td><p>容易</p></td><td><p>一般</p></td><td><p>困难</p></td><td><p>非常困难</p></td></tr><tr><td><p>6/6(100%)</p></td><td><p>0/6(20%)</p></td><td><p>0/6(0%)</p></td><td><p>0/6(0%)</p></td><td><p>0/6(0%)</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 34,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 34
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "2）标签（彩包装、机身标识）的可读性"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 35
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>非常容易</p></td><td><p>容易</p></td><td><p>一般</p></td><td><p>困难</p></td><td><p>非常困难</p></td></tr><tr><td><p>6/6(100%)</p></td><td><p>0/6(20%)</p></td><td><p>0/6(0%)</p></td><td><p>0/6(0%)</p></td><td><p>0/6(0%)</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 36,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 36
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "3）LED显示内容是否易懂"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 37
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>非常容易</p></td><td><p>容易</p></td><td><p>一般</p></td><td><p>困难</p></td><td><p>非常困难</p></td></tr><tr><td><p>6/6(100%)</p></td><td><p>0/6(20%)</p></td><td><p>0/6(0%)</p></td><td><p>0/6(0%)</p></td><td><p>0/6(0%)</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 38,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 38
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "4）LED显示是否清楚"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 39
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>非常清楚</p></td><td><p>清楚</p></td><td><p>一般</p></td><td><p>不清楚</p></td><td><p>非常不清楚</p></td></tr><tr><td><p>6/6(100%)</p></td><td><p>0/6(20%)</p></td><td><p>0/6(0%)</p></td><td><p>0/6(0%)</p></td><td><p>0/6(0%)</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 40,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 40
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "5）安装电池是否容易"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 41
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>非常容易</p></td><td><p>容易</p></td><td><p>一般</p></td><td><p>困难</p></td><td><p>非常困难</p></td></tr><tr><td><p>6/6(100%)</p></td><td><p>0/6(20%)</p></td><td><p>0/6(0%)</p></td><td><p>0/6(0%)</p></td><td><p>0/6(0%)</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 42,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 42
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "6）按键的易用性"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 43
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>非常容易</p></td><td><p>容易</p></td><td><p>一般</p></td><td><p>困难</p></td><td><p>非常困难</p></td></tr><tr><td><p>6/6(100%)</p></td><td><p>0/6(20%)</p></td><td><p>0/6(0%)</p></td><td><p>0/6(0%)</p></td><td><p>0/6(0%)</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 44,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 44
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "7）用户说明书和产品随机文件中是否容易找到提供售后服务信息"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 45
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>非常容易</p></td><td><p>容易</p></td><td><p>一般</p></td><td><p>困难</p></td><td><p>非常困难</p></td></tr><tr><td><p>6/6(100%)</p></td><td><p>0/6(20%)</p></td><td><p>0/6(0%)</p></td><td><p>0/6(0%)</p></td><td><p>0/6(0%)</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 46,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 46
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "8）是否提供了用户说明书和产品随机文件以外的材料？"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 47
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>是</p></td><td><p>否</p></td></tr><tr><td><p>0/5(0%)</p></td><td><p>6/6(100%)</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 48,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 48
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>问卷调查总结论</p></td><td><p>■通过        □不通过</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 49,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 49
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "用户现场测试结论汇总"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 50,
+                    "is_numbered_style": true,
+                    "level": 1,
+                    "section_number": "6."
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"2\"><p>试产完成的或同等制造条件下生产的产品样机</p></td><td><p>■是    □否</p></td></tr><tr><td colspan=\"2\"><p>测试的受试者分布应满足上述“3. 测试要求”中d部分的要求</p></td><td><p>■是    □否</p></td></tr><tr><td colspan=\"2\"><p>是否按用户现场测试计划进行测试</p></td><td><p>■是    □否</p></td></tr><tr><td colspan=\"2\"><p>《用户现场测试记录》无异常测试现象或异常测试现象已被解决</p></td><td><p>■是    □否</p></td></tr><tr><td colspan=\"2\"><p>用户问卷调查均达到“（3）一般”以上</p></td><td><p>■是    □否</p></td></tr><tr><td colspan=\"2\"><p>无任何用户指出测试中提供了用户说明书和产品随机文件以外的材料</p></td><td><p>■是    □否</p></td></tr><tr><td><p>总结论</p></td><td colspan=\"2\"><p>■通过      □不通过</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 51,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 51
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件编号："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "PT9L - RYCB01",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "  V1.0                      用户现场测试报告"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 52
+                },
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件编号："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "PT9L- RYCB01",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "  V1.0                     用户现场测试报告"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 53
+                },
+                {
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "第6页/共7页"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 54
+                },
+                {
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "第4页/共7页"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 55
+                }
+            ],
+            "page_idx": 3
+        }
+    ],
+    "_backend": "office",
+    "_version_name": "3.1.6"
+}

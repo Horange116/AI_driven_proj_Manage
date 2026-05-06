@@ -1,0 +1,97 @@
+[
+    [
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">设 计 原 理</text>"
+        },
+        {
+            "type": "text",
+            "content": "PT9L红外体温计是一款快速测量体温的产品。具有简单易用、测量迅速、数据准确的特点。",
+            "anchor": "OLE_LINK1"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">方案相关主要器件如下：</text>"
+        },
+        {
+            "type": "text",
+            "content": "MCU性能："
+        },
+        {
+            "type": "text",
+            "content": "16K Flash，1K RAM；"
+        },
+        {
+            "type": "text",
+            "content": "一路SPI；"
+        },
+        {
+            "type": "text",
+            "content": "一路UART；"
+        },
+        {
+            "type": "text",
+            "content": "一路I2C；"
+        },
+        {
+            "type": "text",
+            "content": "8通道ADC；"
+        },
+        {
+            "type": "text",
+            "content": "28个GPIO；"
+        },
+        {
+            "type": "text",
+            "content": "CPU频率4MHz；"
+        },
+        {
+            "type": "text",
+            "content": "可满足PT9L的控制需要。"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">电源    </text>"
+        },
+        {
+            "type": "text",
+            "content": "2节AAA 七号电池 电池容量 3V  1000mAh"
+        },
+        {
+            "type": "text",
+            "content": "有低电压提示功能。"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">温度传感器</text>"
+        },
+        {
+            "type": "text",
+            "content": "利用红外测温原理采集人体温度信息，并转化成电信号。"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">LCD驱动</text>"
+        },
+        {
+            "type": "text",
+            "content": "由主控制芯片直接驱动LCD。"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">其他</text>"
+        },
+        {
+            "type": "text",
+            "content": "采用2个按键，用于进入测量、单位设置、测量模式设置等功能。"
+        },
+        {
+            "type": "header",
+            "content": "<text style=\"bold\">PT9L-SJYL01 V1.0                                                      设计原理</text>"
+        },
+        {
+            "type": "footer",
+            "content": "第 1 页 共 1 页                   "
+        }
+    ]
+]

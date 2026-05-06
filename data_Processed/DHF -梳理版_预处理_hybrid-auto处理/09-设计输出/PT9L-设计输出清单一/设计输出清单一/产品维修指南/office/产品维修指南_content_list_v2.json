@@ -1,0 +1,405 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PT9L",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "产品维修指南 V1.0",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "产 品 型 号："
+                    },
+                    {
+                        "type": "text",
+                        "content": "      PT9L      ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "项 目 编 号："
+                    },
+                    {
+                        "type": "text",
+                        "content": "    30000078    ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "产品/项目名称："
+                    },
+                    {
+                        "type": "text",
+                        "content": "   红外体温计  ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "编    制",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "："
+                    },
+                    {
+                        "type": "text",
+                        "content": "                   年   月   日",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "审    核",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "："
+                    },
+                    {
+                        "type": "text",
+                        "content": "                   年   月   日",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "批    准",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "："
+                    },
+                    {
+                        "type": "text",
+                        "content": "                   年   月   日",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号："
+                    },
+                    {
+                        "type": "text",
+                        "content": "PT9L-WXZN01 V1.0                                                               ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "产品维修指南"
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "历史版本记录 ",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>修改日期</strong></p></td><td><p><strong>修改描述</strong></p></td><td><p><strong>版本</strong></p></td><td><p><strong>编制</strong></p></td><td><p><strong>批准</strong></p></td></tr><tr><td><p>1</p></td><td><p>2024年4月20日</p></td><td><p>起草</p></td><td><p>V1.0</p></td><td><p>万龙</p></td><td><p>侯广伟</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号："
+                    },
+                    {
+                        "type": "text",
+                        "content": "PT9L-WXZN01 V1.0                                                               ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "产品维修指南"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号："
+                    },
+                    {
+                        "type": "text",
+                        "content": "PT9L-WXZN01 V1.0                                                              ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "产品维修指南"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "第1页/共9页"
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "目的:",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "对产品生产过程中出现的不符合产品检验标准要求并需要进行维修的情况提供借鉴."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "维修准备：",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "ordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "1.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "确认维修时产品不良现象"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "2.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "确保维修不对产品造成破坏或二次损伤"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "具体维修方法：",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "参考附表《PT9L测试不良现象及原因分析》",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td colspan=\"5\"><p><strong>PT9L测试不良现象及原因分析</strong></p></td></tr><tr><td><p>测试不良</p></td><td><p>不良现象</p></td><td><p>一级不良原因分析</p></td><td><p>二级不良原因分析</p></td><td><p>备注</p></td></tr><tr><td><p><strong>开机不良</strong></p></td><td><p>1.不开机</p></td><td><p>（1）电源弹簧不良</p></td><td><p>①.“+”、“-”极簧连</p></td><td></td></tr><tr><td></td><td></td><td></td><td><p>②.“+”、“-”极簧装反</p></td><td></td></tr><tr><td></td><td></td><td></td><td><p>③.“+”、“-”极簧松</p></td><td></td></tr><tr><td></td><td></td><td><p>（2）稳压电路不良</p></td><td><p>①.电源短路</p></td><td></td></tr><tr><td></td><td></td><td></td><td><p>②.稳压片不良</p></td><td></td></tr><tr><td></td><td></td><td><p>（3）主芯片不良</p></td><td><p>①.主芯片程序错误</p></td><td></td></tr><tr><td></td><td></td><td></td><td><p>②.主芯片不良</p></td><td></td></tr><tr><td></td><td></td><td><p>（4）按键不良</p></td><td><p>①.按键不良</p></td><td></td></tr><tr><td></td><td></td><td></td><td><p>②.主芯片按键端口不良</p></td><td></td></tr><tr><td></td><td><p>2.无显示或显示不全</p></td><td></td><td><p>见显示不良分析</p></td><td></td></tr><tr><td></td><td><p>3.无声音</p></td><td></td><td><p>见蜂鸣器不良分析</p></td><td></td></tr><tr><td colspan=\"5\"></td></tr><tr><td><p><strong>显示不良</strong></p></td><td><p>1.全显缺段</p></td><td></td><td><p>①.LCD不良</p></td><td></td></tr><tr><td></td><td></td><td></td><td><p>②.主芯片LCD驱动端口不良</p></td><td></td></tr><tr><td></td><td></td><td></td><td><p>③.导电胶条不良</p></td><td></td></tr><tr><td></td><td><p>2.显示深浅不一</p></td><td></td><td><p>①.LCD不良</p></td><td></td></tr><tr><td></td><td></td><td></td><td><p>②.主芯片LCD驱动端口不良</p></td><td></td></tr><tr><td></td><td><p>3.背光不亮</p></td><td></td><td><p>①.背光LED不良</p></td><td></td></tr><tr><td></td><td></td><td></td><td><p>②.主芯片LED驱动端口不良</p></td><td></td></tr><tr><td colspan=\"5\"></td></tr><tr><td><p>蜂鸣器</p></td><td><p>1.不响</p></td><td></td><td><p>①.蜂鸣器不良</p></td><td></td></tr><tr><td></td><td></td><td></td><td><p>②.主芯片控制端口不良</p></td><td></td></tr><tr><td></td><td><p>2.声音小或时断时续</p></td><td></td><td><p>①.蜂鸣器不良</p></td><td></td></tr><tr><td></td><td></td><td></td><td><p>②.主芯片控制端口不良</p></td><td></td></tr><tr><td colspan=\"5\"></td></tr><tr><td><p><strong>测温不准</strong></p></td><td><p>测温不准</p></td><td></td><td><p>①.温度传感器不良</p></td><td></td></tr><tr><td></td><td></td><td></td><td><p>②.温度标定不良</p></td><td></td></tr><tr><td colspan=\"5\"></td></tr><tr><td><p><strong>低电压不良</strong></p></td><td><p>1.开机出电池符号</p></td><td></td><td><p>①.低电检测电路不良</p></td><td></td></tr><tr><td></td><td></td><td></td><td><p>②.主芯片低电检测端口不良</p></td><td></td></tr><tr><td></td><td><p>2.低电压不出电池符号</p></td><td></td><td><p>①.主芯片低电检测端口不良</p></td><td></td></tr><tr><td></td><td></td><td></td><td><p>②.低电检测电路不良</p></td><td></td></tr><tr><td></td><td></td><td></td><td><p>③.LCD驱动芯片端口不良</p></td><td></td></tr><tr><td colspan=\"5\"></td></tr><tr><td><p><strong>供电、漏电不良</strong></p></td><td><p>1.供电大</p></td><td></td><td><p>①.主芯片端口不良(短路)</p></td><td></td></tr><tr><td></td><td></td><td></td><td><p>②.稳压片电路不良</p></td><td></td></tr><tr><td></td><td></td><td></td><td><p>③.元器件损坏</p></td><td></td></tr><tr><td></td><td><p>2.供电小</p></td><td></td><td><p>①.稳压片电路不良</p></td><td></td></tr><tr><td></td><td></td><td></td><td><p>②.主芯片端口不良</p></td><td></td></tr><tr><td></td><td><p>3.漏电大</p></td><td></td><td><p>①.元器件不良</p></td><td></td></tr><tr><td></td><td></td><td></td><td><p>②.主芯片端口不良</p></td><td></td></tr><tr><td></td><td></td><td></td><td><p>③.稳压片电路不良</p></td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号："
+                    },
+                    {
+                        "type": "text",
+                        "content": "PT9L-WXZN01 V1.0                                                               ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "产品维修指南"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "第3页/共3页"
+                    }
+                ]
+            }
+        }
+    ]
+]

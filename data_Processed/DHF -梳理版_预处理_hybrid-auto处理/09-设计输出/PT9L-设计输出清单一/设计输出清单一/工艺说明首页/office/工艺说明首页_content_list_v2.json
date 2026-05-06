@@ -1,0 +1,230 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "工艺说明",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（V1.0）",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "产 品 型 号："
+                    },
+                    {
+                        "type": "text",
+                        "content": "      PT9L     ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "项 目 编 号："
+                    },
+                    {
+                        "type": "text",
+                        "content": "     30000078   ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "产品/项目名称："
+                    },
+                    {
+                        "type": "text",
+                        "content": "   红外体温计   ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "编    制",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "："
+                    },
+                    {
+                        "type": "text",
+                        "content": "                     年   月   日",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "审    核",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "："
+                    },
+                    {
+                        "type": "text",
+                        "content": "                     年   月   日",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "批    准",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "："
+                    },
+                    {
+                        "type": "text",
+                        "content": "                     年   月   日",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号："
+                    },
+                    {
+                        "type": "text",
+                        "content": "PT9L-GYSM01 V1.0                                               ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "工艺说明                               "
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "历史版本记录 ",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>修改日期</strong></p></td><td><p><strong>修改描述</strong></p></td><td><p><strong>版本</strong></p></td><td><p><strong>编制</strong></p></td><td><p><strong>批准</strong></p></td></tr><tr><td><p>1</p></td><td><p> 2024年4月20日</p></td><td><p>              起草</p></td><td><p>V1.0</p></td><td><p>万龙</p></td><td><p>侯广伟</p></td></tr><tr><td></td><td><p> </p></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号："
+                    },
+                    {
+                        "type": "text",
+                        "content": "PT5-GZSM01 V1.0",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "                                                                                          PT5 工装操作说明                                "
+                    }
+                ]
+            }
+        }
+    ]
+]

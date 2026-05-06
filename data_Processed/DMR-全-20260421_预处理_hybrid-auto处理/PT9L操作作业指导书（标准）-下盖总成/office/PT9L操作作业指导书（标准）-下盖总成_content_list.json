@@ -1,0 +1,32 @@
+[
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table>\n  <tr>\n    <th colspan=\"10\"><p>受控表号：KQR-7.5.1-03-37/A0<br><img src=\"images/8184ba55ded0bf72da1603c8e6c2881796083fca17a9e8c76dfeffa9003d7fd7.jpg\"/></p></th>\n  </tr>\n  <tr>\n    <td colspan=\"10\"><p>     PT9L操作作业指导书（标准）</p></td>\n  </tr>\n  <tr>\n    <td colspan=\"10\"><p>编号：WI-PT9L-BS01</p></td>\n  </tr>\n  <tr>\n    <td><p>Type</p></td>\n    <td><p>Page</p></td>\n    <td colspan=\"2\"><p>Progress Name</p></td>\n    <td><p>Ver.No</p></td>\n    <td><p>Date</p></td>\n    <td><p>Prepared</p></td>\n    <td><p>Checked</p></td>\n    <td colspan=\"2\"><p>Approved</p></td>\n  </tr>\n  <tr>\n    <td><p>部件名称</p></td>\n    <td><p>页码</p></td>\n    <td colspan=\"2\"><p>工序名称</p></td>\n    <td><p>版本</p></td>\n    <td><p>生效期</p></td>\n    <td><p>准备</p></td>\n    <td><p>审核</p></td>\n    <td colspan=\"2\"><p>批准</p></td>\n  </tr>\n  <tr>\n    <td><p>下盖总成</p></td>\n    <td><p>1/1</p></td>\n    <td colspan=\"2\"><p>下盖粘探头</p></td>\n    <td><p>1</p></td>\n    <td><p>2024.06.20</p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td colspan=\"2\"><p></p></td>\n  </tr>\n  <tr>\n    <td><p>物料名称</p></td>\n    <td><p>工序      描述</p></td>\n    <td colspan=\"3\"><p>图象</p></td>\n    <td><p>操作</p></td>\n    <td><p>设备工具名称</p></td>\n    <td><p>人员装备要求</p></td>\n    <td colspan=\"2\"><p>要求</p></td>\n  </tr>\n  <tr>\n    <td rowspan=\"5\"><p>下盖\n(物料信息见生产订单BOM）</p></td>\n    <td rowspan=\"5\"><p></p></td>\n    <td rowspan=\"5\" colspan=\"3\"><p><img src=\"images/9de5edb5523dde98e05920cf2d9bf2abe18c06a4c1f3804677d1ba9951e6ab66.jpg\"/></p></td>\n    <td rowspan=\"5\"><p></p></td>\n    <td rowspan=\"5\"><p></p></td>\n    <td rowspan=\"5\"><p></p></td>\n    <td rowspan=\"5\" colspan=\"2\"><p>下盖不可有划伤 污染，多料，缺料等。</p></td>\n  </tr>\n  <tr>\n  </tr>\n  <tr>\n  </tr>\n  <tr>\n  </tr>\n  <tr>\n  </tr>\n  <tr>\n    <td><p>探头\n(物料信息见生产订单BOM）</p></td>\n    <td><p></p></td>\n    <td colspan=\"3\"><p><img src=\"images/3858c9585609f1b39fc9673b49971c78e6fcb8495786b746b2b563be0096f261.jpg\"/></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td colspan=\"2\"><p>要求：探头不可有脏污、破损、多料、少料等。</p></td>\n  </tr>\n  <tr>\n    <td rowspan=\"11\"><p></p></td>\n    <td rowspan=\"11\"><p>粘胶头</p></td>\n    <td rowspan=\"11\" colspan=\"3\"><p><img src=\"images/1c19993d7581c34c8c8ac2217883215dd02a09c71726c152a96bf7e102e159bf.jpg\"/></p></td>\n    <td rowspan=\"11\"><p>如图示把胶头放在工装上，然后点胶，点胶之后安装到机头按压3-5秒使胶头和机头完全粘合即可，胶量适中不能有溢胶或透缝现象。</p></td>\n    <td rowspan=\"11\"><p></p></td>\n    <td rowspan=\"11\"><p>佩戴手套</p></td>\n    <td rowspan=\"11\" colspan=\"2\"><p>要求：探头安装到位，粘合到位，不可有溢胶或透缝现象，产生外观不良等。</p></td>\n  </tr>\n  <tr>\n  </tr>\n  <tr>\n  </tr>\n  <tr>\n  </tr>\n  <tr>\n  </tr>\n  <tr>\n  </tr>\n  <tr>\n  </tr>\n  <tr>\n  </tr>\n  <tr>\n  </tr>\n  <tr>\n  </tr>\n  <tr>\n  </tr>\n</table>",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/af6342c530ce92d5729ce881cfc1a30e9560f5b1cd45fef587bcac009a61ab34.jpg",
+        "image_caption": [],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b8d77c570cbd021a7bd442b002c62bfbfa84e67f8cb74c8c10515d582466ee7.jpg",
+        "image_caption": [],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c4eb97c18a90f8752ee9b57e0d7836287ecd1ef8d6ddd2db69256193108c828.jpg",
+        "image_caption": [],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb5a42d1fe55bb8728907ef20ec5a2104811a529b46aa445188393a36902cf8a.jpg",
+        "image_caption": [],
+        "page_idx": 0
+    }
+]

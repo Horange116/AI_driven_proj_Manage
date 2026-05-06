@@ -1,0 +1,30 @@
+[
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><thead><tr><th><p><strong>检 验 项 目</strong></p></th><th><p><strong>检 验 用 具</strong></p></th><th><p><strong>检  验  方  法</strong></p></th><th><p><strong>合 格 标 准</strong></p></th><th><p><strong>缺陷等级</strong></p></th></tr></thead><tbody><tr><td><p>PCB规格检验</p><p>（首件）</p></td><td><p>目测</p></td><td><p>PCB版次是否符合制造令bom要求</p></td><td><p>PCB版次符合制造令bom要求；</p></td><td><p>MA</p></td></tr></tbody></table>",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><thead><tr><th><p><a></a><strong>检 验 项 目</strong></p></th><th><p><strong>检 验 用 具</strong></p></th><th colspan=\"2\"><p><strong>检  验  方  法</strong></p></th><th><p><strong>合 格 标 准</strong></p></th><th><p><strong>缺陷等级</strong></p></th></tr></thead><tbody><tr><td><p>开机检验</p><p>（首件）</p></td><td><p>PT9L机芯测试工装S0N9XXXXXX/漏电流表B02ZXXXXXX或精密智能电源B02JXXXXXX/智能电流检测仪B080XXXXXX</p></td><td><p>将工装与电源连接好，工装电压5.0±0.1V；</p><ol><li>打开电源开关；</li><li>关闭“电源开开关”</li></ol><p>3、长按“B1”键同时打开“电源开关”</p><p>4、打开“电源开关”；</p><p>5、短按“B1”键；</p><p>6、短按“B2”键。</p></td><td><p><img src=\"images/d67e70261a74f2a79b2c5a67da5d87b9d282c409406ff294782dc45bd0d63b99.png\"/></p></td><td><ol><li>液晶屏显示CB2；</li><li>液晶屏熄灭；</li><li>将机芯调到“cb1”后等待液晶全显后，关闭电源开关，机芯下电；</li><li>机芯上电后液晶屏显示CB1（图1）工装上的D2/D4/D6 LED灯点亮，液晶屏幕背光点亮，1秒后后显示“240918”软件版本号（图2图3），软件版本号必须与当前生产的相同制造令指导书一致。2秒后液晶屏熄灭（图4）与D2/D4/D6 LED灯熄灭。此时观察电流表工作休眠电流为：0.00mA ≤ I ≤ 0.050mA 即为合格。</li><li>D2/D4/D6灯点亮，LCD背光点亮且全显（图5）此时注意观察液晶显示的内容无缺段、重影、乱显、深浅不一致等现象。</li><li>保存数据液晶屏熄灭，所有的LED灯熄灭，显示黑屏。测试完成后必须短按“B2”保存数据，此步骤不可省略，否则无法进行下个工序的测试。</li></ol><p>特别说明:图2、图3显示内容根据合同评审、客户要求等因素而定，生产时须以当前生产相同的制造令作业指导书为准。</p></td><td><p>MA</p></td></tr></tbody></table>",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "图5",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/860102a4882e598013a89f58b9cd6297fc9d2fa5133760ec5f3117434e9efd35.jpg",
+        "image_caption": [],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "**PT9L检验作业指导书（标准）**   Type             Section Page          Ver.No           Date               Prepared           Checked          Approved  部件名称               页码               版本           生效期                准备              审核              批准  邦定机芯                \t                     1.0           2024.6.20",
+        "page_idx": 0
+    }
+]

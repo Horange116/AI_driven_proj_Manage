@@ -1,0 +1,221 @@
+{
+  "format": "docreview-pdf-layout-probe-v1",
+  "source_name": "2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式.pdf",
+  "content_hash": "5c1f9d0481f067506cdb23d70f8254cffd859b329d126fd8ca8934b7fb5bf060",
+  "page_count": 3,
+  "engine": "pymupdf",
+  "capabilities": {
+    "text_blocks": true,
+    "word_coordinates": true,
+    "row_clustering": true,
+    "vector_drawings": true,
+    "tables": false,
+    "ocr": false,
+    "semantic_table_reconstruction": false
+  },
+  "limits": [
+    "Rows are geometric text clusters, not verified semantic tables.",
+    "Vector drawings are counted but not converted into Gantt/task bars.",
+    "Scanned-image OCR is not enabled.",
+    "PDF W1 output is text/layout-audit evidence, not semantic Gantt reconstruction."
+  ],
+  "totals": {
+    "text_block_count": 14,
+    "word_count": 85,
+    "row_count": 13,
+    "table_like_row_count": 7,
+    "drawing_path_count": 19,
+    "drawing_item_count": 19,
+    "line_item_count": 19,
+    "rectangle_item_count": 0
+  },
+  "pages": [
+    {
+      "page_index": 1,
+      "width": 595.0,
+      "height": 841.0,
+      "text_block_count": 0,
+      "word_count": 0,
+      "row_count": 0,
+      "table_like_row_count": 0,
+      "drawing_path_count": 0,
+      "drawing_item_count": 0,
+      "line_item_count": 0,
+      "rectangle_item_count": 0,
+      "rows": []
+    },
+    {
+      "page_index": 2,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 10,
+      "word_count": 66,
+      "row_count": 9,
+      "table_like_row_count": 5,
+      "drawing_path_count": 13,
+      "drawing_item_count": 13,
+      "line_item_count": 13,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            209.04,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-05"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            62.04,
+            92.39,
+            533.23,
+            106.63
+          ],
+          "word_count": 8,
+          "text": "Clause Requirement + Test Result - Remark Verdict"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            118.92,
+            135.83,
+            488.29,
+            150.07
+          ],
+          "word_count": 12,
+          "text": "The sample is in normal working condition and put into the programmable"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            62.04,
+            142.07,
+            116.71,
+            156.31
+          ],
+          "word_count": 2,
+          "text": "Damp heat"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            118.92,
+            151.43,
+            488.35,
+            165.67
+          ],
+          "word_count": 9,
+          "text": "constant temperature and humidity test chamber. The temperature and"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            62.04,
+            157.67,
+            79.75,
+            171.91
+          ],
+          "word_count": 1,
+          "text": "test"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            118.92,
+            164.39,
+            520.44,
+            181.27
+          ],
+          "word_count": 17,
+          "text": "humidity of the test box are adjusted to 40 ° C and 95% RH. After the /"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            118.92,
+            182.63,
+            441.11,
+            196.87
+          ],
+          "word_count": 11,
+          "text": "temperature and humidity are stable, it is maintained for 14.8 hours."
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            289.32,
+            780.54,
+            305.87,
+            793.03
+          ],
+          "word_count": 3,
+          "text": "2 / 3"
+        }
+      ]
+    },
+    {
+      "page_index": 3,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 4,
+      "word_count": 19,
+      "row_count": 4,
+      "table_like_row_count": 2,
+      "drawing_path_count": 6,
+      "drawing_item_count": 6,
+      "line_item_count": 6,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            209.04,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-05"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            209.16,
+            73.11,
+            386.35,
+            86.67
+          ],
+          "word_count": 7,
+          "text": "ATTACHMENT FILE 1 photos of the EUT"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            209.16,
+            537.03,
+            313.63,
+            550.59
+          ],
+          "word_count": 6,
+          "text": "--- End of Test Report ---"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            289.32,
+            780.54,
+            305.87,
+            793.03
+          ],
+          "word_count": 3,
+          "text": "3 / 3"
+        }
+      ]
+    }
+  ]
+}

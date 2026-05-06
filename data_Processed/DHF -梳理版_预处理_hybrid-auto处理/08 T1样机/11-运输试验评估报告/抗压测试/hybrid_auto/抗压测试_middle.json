@@ -1,0 +1,2883 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "bbox": [
+                        130,
+                        157,
+                        434,
+                        173
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                157,
+                                434,
+                                173
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        157,
+                                        434,
+                                        173
+                                    ],
+                                    "type": "text",
+                                    "content": "送检公司：东莞市上合旺盈印刷有限公司营业七部付汉清"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        130,
+                        180,
+                        439,
+                        196
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                180,
+                                439,
+                                196
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        180,
+                                        439,
+                                        196
+                                    ],
+                                    "type": "text",
+                                    "content": "送检公司地址：东莞市东城区主山振兴路329号旺盈工业园"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        131,
+                        205,
+                        397,
+                        220
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                131,
+                                205,
+                                397,
+                                220
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        205,
+                                        397,
+                                        220
+                                    ],
+                                    "type": "text",
+                                    "content": "以下测试样品是由申请者提供及确认：红外体温计"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        130,
+                        244,
+                        286,
+                        259
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                244,
+                                286,
+                                259
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        244,
+                                        286,
+                                        259
+                                    ],
+                                    "type": "text",
+                                    "content": "样品编号 :NA"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        130,
+                        266,
+                        286,
+                        280
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                266,
+                                286,
+                                280
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        266,
+                                        286,
+                                        280
+                                    ],
+                                    "type": "text",
+                                    "content": "批号 :NA"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        131,
+                        288,
+                        287,
+                        302
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                131,
+                                288,
+                                287,
+                                302
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        288,
+                                        287,
+                                        302
+                                    ],
+                                    "type": "text",
+                                    "content": "订单/工程单号 :NA"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        131,
+                        310,
+                        286,
+                        323
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                131,
+                                310,
+                                286,
+                                323
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        310,
+                                        286,
+                                        323
+                                    ],
+                                    "type": "text",
+                                    "content": "供应商 :NA"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        131,
+                        330,
+                        298,
+                        344
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                131,
+                                330,
+                                298,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        330,
+                                        298,
+                                        344
+                                    ],
+                                    "type": "text",
+                                    "content": "送检数量 :1PCS"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        131,
+                        352,
+                        304,
+                        366
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                131,
+                                352,
+                                304,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        352,
+                                        304,
+                                        366
+                                    ],
+                                    "type": "text",
+                                    "content": "客户名称/代码 :A1939"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        130,
+                        373,
+                        334,
+                        388
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                373,
+                                334,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        373,
+                                        334,
+                                        388
+                                    ],
+                                    "type": "text",
+                                    "content": "样品接收日期 :2017.07.18"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        130,
+                        395,
+                        400,
+                        409
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                395,
+                                400,
+                                409
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        395,
+                                        400,
+                                        409
+                                    ],
+                                    "type": "text",
+                                    "content": "测试周期 :2017.07.18-2017.07.18"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        131,
+                        417,
+                        346,
+                        431
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                131,
+                                417,
+                                346,
+                                431
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        417,
+                                        346,
+                                        431
+                                    ],
+                                    "type": "text",
+                                    "content": "测试方法 :请参见下一页"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17,
+                    "merge_prev": false
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        72,
+                        477,
+                        524,
+                        552
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                72,
+                                477,
+                                524,
+                                552
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        477,
+                                        524,
+                                        552
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                72,
+                                                477,
+                                                524,
+                                                552
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"3\">测试要求</td><td rowspan=\"2\">结果</td></tr><tr><td colspan=\"2\">参考标准</td><td>测试项目</td></tr><tr><td>1</td><td>客户要求</td><td>抗压</td><td>合格</td></tr></table>",
+                                            "image_path": "f091ea2352a043e97ef0a0a8a035378a2415516f8ddeca396e9d55141f771ca7.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "bbox": [
+                        226,
+                        567,
+                        398,
+                        581
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                226,
+                                567,
+                                398,
+                                581
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        567,
+                                        398,
+                                        581
+                                    ],
+                                    "type": "text",
+                                    "content": "更多测试细节请参考以下页面"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        105,
+                        602,
+                        486,
+                        619
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                602,
+                                486,
+                                619
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        602,
+                                        486,
+                                        619
+                                    ],
+                                    "type": "text",
+                                    "content": "旺盈彩盒纸品有限公司实验室授权以下人员测试并签核本报告"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 20,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        74,
+                        670,
+                        176,
+                        687
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                74,
+                                670,
+                                176,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        670,
+                                        176,
+                                        687
+                                    ],
+                                    "type": "text",
+                                    "content": "测试: 蔡建川"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 21,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        394,
+                        647,
+                        499,
+                        713
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                394,
+                                647,
+                                499,
+                                713
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        647,
+                                        499,
+                                        713
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                394,
+                                                647,
+                                                499,
+                                                713
+                                            ],
+                                            "type": "image",
+                                            "content": "XinXin Paper Co., Ltd.\n审核: 许刚\n物理实验室",
+                                            "image_path": "54838b52630a97d9eef73056cde4e02d4e17acb623b87db0481a6c198540b970.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 22,
+                    "sub_type": "text_image"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        30,
+                        23,
+                        130,
+                        87
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                30,
+                                23,
+                                130,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        23,
+                                        130,
+                                        87
+                                    ],
+                                    "type": "text",
+                                    "content": ":TNAL\nvoion®\n旺盈彩盒"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        205,
+                        31,
+                        387,
+                        52
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                205,
+                                31,
+                                387,
+                                52
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        205,
+                                        31,
+                                        387,
+                                        52
+                                    ],
+                                    "type": "text",
+                                    "content": "旺盈彩盒纸品有限公司"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        157,
+                        66,
+                        436,
+                        81
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                157,
+                                66,
+                                436,
+                                81
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        157,
+                                        66,
+                                        436,
+                                        81
+                                    ],
+                                    "type": "text",
+                                    "content": "GLORY COLOUR BOXES& PAPER LIMITED"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        51,
+                        105,
+                        178,
+                        120
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                105,
+                                178,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        105,
+                                        178,
+                                        120
+                                    ],
+                                    "type": "text",
+                                    "content": "报告日期：2017.07.18"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        256,
+                        105,
+                        341,
+                        124
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                256,
+                                105,
+                                341,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        256,
+                                        105,
+                                        341,
+                                        124
+                                    ],
+                                    "type": "text",
+                                    "content": "Test Report"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        390,
+                        105,
+                        545,
+                        121
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                390,
+                                105,
+                                545,
+                                121
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        390,
+                                        105,
+                                        545,
+                                        121
+                                    ],
+                                    "type": "text",
+                                    "content": "Report No:VQA2017071822"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        54,
+                        814,
+                        235,
+                        826
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                54,
+                                814,
+                                235,
+                                826
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        814,
+                                        235,
+                                        826
+                                    ],
+                                    "type": "text",
+                                    "content": "东莞市上合旺盈印刷有限公司旺盈实验室"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "bbox": [
+                        265,
+                        813,
+                        327,
+                        826
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                265,
+                                813,
+                                327,
+                                826
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        265,
+                                        813,
+                                        327,
+                                        826
+                                    ],
+                                    "type": "text",
+                                    "content": "Page 1 of 2"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 24
+                },
+                {
+                    "bbox": [
+                        376,
+                        814,
+                        539,
+                        826
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                376,
+                                814,
+                                539,
+                                826
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        814,
+                                        539,
+                                        826
+                                    ],
+                                    "type": "text",
+                                    "content": "地址：东莞市东城区主山振兴路329#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 25
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "bbox": [
+                        130,
+                        157,
+                        434,
+                        173
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                157,
+                                434,
+                                173
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        157,
+                                        434,
+                                        173
+                                    ],
+                                    "type": "text",
+                                    "content": "送检公司：东莞市上合旺盈印刷有限公司营业七部付汉清"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        130,
+                        180,
+                        439,
+                        196
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                180,
+                                439,
+                                196
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        180,
+                                        439,
+                                        196
+                                    ],
+                                    "type": "text",
+                                    "content": "送检公司地址：东莞市东城区主山振兴路329号旺盈工业园"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        131,
+                        205,
+                        397,
+                        220
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                131,
+                                205,
+                                397,
+                                220
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        205,
+                                        397,
+                                        220
+                                    ],
+                                    "type": "text",
+                                    "content": "以下测试样品是由申请者提供及确认：红外体温计"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        130,
+                        244,
+                        286,
+                        259
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                244,
+                                286,
+                                259
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        244,
+                                        286,
+                                        259
+                                    ],
+                                    "type": "text",
+                                    "content": "样品编号 :NA"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        130,
+                        266,
+                        286,
+                        280
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                266,
+                                286,
+                                280
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        266,
+                                        286,
+                                        280
+                                    ],
+                                    "type": "text",
+                                    "content": "批号 :NA"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        131,
+                        288,
+                        287,
+                        302
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                131,
+                                288,
+                                287,
+                                302
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        288,
+                                        287,
+                                        302
+                                    ],
+                                    "type": "text",
+                                    "content": "订单/工程单号 :NA"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        131,
+                        310,
+                        286,
+                        323
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                131,
+                                310,
+                                286,
+                                323
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        310,
+                                        286,
+                                        323
+                                    ],
+                                    "type": "text",
+                                    "content": "供应商 :NA"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        131,
+                        330,
+                        298,
+                        344
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                131,
+                                330,
+                                298,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        330,
+                                        298,
+                                        344
+                                    ],
+                                    "type": "text",
+                                    "content": "送检数量 :1PCS"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        131,
+                        352,
+                        304,
+                        366
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                131,
+                                352,
+                                304,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        352,
+                                        304,
+                                        366
+                                    ],
+                                    "type": "text",
+                                    "content": "客户名称/代码 :A1939"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        130,
+                        373,
+                        334,
+                        388
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                373,
+                                334,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        373,
+                                        334,
+                                        388
+                                    ],
+                                    "type": "text",
+                                    "content": "样品接收日期 :2017.07.18"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        130,
+                        395,
+                        400,
+                        409
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                395,
+                                400,
+                                409
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        395,
+                                        400,
+                                        409
+                                    ],
+                                    "type": "text",
+                                    "content": "测试周期 :2017.07.18-2017.07.18"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        131,
+                        417,
+                        346,
+                        431
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                131,
+                                417,
+                                346,
+                                431
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        417,
+                                        346,
+                                        431
+                                    ],
+                                    "type": "text",
+                                    "content": "测试方法 :请参见下一页"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17,
+                    "merge_prev": false
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        72,
+                        477,
+                        524,
+                        552
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                72,
+                                477,
+                                524,
+                                552
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        477,
+                                        524,
+                                        552
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                72,
+                                                477,
+                                                524,
+                                                552
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"3\">测试要求</td><td rowspan=\"2\">结果</td></tr><tr><td colspan=\"2\">参考标准</td><td>测试项目</td></tr><tr><td>1</td><td>客户要求</td><td>抗压</td><td>合格</td></tr></table>",
+                                            "image_path": "f091ea2352a043e97ef0a0a8a035378a2415516f8ddeca396e9d55141f771ca7.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "bbox": [
+                        226,
+                        567,
+                        398,
+                        581
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                226,
+                                567,
+                                398,
+                                581
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        567,
+                                        398,
+                                        581
+                                    ],
+                                    "type": "text",
+                                    "content": "更多测试细节请参考以下页面"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        105,
+                        602,
+                        486,
+                        619
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                602,
+                                486,
+                                619
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        602,
+                                        486,
+                                        619
+                                    ],
+                                    "type": "text",
+                                    "content": "旺盈彩盒纸品有限公司实验室授权以下人员测试并签核本报告"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 20,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        74,
+                        670,
+                        176,
+                        687
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                74,
+                                670,
+                                176,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        670,
+                                        176,
+                                        687
+                                    ],
+                                    "type": "text",
+                                    "content": "测试: 蔡建川"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 21,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        394,
+                        647,
+                        499,
+                        713
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                394,
+                                647,
+                                499,
+                                713
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        647,
+                                        499,
+                                        713
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                394,
+                                                647,
+                                                499,
+                                                713
+                                            ],
+                                            "type": "image",
+                                            "content": "XinXin Paper Co., Ltd.\n审核: 许刚\n物理实验室",
+                                            "image_path": "54838b52630a97d9eef73056cde4e02d4e17acb623b87db0481a6c198540b970.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 22,
+                    "sub_type": "text_image"
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "bbox": [
+                        51,
+                        105,
+                        178,
+                        120
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                105,
+                                178,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        105,
+                                        178,
+                                        120
+                                    ],
+                                    "type": "text",
+                                    "content": "报告日期：2017.07.18"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        256,
+                        105,
+                        341,
+                        124
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                256,
+                                105,
+                                341,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        256,
+                                        105,
+                                        341,
+                                        124
+                                    ],
+                                    "type": "text",
+                                    "content": "Test Report"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        390,
+                        105,
+                        545,
+                        121
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                390,
+                                105,
+                                545,
+                                121
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        390,
+                                        105,
+                                        545,
+                                        121
+                                    ],
+                                    "type": "text",
+                                    "content": "Report No:VQA2017071822"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        74,
+                        134,
+                        147,
+                        148
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                74,
+                                134,
+                                147,
+                                148
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        134,
+                                        147,
+                                        148
+                                    ],
+                                    "type": "text",
+                                    "content": "1、抗压测试："
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        82,
+                        153,
+                        114,
+                        168
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                82,
+                                153,
+                                114,
+                                168
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        153,
+                                        114,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": "参数:"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        130,
+                        172,
+                        452,
+                        186
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                172,
+                                452,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        172,
+                                        452,
+                                        186
+                                    ],
+                                    "type": "text",
+                                    "content": "试验设备：微电脑抗压试验仪; 型号: HD-A505S-1500"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        130,
+                        191,
+                        299,
+                        206
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                191,
+                                299,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        191,
+                                        299,
+                                        206
+                                    ],
+                                    "type": "text",
+                                    "content": "压力方向：顶面—底面"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        130,
+                        211,
+                        302,
+                        226
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                211,
+                                302,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        211,
+                                        302,
+                                        226
+                                    ],
+                                    "type": "text",
+                                    "content": "速度 : 12.7mm/min"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        131,
+                        230,
+                        346,
+                        245
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                131,
+                                230,
+                                346,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        230,
+                                        346,
+                                        245
+                                    ],
+                                    "type": "text",
+                                    "content": "试验环境： "
+                                },
+                                {
+                                    "bbox": [
+                                        131,
+                                        230,
+                                        346,
+                                        245
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "25 \\pm 5^{\\circ} \\mathrm{C}"
+                                },
+                                {
+                                    "bbox": [
+                                        131,
+                                        230,
+                                        346,
+                                        245
+                                    ],
+                                    "type": "text",
+                                    "content": "；"
+                                },
+                                {
+                                    "bbox": [
+                                        131,
+                                        230,
+                                        346,
+                                        245
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "65 \\pm 15 \\% \\mathrm{RH}"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "merge_prev": false
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        72,
+                        278,
+                        371,
+                        332
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                74,
+                                258,
+                                124,
+                                271
+                            ],
+                            "type": "table_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        258,
+                                        124,
+                                        271
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                74,
+                                                258,
+                                                124,
+                                                271
+                                            ],
+                                            "type": "text",
+                                            "content": "测试结果:"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                72,
+                                278,
+                                371,
+                                332
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        278,
+                                        371,
+                                        332
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                72,
+                                                278,
+                                                371,
+                                                332
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>样品编号</td><td>标准值(KGF)</td><td>测试值(KGF)</td><td>判定</td></tr><tr><td>1</td><td>130</td><td>410</td><td>合格</td></tr></table>",
+                                            "image_path": "b51acc9eae04e2c68fd5714e5afd227babbe7e673bb373157303d7dc0ae20399.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        91,
+                        383,
+                        299,
+                        544
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                74,
+                                358,
+                                124,
+                                371
+                            ],
+                            "type": "image_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        358,
+                                        124,
+                                        371
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                74,
+                                                358,
+                                                124,
+                                                371
+                                            ],
+                                            "type": "text",
+                                            "content": "测试图片:"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                383,
+                                299,
+                                544
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        383,
+                                        299,
+                                        544
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                91,
+                                                383,
+                                                299,
+                                                544
+                                            ],
+                                            "type": "image",
+                                            "content": "Experimental setup with a metal frame and a cardboard box on a wooden base, no visible text or symbols",
+                                            "image_path": "c511b7611ca23c57c66897786048624f956d4ac38dc6d6f70fc3b1de75dce4df.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 15,
+                    "sub_type": "natural_image"
+                },
+                {
+                    "type": "chart",
+                    "bbox": [
+                        311,
+                        383,
+                        518,
+                        544
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                311,
+                                383,
+                                518,
+                                544
+                            ],
+                            "type": "chart_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        311,
+                                        383,
+                                        518,
+                                        544
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                311,
+                                                383,
+                                                518,
+                                                544
+                                            ],
+                                            "type": "chart",
+                                            "content": "| 时间       | 数值   |\n| ---------- | ------ |\n| 0          | 174.000 |\n| 1          | 18.302 |\n| 2          | 174.000 |\n| 3          | 410.000 |\n| 4          |        |",
+                                            "image_path": "822b17d1e1c9526f4b2cf79e14b6f1c674e343cf590ae884b12ecb56909cadb9.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16,
+                    "sub_type": "line"
+                },
+                {
+                    "bbox": [
+                        21,
+                        566,
+                        564,
+                        579
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                21,
+                                566,
+                                564,
+                                579
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        566,
+                                        564,
+                                        579
+                                    ],
+                                    "type": "text",
+                                    "content": "**********************************************************************报告结束**********************************************************************"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17,
+                    "merge_prev": false
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        30,
+                        23,
+                        130,
+                        87
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                30,
+                                23,
+                                130,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        23,
+                                        130,
+                                        87
+                                    ],
+                                    "type": "text",
+                                    "content": ":TNAL\nvoion®\n旺盈彩盒"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        205,
+                        31,
+                        387,
+                        52
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                205,
+                                31,
+                                387,
+                                52
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        205,
+                                        31,
+                                        387,
+                                        52
+                                    ],
+                                    "type": "text",
+                                    "content": "旺盈彩盒纸品有限公司"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        157,
+                        66,
+                        436,
+                        81
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                157,
+                                66,
+                                436,
+                                81
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        157,
+                                        66,
+                                        436,
+                                        81
+                                    ],
+                                    "type": "text",
+                                    "content": "GLORY COLOUR BOXES& PAPER LIMITED"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        54,
+                        814,
+                        235,
+                        826
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                54,
+                                814,
+                                235,
+                                826
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        814,
+                                        235,
+                                        826
+                                    ],
+                                    "type": "text",
+                                    "content": "东莞市上合旺盈印刷有限公司旺盈实验室"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "bbox": [
+                        265,
+                        813,
+                        327,
+                        826
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                265,
+                                813,
+                                327,
+                                826
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        265,
+                                        813,
+                                        327,
+                                        826
+                                    ],
+                                    "type": "text",
+                                    "content": "Page 2 of 2"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19
+                },
+                {
+                    "bbox": [
+                        376,
+                        814,
+                        539,
+                        826
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                376,
+                                814,
+                                539,
+                                826
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        814,
+                                        539,
+                                        826
+                                    ],
+                                    "type": "text",
+                                    "content": "地址：东莞市东城区主山振兴路329#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 20
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 1,
+            "para_blocks": [
+                {
+                    "bbox": [
+                        51,
+                        105,
+                        178,
+                        120
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                105,
+                                178,
+                                120
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        105,
+                                        178,
+                                        120
+                                    ],
+                                    "type": "text",
+                                    "content": "报告日期：2017.07.18"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        256,
+                        105,
+                        341,
+                        124
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                256,
+                                105,
+                                341,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        256,
+                                        105,
+                                        341,
+                                        124
+                                    ],
+                                    "type": "text",
+                                    "content": "Test Report"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        390,
+                        105,
+                        545,
+                        121
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                390,
+                                105,
+                                545,
+                                121
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        390,
+                                        105,
+                                        545,
+                                        121
+                                    ],
+                                    "type": "text",
+                                    "content": "Report No:VQA2017071822"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        74,
+                        134,
+                        147,
+                        148
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                74,
+                                134,
+                                147,
+                                148
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        134,
+                                        147,
+                                        148
+                                    ],
+                                    "type": "text",
+                                    "content": "1、抗压测试："
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        82,
+                        153,
+                        114,
+                        168
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                82,
+                                153,
+                                114,
+                                168
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        153,
+                                        114,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": "参数:"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        130,
+                        172,
+                        452,
+                        186
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                172,
+                                452,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        172,
+                                        452,
+                                        186
+                                    ],
+                                    "type": "text",
+                                    "content": "试验设备：微电脑抗压试验仪; 型号: HD-A505S-1500"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        130,
+                        191,
+                        299,
+                        206
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                191,
+                                299,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        191,
+                                        299,
+                                        206
+                                    ],
+                                    "type": "text",
+                                    "content": "压力方向：顶面—底面"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        130,
+                        211,
+                        302,
+                        226
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                211,
+                                302,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        211,
+                                        302,
+                                        226
+                                    ],
+                                    "type": "text",
+                                    "content": "速度 : 12.7mm/min"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        131,
+                        230,
+                        346,
+                        245
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                131,
+                                230,
+                                346,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        230,
+                                        346,
+                                        245
+                                    ],
+                                    "type": "text",
+                                    "content": "试验环境： "
+                                },
+                                {
+                                    "bbox": [
+                                        131,
+                                        230,
+                                        346,
+                                        245
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "25 \\pm 5^{\\circ} \\mathrm{C}"
+                                },
+                                {
+                                    "bbox": [
+                                        131,
+                                        230,
+                                        346,
+                                        245
+                                    ],
+                                    "type": "text",
+                                    "content": "；"
+                                },
+                                {
+                                    "bbox": [
+                                        131,
+                                        230,
+                                        346,
+                                        245
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "65 \\pm 15 \\% \\mathrm{RH}"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "merge_prev": false
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        72,
+                        278,
+                        371,
+                        332
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                74,
+                                258,
+                                124,
+                                271
+                            ],
+                            "type": "table_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        258,
+                                        124,
+                                        271
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                74,
+                                                258,
+                                                124,
+                                                271
+                                            ],
+                                            "type": "text",
+                                            "content": "测试结果:"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                72,
+                                278,
+                                371,
+                                332
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        278,
+                                        371,
+                                        332
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                72,
+                                                278,
+                                                371,
+                                                332
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>样品编号</td><td>标准值(KGF)</td><td>测试值(KGF)</td><td>判定</td></tr><tr><td>1</td><td>130</td><td>410</td><td>合格</td></tr></table>",
+                                            "image_path": "b51acc9eae04e2c68fd5714e5afd227babbe7e673bb373157303d7dc0ae20399.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        91,
+                        383,
+                        299,
+                        544
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                74,
+                                358,
+                                124,
+                                371
+                            ],
+                            "type": "image_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        358,
+                                        124,
+                                        371
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                74,
+                                                358,
+                                                124,
+                                                371
+                                            ],
+                                            "type": "text",
+                                            "content": "测试图片:"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                383,
+                                299,
+                                544
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        383,
+                                        299,
+                                        544
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                91,
+                                                383,
+                                                299,
+                                                544
+                                            ],
+                                            "type": "image",
+                                            "content": "Experimental setup with a metal frame and a cardboard box on a wooden base, no visible text or symbols",
+                                            "image_path": "c511b7611ca23c57c66897786048624f956d4ac38dc6d6f70fc3b1de75dce4df.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 15,
+                    "sub_type": "natural_image"
+                },
+                {
+                    "type": "chart",
+                    "bbox": [
+                        311,
+                        383,
+                        518,
+                        544
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                311,
+                                383,
+                                518,
+                                544
+                            ],
+                            "type": "chart_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        311,
+                                        383,
+                                        518,
+                                        544
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                311,
+                                                383,
+                                                518,
+                                                544
+                                            ],
+                                            "type": "chart",
+                                            "content": "| 时间       | 数值   |\n| ---------- | ------ |\n| 0          | 174.000 |\n| 1          | 18.302 |\n| 2          | 174.000 |\n| 3          | 410.000 |\n| 4          |        |",
+                                            "image_path": "822b17d1e1c9526f4b2cf79e14b6f1c674e343cf590ae884b12ecb56909cadb9.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16,
+                    "sub_type": "line"
+                },
+                {
+                    "bbox": [
+                        21,
+                        566,
+                        564,
+                        579
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                21,
+                                566,
+                                564,
+                                579
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        566,
+                                        564,
+                                        579
+                                    ],
+                                    "type": "text",
+                                    "content": "**********************************************************************报告结束**********************************************************************"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17,
+                    "merge_prev": false
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "3.1.6"
+}

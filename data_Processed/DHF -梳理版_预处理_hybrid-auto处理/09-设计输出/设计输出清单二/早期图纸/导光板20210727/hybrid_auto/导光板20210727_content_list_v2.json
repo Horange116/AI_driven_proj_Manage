@@ -1,0 +1,173 @@
+[
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/6be1568ddd65328dde5160ce61c7184d25534331841e21d98d43e7cd24c1affd.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>3</td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>PMMA</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>2</td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td></tr><tr><td>1</td><td>初版制作</td><td></td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td></tr><tr><td>No.</td><td>更改时间</td><td>Approve</td><td></td><td></td><td></td><td>.X°</td><td></td><td>Units</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                0,
+                0,
+                129,
+                998
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "andon "
+                    }
+                ]
+            },
+            "bbox": [
+                915,
+                23,
+                961,
+                101
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "术要求带编号为重要尺 需要IQC测产品符合rohs"
+                    }
+                ]
+            },
+            "bbox": [
+                146,
+                83,
+                253,
+                401
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/187cde8cdace23dbf72bef7612509b6af5e802b8b1aecc86afe3014b9e3b6f96.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                285,
+                97,
+                779,
+                400
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/be65a0a2e7dc037d446a404961341a44efe4a914acbbc0abf420d05b6cc9349f.jpg"
+                },
+                "content": "黑色区域\n3.2\n22±0.1\n32.7±0.1\nC2.42",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "透射膜 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                287,
+                507,
+                510,
+                778
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2e27fb167442d9dd824c3b2fec770d76cb5785f4536fb3a72dda84b3baf0de7c.jpg"
+                },
+                "content": "22±0.1\n32.7±0.1\n8.9\n3.2\nC2.42",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "反射膜"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                667,
+                581,
+                848,
+                778
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/eeabe6f88d14a24731e1f943a9464485901c343d643baa14cab01aeae6074a8a.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>DTM</td><td>A</td><td></td><td></td></tr><tr><td>&lt; 5</td><td>≠003</td><td>≠01</td><td>≠015</td></tr><tr><td>&gt; 5~50</td><td>≠005</td><td>≠01</td><td>≠02</td></tr><tr><td>&lt; 50~100</td><td>≠008</td><td>≠02</td><td>≠03</td></tr><tr><td>&gt;100</td><td>≠0%</td><td>≠02%</td><td>≠03%</td></tr><tr><td>ANGULFR</td><td>≠0.10</td><td>≠0.50</td><td>≠0.50</td></tr><tr><td>SELECT LEVEL</td><td></td><td></td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                129,
+                873,
+                305,
+                998
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "8\n7\n6\n5\n4\n3\n2\n1 "
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                0,
+                998,
+                13
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "尺寸序 "
+                    }
+                ]
+            },
+            "bbox": [
+                946,
+                936,
+                964,
+                988
+            ]
+        }
+    ]
+]

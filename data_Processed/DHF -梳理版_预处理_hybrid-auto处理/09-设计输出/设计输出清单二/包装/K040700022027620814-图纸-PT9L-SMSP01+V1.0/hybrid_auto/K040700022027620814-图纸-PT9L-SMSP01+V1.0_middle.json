@@ -1,0 +1,934 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        321,
+                        170,
+                        1144,
+                        1084
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                114,
+                                69,
+                                288,
+                                140
+                            ],
+                            "type": "table_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        69,
+                                        288,
+                                        140
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                114,
+                                                69,
+                                                288,
+                                                140
+                                            ],
+                                            "type": "text",
+                                            "content": "andon"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                170,
+                                1144,
+                                1084
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        170,
+                                        1144,
+                                        1084
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                321,
+                                                170,
+                                                1144,
+                                                1084
+                                            ],
+                                            "type": "table",
+                                            "html": "",
+                                            "image_path": "8c61f05b03c7e1ab5226f0c87e49c5b6289fe641bedb7dfd005b7a42228689d1.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                744,
+                                1126,
+                                814,
+                                1162
+                            ],
+                            "type": "table_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        744,
+                                        1126,
+                                        814,
+                                        1162
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                744,
+                                                1126,
+                                                814,
+                                                1162
+                                            ],
+                                            "type": "text",
+                                            "content": "正面"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        1412,
+                        228,
+                        2126,
+                        1081
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                1412,
+                                228,
+                                2126,
+                                1081
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        1412,
+                                        228,
+                                        2126,
+                                        1081
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                1412,
+                                                228,
+                                                2126,
+                                                1081
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3. Selecting modes\nThe default mode is baby temperature mode. To switch between the three modes, please follow the steps below.\n(1) In the measurement state, press the settings button briefly to enter the mode switching state.\n(2) Press the settings button briefly to cycle through the baby mode, adult mode, and object temperature mode, with corresponding icons displayed on the LCD screen.\n(3) Press the measurement button to save the current settings and initiate a measurement process.\nNote: The thermometer turns off automatically after 15 seconds of inaction.</td><td colspan=\"2\">Product errors and troubleshooting</td><td rowspan=\"5\">The RF thermometer is an extremely precise instrument. Any improper maintenance, disassembly, or modification may lead to measurement inaccuracies.\nDo not put the thermometer under direct sunlight, high temperature, or moist environments. Do not allow to come into contact with fire or harsh vibrations.\nTake out the battery if the device is not used for a month or more.</td><td rowspan=\"5\" colspan=\"2\">Use of accessories, transducers and cables other than those specified or provided by the manufacturer of this equipment could result in increased electromagnetic emissions or decreased electromagnetic environment of this equipment and result in improper operation.\n- Portable RF communications equipment (including peripherals such as antenna alarm, sales and external antennas) should be used no closer than 30 cm(12 inches) any part of the PTLR, including cables specified by the manufacturer. Otherwise degradation of the performance of this equipment could result.</td><td rowspan=\"5\">4. Liability for direct or indirect consequential losses caused by the unit is excluded even if the damage to the unit is accepted as a warranty claim.\n5. If you encounter any product issues during the warranty period, please contact customer services for assistance.\nManufactured for: USA\niHealth Labs, Inc. www.ihealthlabs.com\nB80 W Maude Ave, Sunnyvale, CA 94085 USA +1-455-816-7705\nEurope:\niHealthLabs Europe SAS\nwww.ihealthlabs.eu\n36 Rue de Ponthieu, 75008, Paris, France\nEC REP HealthLabs Europe SAS\n36 Rue de Ponthieu, 75008, Paris, France\nsupport@healthlab.eu\nwww.ihealthlab.eu\nANDON HEALTH CO., LTD.\nNo. 3 Jinping Street, Vain Road, Nankai District, Tianjin 300/90, China\nTel: 86-22-60526161\nMade in China\nPT9L-SMSP01 V1.0</td></tr><tr><td rowspan=\"11\">4. Switching units\n(1) Press and hold the measurement button for 8 seconds to enter the unit switching mode.\n(2) The screens display the current unit. Press the measurement button to toggle between C and F, then selected unit will flash accompanied by a short bell.\n(3) Press and hold the measurement button for 2 seconds to confirm the setting, the current unit is &quot;F&quot; will turn up for 3 seconds, accompanied by a short bell. And then the thermometer turns off automatically.\nNote: The thermometer will automatically turn off after 15 seconds of inactivity, and the selected unit will also be saved automatically even if without pressing the measurement button for confirmation.\n5. Memory mode\nPress and hold the settings button ( ) for 3 seconds to enter the minimum mode, and the memory icon &quot;M&quot; will flash simultaneously. Release and use the measurement button to toggle between the different memories, and later memory will be shown as the first memory. If you want to view more memories of other modes, please choose your device mode at first.\nNote: The thermometer turns off automatically after 15 seconds of inaction.</td><td colspan=\"2\">Problem possible issues Solution</td></tr><tr><td colspan=\"2\">Battery depleted</td></tr><tr><td colspan=\"2\">Batteries have been installed with the wrong polarity batteries are not installed properly</td></tr><tr><td colspan=\"2\">Unable to carry out sound measurements as current battery capacity is too low</td></tr><tr><td>Dynamic measurement failed</td><td>Press and hold the measurement button to restart the dynamic measurements until the result displays on screen, and make sure to remove protective cap before taking a measurement.</td><td rowspan=\"4\">Disposition\nDispose of batteries in accordance with the collection point in the EU countries - 2012/19/EEE Directive.\nIf you have any queries, please refer to the local authorities responsible for waste disposal.\nNotes\n- Please act according to local laws for disposal of user batteries.\n- Take out the batteries if the device will not be used for more than one month.\nTo protect the environment, dispose of empty batteries at appropriate collection sites according to local regulations. Dispose of batteries at public collection point in the EU countries - REGULATION (EU) 2023/1542 Directive.\nStandard icons\nThe operation guide must be read (The background color is blue. The graphical sign symbol is white).\nThe batteries and electronic instruments must be disposed of accordance with the locally applicable regulation, not with domestic waste.\nManufacturer\nWarning\nBatch Code\nEC REP European Representative\n13</td><td colspan=\"3\">Phenomenon Compliance Electromagnetic Environment\nRF emissions CISPR 11 Group 1 Class B The device is intended to be used in home healthcare environment.\nHarmonic distortion IEC 61000-3-2 NA The device is powered by battery.\nVoltage fluctuations and flicker IEC 61000-3-3 NA The device is powered by battery.\nTable 2 - Enclosure Port</td></tr><tr><td>Environment temperature exceeds the operational range 50°F-10°F (10°C-40°C) or is unstable</td><td>Please use the thermometer within the range&#x27;s designed ambient temperature range</td><td colspan=\"3\">Phenomeno Basic EMC standard Immunity test levels Home Healthcare Environment</td></tr><tr><td>Current state: All flashing on the screen. The product is not usable</td><td>Please contact Customer Services</td><td colspan=\"3\">Electrostatic Discharge IEC 61000-4-2 ±8kV contact ±2kV, ±8kV, ±15kV air</td></tr><tr><td>Current battery capacity is too low</td><td>Replace the battery as soon as possible</td><td colspan=\"3\">Radiated RF EM field IEC 61000-4-3 10V/m 80MHz-2.7GHz 80% AM ±1kHz</td></tr><tr><td>1</td><td>1</td><td rowspan=\"2\"></td><td colspan=\"3\">Proximity fields from RF wireless communication equipment IEC 61000-4-2 Refer to table 3</td></tr><tr><td>Current battery capacity is too low</td><td>Replace the battery as soon as possible</td><td colspan=\"3\">Rated power frequency magnetic fields IEC 61000-4-8 Exempted</td></tr><tr><td>1</td><td>1</td><td></td><td colspan=\"3\">Proximity magnetic fields IEC 61000-4-39 Exempted</td></tr><tr><td>6. Memory deletion mode\nIn the power-off state, press and hold the measurement button and the settings button simultaneously for 8 seconds until the icon of &quot;DEL&quot; and &quot;MI&quot; flash on screen; all memories will be deleted, and only the &quot;DEL&quot; icon shows up on screens. And the thermometer will turn automatically after 3 seconds.\n7. Mute setting Toggle the mute switch on the side of the thermometer to mute or unmute the device.\n8. Low battery alert Once switched ON for use, the thermometer will automatically detect remaining battery capacity. If battery capacity is low but adequate for measurements, the low power symbol [☐] will be displayed with the measurement results. However, if the battery capacity is too low for measurements, the screen will display a flashing [☐] i Icon and automatically switch OFF after 15 seconds. To continue using the device, batteries must be replaced.\n9. Power off The thermometer turns off automatically after 15 seconds of inaction.\n10. Replacing batteries (1) Press down the battery cover and slide the cover to open the battery compartment.\n(2) Press down the battery cover and slide the cover to open the battery components.\n(3) Refer to the battery polarity symbols to orient the batteries properly during installation. Make sure that the new batteries are lightly inserted into the battery compartment and the polarity is not reversed during installation.\n(4) Reinstall the battery cover to close the battery compartment.\n- Comply with relevant state and local laws and regulations when disposing of the used batteries.\n- For environmental safety, please do not discard batteries in the trash.\n- Remove the batteries if the device will not be used more than one month.\n- When using, shall not touch battery and the patient simultaneously.\n- Do not throw batteries into fire.\n- The typical service life of the new and unused batteries is approximately 1,000 measurements, and the service life may vary among different brands of batteries.\nNote: The thermometer turns off automatically after 15 seconds of inaction.</td><td>Temperature-taking hints\n- Body temperature varies from person to person and fluctuates during the course of the day. For this reason, it is not advised on some normal, healthy forehead temperature to correctly determine the temperature.\n- Body temperature runs approximately from 95.9°F - 99.5°F (35.5°C -37.5°C). To determine if one has a fever, compare the temperature detected with the person&#x27;s normal temperature. A rise over the reference body temperature of 1°F or more is generally an indication of a fever.\n- Different measurement sites will give different readings. Therefore, it is not advised to compare the measurement taken from different sites.\nMaintenance\nThe thermometer is designed for home use. If there are multiple users, please clean the device in between uses with the following steps:\n① Use an alcohol swab or tissue moistened with alcohol (70% lusopropyl) to clean. The thermometer casing thoroughly, ideally for more than 15 seconds.\n② Allow the battery capacity to dry for at least 5 minutes before taking a temperature.\n③ After cleaning, if the device is not visually clean when observed with magnification and adequate lighting, please repeat the clean steps above.\nNote: The cleaning steps above has been validated according to the FDA Guidance, &quot;Reprocessing Medical Devices in Health Care Settings: Validation Methods and Labeling&quot;.\nNote: The product is not waterproof. Ensure that no liquid enters inside; therefore we cannot be able to clean or obscure cleaning agents, thinners or benzene for cleaning and never immerse the device in water or other cleaning liquids.\nThe probe is the most intricate part of the thermometer, and shall not be kept clean and intact to acquire accurate readings. Gently clean the surface of the probe using a cotton swab soaked in 70% lusopropyl. If the probe (sensor) is broken, please contact customer services.\nHealth Labs, Inc. has not authorized any agency or individual to carry out product repairs or maintenance. Do not attempt to disassemble or modify the thermometer if you suspect functional issues with the device.\nNote: The monitoring facilities are issued to prepare reliable information about their devices and their products.</td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+                                            "image_path": "a2279bb6c94d3222d12c557d5001c0cabbbebbaca86950f1f896ffcf0737926a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                1789,
+                                1125,
+                                1861,
+                                1162
+                            ],
+                            "type": "table_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        1789,
+                                        1125,
+                                        1861,
+                                        1162
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                1789,
+                                                1125,
+                                                1861,
+                                                1162
+                                            ],
+                                            "type": "text",
+                                            "content": "背面"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        109,
+                        1149,
+                        423,
+                        1186
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                1149,
+                                423,
+                                1186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        1149,
+                                        423,
+                                        1186
+                                    ],
+                                    "type": "text",
+                                    "content": "本件要求通过RoHS测试"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        109,
+                        1197,
+                        418,
+                        1234
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                1197,
+                                418,
+                                1234
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        1197,
+                                        418,
+                                        1234
+                                    ],
+                                    "type": "text",
+                                    "content": "说明：材质为：70g双胶纸"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        109,
+                        1246,
+                        698,
+                        1276
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                1246,
+                                698,
+                                1276
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        1246,
+                                        698,
+                                        1276
+                                    ],
+                                    "type": "text",
+                                    "content": "尺寸：展开尺寸:250 X 300mm ,成型尺寸:50 X 150mm"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        190,
+                        1283,
+                        593,
+                        1312
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                190,
+                                1283,
+                                593,
+                                1312
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        190,
+                                        1283,
+                                        593,
+                                        1312
+                                    ],
+                                    "type": "text",
+                                    "content": "正背印刷,风琴折4下,然后上下对折1下"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        109,
+                        1318,
+                        651,
+                        1354
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                1318,
+                                651,
+                                1354
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        1318,
+                                        651,
+                                        1354
+                                    ],
+                                    "type": "text",
+                                    "content": "印刷颜色：1专色印刷：PANTONE Cool Gray 11 C"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "merge_prev": false
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        48,
+                        1389,
+                        2296,
+                        1589
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                48,
+                                1389,
+                                2296,
+                                1589
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        1389,
+                                        2296,
+                                        1589
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                48,
+                                                1389,
+                                                2296,
+                                                1589
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td></td><td>K04070002202</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">说明书</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-SMSP01 V1.0</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "dde55cccab22961d77339fc33732536f42944862fe759a9ff8685e392f2d126e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        53,
+                        95,
+                        81,
+                        1267
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                95,
+                                81,
+                                1267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        95,
+                                        81,
+                                        1267
+                                    ],
+                                    "type": "text",
+                                    "content": "1\n2\n3\n4\n5\n6\n7\n8"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        183,
+                        27,
+                        2173,
+                        53
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                183,
+                                27,
+                                2173,
+                                53
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        183,
+                                        27,
+                                        2173,
+                                        53
+                                    ],
+                                    "type": "text",
+                                    "content": "A | B | C | D | E | F | G | H"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        2157,
+                        67,
+                        2278,
+                        95
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                2157,
+                                67,
+                                2278,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        2157,
+                                        67,
+                                        2278,
+                                        95
+                                    ],
+                                    "type": "text",
+                                    "content": "⑧ 尺寸序号"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "page_size": [
+                2327,
+                1612
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        321,
+                        170,
+                        1144,
+                        1084
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                114,
+                                69,
+                                288,
+                                140
+                            ],
+                            "type": "table_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        69,
+                                        288,
+                                        140
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                114,
+                                                69,
+                                                288,
+                                                140
+                                            ],
+                                            "type": "text",
+                                            "content": "andon"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                170,
+                                1144,
+                                1084
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        170,
+                                        1144,
+                                        1084
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                321,
+                                                170,
+                                                1144,
+                                                1084
+                                            ],
+                                            "type": "table",
+                                            "html": "",
+                                            "image_path": "8c61f05b03c7e1ab5226f0c87e49c5b6289fe641bedb7dfd005b7a42228689d1.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                744,
+                                1126,
+                                814,
+                                1162
+                            ],
+                            "type": "table_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        744,
+                                        1126,
+                                        814,
+                                        1162
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                744,
+                                                1126,
+                                                814,
+                                                1162
+                                            ],
+                                            "type": "text",
+                                            "content": "正面"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        1412,
+                        228,
+                        2126,
+                        1081
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                1412,
+                                228,
+                                2126,
+                                1081
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        1412,
+                                        228,
+                                        2126,
+                                        1081
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                1412,
+                                                228,
+                                                2126,
+                                                1081
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3. Selecting modes\nThe default mode is baby temperature mode. To switch between the three modes, please follow the steps below.\n(1) In the measurement state, press the settings button briefly to enter the mode switching state.\n(2) Press the settings button briefly to cycle through the baby mode, adult mode, and object temperature mode, with corresponding icons displayed on the LCD screen.\n(3) Press the measurement button to save the current settings and initiate a measurement process.\nNote: The thermometer turns off automatically after 15 seconds of inaction.</td><td colspan=\"2\">Product errors and troubleshooting</td><td rowspan=\"5\">The RF thermometer is an extremely precise instrument. Any improper maintenance, disassembly, or modification may lead to measurement inaccuracies.\nDo not put the thermometer under direct sunlight, high temperature, or moist environments. Do not allow to come into contact with fire or harsh vibrations.\nTake out the battery if the device is not used for a month or more.</td><td rowspan=\"5\" colspan=\"2\">Use of accessories, transducers and cables other than those specified or provided by the manufacturer of this equipment could result in increased electromagnetic emissions or decreased electromagnetic environment of this equipment and result in improper operation.\n- Portable RF communications equipment (including peripherals such as antenna alarm, sales and external antennas) should be used no closer than 30 cm(12 inches) any part of the PTLR, including cables specified by the manufacturer. Otherwise degradation of the performance of this equipment could result.</td><td rowspan=\"5\">4. Liability for direct or indirect consequential losses caused by the unit is excluded even if the damage to the unit is accepted as a warranty claim.\n5. If you encounter any product issues during the warranty period, please contact customer services for assistance.\nManufactured for: USA\niHealth Labs, Inc. www.ihealthlabs.com\nB80 W Maude Ave, Sunnyvale, CA 94085 USA +1-455-816-7705\nEurope:\niHealthLabs Europe SAS\nwww.ihealthlabs.eu\n36 Rue de Ponthieu, 75008, Paris, France\nEC REP HealthLabs Europe SAS\n36 Rue de Ponthieu, 75008, Paris, France\nsupport@healthlab.eu\nwww.ihealthlab.eu\nANDON HEALTH CO., LTD.\nNo. 3 Jinping Street, Vain Road, Nankai District, Tianjin 300/90, China\nTel: 86-22-60526161\nMade in China\nPT9L-SMSP01 V1.0</td></tr><tr><td rowspan=\"11\">4. Switching units\n(1) Press and hold the measurement button for 8 seconds to enter the unit switching mode.\n(2) The screens display the current unit. Press the measurement button to toggle between C and F, then selected unit will flash accompanied by a short bell.\n(3) Press and hold the measurement button for 2 seconds to confirm the setting, the current unit is &quot;F&quot; will turn up for 3 seconds, accompanied by a short bell. And then the thermometer turns off automatically.\nNote: The thermometer will automatically turn off after 15 seconds of inactivity, and the selected unit will also be saved automatically even if without pressing the measurement button for confirmation.\n5. Memory mode\nPress and hold the settings button ( ) for 3 seconds to enter the minimum mode, and the memory icon &quot;M&quot; will flash simultaneously. Release and use the measurement button to toggle between the different memories, and later memory will be shown as the first memory. If you want to view more memories of other modes, please choose your device mode at first.\nNote: The thermometer turns off automatically after 15 seconds of inaction.</td><td colspan=\"2\">Problem possible issues Solution</td></tr><tr><td colspan=\"2\">Battery depleted</td></tr><tr><td colspan=\"2\">Batteries have been installed with the wrong polarity batteries are not installed properly</td></tr><tr><td colspan=\"2\">Unable to carry out sound measurements as current battery capacity is too low</td></tr><tr><td>Dynamic measurement failed</td><td>Press and hold the measurement button to restart the dynamic measurements until the result displays on screen, and make sure to remove protective cap before taking a measurement.</td><td rowspan=\"4\">Disposition\nDispose of batteries in accordance with the collection point in the EU countries - 2012/19/EEE Directive.\nIf you have any queries, please refer to the local authorities responsible for waste disposal.\nNotes\n- Please act according to local laws for disposal of user batteries.\n- Take out the batteries if the device will not be used for more than one month.\nTo protect the environment, dispose of empty batteries at appropriate collection sites according to local regulations. Dispose of batteries at public collection point in the EU countries - REGULATION (EU) 2023/1542 Directive.\nStandard icons\nThe operation guide must be read (The background color is blue. The graphical sign symbol is white).\nThe batteries and electronic instruments must be disposed of accordance with the locally applicable regulation, not with domestic waste.\nManufacturer\nWarning\nBatch Code\nEC REP European Representative\n13</td><td colspan=\"3\">Phenomenon Compliance Electromagnetic Environment\nRF emissions CISPR 11 Group 1 Class B The device is intended to be used in home healthcare environment.\nHarmonic distortion IEC 61000-3-2 NA The device is powered by battery.\nVoltage fluctuations and flicker IEC 61000-3-3 NA The device is powered by battery.\nTable 2 - Enclosure Port</td></tr><tr><td>Environment temperature exceeds the operational range 50°F-10°F (10°C-40°C) or is unstable</td><td>Please use the thermometer within the range&#x27;s designed ambient temperature range</td><td colspan=\"3\">Phenomeno Basic EMC standard Immunity test levels Home Healthcare Environment</td></tr><tr><td>Current state: All flashing on the screen. The product is not usable</td><td>Please contact Customer Services</td><td colspan=\"3\">Electrostatic Discharge IEC 61000-4-2 ±8kV contact ±2kV, ±8kV, ±15kV air</td></tr><tr><td>Current battery capacity is too low</td><td>Replace the battery as soon as possible</td><td colspan=\"3\">Radiated RF EM field IEC 61000-4-3 10V/m 80MHz-2.7GHz 80% AM ±1kHz</td></tr><tr><td>1</td><td>1</td><td rowspan=\"2\"></td><td colspan=\"3\">Proximity fields from RF wireless communication equipment IEC 61000-4-2 Refer to table 3</td></tr><tr><td>Current battery capacity is too low</td><td>Replace the battery as soon as possible</td><td colspan=\"3\">Rated power frequency magnetic fields IEC 61000-4-8 Exempted</td></tr><tr><td>1</td><td>1</td><td></td><td colspan=\"3\">Proximity magnetic fields IEC 61000-4-39 Exempted</td></tr><tr><td>6. Memory deletion mode\nIn the power-off state, press and hold the measurement button and the settings button simultaneously for 8 seconds until the icon of &quot;DEL&quot; and &quot;MI&quot; flash on screen; all memories will be deleted, and only the &quot;DEL&quot; icon shows up on screens. And the thermometer will turn automatically after 3 seconds.\n7. Mute setting Toggle the mute switch on the side of the thermometer to mute or unmute the device.\n8. Low battery alert Once switched ON for use, the thermometer will automatically detect remaining battery capacity. If battery capacity is low but adequate for measurements, the low power symbol [☐] will be displayed with the measurement results. However, if the battery capacity is too low for measurements, the screen will display a flashing [☐] i Icon and automatically switch OFF after 15 seconds. To continue using the device, batteries must be replaced.\n9. Power off The thermometer turns off automatically after 15 seconds of inaction.\n10. Replacing batteries (1) Press down the battery cover and slide the cover to open the battery compartment.\n(2) Press down the battery cover and slide the cover to open the battery components.\n(3) Refer to the battery polarity symbols to orient the batteries properly during installation. Make sure that the new batteries are lightly inserted into the battery compartment and the polarity is not reversed during installation.\n(4) Reinstall the battery cover to close the battery compartment.\n- Comply with relevant state and local laws and regulations when disposing of the used batteries.\n- For environmental safety, please do not discard batteries in the trash.\n- Remove the batteries if the device will not be used more than one month.\n- When using, shall not touch battery and the patient simultaneously.\n- Do not throw batteries into fire.\n- The typical service life of the new and unused batteries is approximately 1,000 measurements, and the service life may vary among different brands of batteries.\nNote: The thermometer turns off automatically after 15 seconds of inaction.</td><td>Temperature-taking hints\n- Body temperature varies from person to person and fluctuates during the course of the day. For this reason, it is not advised on some normal, healthy forehead temperature to correctly determine the temperature.\n- Body temperature runs approximately from 95.9°F - 99.5°F (35.5°C -37.5°C). To determine if one has a fever, compare the temperature detected with the person&#x27;s normal temperature. A rise over the reference body temperature of 1°F or more is generally an indication of a fever.\n- Different measurement sites will give different readings. Therefore, it is not advised to compare the measurement taken from different sites.\nMaintenance\nThe thermometer is designed for home use. If there are multiple users, please clean the device in between uses with the following steps:\n① Use an alcohol swab or tissue moistened with alcohol (70% lusopropyl) to clean. The thermometer casing thoroughly, ideally for more than 15 seconds.\n② Allow the battery capacity to dry for at least 5 minutes before taking a temperature.\n③ After cleaning, if the device is not visually clean when observed with magnification and adequate lighting, please repeat the clean steps above.\nNote: The cleaning steps above has been validated according to the FDA Guidance, &quot;Reprocessing Medical Devices in Health Care Settings: Validation Methods and Labeling&quot;.\nNote: The product is not waterproof. Ensure that no liquid enters inside; therefore we cannot be able to clean or obscure cleaning agents, thinners or benzene for cleaning and never immerse the device in water or other cleaning liquids.\nThe probe is the most intricate part of the thermometer, and shall not be kept clean and intact to acquire accurate readings. Gently clean the surface of the probe using a cotton swab soaked in 70% lusopropyl. If the probe (sensor) is broken, please contact customer services.\nHealth Labs, Inc. has not authorized any agency or individual to carry out product repairs or maintenance. Do not attempt to disassemble or modify the thermometer if you suspect functional issues with the device.\nNote: The monitoring facilities are issued to prepare reliable information about their devices and their products.</td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+                                            "image_path": "a2279bb6c94d3222d12c557d5001c0cabbbebbaca86950f1f896ffcf0737926a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                1789,
+                                1125,
+                                1861,
+                                1162
+                            ],
+                            "type": "table_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        1789,
+                                        1125,
+                                        1861,
+                                        1162
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                1789,
+                                                1125,
+                                                1861,
+                                                1162
+                                            ],
+                                            "type": "text",
+                                            "content": "背面"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        109,
+                        1149,
+                        423,
+                        1186
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                1149,
+                                423,
+                                1186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        1149,
+                                        423,
+                                        1186
+                                    ],
+                                    "type": "text",
+                                    "content": "本件要求通过RoHS测试"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        109,
+                        1197,
+                        418,
+                        1234
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                1197,
+                                418,
+                                1234
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        1197,
+                                        418,
+                                        1234
+                                    ],
+                                    "type": "text",
+                                    "content": "说明：材质为：70g双胶纸"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        109,
+                        1246,
+                        698,
+                        1276
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                1246,
+                                698,
+                                1276
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        1246,
+                                        698,
+                                        1276
+                                    ],
+                                    "type": "text",
+                                    "content": "尺寸：展开尺寸:250 X 300mm ,成型尺寸:50 X 150mm"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        190,
+                        1283,
+                        593,
+                        1312
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                190,
+                                1283,
+                                593,
+                                1312
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        190,
+                                        1283,
+                                        593,
+                                        1312
+                                    ],
+                                    "type": "text",
+                                    "content": "正背印刷,风琴折4下,然后上下对折1下"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        109,
+                        1318,
+                        651,
+                        1354
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                1318,
+                                651,
+                                1354
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        1318,
+                                        651,
+                                        1354
+                                    ],
+                                    "type": "text",
+                                    "content": "印刷颜色：1专色印刷：PANTONE Cool Gray 11 C"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "merge_prev": false
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        48,
+                        1389,
+                        2296,
+                        1589
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                48,
+                                1389,
+                                2296,
+                                1589
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        1389,
+                                        2296,
+                                        1589
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                48,
+                                                1389,
+                                                2296,
+                                                1589
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td></td><td>K04070002202</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">说明书</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-SMSP01 V1.0</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "dde55cccab22961d77339fc33732536f42944862fe759a9ff8685e392f2d126e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "3.1.6"
+}

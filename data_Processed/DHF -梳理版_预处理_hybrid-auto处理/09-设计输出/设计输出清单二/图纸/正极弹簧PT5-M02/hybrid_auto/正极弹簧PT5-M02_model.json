@@ -1,0 +1,360 @@
+[
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.062,
+                0.002,
+                0.12,
+                0.015
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.164,
+                0.003,
+                0.226,
+                0.015
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.125,
+                0.223,
+                0.354,
+                0.394
+            ],
+            "angle": 0,
+            "content": "Ø0.50±0.03\n①\n11.7\nA\nA\nØ6.50±0.10\n③",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.419,
+                0.187,
+                0.692,
+                0.371
+            ],
+            "angle": 0,
+            "content": "5.3\n3.8\n1.8\n1.8\n90°\n8.5\n②\n7.0±0.30\n2.30 螺距",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.775,
+                0.186,
+                0.886,
+                0.268
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.179,
+                0.427,
+                0.311,
+                0.507
+            ],
+            "angle": 0,
+            "content": "Ø4.80\nØ3.00",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.476,
+                0.413,
+                0.521,
+                0.444
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.316,
+                0.453,
+                0.642,
+                0.466
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.056,
+                0.649,
+                0.3,
+                0.824
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"2\">DTM\\LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt; 5</td><td>±0.03</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 5~15</td><td>±0.05</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 15~50</td><td>±0.05</td><td>±0.1</td><td>±0.2</td></tr><tr><td>&gt; 50~100</td><td>±0.08</td><td>±0.2</td><td>±0.3</td></tr><tr><td>≥100</td><td>±0.1%</td><td>±0.2%</td><td>±0.3%</td></tr><tr><td>ANGUL/R</td><td>±0.1°</td><td>±0.5°</td><td>±0.5°</td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\">B</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.512,
+                0.686,
+                0.545,
+                0.692
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.512,
+                0.693,
+                0.616,
+                0.699
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.512,
+                0.7,
+                0.63,
+                0.706
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.512,
+                0.707,
+                0.59,
+                0.712
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.512,
+                0.713,
+                0.603,
+                0.718
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.512,
+                0.719,
+                0.645,
+                0.725
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.512,
+                0.726,
+                0.628,
+                0.731
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.512,
+                0.732,
+                0.628,
+                0.738
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.512,
+                0.739,
+                0.61,
+                0.744
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.512,
+                0.686,
+                0.645,
+                0.744
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.055,
+                0.825,
+                0.945,
+                0.999
+            ],
+            "angle": 0,
+            "content": "<table><tr><td></td><td></td><td></td><td colspan=\"3\"></td><td></td><td></td><td rowspan=\"4\" colspan=\"2\">图名:正极弹簧</td><td rowspan=\"4\" colspan=\"5\">图号:PT5-M02</td></tr><tr><td></td><td></td><td></td><td colspan=\"3\"></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td colspan=\"3\"></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td colspan=\"3\"></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td colspan=\"3\"></td><td></td><td></td><td colspan=\"2\">P/No.:</td><td colspan=\"3\">阶段标记</td><td>单位</td><td>比例</td></tr><tr><td>1.0</td><td></td><td></td><td colspan=\"3\">量产管控</td><td>刘钊</td><td>190715</td><td rowspan=\"2\">关键尺寸*</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">A</td><td rowspan=\"2\"></td><td rowspan=\"2\">mm</td><td rowspan=\"2\">2:1</td></tr><tr><td>版本</td><td>标记</td><td>处数</td><td colspan=\"3\">更改描述</td><td>签名</td><td>日期</td></tr><tr><td colspan=\"2\">设计</td><td colspan=\"2\"></td><td>工艺</td><td colspan=\"3\"></td><td rowspan=\"3\" colspan=\"2\">材料:</td><td colspan=\"5\">共 张 第 张</td></tr><tr><td colspan=\"2\">审核</td><td colspan=\"2\"></td><td>标准化</td><td colspan=\"3\"></td><td rowspan=\"2\" colspan=\"5\">iHealth</td></tr><tr><td colspan=\"2\">批准</td><td colspan=\"2\"></td><td>批准</td><td colspan=\"3\"></td></tr></table>"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.059,
+                0.0,
+                0.123,
+                0.016
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.163,
+                0.003,
+                0.229,
+                0.015
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.512,
+                0.706,
+                0.591,
+                0.713
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.512,
+                0.713,
+                0.603,
+                0.719
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.318,
+                0.454,
+                0.641,
+                0.465
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.511,
+                0.685,
+                0.547,
+                0.694
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.51,
+                0.692,
+                0.616,
+                0.7
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.512,
+                0.699,
+                0.631,
+                0.706
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.512,
+                0.719,
+                0.644,
+                0.726
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.511,
+                0.725,
+                0.628,
+                0.732
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.511,
+                0.73,
+                0.629,
+                0.739
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.511,
+                0.738,
+                0.612,
+                0.745
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ]
+]

@@ -1,0 +1,286 @@
+[
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ac26edd362a366c19e3a8edf41d579222ebefcfffe12060725434f5383f3b415.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"2\">TEST REPORTIEC 60068-2-78:2012: Damp heat, steady state</td></tr><tr><td>Date of issue......:</td><td>2024-07-12</td></tr><tr><td>Standard......:</td><td>IEC 60068-2-78:2012: Damp heat, steady state</td></tr><tr><td>Procedure deviation......:</td><td>N/A</td></tr><tr><td>Non-standard test method......:</td><td>N/A</td></tr><tr><td>Type of test object......:</td><td>Infrared No-Touch Forehead Thermometer</td></tr><tr><td>Trademark......:</td><td>N/A</td></tr><tr><td>Model/type reference......:</td><td>PT9L</td></tr><tr><td>Report No ......:</td><td>ETX202303-07-078-05</td></tr><tr><td>Testing period......:</td><td>2024.07.10-2024.07.11</td></tr><tr><td>Manufacturer......:</td><td>ANDON HEALTH CO., LTD.</td></tr><tr><td>Address......:</td><td>No.3 JinPing Street, YaAn Road, Nankai District, Tianjin, China</td></tr><tr><td>Test laboratory......Address......</td><td>Tianxu(Tianjin)Testing Technology Service Co.,LTD101, First floor, Building L,No.3 JinPing Street,Ya An Road,Nankai District, Tianjin,China</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                87,
+                78,
+                905,
+                539
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Compliedby:之7（Kang Yanli） Date "
+                    }
+                ]
+            },
+            "bbox": [
+                220,
+                682,
+                752,
+                703
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                213,
+                714,
+                798,
+                743
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/00d4765b8cc2ffac2652b16ea517cbb21e85bc74663509ba9f16cfc9d0552ad4.jpg"
+                },
+                "content": "检测技术服务有限公司\n2024.7.12\n检验检测专用章\n2024.7.12",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                638,
+                604,
+                833,
+                743
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "ReportNo.:ETX202303-07-078-05 "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                47,
+                352,
+                61
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c1ecb7ff6f5f72a7a44a0e1eca301cc8d0ae4a5f4d4c12476b585c51eaeba149.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Clause</td><td>Requirement + Test</td><td>Result - Remark</td><td>Verdict</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                94,
+                101,
+                922,
+                127
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b2835d2737e3f75fc8a2ef37c30ab4fcfc2e9727a818006a68f7ef0925d41f27.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Damp heat test</td><td>The sample is in normal working condition and put into the programmable constant temperature and humidity test chamber. The temperature and humidity of the test box are adjusted to 40 °C and 95% RH. After the temperature and humidity are stable, it is maintained for 14.8 hours.</td><td>/</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                94,
+                142,
+                922,
+                247
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Report No.: ETX202303-07-078-05 "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                48,
+                352,
+                63
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2 / 3 "
+                    }
+                ]
+            },
+            "bbox": [
+                482,
+                928,
+                514,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ATTACHMENT FILE 1 photos of the EUT "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                347,
+                87,
+                650,
+                101
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/936a11a22295569ff3b9c498070ed627f90f507545d141d71667ff50fe482d3f.jpg"
+                },
+                "content": "White digital thermometer placed on a wooden surface with a ruler for scale (no text or symbols visible)",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "natural_image",
+            "bbox": [
+                82,
+                127,
+                490,
+                344
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0a03aa9da6b39dc391a8107ee94e0076c32fd8ba48c6605b5da20cfcd3be77be.jpg"
+                },
+                "content": "Y1240017\nPT9L\nTX201601-07-08\n校核 | 校核中 | 校核 | 交运",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                504,
+                128,
+                910,
+                344
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9d00b633e2cced424fb1d5acc00b96cd746624312124501ebd53a8ab75c4d5c4.jpg"
+                },
+                "content": "iHealth Infrared No-Touch Forehead Thermometer\nModel: PT9L Power source: DC 2 x 1.5V=SIZE AAA batteries\nMeasurement position: Centre of the forehead surface\nManufactured for iHealth Labs, Inc.\nAndon Health Co., LTD.\nNo.3 Jin Ping Street, Ya An Road, Nankai District,\nTianjin 300190, China.\nMade in China\nLETI KE04 IP22",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                238,
+                355,
+                768,
+                583
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "--- End of Test Report --- "
+                    }
+                ]
+            },
+            "bbox": [
+                347,
+                638,
+                527,
+                653
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Report No.: ETX202303-07-078-05 "
+                    }
+                ]
+            },
+            "bbox": [
+                89,
+                49,
+                352,
+                63
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3 / 3 "
+                    }
+                ]
+            },
+            "bbox": [
+                482,
+                928,
+                514,
+                940
+            ]
+        }
+    ]
+]

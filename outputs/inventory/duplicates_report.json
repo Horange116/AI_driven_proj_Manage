@@ -1,0 +1,198 @@
+{
+  "generated_at": "2026-05-04T08:10:27.336812+00:00",
+  "summary": {
+    "duplicate_groups": 7,
+    "duplicate_files": 14
+  },
+  "groups": [
+    {
+      "group_id": "DUP-0001",
+      "md5": "0e7a0b56f910ad119f80a3ff0fcc5d8e",
+      "sha256_values": [
+        "d04b8b76272117a0222f5633100cd57f028496c6e9c513335cdefaf75bccdf4c"
+      ],
+      "file_count": 2,
+      "total_size_bytes": 77989998,
+      "files": [
+        {
+          "doc_id": "DOC-00110",
+          "dataset": "DHF",
+          "relative_path": "DHF -梳理版/09-设计输出/设计输出清单二.zip",
+          "file_name": "设计输出清单二.zip",
+          "extension": "zip",
+          "size_bytes": 38994999
+        },
+        {
+          "doc_id": "DOC-00181",
+          "dataset": "DHF",
+          "relative_path": "DHF -梳理版/09-设计输出/设计输出清单二/设计输出清单二.zip",
+          "file_name": "设计输出清单二.zip",
+          "extension": "zip",
+          "size_bytes": 38994999
+        }
+      ]
+    },
+    {
+      "group_id": "DUP-0002",
+      "md5": "48ccea134cf05cf91a8ad6f822bc2238",
+      "sha256_values": [
+        "2f90e941ef83714afa50adccc60fbdb633f1a0be10a2a9f29bb2733f28c6c2cc"
+      ],
+      "file_count": 2,
+      "total_size_bytes": 1945048,
+      "files": [
+        {
+          "doc_id": "DOC-00132",
+          "dataset": "DHF",
+          "relative_path": "DHF -梳理版/09-设计输出/设计输出清单二/包装/K040800025021030093-图纸-PT9L-F02+V1.0(1).pdf",
+          "file_name": "K040800025021030093-图纸-PT9L-F02+V1.0(1).pdf",
+          "extension": "pdf",
+          "size_bytes": 972524
+        },
+        {
+          "doc_id": "DOC-00133",
+          "dataset": "DHF",
+          "relative_path": "DHF -梳理版/09-设计输出/设计输出清单二/包装/K040800025021030093-图纸-PT9L-F02+V1.0.pdf",
+          "file_name": "K040800025021030093-图纸-PT9L-F02+V1.0.pdf",
+          "extension": "pdf",
+          "size_bytes": 972524
+        }
+      ]
+    },
+    {
+      "group_id": "DUP-0003",
+      "md5": "7ce7f4430438a0c6e636a352a7dded83",
+      "sha256_values": [
+        "3b883e142cc9337b31640c5b382bbaaac29912508d06dac4f920e9642735fb9a"
+      ],
+      "file_count": 2,
+      "total_size_bytes": 1003344,
+      "files": [
+        {
+          "doc_id": "DOC-00130",
+          "dataset": "DHF",
+          "relative_path": "DHF -梳理版/09-设计输出/设计输出清单二/包装/K040800021487620814-图纸-PT1-F07+V1.0(1).pdf",
+          "file_name": "K040800021487620814-图纸-PT1-F07+V1.0(1).pdf",
+          "extension": "pdf",
+          "size_bytes": 501672
+        },
+        {
+          "doc_id": "DOC-00131",
+          "dataset": "DHF",
+          "relative_path": "DHF -梳理版/09-设计输出/设计输出清单二/包装/K040800021487620814-图纸-PT1-F07+V1.0.pdf",
+          "file_name": "K040800021487620814-图纸-PT1-F07+V1.0.pdf",
+          "extension": "pdf",
+          "size_bytes": 501672
+        }
+      ]
+    },
+    {
+      "group_id": "DUP-0004",
+      "md5": "c5187da7f8ae966cc498c30d2c3cc5a0",
+      "sha256_values": [
+        "e01c9da639e8f45fc9c33f587b3f9bf4e1b1920738cd43bb2af4744ffb294abe"
+      ],
+      "file_count": 2,
+      "total_size_bytes": 3678208,
+      "files": [
+        {
+          "doc_id": "DOC-00160",
+          "dataset": "DHF",
+          "relative_path": "DHF -梳理版/09-设计输出/设计输出清单二/工艺说明-PT9L.xls",
+          "file_name": "工艺说明-PT9L.xls",
+          "extension": "xls",
+          "size_bytes": 1839104
+        },
+        {
+          "doc_id": "DOC-00202",
+          "dataset": "DHF",
+          "relative_path": "DHF -梳理版/09-设计输出/设计输出清单二/设计输出清单二/工艺说明-PT9L.xls",
+          "file_name": "工艺说明-PT9L.xls",
+          "extension": "xls",
+          "size_bytes": 1839104
+        }
+      ]
+    },
+    {
+      "group_id": "DUP-0005",
+      "md5": "d2fdc19440b63dbe78fe6a3430fb89ad",
+      "sha256_values": [
+        "54f2dd215c51f6b5c38d3f2aa26a26ffbe215394735bb784f1bd70f8cceb5d47"
+      ],
+      "file_count": 2,
+      "total_size_bytes": 20173920,
+      "files": [
+        {
+          "doc_id": "DOC-00118",
+          "dataset": "DHF",
+          "relative_path": "DHF -梳理版/09-设计输出/设计输出清单二/包装/AI/K040700022027620814-图纸-PT9L-SMSP01+V1.0 (1).ai",
+          "file_name": "K040700022027620814-图纸-PT9L-SMSP01+V1.0 (1).ai",
+          "extension": "ai",
+          "size_bytes": 10086960
+        },
+        {
+          "doc_id": "DOC-00119",
+          "dataset": "DHF",
+          "relative_path": "DHF -梳理版/09-设计输出/设计输出清单二/包装/AI/K040700022027620814-图纸-PT9L-SMSP01+V1.0.ai",
+          "file_name": "K040700022027620814-图纸-PT9L-SMSP01+V1.0.ai",
+          "extension": "ai",
+          "size_bytes": 10086960
+        }
+      ]
+    },
+    {
+      "group_id": "DUP-0006",
+      "md5": "df8e8cbfd77efbd975cca0de99bad512",
+      "sha256_values": [
+        "b5b342669ecfdb6c5af438513968a917c6bdd02147f8c21ec55ced609195d870"
+      ],
+      "file_count": 2,
+      "total_size_bytes": 1215934,
+      "files": [
+        {
+          "doc_id": "DOC-00134",
+          "dataset": "DHF",
+          "relative_path": "DHF -梳理版/09-设计输出/设计输出清单二/包装/K040800025031030093-图纸-PT9L-F03+V1.0(1).pdf",
+          "file_name": "K040800025031030093-图纸-PT9L-F03+V1.0(1).pdf",
+          "extension": "pdf",
+          "size_bytes": 607967
+        },
+        {
+          "doc_id": "DOC-00135",
+          "dataset": "DHF",
+          "relative_path": "DHF -梳理版/09-设计输出/设计输出清单二/包装/K040800025031030093-图纸-PT9L-F03+V1.0.pdf",
+          "file_name": "K040800025031030093-图纸-PT9L-F03+V1.0.pdf",
+          "extension": "pdf",
+          "size_bytes": 607967
+        }
+      ]
+    },
+    {
+      "group_id": "DUP-0007",
+      "md5": "ede3d109607f9c08d6eaf4b5982221d7",
+      "sha256_values": [
+        "833b01b403260dc803a7252add85631a616fd12e4e9d8999b3dbc2871082a0b1"
+      ],
+      "file_count": 2,
+      "total_size_bytes": 69985624,
+      "files": [
+        {
+          "doc_id": "DOC-00146",
+          "dataset": "DHF",
+          "relative_path": "DHF -梳理版/09-设计输出/设计输出清单二/图纸/PT9L.dwg",
+          "file_name": "PT9L.dwg",
+          "extension": "dwg",
+          "size_bytes": 34992812
+        },
+        {
+          "doc_id": "DOC-00186",
+          "dataset": "DHF",
+          "relative_path": "DHF -梳理版/09-设计输出/设计输出清单二/设计输出清单二/图纸/PT9L.dwg",
+          "file_name": "PT9L.dwg",
+          "extension": "dwg",
+          "size_bytes": 34992812
+        }
+      ]
+    }
+  ]
+}

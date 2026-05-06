@@ -1,0 +1,290 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9896,
+                "bbox": [
+                    150,
+                    189,
+                    1491,
+                    1256
+                ],
+                "index": 1,
+                "html": "<table><tr><td rowspan=1 colspan=2>TESTREPORTIEC 60068-2-78:2012: Damp heat, steadystate</td></tr><tr><td rowspan=1 colspan=1>Date ofissue…</td><td rowspan=1 colspan=1>2024-07-12</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>IEC60068-2-78:2012:Damp heat,steady state</td></tr><tr><td rowspan=1 colspan=1>Proceduredeviation.:</td><td rowspan=1 colspan=1>NIA</td></tr><tr><td rowspan=1 colspan=1>Non-standard test method...</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Type of test object.</td><td rowspan=1 colspan=1>Infrared No-Touch Forehead Thermometer</td></tr><tr><td rowspan=1 colspan=1>Trademark..    </td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Model/typereference.</td><td rowspan=1 colspan=1>PT9L</td></tr><tr><td rowspan=1 colspan=1>Report No   .</td><td rowspan=1 colspan=1>ETX202303-07-078-05</td></tr><tr><td rowspan=1 colspan=1>Testing period….</td><td rowspan=1 colspan=1>2024.07.10-2024.07.11</td></tr><tr><td rowspan=1 colspan=1>Manufactrer</td><td rowspan=1 colspan=1>ANDONHEALTH CO.,LTD.</td></tr><tr><td rowspan=1 colspan=1>Address..</td><td rowspan=1 colspan=1>No.3 JinPing Street, YaAn Road, Nankai District, Tianjin, China</td></tr><tr><td rowspan=1 colspan=1>Test laboratoryAddress...</td><td rowspan=1 colspan=1>Tianxu(Tianjin)Testing Technology Service Co.,LTD101, First floor, Building L,No.3 JinPing Street,Ya An Road,Nankai District, Tianjin,China</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8851,
+                "bbox": [
+                    366,
+                    1593,
+                    1070,
+                    1650
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8248,
+                "bbox": [
+                    353,
+                    1672,
+                    1277,
+                    1738
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 20,
+                "label": "seal",
+                "score": 0.9783,
+                "bbox": [
+                    1058,
+                    1416,
+                    1378,
+                    1740
+                ],
+                "index": 4,
+                "text": [
+                    "爱旭（天津）检测技术服务有限公司"
+                ]
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    362,
+                    1582,
+                    947,
+                    1654
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    994,
+                    1599,
+                    1080,
+                    1654
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    338,
+                    1653,
+                    1297,
+                    1757
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1653,
+            "height": 2337
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8984,
+                "bbox": [
+                    148,
+                    116,
+                    584,
+                    150
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.8625,
+                "bbox": [
+                    161,
+                    239,
+                    1521,
+                    297
+                ],
+                "index": 2,
+                "html": "<table><tr><td>Clause</td><td>Requirement + Test</td><td>Result - Remark</td><td>Verdict</td></tr></table>"
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9565,
+                "bbox": [
+                    161,
+                    336,
+                    1522,
+                    572
+                ],
+                "index": 3,
+                "html": "<table><tr><td>Damp heat test</td><td>The sample is in normal working condition and put into the programmable constant temperature and humidity test chamber. The temperature and</td></tr></table>"
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9004,
+                "bbox": [
+                    798,
+                    2172,
+                    854,
+                    2201
+                ],
+                "index": 4
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    116,
+                    585,
+                    148
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    794,
+                    2166,
+                    860,
+                    2209
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8618,
+                "bbox": [
+                    147,
+                    116,
+                    585,
+                    150
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.5871,
+                "bbox": [
+                    574,
+                    204,
+                    1078,
+                    240
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8639,
+                "bbox": [
+                    135,
+                    295,
+                    1519,
+                    1436
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.7438,
+                "bbox": [
+                    574,
+                    1493,
+                    876,
+                    1529
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8923,
+                "bbox": [
+                    797,
+                    2171,
+                    855,
+                    2202
+                ],
+                "index": 5
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    116,
+                    585,
+                    148
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    793,
+                    2166,
+                    860,
+                    2209
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    576,
+                    204,
+                    1076,
+                    238
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    576,
+                    1490,
+                    876,
+                    1532
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]

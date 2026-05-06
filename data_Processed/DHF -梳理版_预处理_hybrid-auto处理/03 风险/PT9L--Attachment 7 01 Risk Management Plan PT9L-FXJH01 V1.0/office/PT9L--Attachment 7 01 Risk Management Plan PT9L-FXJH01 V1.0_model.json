@@ -1,0 +1,303 @@
+[
+    [
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">Risk Management Plan</text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">(V1.0)</text>"
+        },
+        {
+            "type": "text",
+            "content": "Product Model:<text style=\"underline\"> PT9L</text>"
+        },
+        {
+            "type": "text",
+            "content": "Project Number: <text style=\"underline\">30000078</text>"
+        },
+        {
+            "type": "text",
+            "content": "Product  name: <text style=\"underline\">   Infrared Forehead Thermometer\t</text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">Drafted by</text><text style=\"italic\">(Regulation Engineer)</text><text style=\"underline\">               </text>\tDate:<text style=\"underline\">                </text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">Reviewed by</text><text style=\"italic\">(Certification Engineer)</text><text style=\"underline\">               </text>Date:<text style=\"underline\">                </text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">Approved by</text><text style=\"italic\">(Product Line Manager‌)</text><text style=\"underline\">                 </text>Date:<text style=\"underline\">                </text>"
+        },
+        {
+            "type": "header",
+            "content": "DN：PT9L-FXJH01 V1.0                                      Risk Management Plan"
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": "<table><tr><td><p><strong>No.</strong></p></td><td><p><strong>Version Date </strong></p></td><td><p><strong>Version Description</strong></p></td><td><p><strong>Version</strong></p></td><td><p><strong>Drafter</strong></p></td><td><p><strong>Approver</strong></p></td></tr><tr><td><p>1</p></td><td><p>2024.1.11</p></td><td><p>Originated</p></td><td><p>V1.0</p></td><td><p>Wang Dilong</p></td><td><p>Hou Guangwei</p></td></tr><tr><td><p><a id=\"OLE_LINK8\"></a></p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">Version History</text>"
+        },
+        {
+            "type": "header",
+            "content": "DN：PT9L-FXJH01 V1.0                                      Risk Management Plan"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">Contents</text>"
+        },
+        {
+            "type": "index",
+            "content": [
+                {
+                    "type": "text",
+                    "content": "1. Arrangement of Risk Management Activities\t2",
+                    "anchor": "_Toc1029"
+                },
+                {
+                    "type": "text",
+                    "content": "2. Risk Management Group\t4",
+                    "anchor": "_Toc12905"
+                },
+                {
+                    "type": "text",
+                    "content": "3. Risk Acceptance Criteria\t5",
+                    "anchor": "_Toc29305"
+                },
+                {
+                    "type": "index",
+                    "content": [
+                        {
+                            "type": "text",
+                            "content": "3.1 Severity of A Hazard\t5",
+                            "anchor": "_Toc25220"
+                        },
+                        {
+                            "type": "text",
+                            "content": "3.2 Probability of A Hazard\t5",
+                            "anchor": "_Toc3036"
+                        },
+                        {
+                            "type": "text",
+                            "content": "3.3 Risk Acceptance Criteria\t5",
+                            "anchor": "_Toc17625"
+                        }
+                    ],
+                    "ilevel": 1
+                },
+                {
+                    "type": "text",
+                    "content": "4. Residual Risk Acceptance Criteria\t6",
+                    "anchor": "_Toc22151"
+                },
+                {
+                    "type": "index",
+                    "content": [
+                        {
+                            "type": "text",
+                            "content": "4.1 For Single Residual Risk\t6",
+                            "anchor": "_Toc6267"
+                        },
+                        {
+                            "type": "text",
+                            "content": "4.2 For Overall Residual Risk\t6",
+                            "anchor": "_Toc9946"
+                        }
+                    ],
+                    "ilevel": 1
+                },
+                {
+                    "type": "text",
+                    "content": "5. Risk Control Measures Verification Criteria\t7",
+                    "anchor": "_Toc4989"
+                }
+            ],
+            "ilevel": 0
+        },
+        {
+            "type": "header",
+            "content": "DN：PT9L-FXJH01 V1.0                                      Risk Management Plan"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "level": 1,
+            "is_numbered_style": true,
+            "content": "<text style=\"bold\">Arrangement of Risk Management Activities</text>",
+            "anchor": "_Toc1029"
+        },
+        {
+            "type": "text",
+            "content": "The risk management process will be conducted in accordance with standard ISO 14971:2019, EN ISO 14971:2019 and EN ISO 14971:2019/A11:2021. The risk management plan for the whole life-cycle of the medical device as shown in the table below:"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p><strong>Phase</strong></p></td><td><p><strong>Main Job Descriptions</strong></p></td><td><p><strong>Responsibilities and Authorities</strong></p></td><td><p><strong>Requirements on Risk Management Activity  Review</strong></p></td><td><p><strong>Output Document</strong></p></td></tr><tr><td><p><strong>Initial development </strong></p></td><td><ol><li>Document intended use and reasonably foreseeable misuse of the medical device</li><li>Identify characteristics related to safety; </li><li>Identify hazards and hazardous situations;</li><li>Estimate the risk(s) of each hazardous situation; </li><li>Risk evaluation.</li><li>Draft the risk control measures plan.</li></ol></td><td><ol><li>Project manager shall organize the implement of activities in this phase;</li><li>Members of risk management shall be in charge of the job content review.</li></ol></td><td><p>Project manager shall daft the “risk assessment report ” and organize the review of “risk assessment report”. </p></td><td><ol><li>Report of risk assessment  </li></ol></td></tr><tr><td><p><strong>Prototype phase</strong></p><p><strong>(Design verification)</strong></p></td><td><ol><li>Verify the implementation and effectiveness of risk control measures plan; </li><li>Assess the residual risk. </li><li>Make benefit-risk analysis</li><li>Evaluate whether there is any risks arising from risk control measures</li><li>Review completeness of risk control</li></ol></td><td><ol><li>Project manager shall organize the implement of activities in this phase;</li><li>Members of risk management shall be in charge of job content review. </li></ol></td><td><p>Project manager shall draft “report of risk control measures verification and residual risk assessment”, and organize review of the report;</p><p>Members of risk management shall review the risk management activities in the former phase.</p></td><td><ol><li>Report of verification of risk control measure and residual risk evaluation</li></ol></td></tr><tr><td><p><strong>Design validation </strong></p></td><td><ol><li>Overall residual risk evaluation</li><li>Form the risk management report.</li></ol></td><td><ol><li>Project manager shall organize the implement of activities in this phase; </li><li>Members of risk management shall be in charge of job content review </li></ol></td><td><p>Members of risk management shall review the risk management activities in former phase.</p></td><td><ol><li>Report  of risk management </li></ol></td></tr><tr><td><p><strong>Design change</strong></p></td><td><ol><li>Identify hazards and hazardous situations related to design change.</li><li>Evaluate risk(s) in hazardous situation which result from design change. </li><li>Assess risk(s) in design change. </li><li>Draft the plan of risk control measures for design change. </li><li>Verify the implement of plan on risk control measures after design change. </li><li>Assess residual risk, benefit-risk analysis and any new risks after design change. </li><li>Overall residual risk evaluation after design change</li></ol></td><td><ol><li>Project manager shall organize the implement of activities in this phase. </li><li>Members of risk management shall be in charge of job content review </li></ol></td><td><p>Project manager shall draft “report of risk management in design change”, and organize the review of this report.</p></td><td><ol><li>Record of risk evaluation (when there is no new risk)</li><li>Report of verification of risk control measure and residual risk evaluation in design change</li><li>Report of Risk Management in design change</li></ol></td></tr><tr><td><p><strong>Production and post-</strong></p><p><strong>production activities</strong></p></td><td><ol><li>Collect information concerning production and post-production; </li><li>Members of risk management assess if there are hazards or hazardous situation that not be identified before, and if the risk(s) result from hazardous situation become not acceptable; whether the overall residual risk is still acceptable （the criterion see section 4.2）in relation to the benefits of the intended use; and whether the generally acknowledged state of the art has changed</li><li>Members of risk management analyze and assess the risk(s) and make risk control plan and actions to the medical devices if necessary;</li><li>Track the implement of risk control measures. </li></ol></td><td><p>Refer to section 4.11.1 for “Collection of production and post-production activities” in Risk Management Control Regulation (QI-7.3-22)</p></td><td><p>Related person and department shall organize members of risk management to start managing the risk after receiving information. </p></td><td><p>Report of Post-market Risk Management </p></td></tr></table>"
+        },
+        {
+            "type": "title",
+            "level": 1,
+            "is_numbered_style": true,
+            "content": "<text style=\"bold\">Risk Management Group</text>",
+            "anchor": "_Toc12905"
+        },
+        {
+            "type": "text",
+            "content": "The specific personnel may vary from different projects, but the risk assessment team generally includes the following members:"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p><strong>Member</strong></p></td><td><p><strong>Specialty</strong></p></td></tr><tr><td><p>Chief engineer</p></td><td><p>Mechano-electronic related specialities, more than three years work experience. </p></td></tr><tr><td><p>Product manager</p></td><td><p>Mechano-electronic related specialities, more than three years design experience. </p></td></tr><tr><td><p>Project manager</p></td><td><p>Mechano-electronic related specialities, more than one year design experience. </p></td></tr><tr><td><p>Hardware design <a id=\"OLE_LINK4\"></a>director</p></td><td><p>Mechano-electronic related specialities, more than one year design experience. </p></td></tr><tr><td><p>Software design <a id=\"OLE_LINK6\"></a>director</p></td><td><p>Mechano-electronic related specialities, more than one year design experience. </p></td></tr><tr><td><p>Mechanical design director</p></td><td><p>Mechano-electronic related specialities, more than one year design experience. </p></td></tr><tr><td><p><a id=\"OLE_LINK2\"></a>Hardware design personnel</p></td><td><p>Mechano-electronic related specialities, more than one year design experience </p></td></tr><tr><td><p><a id=\"OLE_LINK3\"></a>Software design personnel</p></td><td><p><a id=\"OLE_LINK7\"></a>Mechano-electronic related specialities, more than one year design experience. </p></td></tr><tr><td><p><a id=\"OLE_LINK5\"></a>Mechanical design personnel</p></td><td><p>Mechano-electronic related specialities, more than one year design experience. </p></td></tr><tr><td><p>Process design personnel</p></td><td><p>Electrics or mechanics or other related engineering specialities, more than one year design experience. </p></td></tr><tr><td><p>Quality management personnel  </p></td><td><p>Electrics or mechanics or other related engineering specialities, more than one year design experience.</p></td></tr><tr><td><p>Sales personnel </p></td><td><p>No special requirement. Familiar with handling of customer complaints process</p></td></tr><tr><td><p>Certification personnel </p></td><td><p>Biomedicine or mechano-electronic or other related specialities, more than two years work experience. </p></td></tr><tr><td><p>Personnel with medical background </p></td><td><p>Biology or clinical medicine or other medical related spcialities, more than three years clinical experience. </p></td></tr></table>"
+        },
+        {
+            "type": "title",
+            "level": 1,
+            "is_numbered_style": true,
+            "content": "<text style=\"bold\">Risk Acceptance Criteria</text>",
+            "anchor": "_Toc29305"
+        },
+        {
+            "type": "title",
+            "level": 2,
+            "is_numbered_style": false,
+            "content": "<text style=\"bold\">3.1 Severity of A Hazard</text>",
+            "anchor": "_Toc25220"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td colspan=\"3\"><p><strong>Severity Classification</strong></p></td></tr><tr><td><p><strong>Common terms</strong></p></td><td><p><strong>Class S</strong></p></td><td><p><strong>Possible description</strong></p></td></tr><tr><td><p>Catastrophic</p></td><td><p>5</p></td><td><p>Result in patient death</p></td></tr><tr><td><p>Critical</p></td><td><p>4</p></td><td><p>Result in permanent impairment or life-threatening injury</p></td></tr><tr><td><p>Serious</p></td><td><p>3</p></td><td><p>Result in injury or impairment requiring  professional medical intervention</p></td></tr><tr><td><p>Minor</p></td><td><p>2</p></td><td><p>Result in temporary injury or impairment not requiring professional medical intervention</p></td></tr><tr><td><p>Negligible</p></td><td><p>1</p></td><td><p>Inconvenience or temporary discomfort</p></td></tr></table>"
+        },
+        {
+            "type": "title",
+            "level": 2,
+            "is_numbered_style": false,
+            "content": "<text style=\"bold\">3.2 Probability of A Hazard</text>",
+            "anchor": "_Toc3036"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td colspan=\"3\"><p><strong>Semiquantitative</strong> <strong>Probability Classification</strong></p></td></tr><tr><td><p><strong>Common terms</strong></p></td><td><p><strong>Class P</strong></p></td><td><p><strong>Probability range</strong></p></td></tr><tr><td><p>Frequent</p></td><td><p>6</p></td><td><p>≥10<sup>-3</sup></p></td></tr><tr><td><p>Probable</p></td><td><p>5</p></td><td><p>&lt;10<sup>-3 </sup>≥10<sup>-4</sup></p></td></tr><tr><td><p>Occasional</p></td><td><p>4</p></td><td><p>&lt;10<sup>-4 </sup>≥10<sup>-5</sup></p></td></tr><tr><td><p>Remote</p></td><td><p>3</p></td><td><p>&lt;10<sup>-5 </sup>≥10<sup>-6</sup></p></td></tr><tr><td><p>Improbable</p></td><td><p>2</p></td><td><p>&lt;10<sup>-6</sup>≥10<sup>-8</sup></p></td></tr><tr><td><p>Few</p></td><td><p>1</p></td><td><p>&lt;10<sup>-8</sup></p></td></tr></table>"
+        },
+        {
+            "type": "title",
+            "level": 2,
+            "is_numbered_style": false,
+            "content": "<text style=\"bold\">3.3 Risk Acceptance Criteria </text>",
+            "anchor": "_Toc17625"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td></td><td><p>1 Negligible  </p></td><td><p>2 Minor       </p></td><td><p>3 Serious    </p></td><td><p>4 Critical    </p></td><td><p>5 Catastrophic</p></td></tr><tr><td><p>6 Frequent</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>5 Probable</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>4 Occasional</p></td><td></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>3 Remote</p></td><td></td><td></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>2 Improbable</p></td><td></td><td></td><td></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>1 Few</p></td><td></td><td></td><td></td><td><p> </p></td><td><p> </p></td></tr></table>"
+        },
+        {
+            "type": "image",
+            "content": "data:image/png;base64,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"
+        },
+        {
+            "type": "image",
+            "content": "data:image/png;base64,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"
+        },
+        {
+            "type": "text",
+            "content": "Not acceptable: Unacceptable risk. Risk control measures are required."
+        },
+        {
+            "type": "text",
+            "content": "Acceptable: Insignificant/negligible risk. No risk control measures are required."
+        },
+        {
+            "type": "text",
+            "content": "The manufacturer shall reduce the risk as far as possible,so we use one or more of the following risk control options in the priority order listed:"
+        },
+        {
+            "type": "text",
+            "content": "(a) eliminate or reduce risks as far as possible through safe design and manufacture;"
+        },
+        {
+            "type": "text",
+            "content": "(b) where appropriate, take adequate protection measures, including alarms if necessary, in relation to risks that cannot be eliminated; and"
+        },
+        {
+            "type": "text",
+            "content": "(c) provide information for safety (warnings/precautions/contra-indications) and, where appropriate, training to users."
+        },
+        {
+            "type": "title",
+            "level": 1,
+            "is_numbered_style": true,
+            "content": "<text style=\"bold\">Residual Risk Acceptance Criteria</text>",
+            "anchor": "_Toc22151"
+        },
+        {
+            "type": "title",
+            "level": 2,
+            "is_numbered_style": false,
+            "content": "<text style=\"bold\">4.1 For Single Residual Risk</text>",
+            "anchor": "_Toc6267"
+        },
+        {
+            "type": "text",
+            "content": "When a risk falls in the “Not acceptable” area, the risk control measures must be taken. After taking measures, the risk became a residual risk, and if this residual risk still falls in the “Not acceptable” area by the Criteria in “3.3 Risk Acceptance Criteria”, the risk-benefit analysis must be taken. And this residual risk will be acceptable when there are reasonable reasons to support the benefits outweigh the risks."
+        },
+        {
+            "type": "title",
+            "level": 2,
+            "is_numbered_style": false,
+            "content": "<text style=\"bold\">4.2 For Overall Residual Risk</text>",
+            "anchor": "_Toc9946"
+        },
+        {
+            "type": "list",
+            "attribute": "ordered",
+            "content": [
+                {
+                    "type": "text",
+                    "content": "The benefits related to the intended use of the medical device are weighed against the overall residual risk. Benefits can be described by their magnitude or extent, the probability of experiencing the benefit within the intended patient populations, and the duration and frequency of the benefit. The evaluation may take into account knowledge of the intended medical indication, the generally acknowledged state of the art in technology and medicine, and the availability of alternative medical devices or treatments."
+                },
+                {
+                    "type": "text",
+                    "content": "Visual representations of the residual risks can be useful. Each individual residual risk can be shown in a risk matrix as shown in section 3.3. If more than 1/2 of the risks are in the higher severity regions or in the higher probability regions of the risk matrix, or clusters of risks are borderline, then the distribution of the risks can indicate that the overall residual risk might not be acceptable, even if each individual risk has been judged acceptable."
+                },
+                {
+                    "type": "text",
+                    "content": "Overall risk-benefit analysis:when the benefits outweigh the overall residual risks,the overall residual risks are acceptable."
+                },
+                {
+                    "type": "text",
+                    "content": "If the overall residual risks are acceptable after evaluation, then the significant residual risks shall be notified to the users and involve the information in the accompanying documents."
+                }
+            ],
+            "ilevel": 0
+        },
+        {
+            "type": "text",
+            "content": "If the overall residual risks are not acceptable after evaluation, then additional risk control measures shall be taken, or the modification to the medical devices may be required."
+        },
+        {
+            "type": "title",
+            "level": 1,
+            "is_numbered_style": true,
+            "content": "<text style=\"bold\">Risk Control Measures Verification Criteria</text>",
+            "anchor": "_Toc4989"
+        },
+        {
+            "type": "text",
+            "content": "We verify the risk control measures of the initial risks and the residual risks in accordance with the document Verification in <text style=\"italic\">Design and Development Control Procedure</text>."
+        },
+        {
+            "type": "header",
+            "content": "DN：PT9L-FXJH01 V1.0                                      Risk Management Plan"
+        }
+    ]
+]

@@ -1,0 +1,121 @@
+[
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.009,
+                0.012,
+                0.987,
+                0.035
+            ],
+            "angle": 0,
+            "content": "A B C D E F G H"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.012,
+                0.058,
+                0.023,
+                0.786
+            ],
+            "angle": 0,
+            "content": "1\n2\n3\n4\n5\n6\n7\n8"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.038,
+                0.043,
+                0.114,
+                0.089
+            ],
+            "angle": 0,
+            "content": "andon",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.902,
+                0.043,
+                0.969,
+                0.066
+            ],
+            "angle": 0,
+            "content": "⑧ 尺寸序号",
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.366,
+                0.131,
+                0.692,
+                0.731
+            ],
+            "angle": 0,
+            "content": "157mm\n33mm 57mm",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.04,
+                0.713,
+                0.217,
+                0.742
+            ],
+            "angle": 0,
+            "content": "本件要求通过RoHS测试",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.041,
+                0.751,
+                0.292,
+                0.783
+            ],
+            "angle": 0,
+            "content": "说明：材质为：350g白卡纸，覆哑膜",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.041,
+                0.786,
+                0.271,
+                0.812
+            ],
+            "angle": 0,
+            "content": "尺寸:57*33*157mm，公差:+1-1",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.041,
+                0.817,
+                0.165,
+                0.843
+            ],
+            "angle": 0,
+            "content": "印刷颜色: 无印刷",
+            "merge_prev": false
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.011,
+                0.863,
+                0.986,
+                0.988
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>3</td><td></td><td></td><td>K04050000271</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">纸托</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-F04</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>"
+        }
+    ]
+]

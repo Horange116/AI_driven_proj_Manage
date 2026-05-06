@@ -1,0 +1,305 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "andon "
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                42,
+                84,
+                73
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1825f01e731842c5208b07394b5cce5f618b7a55b651b0cc94e5f239f53c553b.jpg"
+                },
+                "content": "C\nB\n2.5±0.05\n2.5±0.05\nφ1.7\nA\n22.2±0.05\n19\n21.5\n21.2\n26.7\nφ1.7\n4-φ1.7\n2-φ1.5\n38.7\n34.9\n7.5\nB\nC",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                123,
+                50,
+                558,
+                391
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/886b9e397606d67a47d02cbf96cd78f2acbd2349dab8fac4f04e945f5d8ea0cc.jpg"
+                },
+                "content": "D\n1:1",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SECTION B-B "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                630,
+                132,
+                696,
+                299
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/03a693155885abfbd680a655adf39eee41fc38bdfa08c15d6f92a622ca841ec5.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SECTION C-C "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                774,
+                122,
+                822,
+                273
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2937cd5d05722163bfff9fa6bce13ea6cc3b549635c3e59cc69bf2f6c3b0a13c.jpg"
+                },
+                "content": "SECTION A-A\n11.5±0.05\n30±0.05\n34.9±0.05\n11.2\n4.4±0.05\n4.4±0.05\n2.1\n3.2\n4.4±0.05\n10\n③\n① 130.1±0.1\n②\n34.1±0.05\n5\n26.5\n19\nφ0.8\n1.5\nφ13.9±0.05\nφ9.9±0.05",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                124,
+                450,
+                577,
+                853
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/a5458f5727e267fd43107fc374c97becdedb394127768215541fa320f1c3e3d7.jpg"
+                },
+                "content": "1.2±0.03\n0.8±0.03",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "DETAIL D\nSCALE 5:1 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                688,
+                315,
+                806,
+                490
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/29a86610d10e71ac13503da1d218350beca5a2ae0fde891580e99a39ba874ba5.jpg"
+                },
+                "content": "Technical line drawing of two elongated electronic components with internal circuitry (no text or symbols)",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "产品技术要求："
+                    }
+                ]
+            },
+            "sub_type": "natural_image",
+            "bbox": [
+                806,
+                465,
+                957,
+                726
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. 带编号为重要尺寸, 需要IQC测量;"
+                    }
+                ]
+            },
+            "bbox": [
+                701,
+                729,
+                810,
+                746
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. 材质为ABS（白色）；产品外观良好、无拉伤，变形，批锋，熔接痕，气纹，顶白，缺胶，缩水等不良现象；"
+                    }
+                ]
+            },
+            "bbox": [
+                701,
+                747,
+                891,
+                776
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. 须试装产品，并能顺利装入产品。未标注尺寸以样板为准；品质部检验结构时，请以结构签板和组装（实配）为准"
+                    }
+                ]
+            },
+            "bbox": [
+                701,
+                778,
+                887,
+                810
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. 产品符合ROHS 2.0 "
+                    }
+                ]
+            },
+            "bbox": [
+                702,
+                811,
+                766,
+                825
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/289515f3fcc4c2588fffe04033ea73f84b6bdf40a0a25bb00185f13e49e2e9ce.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">DTM\\LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt; 5</td><td>±0.03</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 5~15</td><td>±0.05</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 15~50</td><td>±0.05</td><td>±0.1</td><td>±0.2</td></tr><tr><td>&gt; 50~100</td><td>±0.08</td><td>±0.2</td><td>±0.3</td></tr><tr><td>&gt;100</td><td>±0.1%</td><td>±0.2%</td><td>±0.3%</td></tr><tr><td>ANGULAR</td><td>±0.1°</td><td>±0.5°</td><td>±0.5°</td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\">B</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                904,
+                751,
+                986,
+                870
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/cc19436d8ec474a15f5dcc702ed4d8ba4e953b9132f309ec0643396475855260.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>6</td><td></td><td></td><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>ABS</td><td>Model NO.</td><td colspan=\"2\">T-Z1</td></tr><tr><td>5</td><td></td><td></td><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">上盖</td></tr><tr><td>4</td><td></td><td></td><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">T-Z1-P01</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V3.0</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                9,
+                870,
+                988,
+                984
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "1\n2\n3\n4\n5\n6\n7\n8 "
+                    }
+                ]
+            },
+            "bbox": [
+                9,
+                58,
+                21,
+                815
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "A | B | C | D | E | F | G | H "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                16,
+                931,
+                33
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "☒ 尺寸序号"
+                    }
+                ]
+            },
+            "bbox": [
+                945,
+                38,
+                982,
+                53
+            ]
+        }
+    ]
+]

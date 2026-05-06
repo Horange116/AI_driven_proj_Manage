@@ -1,0 +1,119 @@
+[
+    {
+        "type": "text",
+        "text": "andon ",
+        "bbox": [
+            37,
+            42,
+            113,
+            88
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "⑧ 尺寸序号",
+        "bbox": [
+            901,
+            42,
+            968,
+            65
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/c47c82f5e35628147dcbb577656e0164d032f2ceadb1a7e609648e176e49e3aa.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "157mm\n33mm 57mm",
+        "sub_type": "text_image",
+        "bbox": [
+            365,
+            130,
+            691,
+            730
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本件要求通过RoHS测试",
+        "bbox": [
+            39,
+            712,
+            216,
+            741
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "说明：材质为：350g白卡纸，覆哑膜",
+        "bbox": [
+            40,
+            750,
+            291,
+            782
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "尺寸:57\\*33\\*157mm，公差:+1-1 ",
+        "bbox": [
+            40,
+            785,
+            270,
+            811
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "印刷颜色: 无印刷",
+        "bbox": [
+            40,
+            816,
+            164,
+            842
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/39a85ca07fd8fdb9cecbf0674e251a81a813e6007407dc600ae84e05a7e9ac5d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>3</td><td></td><td></td><td>K04050000271</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">纸托</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-F04</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+        "bbox": [
+            10,
+            862,
+            985,
+            987
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "A B C D E F G H ",
+        "bbox": [
+            8,
+            11,
+            986,
+            34
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "1\n2\n3\n4\n5\n6\n7\n8 ",
+        "bbox": [
+            11,
+            57,
+            22,
+            785
+        ],
+        "page_idx": 0
+    }
+]

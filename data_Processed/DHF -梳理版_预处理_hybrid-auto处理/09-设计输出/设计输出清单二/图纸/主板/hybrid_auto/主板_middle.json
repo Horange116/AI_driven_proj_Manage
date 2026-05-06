@@ -1,0 +1,451 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        0,
+                        0,
+                        77,
+                        840
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                0,
+                                77,
+                                840
+                            ],
+                            "type": "table_body",
+                            "angle": 270,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        77,
+                                        840
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                0,
+                                                77,
+                                                840
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>坏品树脂板</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>2</td><td></td><td>Design</td><td></td><td>X</td><td></td><td>Surf dispose</td><td></td><td>PCB</td></tr><tr><td>1</td><td></td><td>Chuckup</td><td></td><td>XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td></tr><tr><td>No.</td><td>更改记录</td><td>Approve</td><td></td><td></td><td>X°</td><td></td><td>Unit&#x27;s</td><td>mm</td></tr></table>",
+                                            "image_path": "4b0dae1954c59d480a4d74c3c493229bfb309fb1ddd50bb59d333dc8a8921ea0.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        97,
+                        245,
+                        571,
+                        661
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                97,
+                                245,
+                                571,
+                                661
+                            ],
+                            "type": "image_body",
+                            "angle": 270,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        245,
+                                        571,
+                                        661
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                97,
+                                                245,
+                                                571,
+                                                661
+                                            ],
+                                            "type": "image",
+                                            "content": "24.4\n12.2\n6.85\n1.6\n1.6\n8.5\n14\n20.15\n27.6\n34.4\n40\n43.2\n43.4\n84.7\n2-R2.4\nφ2.2\nφ2.6\n0.7\n4.15\n6.5\n2.7\n1.6\n2-φ2.2\n2-φ1.6\n2-φ0.8\n8.95\n1.1\n2-φ1\n12.2\nφ0.8\n2.6\n3.2\n9.2\n16.2\n18.2\n24.5\n5.7\n13.9\nφ0.8",
+                                            "image_path": "c5d7f45387c1fb0cebbcb8ac428f4e6948ce88e7d65aaddfe7bcce32c1417a5c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        77,
+                        735,
+                        182,
+                        840
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                77,
+                                735,
+                                182,
+                                840
+                            ],
+                            "type": "table_body",
+                            "angle": 270,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        735,
+                                        182,
+                                        840
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                77,
+                                                735,
+                                                182,
+                                                840
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>DIM</td><td colspan=\"3\"></td></tr><tr><td>&lt; 5</td><td>≠003</td><td>≠01</td><td>≠015</td></tr><tr><td>&gt; 5~50</td><td>≠005</td><td>≠01</td><td>≠02</td></tr><tr><td>&lt; 50~100</td><td>≠008</td><td>≠02</td><td>≠03</td></tr><tr><td>&gt;100</td><td>≠0.1%</td><td>≠0.2%</td><td>≠0.3%</td></tr><tr><td>ANSULFAR</td><td>≠0.10</td><td>≠0.5</td><td>≠0.5</td></tr><tr><td>SELECT LEVEL</td><td colspan=\"3\"></td></tr></table>",
+                                            "image_path": "c931a09d1ebddd00fa07b63828a17859d6b69643b1631ea6df960f821e876687.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                563,
+                                788,
+                                574,
+                                832
+                            ],
+                            "type": "table_caption",
+                            "angle": 270,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        788,
+                                        574,
+                                        832
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                563,
+                                                788,
+                                                574,
+                                                832
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "⑧"
+                                        },
+                                        {
+                                            "bbox": [
+                                                563,
+                                                788,
+                                                574,
+                                                832
+                                            ],
+                                            "type": "text",
+                                            "content": " 尺寸序号"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        77,
+                        0,
+                        594,
+                        11
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                77,
+                                0,
+                                594,
+                                11
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        0,
+                                        594,
+                                        11
+                                    ],
+                                    "type": "text",
+                                    "content": "∞ ∨ σ 51 4 ω n 1"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        577,
+                        47,
+                        590,
+                        835
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                577,
+                                47,
+                                590,
+                                835
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        577,
+                                        47,
+                                        590,
+                                        835
+                                    ],
+                                    "type": "text",
+                                    "content": "A | B | C | D | E | F | G | H"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        0,
+                        0,
+                        77,
+                        840
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                0,
+                                77,
+                                840
+                            ],
+                            "type": "table_body",
+                            "angle": 270,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        77,
+                                        840
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                0,
+                                                77,
+                                                840
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>坏品树脂板</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>2</td><td></td><td>Design</td><td></td><td>X</td><td></td><td>Surf dispose</td><td></td><td>PCB</td></tr><tr><td>1</td><td></td><td>Chuckup</td><td></td><td>XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td></tr><tr><td>No.</td><td>更改记录</td><td>Approve</td><td></td><td></td><td>X°</td><td></td><td>Unit&#x27;s</td><td>mm</td></tr></table>",
+                                            "image_path": "4b0dae1954c59d480a4d74c3c493229bfb309fb1ddd50bb59d333dc8a8921ea0.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        97,
+                        245,
+                        571,
+                        661
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                97,
+                                245,
+                                571,
+                                661
+                            ],
+                            "type": "image_body",
+                            "angle": 270,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        245,
+                                        571,
+                                        661
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                97,
+                                                245,
+                                                571,
+                                                661
+                                            ],
+                                            "type": "image",
+                                            "content": "24.4\n12.2\n6.85\n1.6\n1.6\n8.5\n14\n20.15\n27.6\n34.4\n40\n43.2\n43.4\n84.7\n2-R2.4\nφ2.2\nφ2.6\n0.7\n4.15\n6.5\n2.7\n1.6\n2-φ2.2\n2-φ1.6\n2-φ0.8\n8.95\n1.1\n2-φ1\n12.2\nφ0.8\n2.6\n3.2\n9.2\n16.2\n18.2\n24.5\n5.7\n13.9\nφ0.8",
+                                            "image_path": "c5d7f45387c1fb0cebbcb8ac428f4e6948ce88e7d65aaddfe7bcce32c1417a5c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        77,
+                        735,
+                        182,
+                        840
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                77,
+                                735,
+                                182,
+                                840
+                            ],
+                            "type": "table_body",
+                            "angle": 270,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        735,
+                                        182,
+                                        840
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                77,
+                                                735,
+                                                182,
+                                                840
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>DIM</td><td colspan=\"3\"></td></tr><tr><td>&lt; 5</td><td>≠003</td><td>≠01</td><td>≠015</td></tr><tr><td>&gt; 5~50</td><td>≠005</td><td>≠01</td><td>≠02</td></tr><tr><td>&lt; 50~100</td><td>≠008</td><td>≠02</td><td>≠03</td></tr><tr><td>&gt;100</td><td>≠0.1%</td><td>≠0.2%</td><td>≠0.3%</td></tr><tr><td>ANSULFAR</td><td>≠0.10</td><td>≠0.5</td><td>≠0.5</td></tr><tr><td>SELECT LEVEL</td><td colspan=\"3\"></td></tr></table>",
+                                            "image_path": "c931a09d1ebddd00fa07b63828a17859d6b69643b1631ea6df960f821e876687.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                563,
+                                788,
+                                574,
+                                832
+                            ],
+                            "type": "table_caption",
+                            "angle": 270,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        563,
+                                        788,
+                                        574,
+                                        832
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                563,
+                                                788,
+                                                574,
+                                                832
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "⑧"
+                                        },
+                                        {
+                                            "bbox": [
+                                                563,
+                                                788,
+                                                574,
+                                                832
+                                            ],
+                                            "type": "text",
+                                            "content": " 尺寸序号"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 3
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "3.1.6"
+}

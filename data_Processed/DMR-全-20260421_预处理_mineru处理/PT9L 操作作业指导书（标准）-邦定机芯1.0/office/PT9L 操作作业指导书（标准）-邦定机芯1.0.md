@@ -1,0 +1,1073 @@
+<table>
+  <tr>
+    <th colspan="9"><p>受控表号：KQR-7.5.1-03-37/A0<br><img src="images/53ef5612b04b39a965b8d3d7593ff6fe35d2af66270715009a051e3cfc7d145d.jpg"/><br><img src="images/53ef5612b04b39a965b8d3d7593ff6fe35d2af66270715009a051e3cfc7d145d.jpg"/><br><img src="images/53ef5612b04b39a965b8d3d7593ff6fe35d2af66270715009a051e3cfc7d145d.jpg"/></p></th>
+  </tr>
+  <tr>
+    <td colspan="9"><p>PT9L操作作业指导书（标准）</p></td>
+  </tr>
+  <tr>
+    <td colspan="9"><p>编号：WI-PT9L-AL01</p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>Progress Name</p></td>
+    <td><p>Ver.No.</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p>页码</p></td>
+    <td colspan="2"><p>工序名称</p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>邦定
+机芯</p></td>
+    <td><p>1/2</p></td>
+    <td colspan="2"><p>喷码</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p>操作</p></td>
+    <td><p>设备工具名称</p></td>
+    <td><p>人员装备要求</p></td>
+    <td><p>要求</p></td>
+  </tr>
+  <tr>
+    <td rowspan="37"><p>基板</p></td>
+    <td rowspan="27"><p>喷码设备/按键
+识别</p></td>
+    <td rowspan="27" colspan="3"><p>         <br><img src="images/8532f532936619493e07ff5ea183b5b034c858c653f5d239b88718c887e9be7f.jpg"/></p></td>
+    <td rowspan="27"><p>接驳台/喷码机按键及功能识别：电源开关、传感器开关、轨道速度调节开关、轨道速度调节旋钮、轨道调节轮。</p></td>
+    <td rowspan="37"><p>接驳台
+编号：G007XXXXXX
+喷码机编号：
+A01GXXXXXX</p></td>
+    <td rowspan="37"><p>佩戴防静电手套或静电手腕带</p></td>
+    <td rowspan="27"><p>1.电源开关键：“Ⅰ”开启，“○”关闭；
+2.传感器开关：控制接驳台传感器开启/关闭；
+3.轨道速度调节开关：控制接驳台轨道速度调节开启/关闭；
+4.轨道速度调节旋钮：控制接驳台轨道速度的快慢（顺时针旋转：加快，逆时针旋转：减慢）；
+5.轨道调节轮：调节接驳台轨道位置；
+6.液晶触摸控制屏：调节喷码机各项参数使用。
+7.电源、高压、运行、故障LED指示灯：表示该指示灯亮起则说明当前喷码机状态。</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td rowspan="10"><p>传送
+（示意图）</p></td>
+    <td rowspan="10" colspan="3"><p></p></td>
+    <td rowspan="10"><p>基板通过接驳台轨道经过喷码机进行喷码（图1）.</p></td>
+    <td rowspan="10"><p>注：机器设置项目均有技术员设置，操作员不得调校接驳台参数，如有需要或发现异常应及时通知技术人员或上报上级领导处理。</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+![](images/aed7200ff3639f69a2c8ba790b31b0cea445d4c533a23e89d8a1ba048f5952a8.jpg)
+
+![](images/465aad1dac854d0da6d21b559715253a9515c9712857cff0d87de33298e1bb1b.jpg)
+
+![](images/9a7afd668dde9616de20b0e94bb619ba8083876c214e420e0fac70dae7007685.jpg)
+
+![](images/909e43f614e868390d6d9c0013c2ed9a729749b15565446d1653b1ebdc1ee33a.jpg)
+
+<table>
+  <tr>
+    <th colspan="9"><p>受控表号：KQR-7.5.1-03-37/A0<br><img src="images/53ef5612b04b39a965b8d3d7593ff6fe35d2af66270715009a051e3cfc7d145d.jpg"/><br><img src="images/53ef5612b04b39a965b8d3d7593ff6fe35d2af66270715009a051e3cfc7d145d.jpg"/><br><img src="images/53ef5612b04b39a965b8d3d7593ff6fe35d2af66270715009a051e3cfc7d145d.jpg"/></p></th>
+  </tr>
+  <tr>
+    <td colspan="9"><p>PT9L操作作业指导书（标准）</p></td>
+  </tr>
+  <tr>
+    <td colspan="9"><p>编号：WI-PT9L-AL01</p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>Progress Name</p></td>
+    <td><p>Ver.No.</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p>页码</p></td>
+    <td colspan="2"><p>工序名称</p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>邦定
+机芯</p></td>
+    <td><p>2/2</p></td>
+    <td colspan="2"><p>喷码</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p>操作</p></td>
+    <td><p>设备工具名称</p></td>
+    <td><p>人员装备要求</p></td>
+    <td><p>要求</p></td>
+  </tr>
+  <tr>
+    <td rowspan="9"><p>基板</p></td>
+    <td rowspan="9"><p>检查喷码
+（示意图）</p></td>
+    <td rowspan="9" colspan="3"><p></p></td>
+    <td rowspan="9"><p>检查喷印或镭雕位置是否正确（须避开贴片元器件和需要插件位置以及邦线区域），字迹应清晰、无误</p></td>
+    <td rowspan="9"><p></p></td>
+    <td rowspan="9"><p></p></td>
+    <td rowspan="9"><p>喷印内容必须与当前生产的相同制造令指导书上要求设置的一致，若有不良品将其挑出放入不合格品区。</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+![](images/27f8ead9e584c6e1c7e3a633dd1b5c6e5234888d79e30e7b29604c36611b2b6d.jpg)
+
+<table>
+  <tr>
+    <th colspan="9"><p>受控表号：KQR-7.5.1-03-37/A0<br><img src="images/53ef5612b04b39a965b8d3d7593ff6fe35d2af66270715009a051e3cfc7d145d.jpg"/><br><img src="images/53ef5612b04b39a965b8d3d7593ff6fe35d2af66270715009a051e3cfc7d145d.jpg"/><br><img src="images/53ef5612b04b39a965b8d3d7593ff6fe35d2af66270715009a051e3cfc7d145d.jpg"/></p></th>
+  </tr>
+  <tr>
+    <td colspan="9"><p>PT9L操作作业指导书（标准）</p></td>
+  </tr>
+  <tr>
+    <td colspan="9"><p>编号：WI-PT9L-AL02</p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>Progress Name</p></td>
+    <td><p>Ver.No.</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p>页码</p></td>
+    <td colspan="2"><p>工序名称</p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>邦定
+机芯</p></td>
+    <td><p>1/1</p></td>
+    <td colspan="2"><p>分板下盘</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p>操作</p></td>
+    <td><p>设备工具名称</p></td>
+    <td><p>人员装备要求</p></td>
+    <td><p>要求</p></td>
+  </tr>
+  <tr>
+    <td rowspan="41"><p>基板</p></td>
+    <td rowspan="32"><p>裂片
+（示意图）</p></td>
+    <td rowspan="32" colspan="3"><p><img src="images/f1cae7c7d38aa2682fe148ddcd47e9b02f344d03108d11f14d080d9a2f9151d9.png"/></p></td>
+    <td rowspan="32"><p>1、核对基板规格型号；
+
+2、左手握紧基板边缘，右手使用偏口钳沿基板边缘有效孔将基板板边依次分开（无基板板边的可不分）；
+
+3、双手握紧拆分板边后的基板将基板拆分至单块；
+</p></td>
+    <td rowspan="32"><p>偏口钳子
+编号：XXXXI-02QXXX或XXXXI-01XXXX 
+PCB分板工装
+编号：S0HHXXXXXX</p></td>
+    <td rowspan="41"><p>佩戴防静电手套或静电手腕带</p></td>
+    <td rowspan="32"><p>要求：
+
+1、使用偏口钳拆分基板板边时，不要碰到基板上的元器件；
+
+2、双手拆分基板时，均匀用力不要按压在基板元器件上；
+
+3、PCB边缘不可有毛刺；
+
+风险：分板不良；</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td rowspan="9"><p>装盘
+（示意图）</p></td>
+    <td rowspan="9" colspan="3"><p></p></td>
+    <td rowspan="9"><p>按图4所示将拆分后的基板依次摆放在铝盘内。</p></td>
+    <td rowspan="9"><p></p></td>
+    <td rowspan="9"><p>要求：
+1、基板的放置方向正确、无误。
+
+2、拆分后的基板边缘不得有多余角料、毛刺。
+风险：分板不良；</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+![](images/19ac76f6a215f66920d13fe2d989f3896d7e7d3023ebf9494e67350a28bd3fd9.png)
+
+![](images/e1c410a6d2b95ebebca9df313b330deaebb306814f8fb2e781cf456e5ffd004e.png)
+
+![](images/22b7bb13637eef4f2869e90494d43fabf0d5006782f027bc88bfc240d2d08e7f.png)
+
+<table>
+  <tr>
+    <th colspan="9"><p>受控表号：KQR-7.5.1-03-37/A0<br><img src="images/53ef5612b04b39a965b8d3d7593ff6fe35d2af66270715009a051e3cfc7d145d.jpg"/></p></th>
+    <th><p></p></th>
+    <th><p></p></th>
+  </tr>
+  <tr>
+    <td colspan="9"><p>PT9L操作作业指导书（标准）</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td colspan="9"><p>编号：WI-PT9L-AL03</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>   Progress Name</p></td>
+    <td><p>Ver.No</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p> 页码   </p></td>
+    <td colspan="2"><p>   工序名称  </p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>邦定机芯</p></td>
+    <td><p>1/2</p></td>
+    <td colspan="2"><p>邦定程序写入</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称及编码</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p>操作</p></td>
+    <td><p>设备工具名称</p></td>
+    <td><p>人员装备要求</p></td>
+    <td><p>要求</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td rowspan="23"><p>基板
+(物料信息见制造令BOM）</p></td>
+    <td rowspan="12"><p></p></td>
+    <td rowspan="12" colspan="3"><p><img src="images/8c2161c09b92617dfc8c84e5651e2d987ef550794630e5590c6091b9d5ef9c53.jpg"/></p></td>
+    <td rowspan="12"><p>将烧写器连接线与工装“ICP1”-“ICP10”连接好，烧写器供电</p></td>
+    <td rowspan="23"><p>PT9L烧写工装R084XXXXXX
+/Gang-Writer8-8烧写器RO5XXXXXXX</p></td>
+    <td rowspan="23"><p>佩戴静电手腕带</p></td>
+    <td rowspan="12"><p>要求：
+1、烧写器与工装连接正确；
+2、使用烧写器专用电源供电；
+3、烧写器电源指示灯POWER橙灯点亮。
+风险：程序写入失败</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p> </p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td rowspan="11"><p></p></td>
+    <td rowspan="11" colspan="3"><p><img src="images/ede04d7c8d39e366269e86a86cae349937f607a9ae8fec1823a2de40ed8e73c9.jpg"/></p></td>
+    <td rowspan="11"><p>按照图3基板的朝向将MCU面朝上，放置在工装上，注意工装上的定位柱须穿入基板的定位孔上，确认放置无误后把基板向下压使其卡紧在工装卡槽中；</p></td>
+    <td rowspan="11"><p>要求：
+
+基板放置平稳，无松动；
+
+风险：程序写入失败</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="10"><p>受控表号：KQR-7.5.1-03-37/A0<br><img src="images/53ef5612b04b39a965b8d3d7593ff6fe35d2af66270715009a051e3cfc7d145d.jpg"/><br><img src="images/53ef5612b04b39a965b8d3d7593ff6fe35d2af66270715009a051e3cfc7d145d.jpg"/></p></th>
+  </tr>
+  <tr>
+    <td colspan="10"><p>PT9L操作作业指导书（标准）</p></td>
+  </tr>
+  <tr>
+    <td colspan="3"><p>编号：WI-PT9L-AL03</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td colspan="2"><p></p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>Progress Name</p></td>
+    <td><p>Ver.No</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td colspan="2"><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p> 页码   </p></td>
+    <td colspan="2"><p>工序名称  </p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td colspan="2"><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>邦定机芯</p></td>
+    <td><p>2/2</p></td>
+    <td colspan="2"><p>邦定程序写入</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p>操作</p></td>
+    <td><p>设备工具名称</p></td>
+    <td><p>人员装备要求</p></td>
+    <td colspan="2"><p>要求</p></td>
+  </tr>
+  <tr>
+    <td rowspan="42"><p>基板</p></td>
+    <td rowspan="42"><p>程序烧写</p></td>
+    <td rowspan="42" colspan="3"><p><img src="images/e64e2d73b4671a1ea0f7be1fc3a63c0bc38d76dc5a1bbd9ba81ae22056a03226.jpg"/></p></td>
+    <td rowspan="42"><p>
+1、短按一下烧写器上的“烧写键”；
+
+2、取下基板。</p></td>
+    <td rowspan="42"><p>PT9L烧写工装R084XXXXXX<br>/Gang-Writer8-8烧写器RO5XXXXXXX</p></td>
+    <td rowspan="42"><p>佩戴静电手腕带</p></td>
+    <td rowspan="42" colspan="2"><p>要求：
+
+
+1、烧写器上对应机芯的烧录灯蓝色连续闪烁，烧录完成后蓝灯熄灭，黄色灯点亮表示烧写成功（黄色灯点亮数秒后熄灭不关注，黄色灯点亮即为烧写成功）。
+
+2、按下烧写工装卡扣，小心的取下写入过的基板，区分良品与不良品，按照统一方向整齐的摆放于铝盘内并放置到相应的标识区域。
+
+风险：程序写入失败
+</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+![](images/704e3da40122ca9934cc0d01520fd28f110ef43c76d2f389c62134878ae3cba5.jpg)
+
+<table>
+  <tr>
+    <th colspan="9"><p>受控表号：KQR-7.5.1-03-37/A0<br><img src="images/53ef5612b04b39a965b8d3d7593ff6fe35d2af66270715009a051e3cfc7d145d.jpg"/></p></th>
+  </tr>
+  <tr>
+    <td colspan="9"><p>PT9L操作作业指导书（标准）</p></td>
+  </tr>
+  <tr>
+    <td colspan="9"><p>编号：WI-PT9L-AL04</p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>   Progress Name</p></td>
+    <td><p>Ver.No</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p> 页码   </p></td>
+    <td colspan="2"><p>   工序名称  </p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>邦定机芯</p></td>
+    <td><p>1/2</p></td>
+    <td colspan="2"><p>邦定测试</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称及编码</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p>操作</p></td>
+    <td><p>设备工具名称</p></td>
+    <td><p>人员装备要求</p></td>
+    <td><p>要求</p></td>
+  </tr>
+  <tr>
+    <td rowspan="23"><p>基板</p></td>
+    <td rowspan="12"><p></p></td>
+    <td rowspan="12" colspan="3"><p></p></td>
+    <td rowspan="12"><p>将工装与电源连接好
+
+工装电压5.0±0.1V</p></td>
+    <td rowspan="23"><p>PT9L机芯测试工装S0N9XXXXXX/漏电流表B02ZXXXXXX或精密智能电源B02JXXXXXX/智能电流检测仪B080XXXXXX</p></td>
+    <td rowspan="23"><p>佩戴静电手腕带</p></td>
+    <td rowspan="12"><p>要求：
+
+正负极电源连接正确
+
+风险：性能不良</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td rowspan="11"><p></p></td>
+    <td rowspan="11" colspan="3"><p></p></td>
+    <td rowspan="11"><p>按照（图2）基板的朝向将MCU面朝上，放置在工装上，注意工装上的定位柱须穿入基板的定位孔上，确认放置无误后把基板向下压使其卡紧在工装卡槽中；
+2、关闭“电源开关”。</p></td>
+    <td rowspan="11"><p>要求：
+
+基板放置平稳，无松动；
+
+
+风险：性能不良</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+![](images/5960c04d8e0e48b39ea1cae147c9071173f29018691b0d2d7e07a260c7d000e7.jpg)
+
+![](images/98a72433271ed7306c20659b7343d54e5c2e6a28aedfc6338cf1aab1639e7297.jpg)
+
+<table>
+  <tr>
+    <th colspan="10"><p>受控表号：KQR-7.5.1-03-37/A0<br><img src="images/53ef5612b04b39a965b8d3d7593ff6fe35d2af66270715009a051e3cfc7d145d.jpg"/></p></th>
+  </tr>
+  <tr>
+    <td colspan="10"><p>PT9L操作作业指导书（标准）</p></td>
+  </tr>
+  <tr>
+    <td colspan="10"><p>编号：WI-PT9L-AL04</p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>   Progress Name</p></td>
+    <td><p>Ver.No</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td colspan="2"><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>机种/部件</p></td>
+    <td><p> 页码   </p></td>
+    <td colspan="2"><p>   工序名称  </p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td colspan="2"><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>邦定机芯</p></td>
+    <td><p>2/2</p></td>
+    <td colspan="2"><p>邦定测试</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称及编码</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p>操作</p></td>
+    <td><p>设备工具名称及校正要求</p></td>
+    <td><p>人员装备要求</p></td>
+    <td colspan="2"><p>要求</p></td>
+  </tr>
+  <tr>
+    <td rowspan="20"><p>基板</p></td>
+    <td rowspan="20"><p>机芯测试</p></td>
+    <td rowspan="20" colspan="3"><p><img src="images/856071386ba8e92ae3d76259b31a1c15fce366b9386b322e3586964beb8c548c.jpg"/></p></td>
+    <td rowspan="20"><p>1、打开“电源开关”；
+
+2、短按“B1”键；
+
+3、短按“B2”键；
+
+4、液晶屏熄灭，取下机芯。</p></td>
+    <td rowspan="20"><p>PT9L机芯测试工装S0N9XXXXXX/漏电流表B02ZXXXXXX或精密智能电源B02JXXXXXX/智能电流检测仪B080XXXXXX</p></td>
+    <td rowspan="20"><p>佩带静电手腕带</p></td>
+    <td rowspan="20" colspan="2"><p>要求：
+
+1.机芯上电后液晶屏显示CB1（图1），工装上的D2/D4/D6 LED灯点亮，液晶屏幕背光点亮，1秒后后显示“240918”软件版本号（图2图3），软件版本号必须与当前生产的相同制造令指导书一致。2秒后液晶屏熄灭（图4）与D2/D4/D6 LED灯熄灭。此时观察电流表工作休眠电流为：0.00mA ≤ I ≤ 0.050mA 即为合格。
+
+2.D2/D4/D6 LED灯点亮，LCD背光点亮且全显（图5）此时注意观察液晶显示的内容无缺段、重影、乱显、深浅不一致等现象。
+
+3.保存数据所有的LED和液晶屏熄灭，显示黑屏。测试完成后必须短按“B2”保存数据，此步骤不可省略，否则无法进行下个工序的测试。
+
+4.取下测试过的机芯，区分良品与不良品，按照统一方向整齐的摆放于铝盘内并放置到相应的标识区域。
+
+注意：
+不符合以上操作要求时均为不良品，须放入“待维修”区，由维修员处理，每测试1小时应记录《检测员工作日报》,维修员记录《修理日报表》。
+
+风险：测试不良品。</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+![](images/6331b67dd20c15fee9bfcd00d1d622654d92511af233180e1458cb4403370372.jpg)
+
+![](images/8e4fc219c2415cc11f126a6d56ea3dec1572a43cca6ef188c63de8993fca1e89.jpg)
+
+![](images/14402be59dc7eda3192526225115b3cc27983d180c22732069b7344560288748.jpg)
+
+![](images/ab62b725b74a5d802e9f81a1382013d47e338d0a3a4e72483c23a47ed7c41c29.jpg)
+
+<table>
+  <tr>
+    <th colspan="9"><p>受控表号：KQR-7.5.1-03-37/A0<br><img src="images/53ef5612b04b39a965b8d3d7593ff6fe35d2af66270715009a051e3cfc7d145d.jpg"/></p></th>
+  </tr>
+  <tr>
+    <td colspan="9"><p>PT9L操作作业指导书（标准）</p></td>
+  </tr>
+  <tr>
+    <td colspan="9"><p>编号：WI-PT9L-AL05</p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>Progress Name</p></td>
+    <td><p>Ver.No.</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>机种/部件</p></td>
+    <td><p>页码</p></td>
+    <td colspan="2"><p>工序名称</p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>邦定机芯</p></td>
+    <td><p>1/1</p></td>
+    <td colspan="2"><p>下盘包装</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p>操作</p></td>
+    <td><p>设备工具名称</p></td>
+    <td><p>人员装备要求</p></td>
+    <td><p>要求</p></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>基板</p></td>
+    <td rowspan="3"><p>包装
+（示意图）</p></td>
+    <td rowspan="3" colspan="3"><p></p></td>
+    <td rowspan="3"><p>机芯检验合格后，将其整齐的排列于相对应的周转盘内，然后放入“待验区”。</p></td>
+    <td rowspan="3"><p></p></td>
+    <td rowspan="3"><p>佩戴防静电手套或静电手腕带</p></td>
+    <td rowspan="3"><p>要求：
+
+1.周转盘内无脏污、异物。
+2.装周转盘时若无特殊要求同一种机型和制造令不允许有两个以上的零头。　　　
+3.包装数量须准确，且不得将不同机种和制造令的机芯混装。
+4.一个包装格内放一个机芯，不可出现机芯堆叠现象。
+
+风险：数量不准确</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+![](images/0cfcb0cb11f3c229d7626b7f78a7ac0ddc733b2e75d93ec72ae54143fed88436.png)

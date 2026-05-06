@@ -1,0 +1,46 @@
+{
+  "format": "docreview-pdf-intake-flow-v1",
+  "generated_at": "2026-05-01T05:34:48.242659+00:00",
+  "source": "C:\\Users\\Administrator\\Documents\\New project\\DHF -梳理版\\09-设计输出\\设计输出清单二\\图纸\\开关帽.pdf",
+  "source_sha256": "7529a3f382c9a182cc27f7336e0ab2184adaa60a0524020be0e7523e7be0aff3",
+  "run_root": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\开关帽-20260501T133331",
+  "probe_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\开关帽-20260501T133331\\probe.json",
+  "classification_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\开关帽-20260501T133331\\classification.json",
+  "classification_ms": 0,
+  "classification": {
+    "pdf_type": "drawing",
+    "route": "vlm",
+    "template": "drawing",
+    "reason": "Probe router detected many vector drawings/rectangles; visual layout is material.",
+    "must_preserve": [
+      "drawings",
+      "title blocks",
+      "layout objects"
+    ],
+    "risk": [
+      "probe cannot name the drawing type without visual supplement"
+    ],
+    "confidence": "medium",
+    "classifier": "probe",
+    "needs_vlm_supplement": true
+  },
+  "route_result": {
+    "route": "vlm",
+    "page_count": 1,
+    "processed_pages": 1,
+    "page_results": [
+      {
+        "page": 1,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\开关帽-20260501T133331\\pages\\page-001.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\开关帽-20260501T133331\\page-001-vlm.md",
+        "elapsed_ms": 76414,
+        "chars": 4895,
+        "required_sections_present": true
+      }
+    ],
+    "combined_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\开关帽-20260501T133331\\combined-visual-transcript.md",
+    "all_required_sections_present": true,
+    "elapsed_ms": 76541
+  },
+  "elapsed_ms": 76772
+}

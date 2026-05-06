@@ -1,0 +1,289 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "设计开发计划评审表",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>  产品型号：PT9L    项目编号：<strong>30000078</strong>   产品/项目名称：红外体温计</p></td></tr><tr><td><p><strong>参加评审人员：</strong><em>（在适用的选项前□内划√或</em>■<em>，横线上填写姓名，不适用选项空白）</em></p><p>□技术总监                  <a></a>■技术负责人     侯广伟       ■项目负责人       王迪龙     </p><p>□结构主管                  □硬件主管                  □软件主管                 </p><p>■结构工程师       刘钊       ■硬件工程师      万龙        ■软件工程师      王迪     </p><p>■认证工程师     王艳红       □物料工程师                  ■资源开发工程师   刘昊           </p><p>■客户代表       赵一平     □平面设计工程师                 ■导入工程师   孟兆君           </p></td></tr><tr><td><p><strong>人员职责:</strong></p><p>技术负责人:主要评估产品开发意图和目标、各阶段主要工作内容、质量要求和组织责任、输出文件、人员及资源配置、时间进度、组织和技术接口、输出文件管控等；</p><p>项目负责人:组织评审、解答提问及主要评估人员配置、时间进度、输出文件管控等；模具制造、模具样机 阶段工作内容；设计转换、试产阶段工作内容、组织和技术接口等；</p><p>结构工程师:主要评估各阶段主要工作内容、质量要求、输出文件、时间进度、组织和技术接口等；</p><p>硬件工程师:主要评估各阶段主要工作内容、质量要求、输出文件、时间进度、组织和技术接口等；</p><p>软件工程师:主要评估各阶段主要工作内容、质量要求、输出文件、时间进度、组织和技术接口等；</p><p>客户代表: 主要评估产品开发意图和目标、时间进度、组织和技术接口等；</p><p>认证工程师:主要评估510 (k)申请阶段的主要工作内容、输出文件、时间进度、组织和技术接口等；</p><p>评估CE申请阶段的主要工作内容、输出文件、时间进度、组织和技术接口等；</p><p>资源开发工程师:主要评估模具制造、模具样机阶段工作内容、时间进度、组织和技术接口等；</p><p>导入工程师:主要评估设计转换、试产阶段工作内容、质量要求、输出文件、组织和技术接口等。</p></td></tr><tr><td><p><strong>接收准则：</strong></p><p>1.产品的开发意图清晰、目标明确；                                                          </p><p>2.产品各开发阶段明确、适用性说明表达清楚；                                                </p><p>3.各阶段的主要工作内容表达完整；                                                          </p><p>4.各阶段的输出文件描述齐全；                                                              </p><p>5.各阶段的质量要求和组织责任要求明确；                                                    </p><p>6.人员及资源配置经济、合理；                                                              </p><p>7.各阶段组织和技术接口清晰明确；                                                          </p><p>8.时间进度的主要节点合理、可行；                                                          </p><p>9.各个输出文件的管理要求明确。                                                            </p></td></tr><tr><td><p><strong>评审时间：</strong>       年   月   日   时   分<strong>  评审地点：</strong>  二楼会议室　　　　　　　　　　　　  </p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "申请人",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "(结构工程师)",
+                                    "style": [
+                                        "italic"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "：",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "             ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "审核",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "(技术负责人)",
+                                    "style": [
+                                        "italic"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "：",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "               ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "批准",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "(技术负责人)",
+                                    "style": [
+                                        "italic"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "：",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "            ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "   ",
+                                    "style": [
+                                        "bold",
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "     年  月  日                        年  月  日                           年  月  日",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "评审内容：",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>1.“产品的开发意图和目标”评审意见</p><p>   产品的开发意图和目标明确；                                                                                      </p></td></tr><tr><td><p>2. “开发阶段的适用性说明”评审意见</p><p>    开发阶段的适用性说明全面；                                                                                     </p></td></tr><tr><td><p>3. “各阶段的主要工作内容”评审意见</p><p>    各阶段的主要在工作内容描述详细；                                                                                     </p><p> </p></td></tr><tr><td><p>4. “各阶段的输出文件”评审意见</p><p>     各阶段的输出文件要求明确；                                                                                    </p><p> </p></td></tr><tr><td><p>5. “质量要求和组织责任”评审意见</p><p>     质量要求和组织责任明确；                                                                                    </p></td></tr><tr><td><p>6. “人员及资源配置”评审意见</p><p>     人员及资源配置合理；                                                                                    </p></td></tr><tr><td><p>7.“组织和技术接口”评审意见</p><p>    组织和技术接口合理明确；                                                                                     </p></td></tr><tr><td><p>8.“时间进度”评审意见</p><p>    时间进度合理；                                                                                     </p><p> </p></td></tr><tr><td><p>9.“输出文件的管控”评审意见</p><p>     输出文件的管控要求合理；                                                                                    </p></td></tr><tr><td><p>评审小组意见：本次评审通过。</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "评审人员签字：",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "（打印前填写职务、部门、姓名，需与确定参加评审的人员一致）",
+                                    "style": [
+                                        "italic"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p>序号</p></td><td><p>职务</p></td><td><p>部门</p></td><td><p>姓名</p></td><td><p>签名</p></td><td><p>日期</p></td></tr><tr><td><p>1</p></td><td><p>技术负责人</p></td><td><p>智能产品部</p></td><td><p>侯广伟</p></td><td></td><td><p>         年   月   日</p></td></tr><tr><td><p>2</p></td><td><p>项目负责人</p></td><td><p>智能产品部</p></td><td><p>王迪龙</p></td><td></td><td><p>         年   月   日</p></td></tr><tr><td><p>3</p></td><td><p>结构工程师</p></td><td><p>智能产品部</p></td><td><p>刘钊</p></td><td></td><td><p>         年   月   日</p></td></tr><tr><td><p>4</p></td><td><p>硬件工程师</p></td><td><p>智能产品部</p></td><td><p>万龙</p></td><td></td><td><p>年   月   日</p></td></tr><tr><td><p>5</p></td><td><p>软件工程师</p></td><td><p>智能产品部</p></td><td><p>王迪</p></td><td></td><td><p>         年   月   日</p></td></tr><tr><td><p>6</p></td><td><p>客户代表</p></td><td><p>智能产品部</p></td><td><p>赵一平</p></td><td></td><td><p>年   月   日</p></td></tr><tr><td><p>7</p></td><td><p>认证工程师</p></td><td><p>认证检测中心</p></td><td><p>王艳红</p></td><td></td><td><p>年   月   日</p></td></tr><tr><td><p>8</p></td><td><p>资源开发工程师</p></td><td><p>智能产品部</p></td><td><p>刘昊</p></td><td></td><td><p>年   月   日</p></td></tr><tr><td><p>9</p></td><td><p>导入工程师</p></td><td><p>柯顿</p></td><td><p>孟兆君</p></td><td></td><td><p>年   月   日</p></td></tr><tr><td><p>10</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>11</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>12</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>13</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>14</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>15</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>16</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>17</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>18</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"6\"><p><strong>评审结论：</strong><em>（在适用的选项前□内划√或</em>■<em>，不适用选项空白）</em></p><p>□设计开发计划评审通过；</p><p>□设计开发计划评审未通过，修改                                                   后通过；</p><p>□设计开发计划评审未通过，修改后再提交评审。</p><p><strong>                                         批准</strong><em>(技术负责人)</em><strong>：</strong> <strong> </strong>        年  月  日</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件编号："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " PT9L-KFPB01",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " V1.0                                  设计开发计划评审表  "
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "第 3 页 / 共 3 页                                           "
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "page_idx": 0
+        }
+    ],
+    "_backend": "office",
+    "_version_name": "3.1.6"
+}

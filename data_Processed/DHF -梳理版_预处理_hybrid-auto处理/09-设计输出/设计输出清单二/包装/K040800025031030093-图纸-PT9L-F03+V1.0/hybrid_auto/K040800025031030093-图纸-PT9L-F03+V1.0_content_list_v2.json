@@ -1,0 +1,245 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/50fda06e187b979d518ae38a06a9faeb5237853e1cf6e371b1acd8fdb3970d73.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                57,
+                68,
+                128,
+                109
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8feeec89487b502f91e7dd60016aab38432a2f02dcccf86f37cdadb2568ae51c.jpg"
+                },
+                "content": "20.0\nR1.2\n25.0\n(01)00850044118700\n(10)201347011001\n二维码图案根据数字的变更相应变更\n字体：Myriad Pro 字高：4.5pt",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "字体：Myriad Pro 字高：4.5pt"
+                    },
+                    {
+                        "type": "text",
+                        "content": "第二行编码为批号：201347011001为变量"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(批号依据柯顿规则执行) "
+                    },
+                    {
+                        "type": "text",
+                        "content": "第1-6位：制造令代码"
+                    },
+                    {
+                        "type": "text",
+                        "content": "第7-9位：部件序号"
+                    },
+                    {
+                        "type": "text",
+                        "content": "第10-12位：批次序列号"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(01)00850044118700 (10) 批号 (11) 生产日期 (17) 有效期"
+                    },
+                    {
+                        "type": "text",
+                        "content": "批号、生产日期和有效期的信息内容按照生产现有规则执行"
+                    },
+                    {
+                        "type": "text",
+                        "content": "并根据评审要求以上内容生成二维码"
+                    }
+                ]
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                85,
+                159,
+                336,
+                368
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4ca25e00009f813df2669cc062958854e4fbcbb021412a38a0abeaec68a6b623.jpg"
+                },
+                "content": "QR code image containing encoded data, no visible human-readable text",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "(01)00850044118700 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "(10)201347011001 "
+                    }
+                ]
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                535,
+                196,
+                791,
+                559
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "技术要求"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                86,
+                692,
+                143,
+                715
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 材质：80g白色不干胶铜版纸"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 印刷颜色：单黑印刷 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. 表面覆亮膜"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. 本件要求通过RoHS测试"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                61,
+                727,
+                237,
+                823
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/5c6d29e09ecc82a7bb35ffcb9414500dd8c7533040276ebd527c0234ca9f9146.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>3</td><td></td><td></td><td>K04080002503</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td>±0.5</td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">彩包装标签</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-F03</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td><img src=\"images/9299213251f0a261c5d0569627c6c9ab994e3a30be0dd5873a20f5a7e14749bb.jpg\"/></td><td>Edition</td><td>V1.0</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                30,
+                840,
+                966,
+                959
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "1\n2\n3\n4\n5\n6\n7\n8 "
+                    }
+                ]
+            },
+            "bbox": [
+                30,
+                65,
+                46,
+                769
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "A | B | C | D | E | F | G | H "
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                40,
+                914,
+                55
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "⑤"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 尺寸序号"
+                    }
+                ]
+            },
+            "bbox": [
+                907,
+                65,
+                954,
+                82
+            ]
+        }
+    ]
+]

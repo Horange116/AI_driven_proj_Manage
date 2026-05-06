@@ -1,0 +1,53 @@
+{
+  "format": "docreview-pdf-intake-flow-v1",
+  "generated_at": "2026-05-01T07:07:23.343826+00:00",
+  "source": "C:\\Users\\Administrator\\Documents\\New project\\DHF -梳理版\\11-设计确认\\16-实验报告\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式.pdf",
+  "source_sha256": "5c1f9d0481f067506cdb23d70f8254cffd859b329d126fd8ca8934b7fb5bf060",
+  "run_root": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-05-PT9L-老化报告-正式-20260501T150634",
+  "probe_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-05-PT9L-老化报告-正式-20260501T150634\\probe.json",
+  "classification_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-05-PT9L-老化报告-正式-20260501T150634\\classification.json",
+  "classification_ms": 0,
+  "classification": {
+    "pdf_type": "table",
+    "route": "mineru",
+    "template": "table",
+    "reason": "Route override applied after classification: Probe router detected text/table-heavy PDF with limited visual drawing density.",
+    "must_preserve": [
+      "tables",
+      "headers",
+      "reading order"
+    ],
+    "risk": [
+      "validate MinerU table fidelity before canonical promotion"
+    ],
+    "confidence": "medium",
+    "classifier": "probe",
+    "needs_vlm_supplement": false
+  },
+  "route_result": {
+    "route": "mineru",
+    "command": "C:\\Users\\Administrator\\.docreview-local-state\\mineru-runtime\\Scripts\\mineru.exe",
+    "backend": "pipeline",
+    "output_dir": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-05-PT9L-老化报告-正式-20260501T150634\\mineru",
+    "exit_code": 0,
+    "elapsed_ms": 48518,
+    "stdout_tail": "Start MinerU FastAPI Service: http://127.0.0.1:56502\nAPI documentation: http://127.0.0.1:56502/docs\n",
+    "stderr_tail": "%|███████▋  | 30/39 [00:01<00:00, 14.95it/s]\nTable-ocr rec ch:  92%|█████████▏| 36/39 [00:02<00:00,  8.87it/s]\nTable-ocr rec ch: 100%|██████████| 39/39 [00:03<00:00,  7.98it/s]\nTable-ocr rec ch: 100%|██████████| 39/39 [00:03<00:00, 11.50it/s]\n\nTable-wireless Predict:   0%|          | 0/3 [00:00<?, ?it/s]\nTable-wireless Predict: 100%|██████████| 3/3 [00:00<00:00,  9.64it/s]\nTable-wireless Predict: 100%|██████████| 3/3 [00:00<00:00,  9.64it/s]\n\nTable-wired Predict:   0%|          | 0/2 [00:00<?, ?it/s]\n\nFetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]\u001b[A\nFetching 1 files: 100%|██████████| 1/1 [00:00<?, ?it/s]\n\nTable-wired Predict:  50%|█████     | 1/2 [00:01<00:01,  1.39s/it]\nTable-wired Predict: 100%|██████████| 2/2 [00:01<00:00,  1.41it/s]\n\nFetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]\nFetching 1 files: 100%|██████████| 1/1 [00:00<?, ?it/s]\n\nFetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]\nFetching 1 files: 100%|██████████| 1/1 [00:00<?, ?it/s]\n\nOCR-det ch:   0%|          | 0/6 [00:00<?, ?it/s]\nOCR-det ch:  50%|█████     | 3/6 [00:00<00:00, 19.31it/s]\nOCR-det ch: 100%|██████████| 6/6 [00:00<00:00, 23.58it/s]\n\nSeal Predict:   0%|          | 0/1 [00:00<?, ?it/s]\n\nFetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]\u001b[A\nFetching 1 files: 100%|██████████| 1/1 [00:00<?, ?it/s]\n\n\nFetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]\u001b[A\nFetching 1 files: 100%|██████████| 1/1 [00:00<?, ?it/s]\n\nSeal Predict: 100%|██████████| 1/1 [00:01<00:00,  1.80s/it]\nSeal Predict: 100%|██████████| 1/1 [00:01<00:00,  1.80s/it]\n\nProcessing pages:   0%|          | 0/3 [00:00<?, ?it/s]\n\nOCR-rec Predict:   0%|          | 0/2 [00:00<?, ?it/s]\u001b[A\nOCR-rec Predict: 100%|██████████| 2/2 [00:00<00:00, 21.86it/s]\n\nProcessing pages: 100%|██████████| 3/3 [00:00<00:00, 15.61it/s]\n2026-05-01 15:07:12.387 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 3/3 pages | 1 of 1 batch finished | task#1 [2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式]\n",
+    "output_files": [
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-05-PT9L-老化报告-正式-20260501T150634\\mineru\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式\\auto\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式.md",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-05-PT9L-老化报告-正式-20260501T150634\\mineru\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式\\auto\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式_content_list.json",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-05-PT9L-老化报告-正式-20260501T150634\\mineru\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式\\auto\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式_content_list_v2.json",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-05-PT9L-老化报告-正式-20260501T150634\\mineru\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式\\auto\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式_layout.pdf",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-05-PT9L-老化报告-正式-20260501T150634\\mineru\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式\\auto\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式_middle.json",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-05-PT9L-老化报告-正式-20260501T150634\\mineru\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式\\auto\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式_model.json",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-05-PT9L-老化报告-正式-20260501T150634\\mineru\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式\\auto\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式_origin.pdf",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-05-PT9L-老化报告-正式-20260501T150634\\mineru\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式\\auto\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式_span.pdf",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-05-PT9L-老化报告-正式-20260501T150634\\mineru\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式\\auto\\images\\0037a07f6793f930e003d98da49c943ad29c7432bc6742a828d4e4cd7ade93df.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-05-PT9L-老化报告-正式-20260501T150634\\mineru\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式\\auto\\images\\50f6e24bfe9e8323cf668a65c234921f255bf36392eecfe31985feed45da5e9f.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-05-PT9L-老化报告-正式-20260501T150634\\mineru\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式\\auto\\images\\ad367aba95fec0ce69d6ccf71af7980f7f98705b6f61569cf38215f7aae2809d.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-05-PT9L-老化报告-正式-20260501T150634\\mineru\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式\\auto\\images\\af2ceaa591c7899241552399efb8ec38aca4d4bd91188f4e5e6e144f03ad9ef1.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-05-PT9L-老化报告-正式-20260501T150634\\mineru\\2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式\\auto\\images\\e283ee76fd194d7bc2b27d2520010a107ba9a3764700a493cfccd4b7c5a70c33.jpg"
+    ]
+  },
+  "elapsed_ms": 48610
+}

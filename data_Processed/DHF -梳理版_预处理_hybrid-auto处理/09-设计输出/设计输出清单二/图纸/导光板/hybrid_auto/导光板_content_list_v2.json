@@ -1,0 +1,213 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "⑧ 尺寸序号"
+                    }
+                ]
+            },
+            "bbox": [
+                935,
+                33,
+                989,
+                53
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/08ea5deba2804521711e6337df3fb4829ea1db5cb6fe6f2bc5fab95cc4fded04.jpg"
+                },
+                "content": "①\n32.7±0.1\nC4.42\n13.15\n2.2 8.9\n②\n22±0.1",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                148,
+                218,
+                405,
+                440
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2ac9603934fa429dfa95b06719f993335516d48309e71ec594743ad2a69d24f2.jpg"
+                },
+                "content": "0.1(反射膜)\n2.7±0.1(导光板)\n带膜厚度2.9±0.1\n③\n0.1(透射膜)",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "导光板"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                93,
+                515,
+                344,
+                712
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7531a814280256743bd1ce6b6b66ced9cc6be25f2e728f50df3837dfc13f23a8.jpg"
+                },
+                "content": "32.7±0.1\nC4.42\n8.9\n22±0.1\n2.2",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "反射膜"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                581,
+                147,
+                780,
+                357
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/fbbe3065b607ea6e4f04c14ff15ef3a3e008a81eef5c5b796809e439a025c428.jpg"
+                },
+                "content": "32.7±0.1\nC4.42\n22±0.1\n黑色区域\n3.7",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "透射膜 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                508,
+                485,
+                780,
+                710
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "技术要求："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                83,
+                742,
+                178,
+                774
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 带编号为重要尺寸,需要IQC测量;"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2.产品符合rohs 2.0 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                779,
+                395,
+                850
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/8a4252563a5c8253d83066443630ea5ec28ef3c4857737c4cc6dccb9b6326712.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>PMMA</td><td>Model NO.</td><td colspan=\"2\">T-Z1</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">导光板</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">T-Z1-P10</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                0,
+                868,
+                998,
+                991
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/39da7214b2ba45d09163da36a5c27a4b2d9aadcc23f27fe082980ae0fe3245f4.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">DTM\\LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt; 5</td><td>±0.03</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 5~15</td><td>±0.05</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 15~50</td><td>±0.05</td><td>±0.1</td><td>±0.2</td></tr><tr><td>&gt; 50~100</td><td>±0.08</td><td>±0.2</td><td>±0.3</td></tr><tr><td>&gt;100</td><td>±0.1%</td><td>±0.2%</td><td>±0.3%</td></tr><tr><td>ANGULAR</td><td>±0.1°</td><td>±0.5°</td><td>±0.5°</td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\">B</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                873,
+                690,
+                998,
+                868
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "A B C D E F G H "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                0,
+                998,
+                28
+            ]
+        }
+    ]
+]

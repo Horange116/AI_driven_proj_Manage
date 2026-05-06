@@ -1,0 +1,170 @@
+{
+  "format": "docreview-pdf-layout-probe-v1",
+  "source_name": "主板.pdf",
+  "content_hash": "b66be7eec8f876056dc882f2c735bfb78ec93261396da4ab47ef8ca272c0777e",
+  "page_count": 1,
+  "engine": "pymupdf",
+  "capabilities": {
+    "text_blocks": true,
+    "word_coordinates": true,
+    "row_clustering": true,
+    "vector_drawings": true,
+    "tables": false,
+    "ocr": false,
+    "semantic_table_reconstruction": false
+  },
+  "limits": [
+    "Rows are geometric text clusters, not verified semantic tables.",
+    "Vector drawings are counted but not converted into Gantt/task bars.",
+    "Scanned-image OCR is not enabled.",
+    "PDF W1 output is text/layout-audit evidence, not semantic Gantt reconstruction."
+  ],
+  "totals": {
+    "text_block_count": 5,
+    "word_count": 12,
+    "row_count": 11,
+    "table_like_row_count": 0,
+    "drawing_path_count": 796,
+    "drawing_item_count": 4825,
+    "line_item_count": 4824,
+    "rectangle_item_count": 1
+  },
+  "pages": [
+    {
+      "page_index": 1,
+      "width": 595.32,
+      "height": 841.92,
+      "text_block_count": 5,
+      "word_count": 12,
+      "row_count": 11,
+      "table_like_row_count": 0,
+      "drawing_path_count": 796,
+      "drawing_item_count": 4825,
+      "line_item_count": 4824,
+      "rectangle_item_count": 1,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            140.19,
+            44.04,
+            161.94,
+            131.05
+          ],
+          "word_count": 1,
+          "text": "技术要求："
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            96.83,
+            42.83,
+            141.01,
+            162.19
+          ],
+          "word_count": 2,
+          "text": "2.产品符合rohs 1.TH.=1.0±0.1"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            7.37,
+            105.11,
+            19.37,
+            114.71
+          ],
+          "word_count": 1,
+          "text": "更"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            7.37,
+            119.01,
+            19.37,
+            128.61
+          ],
+          "word_count": 1,
+          "text": "改"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            7.37,
+            132.91,
+            19.37,
+            142.51
+          ],
+          "word_count": 1,
+          "text": "记"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            7.37,
+            146.64,
+            19.37,
+            156.24
+          ],
+          "word_count": 1,
+          "text": "录"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            96.83,
+            166.09,
+            118.58,
+            189.75
+          ],
+          "word_count": 1,
+          "text": "2.0"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            7.88,
+            256.2,
+            18.68,
+            290.93
+          ],
+          "word_count": 1,
+          "text": "更改时间"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            63.8,
+            637.09,
+            71.9,
+            669.62
+          ],
+          "word_count": 1,
+          "text": "环氧树脂板"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            43.23,
+            788.03,
+            56.88,
+            807.56
+          ],
+          "word_count": 1,
+          "text": "PCB"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            563.96,
+            801.6,
+            573.71,
+            832.8
+          ],
+          "word_count": 1,
+          "text": "尺寸序号"
+        }
+      ]
+    }
+  ]
+}

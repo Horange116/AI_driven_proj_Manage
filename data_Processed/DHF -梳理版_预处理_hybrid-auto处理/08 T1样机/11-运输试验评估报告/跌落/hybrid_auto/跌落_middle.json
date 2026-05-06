@@ -1,0 +1,3542 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "bbox": [
+                        138,
+                        121,
+                        428,
+                        137
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                121,
+                                428,
+                                137
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        121,
+                                        428,
+                                        137
+                                    ],
+                                    "type": "text",
+                                    "content": "送检公司：东莞市上合旺盈印刷有限公司营业七部高志"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        146,
+                        446,
+                        161
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                146,
+                                446,
+                                161
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        146,
+                                        446,
+                                        161
+                                    ],
+                                    "type": "text",
+                                    "content": "送检公司地址：东莞市东城区主山振兴路329号旺盈工业园"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        169,
+                        404,
+                        185
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                169,
+                                404,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        169,
+                                        404,
+                                        185
+                                    ],
+                                    "type": "text",
+                                    "content": "以下测试样品是由申请者提供及确认：红外体温计"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        208,
+                        279,
+                        223
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                208,
+                                279,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        208,
+                                        279,
+                                        223
+                                    ],
+                                    "type": "text",
+                                    "content": "样品编号 :NA"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        230,
+                        279,
+                        245
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                230,
+                                279,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        230,
+                                        279,
+                                        245
+                                    ],
+                                    "type": "text",
+                                    "content": "批号 :NA"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        252,
+                        279,
+                        267
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                252,
+                                279,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        252,
+                                        279,
+                                        267
+                                    ],
+                                    "type": "text",
+                                    "content": "订单/工程单号 :NA"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        274,
+                        279,
+                        288
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                274,
+                                279,
+                                288
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        274,
+                                        279,
+                                        288
+                                    ],
+                                    "type": "text",
+                                    "content": "供应商 :NA"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        295,
+                        284,
+                        310
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                295,
+                                284,
+                                310
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        295,
+                                        284,
+                                        310
+                                    ],
+                                    "type": "text",
+                                    "content": "送检数量 :1箱"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        317,
+                        296,
+                        331
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                317,
+                                296,
+                                331
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        317,
+                                        296,
+                                        331
+                                    ],
+                                    "type": "text",
+                                    "content": "客户名称/代码 :A1939"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        338,
+                        327,
+                        353
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                338,
+                                327,
+                                353
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        338,
+                                        327,
+                                        353
+                                    ],
+                                    "type": "text",
+                                    "content": "样品接收日期 :2017.06.13"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        359,
+                        392,
+                        375
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                359,
+                                392,
+                                375
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        359,
+                                        392,
+                                        375
+                                    ],
+                                    "type": "text",
+                                    "content": "测试周期 :2017.06.13-2017.06.13"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        381,
+                        338,
+                        396
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                381,
+                                338,
+                                396
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        381,
+                                        338,
+                                        396
+                                    ],
+                                    "type": "text",
+                                    "content": "测试方法 :请参见下一页"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18,
+                    "merge_prev": false
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        80,
+                        442,
+                        517,
+                        519
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                80,
+                                442,
+                                517,
+                                519
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        442,
+                                        517,
+                                        519
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                80,
+                                                442,
+                                                517,
+                                                519
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"3\">测试要求</td><td rowspan=\"2\">结果</td></tr><tr><td colspan=\"2\">参考标准</td><td>测试项目</td></tr><tr><td>1</td><td>客户要求</td><td>跌落</td><td>合格</td></tr></table>",
+                                            "image_path": "bfa1b489d4c87665d369afbcaa8620beae9fec344d8a23fc10ba701d6dfc93ec.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                226,
+                                523,
+                                398,
+                                538
+                            ],
+                            "type": "table_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        523,
+                                        398,
+                                        538
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                226,
+                                                523,
+                                                398,
+                                                538
+                                            ],
+                                            "type": "text",
+                                            "content": "更多测试细节请参考以下页面"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 19
+                },
+                {
+                    "bbox": [
+                        105,
+                        559,
+                        486,
+                        576
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                559,
+                                486,
+                                576
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        559,
+                                        486,
+                                        576
+                                    ],
+                                    "type": "text",
+                                    "content": "旺盈彩盒纸品有限公司实验室授权以下人员测试并签核本报告"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 21,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        132,
+                        626,
+                        223,
+                        642
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                132,
+                                626,
+                                223,
+                                642
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        132,
+                                        626,
+                                        223,
+                                        642
+                                    ],
+                                    "type": "text",
+                                    "content": "测试：杨汝圭"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 22,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        375,
+                        599,
+                        480,
+                        664
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                375,
+                                599,
+                                480,
+                                664
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        375,
+                                        599,
+                                        480,
+                                        664
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                375,
+                                                599,
+                                                480,
+                                                664
+                                            ],
+                                            "type": "image",
+                                            "content": "任盈彩盒纸品有限公司\nVoion\n审核:宋刚\n物理实验室",
+                                            "image_path": "fe7c27ac31081cb319bd4b2003497f79c6366b64fcd23dcf0e060bfa8f38b5d0.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23,
+                    "sub_type": "text_image"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        33,
+                        17,
+                        134,
+                        55
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                33,
+                                17,
+                                134,
+                                55
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        33,
+                                        17,
+                                        134,
+                                        55
+                                    ],
+                                    "type": "text",
+                                    "content": "voion®"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        57,
+                        56,
+                        111,
+                        65
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                56,
+                                111,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        56,
+                                        111,
+                                        65
+                                    ],
+                                    "type": "text",
+                                    "content": "旺盈彩盒"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        205,
+                        16,
+                        387,
+                        37
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                205,
+                                16,
+                                387,
+                                37
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        205,
+                                        16,
+                                        387,
+                                        37
+                                    ],
+                                    "type": "text",
+                                    "content": "旺盈彩盒纸品有限公司"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        157,
+                        44,
+                        436,
+                        58
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                157,
+                                44,
+                                436,
+                                58
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        157,
+                                        44,
+                                        436,
+                                        58
+                                    ],
+                                    "type": "text",
+                                    "content": "GLORY COLOUR BOXES& PAPER LIMITED"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        60,
+                        79,
+                        190,
+                        95
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                79,
+                                190,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        79,
+                                        190,
+                                        95
+                                    ],
+                                    "type": "text",
+                                    "content": "报告日期：2017.06.13"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        245,
+                        79,
+                        337,
+                        97
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                245,
+                                79,
+                                337,
+                                97
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        245,
+                                        79,
+                                        337,
+                                        97
+                                    ],
+                                    "type": "text",
+                                    "content": "Test Report"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        396,
+                        79,
+                        536,
+                        96
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                396,
+                                79,
+                                536,
+                                96
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        396,
+                                        79,
+                                        536,
+                                        96
+                                    ],
+                                    "type": "text",
+                                    "content": "Report No:2017061324"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        54,
+                        814,
+                        235,
+                        826
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                54,
+                                814,
+                                235,
+                                826
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        814,
+                                        235,
+                                        826
+                                    ],
+                                    "type": "text",
+                                    "content": "东莞市上合旺盈印刷有限公司旺盈实验室"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 24
+                },
+                {
+                    "bbox": [
+                        265,
+                        813,
+                        327,
+                        826
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                265,
+                                813,
+                                327,
+                                826
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        265,
+                                        813,
+                                        327,
+                                        826
+                                    ],
+                                    "type": "text",
+                                    "content": "Page 1 of 3"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 25
+                },
+                {
+                    "bbox": [
+                        376,
+                        814,
+                        539,
+                        826
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                376,
+                                814,
+                                539,
+                                826
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        814,
+                                        539,
+                                        826
+                                    ],
+                                    "type": "text",
+                                    "content": "地址：东莞市东城区主山振兴路329#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 26
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "bbox": [
+                        138,
+                        121,
+                        428,
+                        137
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                121,
+                                428,
+                                137
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        121,
+                                        428,
+                                        137
+                                    ],
+                                    "type": "text",
+                                    "content": "送检公司：东莞市上合旺盈印刷有限公司营业七部高志"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        146,
+                        446,
+                        161
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                146,
+                                446,
+                                161
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        146,
+                                        446,
+                                        161
+                                    ],
+                                    "type": "text",
+                                    "content": "送检公司地址：东莞市东城区主山振兴路329号旺盈工业园"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        169,
+                        404,
+                        185
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                169,
+                                404,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        169,
+                                        404,
+                                        185
+                                    ],
+                                    "type": "text",
+                                    "content": "以下测试样品是由申请者提供及确认：红外体温计"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        208,
+                        279,
+                        223
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                208,
+                                279,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        208,
+                                        279,
+                                        223
+                                    ],
+                                    "type": "text",
+                                    "content": "样品编号 :NA"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        230,
+                        279,
+                        245
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                230,
+                                279,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        230,
+                                        279,
+                                        245
+                                    ],
+                                    "type": "text",
+                                    "content": "批号 :NA"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        252,
+                        279,
+                        267
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                252,
+                                279,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        252,
+                                        279,
+                                        267
+                                    ],
+                                    "type": "text",
+                                    "content": "订单/工程单号 :NA"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        274,
+                        279,
+                        288
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                274,
+                                279,
+                                288
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        274,
+                                        279,
+                                        288
+                                    ],
+                                    "type": "text",
+                                    "content": "供应商 :NA"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        295,
+                        284,
+                        310
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                295,
+                                284,
+                                310
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        295,
+                                        284,
+                                        310
+                                    ],
+                                    "type": "text",
+                                    "content": "送检数量 :1箱"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        317,
+                        296,
+                        331
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                317,
+                                296,
+                                331
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        317,
+                                        296,
+                                        331
+                                    ],
+                                    "type": "text",
+                                    "content": "客户名称/代码 :A1939"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        338,
+                        327,
+                        353
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                338,
+                                327,
+                                353
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        338,
+                                        327,
+                                        353
+                                    ],
+                                    "type": "text",
+                                    "content": "样品接收日期 :2017.06.13"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        359,
+                        392,
+                        375
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                359,
+                                392,
+                                375
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        359,
+                                        392,
+                                        375
+                                    ],
+                                    "type": "text",
+                                    "content": "测试周期 :2017.06.13-2017.06.13"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        138,
+                        381,
+                        338,
+                        396
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                138,
+                                381,
+                                338,
+                                396
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        138,
+                                        381,
+                                        338,
+                                        396
+                                    ],
+                                    "type": "text",
+                                    "content": "测试方法 :请参见下一页"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18,
+                    "merge_prev": false
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        80,
+                        442,
+                        517,
+                        519
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                80,
+                                442,
+                                517,
+                                519
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        442,
+                                        517,
+                                        519
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                80,
+                                                442,
+                                                517,
+                                                519
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"3\">测试要求</td><td rowspan=\"2\">结果</td></tr><tr><td colspan=\"2\">参考标准</td><td>测试项目</td></tr><tr><td>1</td><td>客户要求</td><td>跌落</td><td>合格</td></tr></table>",
+                                            "image_path": "bfa1b489d4c87665d369afbcaa8620beae9fec344d8a23fc10ba701d6dfc93ec.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                226,
+                                523,
+                                398,
+                                538
+                            ],
+                            "type": "table_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        523,
+                                        398,
+                                        538
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                226,
+                                                523,
+                                                398,
+                                                538
+                                            ],
+                                            "type": "text",
+                                            "content": "更多测试细节请参考以下页面"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 19
+                },
+                {
+                    "bbox": [
+                        105,
+                        559,
+                        486,
+                        576
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                559,
+                                486,
+                                576
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        559,
+                                        486,
+                                        576
+                                    ],
+                                    "type": "text",
+                                    "content": "旺盈彩盒纸品有限公司实验室授权以下人员测试并签核本报告"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 21,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        132,
+                        626,
+                        223,
+                        642
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                132,
+                                626,
+                                223,
+                                642
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        132,
+                                        626,
+                                        223,
+                                        642
+                                    ],
+                                    "type": "text",
+                                    "content": "测试：杨汝圭"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 22,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        375,
+                        599,
+                        480,
+                        664
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                375,
+                                599,
+                                480,
+                                664
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        375,
+                                        599,
+                                        480,
+                                        664
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                375,
+                                                599,
+                                                480,
+                                                664
+                                            ],
+                                            "type": "image",
+                                            "content": "任盈彩盒纸品有限公司\nVoion\n审核:宋刚\n物理实验室",
+                                            "image_path": "fe7c27ac31081cb319bd4b2003497f79c6366b64fcd23dcf0e060bfa8f38b5d0.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23,
+                    "sub_type": "text_image"
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "bbox": [
+                        80,
+                        179,
+                        154,
+                        193
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                80,
+                                179,
+                                154,
+                                193
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        179,
+                                        154,
+                                        193
+                                    ],
+                                    "type": "text",
+                                    "content": "1、跌落测试："
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        98,
+                        211,
+                        153,
+                        225
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                98,
+                                211,
+                                153,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        211,
+                                        153,
+                                        225
+                                    ],
+                                    "type": "text",
+                                    "content": "测试方法:"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        177,
+                        203,
+                        504,
+                        232
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                177,
+                                203,
+                                504,
+                                232
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        177,
+                                        203,
+                                        504,
+                                        232
+                                    ],
+                                    "type": "text",
+                                    "content": "将样品放置跌落测试仪上，根据产品毛重选择所需高度，依次顺序测试。测试结束后检查产纸箱及内卡、客户产品。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "merge_prev": false
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        80,
+                        235,
+                        516,
+                        497
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                80,
+                                235,
+                                516,
+                                497
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        235,
+                                        516,
+                                        497
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                80,
+                                                235,
+                                                516,
+                                                497
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>测试顺序</td><td>高度</td><td>重量</td><td>测试部位描述</td></tr><tr><td>角</td><td>1200MM</td><td rowspan=\"10\">NA</td><td rowspan=\"10\"><img src=\"aa9ec56a3469e302d0e0262b3c813a2a7b589d8144c533f5d3506c3c1c32b35a.jpg\"/></td></tr><tr><td>棱1</td><td>1200MM</td></tr><tr><td>棱2</td><td>1200MM</td></tr><tr><td>棱3</td><td>1200MM</td></tr><tr><td>面1</td><td>1200MM</td></tr><tr><td>面2</td><td>1200MM</td></tr><tr><td>面3</td><td>1200MM</td></tr><tr><td>面4</td><td>1200MM</td></tr><tr><td>面5</td><td>1200MM</td></tr><tr><td>面6</td><td>1200MM</td></tr></table>",
+                                            "image_path": "4a6ccccbfbf95bddf0817dc9ba8565a98ac709e8fa1b6613f7071e22f49172af.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        58,
+                        505,
+                        433,
+                        520
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                505,
+                                433,
+                                520
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        505,
+                                        433,
+                                        520
+                                    ],
+                                    "type": "text",
+                                    "content": "判定标准：测试后样品包装不存在破损现象，产品结构功能无损坏。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        58,
+                        530,
+                        159,
+                        544
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                530,
+                                159,
+                                544
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        530,
+                                        159,
+                                        544
+                                    ],
+                                    "type": "text",
+                                    "content": "样品数量: 1箱"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        58,
+                        556,
+                        458,
+                        571
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                556,
+                                458,
+                                571
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        556,
+                                        458,
+                                        571
+                                    ],
+                                    "type": "text",
+                                    "content": "结果描述：按照标准测试后箱内样品无破损现象，测试结果判定为合格。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        59,
+                        587,
+                        114,
+                        602
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                59,
+                                587,
+                                114,
+                                602
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        587,
+                                        114,
+                                        602
+                                    ],
+                                    "type": "text",
+                                    "content": "测试图片:"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        611,
+                        290,
+                        767
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                611,
+                                290,
+                                767
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        611,
+                                        290,
+                                        767
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                611,
+                                                290,
+                                                767
+                                            ],
+                                            "type": "image",
+                                            "content": "跌落試驗機\n1200\n1200\nreset\n复位\nstop\n停止\nrise\n上升\ndown\n下降\npower\n电源",
+                                            "image_path": "198fdf0044c0780fd2c0f4de9a8cb3f9ddc7bdd33a43260efc4f9ecb9ed9530b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 15,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        300,
+                        612,
+                        503,
+                        767
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                300,
+                                612,
+                                503,
+                                767
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        300,
+                                        612,
+                                        503,
+                                        767
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                300,
+                                                612,
+                                                503,
+                                                767
+                                            ],
+                                            "type": "image",
+                                            "content": "Interior view of a warehouse or testing facility showing a cardboard box on a platform, with no visible text or symbols.",
+                                            "image_path": "10163ce8eb2d1aa25fbe323cf79d2c56c124ab5b8028061f9c645e2c088686a2.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16,
+                    "sub_type": "natural_image"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        33,
+                        17,
+                        134,
+                        55
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                33,
+                                17,
+                                134,
+                                55
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        33,
+                                        17,
+                                        134,
+                                        55
+                                    ],
+                                    "type": "text",
+                                    "content": "voion®"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        57,
+                        56,
+                        111,
+                        66
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                56,
+                                111,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        56,
+                                        111,
+                                        66
+                                    ],
+                                    "type": "text",
+                                    "content": "旺盈彩盒"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        205,
+                        16,
+                        387,
+                        37
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                205,
+                                16,
+                                387,
+                                37
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        205,
+                                        16,
+                                        387,
+                                        37
+                                    ],
+                                    "type": "text",
+                                    "content": "旺盈彩盒纸品有限公司"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        157,
+                        44,
+                        436,
+                        58
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                157,
+                                44,
+                                436,
+                                58
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        157,
+                                        44,
+                                        436,
+                                        58
+                                    ],
+                                    "type": "text",
+                                    "content": "GLORY COLOUR BOXES& PAPER LIMITED"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        60,
+                        79,
+                        190,
+                        95
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                79,
+                                190,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        79,
+                                        190,
+                                        95
+                                    ],
+                                    "type": "text",
+                                    "content": "报告日期：2017.06.13"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        245,
+                        79,
+                        337,
+                        97
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                245,
+                                79,
+                                337,
+                                97
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        245,
+                                        79,
+                                        337,
+                                        97
+                                    ],
+                                    "type": "text",
+                                    "content": "Test Report"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        396,
+                        79,
+                        536,
+                        96
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                396,
+                                79,
+                                536,
+                                96
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        396,
+                                        79,
+                                        536,
+                                        96
+                                    ],
+                                    "type": "text",
+                                    "content": "Report No:2017061324"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        54,
+                        814,
+                        235,
+                        826
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                54,
+                                814,
+                                235,
+                                826
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        814,
+                                        235,
+                                        826
+                                    ],
+                                    "type": "text",
+                                    "content": "东莞市上合旺盈印刷有限公司旺盈实验室"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "bbox": [
+                        265,
+                        813,
+                        327,
+                        826
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                265,
+                                813,
+                                327,
+                                826
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        265,
+                                        813,
+                                        327,
+                                        826
+                                    ],
+                                    "type": "text",
+                                    "content": "Page 2 of 3"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "bbox": [
+                        376,
+                        814,
+                        539,
+                        826
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                376,
+                                814,
+                                539,
+                                826
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        814,
+                                        539,
+                                        826
+                                    ],
+                                    "type": "text",
+                                    "content": "地址：东莞市东城区主山振兴路329#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 1,
+            "para_blocks": [
+                {
+                    "bbox": [
+                        80,
+                        179,
+                        154,
+                        193
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                80,
+                                179,
+                                154,
+                                193
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        179,
+                                        154,
+                                        193
+                                    ],
+                                    "type": "text",
+                                    "content": "1、跌落测试："
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        98,
+                        211,
+                        153,
+                        225
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                98,
+                                211,
+                                153,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        211,
+                                        153,
+                                        225
+                                    ],
+                                    "type": "text",
+                                    "content": "测试方法:"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        177,
+                        203,
+                        504,
+                        232
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                177,
+                                203,
+                                504,
+                                232
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        177,
+                                        203,
+                                        504,
+                                        232
+                                    ],
+                                    "type": "text",
+                                    "content": "将样品放置跌落测试仪上，根据产品毛重选择所需高度，依次顺序测试。测试结束后检查产纸箱及内卡、客户产品。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "merge_prev": false
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        80,
+                        235,
+                        516,
+                        497
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                80,
+                                235,
+                                516,
+                                497
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        235,
+                                        516,
+                                        497
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                80,
+                                                235,
+                                                516,
+                                                497
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>测试顺序</td><td>高度</td><td>重量</td><td>测试部位描述</td></tr><tr><td>角</td><td>1200MM</td><td rowspan=\"10\">NA</td><td rowspan=\"10\"><img src=\"aa9ec56a3469e302d0e0262b3c813a2a7b589d8144c533f5d3506c3c1c32b35a.jpg\"/></td></tr><tr><td>棱1</td><td>1200MM</td></tr><tr><td>棱2</td><td>1200MM</td></tr><tr><td>棱3</td><td>1200MM</td></tr><tr><td>面1</td><td>1200MM</td></tr><tr><td>面2</td><td>1200MM</td></tr><tr><td>面3</td><td>1200MM</td></tr><tr><td>面4</td><td>1200MM</td></tr><tr><td>面5</td><td>1200MM</td></tr><tr><td>面6</td><td>1200MM</td></tr></table>",
+                                            "image_path": "4a6ccccbfbf95bddf0817dc9ba8565a98ac709e8fa1b6613f7071e22f49172af.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        58,
+                        505,
+                        433,
+                        520
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                505,
+                                433,
+                                520
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        505,
+                                        433,
+                                        520
+                                    ],
+                                    "type": "text",
+                                    "content": "判定标准：测试后样品包装不存在破损现象，产品结构功能无损坏。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        58,
+                        530,
+                        159,
+                        544
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                530,
+                                159,
+                                544
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        530,
+                                        159,
+                                        544
+                                    ],
+                                    "type": "text",
+                                    "content": "样品数量: 1箱"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        58,
+                        556,
+                        458,
+                        571
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                58,
+                                556,
+                                458,
+                                571
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        556,
+                                        458,
+                                        571
+                                    ],
+                                    "type": "text",
+                                    "content": "结果描述：按照标准测试后箱内样品无破损现象，测试结果判定为合格。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        59,
+                        587,
+                        114,
+                        602
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                59,
+                                587,
+                                114,
+                                602
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        587,
+                                        114,
+                                        602
+                                    ],
+                                    "type": "text",
+                                    "content": "测试图片:"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        611,
+                        290,
+                        767
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                611,
+                                290,
+                                767
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        611,
+                                        290,
+                                        767
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                611,
+                                                290,
+                                                767
+                                            ],
+                                            "type": "image",
+                                            "content": "跌落試驗機\n1200\n1200\nreset\n复位\nstop\n停止\nrise\n上升\ndown\n下降\npower\n电源",
+                                            "image_path": "198fdf0044c0780fd2c0f4de9a8cb3f9ddc7bdd33a43260efc4f9ecb9ed9530b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 15,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        300,
+                        612,
+                        503,
+                        767
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                300,
+                                612,
+                                503,
+                                767
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        300,
+                                        612,
+                                        503,
+                                        767
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                300,
+                                                612,
+                                                503,
+                                                767
+                                            ],
+                                            "type": "image",
+                                            "content": "Interior view of a warehouse or testing facility showing a cardboard box on a platform, with no visible text or symbols.",
+                                            "image_path": "10163ce8eb2d1aa25fbe323cf79d2c56c124ab5b8028061f9c645e2c088686a2.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16,
+                    "sub_type": "natural_image"
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "bbox": [
+                        60,
+                        79,
+                        191,
+                        95
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                79,
+                                191,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        79,
+                                        191,
+                                        95
+                                    ],
+                                    "type": "text",
+                                    "content": "报告日期：2017.06.13"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        245,
+                        79,
+                        337,
+                        97
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                245,
+                                79,
+                                337,
+                                97
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        245,
+                                        79,
+                                        337,
+                                        97
+                                    ],
+                                    "type": "text",
+                                    "content": "Test Report"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        396,
+                        79,
+                        536,
+                        96
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                396,
+                                79,
+                                536,
+                                96
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        396,
+                                        79,
+                                        536,
+                                        96
+                                    ],
+                                    "type": "text",
+                                    "content": "Report No:2017061324"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        89,
+                        113,
+                        289,
+                        268
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                89,
+                                113,
+                                289,
+                                268
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        113,
+                                        289,
+                                        268
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                113,
+                                                289,
+                                                268
+                                            ],
+                                            "type": "image",
+                                            "content": "Open cardboard box containing a grid of white paper blocks (no text or symbols visible)",
+                                            "image_path": "34410bb5edf57a0bfacb5b9e24b865c7ce4b5835b426423c95bd390fae05d8c0.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7,
+                    "sub_type": "natural_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        303,
+                        114,
+                        503,
+                        269
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                303,
+                                114,
+                                503,
+                                269
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        114,
+                                        503,
+                                        269
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                303,
+                                                114,
+                                                503,
+                                                269
+                                            ],
+                                            "type": "image",
+                                            "content": "White paper box with folded paper sheets arranged in a grid pattern (no text or symbols visible)",
+                                            "image_path": "9dafb84fcdb00000d825895f4ad00aa788e26c1ee1ab592597f30094fc16a8d3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8,
+                    "sub_type": "natural_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        87,
+                        282,
+                        288,
+                        439
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                87,
+                                282,
+                                288,
+                                439
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        282,
+                                        288,
+                                        439
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                87,
+                                                282,
+                                                288,
+                                                439
+                                            ],
+                                            "type": "image",
+                                            "content": "Four white electronic devices mounted on white rectangular bases, arranged in a row against a grid-patterned background (no visible text or symbols)",
+                                            "image_path": "1b1f2271da83b91f89aa94e1aed464b805e0e9fdff4057831dc5d8c38223ee42.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9,
+                    "sub_type": "natural_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        301,
+                        282,
+                        502,
+                        439
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                301,
+                                282,
+                                502,
+                                439
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        301,
+                                        282,
+                                        502,
+                                        439
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                301,
+                                                282,
+                                                502,
+                                                439
+                                            ],
+                                            "type": "image",
+                                            "content": "Four white cylindrical electronic devices with three black buttons, arranged on white rectangular bases (no visible text or symbols)",
+                                            "image_path": "6023789f72d91f9581854dbca1b3a25f86b806b769ec18e93364001e99343162.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10,
+                    "sub_type": "natural_image"
+                },
+                {
+                    "bbox": [
+                        46,
+                        460,
+                        547,
+                        475
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                46,
+                                460,
+                                547,
+                                475
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        46,
+                                        460,
+                                        547,
+                                        475
+                                    ],
+                                    "type": "text",
+                                    "content": "******************************报告结束******************************"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "merge_prev": false
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        33,
+                        17,
+                        134,
+                        55
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                33,
+                                17,
+                                134,
+                                55
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        33,
+                                        17,
+                                        134,
+                                        55
+                                    ],
+                                    "type": "text",
+                                    "content": "voion®"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        57,
+                        56,
+                        111,
+                        65
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                56,
+                                111,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        56,
+                                        111,
+                                        65
+                                    ],
+                                    "type": "text",
+                                    "content": "旺盈彩盒"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        205,
+                        16,
+                        387,
+                        37
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                205,
+                                16,
+                                387,
+                                37
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        205,
+                                        16,
+                                        387,
+                                        37
+                                    ],
+                                    "type": "text",
+                                    "content": "旺盈彩盒纸品有限公司"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        157,
+                        44,
+                        436,
+                        58
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                157,
+                                44,
+                                436,
+                                58
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        157,
+                                        44,
+                                        436,
+                                        58
+                                    ],
+                                    "type": "text",
+                                    "content": "GLORY COLOUR BOXES& PAPER LIMITED"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        53,
+                        814,
+                        236,
+                        826
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                814,
+                                236,
+                                826
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        814,
+                                        236,
+                                        826
+                                    ],
+                                    "type": "text",
+                                    "content": "东莞市上合旺盈印刷有限公司旺盈实验室"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        265,
+                        813,
+                        327,
+                        826
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                265,
+                                813,
+                                327,
+                                826
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        265,
+                                        813,
+                                        327,
+                                        826
+                                    ],
+                                    "type": "text",
+                                    "content": "Page 3 of 3"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        376,
+                        814,
+                        539,
+                        826
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                376,
+                                814,
+                                539,
+                                826
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        814,
+                                        539,
+                                        826
+                                    ],
+                                    "type": "text",
+                                    "content": "地址：东莞市东城区主山振兴路329#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 2,
+            "para_blocks": [
+                {
+                    "bbox": [
+                        60,
+                        79,
+                        191,
+                        95
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                79,
+                                191,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        79,
+                                        191,
+                                        95
+                                    ],
+                                    "type": "text",
+                                    "content": "报告日期：2017.06.13"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        245,
+                        79,
+                        337,
+                        97
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                245,
+                                79,
+                                337,
+                                97
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        245,
+                                        79,
+                                        337,
+                                        97
+                                    ],
+                                    "type": "text",
+                                    "content": "Test Report"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        396,
+                        79,
+                        536,
+                        96
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                396,
+                                79,
+                                536,
+                                96
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        396,
+                                        79,
+                                        536,
+                                        96
+                                    ],
+                                    "type": "text",
+                                    "content": "Report No:2017061324"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        89,
+                        113,
+                        289,
+                        268
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                89,
+                                113,
+                                289,
+                                268
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        113,
+                                        289,
+                                        268
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                89,
+                                                113,
+                                                289,
+                                                268
+                                            ],
+                                            "type": "image",
+                                            "content": "Open cardboard box containing a grid of white paper blocks (no text or symbols visible)",
+                                            "image_path": "34410bb5edf57a0bfacb5b9e24b865c7ce4b5835b426423c95bd390fae05d8c0.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7,
+                    "sub_type": "natural_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        303,
+                        114,
+                        503,
+                        269
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                303,
+                                114,
+                                503,
+                                269
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        114,
+                                        503,
+                                        269
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                303,
+                                                114,
+                                                503,
+                                                269
+                                            ],
+                                            "type": "image",
+                                            "content": "White paper box with folded paper sheets arranged in a grid pattern (no text or symbols visible)",
+                                            "image_path": "9dafb84fcdb00000d825895f4ad00aa788e26c1ee1ab592597f30094fc16a8d3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8,
+                    "sub_type": "natural_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        87,
+                        282,
+                        288,
+                        439
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                87,
+                                282,
+                                288,
+                                439
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        282,
+                                        288,
+                                        439
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                87,
+                                                282,
+                                                288,
+                                                439
+                                            ],
+                                            "type": "image",
+                                            "content": "Four white electronic devices mounted on white rectangular bases, arranged in a row against a grid-patterned background (no visible text or symbols)",
+                                            "image_path": "1b1f2271da83b91f89aa94e1aed464b805e0e9fdff4057831dc5d8c38223ee42.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9,
+                    "sub_type": "natural_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        301,
+                        282,
+                        502,
+                        439
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                301,
+                                282,
+                                502,
+                                439
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        301,
+                                        282,
+                                        502,
+                                        439
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                301,
+                                                282,
+                                                502,
+                                                439
+                                            ],
+                                            "type": "image",
+                                            "content": "Four white cylindrical electronic devices with three black buttons, arranged on white rectangular bases (no visible text or symbols)",
+                                            "image_path": "6023789f72d91f9581854dbca1b3a25f86b806b769ec18e93364001e99343162.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10,
+                    "sub_type": "natural_image"
+                },
+                {
+                    "bbox": [
+                        46,
+                        460,
+                        547,
+                        475
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                46,
+                                460,
+                                547,
+                                475
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        46,
+                                        460,
+                                        547,
+                                        475
+                                    ],
+                                    "type": "text",
+                                    "content": "******************************报告结束******************************"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "merge_prev": false
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "3.1.6"
+}

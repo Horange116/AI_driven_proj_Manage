@@ -1,0 +1,1417 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        74,
+                        187,
+                        210,
+                        331
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                74,
+                                187,
+                                210,
+                                331
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        187,
+                                        210,
+                                        331
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                74,
+                                                187,
+                                                210,
+                                                331
+                                            ],
+                                            "type": "image",
+                                            "content": "Ø0.50±0.03\n①\n11.7\nA\nA\nØ6.50±0.10\n③",
+                                            "image_path": "168a9d9fbc87095632a44f83ec34cb45647f19d074f1a1e35dd334e8738235b3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        249,
+                        157,
+                        411,
+                        312
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                249,
+                                157,
+                                411,
+                                312
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        249,
+                                        157,
+                                        411,
+                                        312
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                249,
+                                                157,
+                                                411,
+                                                312
+                                            ],
+                                            "type": "image",
+                                            "content": "5.3\n3.8\n1.8\n1.8\n90°\n8.5\n②\n7.0±0.30\n2.30 螺距",
+                                            "image_path": "9cdfe244c207e607263f2d9823982a19a8ca828871dc623c3675981b1a2b855f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        461,
+                        156,
+                        527,
+                        225
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                461,
+                                156,
+                                527,
+                                225
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        461,
+                                        156,
+                                        527,
+                                        225
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                461,
+                                                156,
+                                                527,
+                                                225
+                                            ],
+                                            "type": "image",
+                                            "image_path": "0bf7351c93dd0a5794202cbf72e7028c961e5a9d0a4377d0a9b8d90587c8fd85.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        106,
+                        359,
+                        185,
+                        426
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                106,
+                                359,
+                                185,
+                                426
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        359,
+                                        185,
+                                        426
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                106,
+                                                359,
+                                                185,
+                                                426
+                                            ],
+                                            "type": "image",
+                                            "content": "Ø4.80\nØ3.00",
+                                            "image_path": "837eb1ddd54fd27f58950fa3a126eea014791c3cce66b99983533801efe09f38.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 5,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        283,
+                        347,
+                        309,
+                        373
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                283,
+                                347,
+                                309,
+                                373
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        283,
+                                        347,
+                                        309,
+                                        373
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                283,
+                                                347,
+                                                309,
+                                                373
+                                            ],
+                                            "type": "image",
+                                            "image_path": "7a620a7812e0ce977e7d808da20dc8bddf012f0bd5e7f630708e7f4ff61851a6.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        188,
+                        381,
+                        381,
+                        392
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                189,
+                                382,
+                                381,
+                                391
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        189,
+                                        382,
+                                        381,
+                                        391
+                                    ],
+                                    "type": "text",
+                                    "content": "请放在电池槽用力按弹簧顶端，不卡槽及无异响就OK",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        33,
+                        546,
+                        178,
+                        693
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                33,
+                                546,
+                                178,
+                                693
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        33,
+                                        546,
+                                        178,
+                                        693
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                33,
+                                                546,
+                                                178,
+                                                693
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">DTM\\LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt; 5</td><td>±0.03</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 5~15</td><td>±0.05</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 15~50</td><td>±0.05</td><td>±0.1</td><td>±0.2</td></tr><tr><td>&gt; 50~100</td><td>±0.08</td><td>±0.2</td><td>±0.3</td></tr><tr><td>≥100</td><td>±0.1%</td><td>±0.2%</td><td>±0.3%</td></tr><tr><td>ANGUL/R</td><td>±0.1°</td><td>±0.5°</td><td>±0.5°</td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\">B</td></tr></table>",
+                                            "image_path": "fb0bfaf8ee53f4da421589118020de1b3c09386cdb06d9b6a4efba4e969a6228.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                577,
+                                324,
+                                582
+                            ],
+                            "type": "table_footnote",
+                            "angle": 0,
+                            "index": 9,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        576,
+                                        325,
+                                        584
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                304,
+                                                576,
+                                                325,
+                                                584
+                                            ],
+                                            "type": "text",
+                                            "content": "技术要求：",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                583,
+                                366,
+                                588
+                            ],
+                            "type": "table_footnote",
+                            "angle": 0,
+                            "index": 10,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        582,
+                                        366,
+                                        589
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                303,
+                                                582,
+                                                366,
+                                                589
+                                            ],
+                                            "type": "text",
+                                            "content": "1、弹簧小径3.2MM，大径6.5mm，",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                589,
+                                374,
+                                594
+                            ],
+                            "type": "table_footnote",
+                            "angle": 0,
+                            "index": 11,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        588,
+                                        375,
+                                        594
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                304,
+                                                588,
+                                                375,
+                                                594
+                                            ],
+                                            "type": "text",
+                                            "content": "2、材料：线径0.5mm 镀镍不锈钢线。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                595,
+                                351,
+                                599
+                            ],
+                            "type": "table_footnote",
+                            "angle": 0,
+                            "index": 12,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        594,
+                                        351,
+                                        600
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                304,
+                                                594,
+                                                351,
+                                                600
+                                            ],
+                                            "type": "text",
+                                            "content": "3、弹簧要求能上锡焊接。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                600,
+                                358,
+                                604
+                            ],
+                            "type": "table_footnote",
+                            "angle": 0,
+                            "index": 13,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        600,
+                                        358,
+                                        605
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                304,
+                                                600,
+                                                358,
+                                                605
+                                            ],
+                                            "type": "text",
+                                            "content": "4、弹簧表面要求不能有油污。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                605,
+                                383,
+                                610
+                            ],
+                            "type": "table_footnote",
+                            "angle": 0,
+                            "index": 14,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        605,
+                                        383,
+                                        611
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                304,
+                                                605,
+                                                383,
+                                                611
+                                            ],
+                                            "type": "text",
+                                            "content": "5、未注公差尺寸按±0.2mm，角度按±2",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                611,
+                                373,
+                                615
+                            ],
+                            "type": "table_footnote",
+                            "angle": 0,
+                            "index": 15,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        610,
+                                        373,
+                                        616
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                304,
+                                                610,
+                                                373,
+                                                616
+                                            ],
+                                            "type": "text",
+                                            "content": "6、须过盐雾浓度为5%（±0.5%）24h",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                616,
+                                373,
+                                621
+                            ],
+                            "type": "table_footnote",
+                            "angle": 0,
+                            "index": 16,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        614,
+                                        374,
+                                        622
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                304,
+                                                614,
+                                                374,
+                                                622
+                                            ],
+                                            "type": "text",
+                                            "content": "7、弹簧在压缩5mm时,压力≥0.5kgf。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                622,
+                                362,
+                                626
+                            ],
+                            "type": "table_footnote",
+                            "angle": 0,
+                            "index": 17,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        621,
+                                        364,
+                                        627
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                304,
+                                                621,
+                                                364,
+                                                627
+                                            ],
+                                            "type": "text",
+                                            "content": "8、标示序号的尺寸为检验尺寸。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        32,
+                        694,
+                        562,
+                        841
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                32,
+                                694,
+                                562,
+                                841
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        694,
+                                        562,
+                                        841
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                32,
+                                                694,
+                                                562,
+                                                841
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td></td><td></td><td></td><td colspan=\"3\"></td><td></td><td></td><td rowspan=\"4\" colspan=\"2\">图名:正极弹簧</td><td rowspan=\"4\" colspan=\"5\">图号:PT5-M02</td></tr><tr><td></td><td></td><td></td><td colspan=\"3\"></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td colspan=\"3\"></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td colspan=\"3\"></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td colspan=\"3\"></td><td></td><td></td><td colspan=\"2\">P/No.:</td><td colspan=\"3\">阶段标记</td><td>单位</td><td>比例</td></tr><tr><td>1.0</td><td></td><td></td><td colspan=\"3\">量产管控</td><td>刘钊</td><td>190715</td><td rowspan=\"2\">关键尺寸*</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">A</td><td rowspan=\"2\"></td><td rowspan=\"2\">mm</td><td rowspan=\"2\">2:1</td></tr><tr><td>版本</td><td>标记</td><td>处数</td><td colspan=\"3\">更改描述</td><td>签名</td><td>日期</td></tr><tr><td colspan=\"2\">设计</td><td colspan=\"2\"></td><td>工艺</td><td colspan=\"3\"></td><td rowspan=\"3\" colspan=\"2\">材料:</td><td colspan=\"5\">共 张 第 张</td></tr><tr><td colspan=\"2\">审核</td><td colspan=\"2\"></td><td>标准化</td><td colspan=\"3\"></td><td rowspan=\"2\" colspan=\"5\">iHealth</td></tr><tr><td colspan=\"2\">批准</td><td colspan=\"2\"></td><td>批准</td><td colspan=\"3\"></td></tr></table>",
+                                            "image_path": "1c9e8e82b4ee84e6147f351669ec29ef530e1fc1bc2d543259ef8c4b180e5d95.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 19
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        36,
+                        1,
+                        71,
+                        12
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                35,
+                                0,
+                                73,
+                                13
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        35,
+                                        0,
+                                        73,
+                                        13
+                                    ],
+                                    "type": "text",
+                                    "content": "项目名称：",
+                                    "score": 0.975
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        97,
+                        2,
+                        134,
+                        12
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                2,
+                                136,
+                                12
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        2,
+                                        136,
+                                        12
+                                    ],
+                                    "type": "text",
+                                    "content": "PT5耳温计",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                595,
+                842
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        74,
+                        187,
+                        210,
+                        331
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                74,
+                                187,
+                                210,
+                                331
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        187,
+                                        210,
+                                        331
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                74,
+                                                187,
+                                                210,
+                                                331
+                                            ],
+                                            "type": "image",
+                                            "content": "Ø0.50±0.03\n①\n11.7\nA\nA\nØ6.50±0.10\n③",
+                                            "image_path": "168a9d9fbc87095632a44f83ec34cb45647f19d074f1a1e35dd334e8738235b3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        249,
+                        157,
+                        411,
+                        312
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                249,
+                                157,
+                                411,
+                                312
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        249,
+                                        157,
+                                        411,
+                                        312
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                249,
+                                                157,
+                                                411,
+                                                312
+                                            ],
+                                            "type": "image",
+                                            "content": "5.3\n3.8\n1.8\n1.8\n90°\n8.5\n②\n7.0±0.30\n2.30 螺距",
+                                            "image_path": "9cdfe244c207e607263f2d9823982a19a8ca828871dc623c3675981b1a2b855f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        461,
+                        156,
+                        527,
+                        225
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                461,
+                                156,
+                                527,
+                                225
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        461,
+                                        156,
+                                        527,
+                                        225
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                461,
+                                                156,
+                                                527,
+                                                225
+                                            ],
+                                            "type": "image",
+                                            "image_path": "0bf7351c93dd0a5794202cbf72e7028c961e5a9d0a4377d0a9b8d90587c8fd85.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        106,
+                        359,
+                        185,
+                        426
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                106,
+                                359,
+                                185,
+                                426
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        106,
+                                        359,
+                                        185,
+                                        426
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                106,
+                                                359,
+                                                185,
+                                                426
+                                            ],
+                                            "type": "image",
+                                            "content": "Ø4.80\nØ3.00",
+                                            "image_path": "837eb1ddd54fd27f58950fa3a126eea014791c3cce66b99983533801efe09f38.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 5,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        283,
+                        347,
+                        309,
+                        373
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                283,
+                                347,
+                                309,
+                                373
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        283,
+                                        347,
+                                        309,
+                                        373
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                283,
+                                                347,
+                                                309,
+                                                373
+                                            ],
+                                            "type": "image",
+                                            "image_path": "7a620a7812e0ce977e7d808da20dc8bddf012f0bd5e7f630708e7f4ff61851a6.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        188,
+                        381,
+                        381,
+                        392
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                189,
+                                382,
+                                381,
+                                391
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        189,
+                                        382,
+                                        381,
+                                        391
+                                    ],
+                                    "type": "text",
+                                    "content": "请放在电池槽用力按弹簧顶端，不卡槽及无异响就OK",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        33,
+                        546,
+                        178,
+                        693
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                33,
+                                546,
+                                178,
+                                693
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        33,
+                                        546,
+                                        178,
+                                        693
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                33,
+                                                546,
+                                                178,
+                                                693
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">DTM\\LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt; 5</td><td>±0.03</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 5~15</td><td>±0.05</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 15~50</td><td>±0.05</td><td>±0.1</td><td>±0.2</td></tr><tr><td>&gt; 50~100</td><td>±0.08</td><td>±0.2</td><td>±0.3</td></tr><tr><td>≥100</td><td>±0.1%</td><td>±0.2%</td><td>±0.3%</td></tr><tr><td>ANGUL/R</td><td>±0.1°</td><td>±0.5°</td><td>±0.5°</td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\">B</td></tr></table>",
+                                            "image_path": "fb0bfaf8ee53f4da421589118020de1b3c09386cdb06d9b6a4efba4e969a6228.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                577,
+                                324,
+                                582
+                            ],
+                            "type": "table_footnote",
+                            "angle": 0,
+                            "index": 9,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        576,
+                                        325,
+                                        584
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                304,
+                                                576,
+                                                325,
+                                                584
+                                            ],
+                                            "type": "text",
+                                            "content": "技术要求：",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                583,
+                                366,
+                                588
+                            ],
+                            "type": "table_footnote",
+                            "angle": 0,
+                            "index": 10,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        582,
+                                        366,
+                                        589
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                303,
+                                                582,
+                                                366,
+                                                589
+                                            ],
+                                            "type": "text",
+                                            "content": "1、弹簧小径3.2MM，大径6.5mm，",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                589,
+                                374,
+                                594
+                            ],
+                            "type": "table_footnote",
+                            "angle": 0,
+                            "index": 11,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        588,
+                                        375,
+                                        594
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                304,
+                                                588,
+                                                375,
+                                                594
+                                            ],
+                                            "type": "text",
+                                            "content": "2、材料：线径0.5mm 镀镍不锈钢线。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                595,
+                                351,
+                                599
+                            ],
+                            "type": "table_footnote",
+                            "angle": 0,
+                            "index": 12,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        594,
+                                        351,
+                                        600
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                304,
+                                                594,
+                                                351,
+                                                600
+                                            ],
+                                            "type": "text",
+                                            "content": "3、弹簧要求能上锡焊接。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                600,
+                                358,
+                                604
+                            ],
+                            "type": "table_footnote",
+                            "angle": 0,
+                            "index": 13,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        600,
+                                        358,
+                                        605
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                304,
+                                                600,
+                                                358,
+                                                605
+                                            ],
+                                            "type": "text",
+                                            "content": "4、弹簧表面要求不能有油污。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                605,
+                                383,
+                                610
+                            ],
+                            "type": "table_footnote",
+                            "angle": 0,
+                            "index": 14,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        605,
+                                        383,
+                                        611
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                304,
+                                                605,
+                                                383,
+                                                611
+                                            ],
+                                            "type": "text",
+                                            "content": "5、未注公差尺寸按±0.2mm，角度按±2",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                611,
+                                373,
+                                615
+                            ],
+                            "type": "table_footnote",
+                            "angle": 0,
+                            "index": 15,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        610,
+                                        373,
+                                        616
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                304,
+                                                610,
+                                                373,
+                                                616
+                                            ],
+                                            "type": "text",
+                                            "content": "6、须过盐雾浓度为5%（±0.5%）24h",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                616,
+                                373,
+                                621
+                            ],
+                            "type": "table_footnote",
+                            "angle": 0,
+                            "index": 16,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        614,
+                                        374,
+                                        622
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                304,
+                                                614,
+                                                374,
+                                                622
+                                            ],
+                                            "type": "text",
+                                            "content": "7、弹簧在压缩5mm时,压力≥0.5kgf。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                622,
+                                362,
+                                626
+                            ],
+                            "type": "table_footnote",
+                            "angle": 0,
+                            "index": 17,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        621,
+                                        364,
+                                        627
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                304,
+                                                621,
+                                                364,
+                                                627
+                                            ],
+                                            "type": "text",
+                                            "content": "8、标示序号的尺寸为检验尺寸。",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        32,
+                        694,
+                        562,
+                        841
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                32,
+                                694,
+                                562,
+                                841
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        694,
+                                        562,
+                                        841
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                32,
+                                                694,
+                                                562,
+                                                841
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td></td><td></td><td></td><td colspan=\"3\"></td><td></td><td></td><td rowspan=\"4\" colspan=\"2\">图名:正极弹簧</td><td rowspan=\"4\" colspan=\"5\">图号:PT5-M02</td></tr><tr><td></td><td></td><td></td><td colspan=\"3\"></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td colspan=\"3\"></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td colspan=\"3\"></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td colspan=\"3\"></td><td></td><td></td><td colspan=\"2\">P/No.:</td><td colspan=\"3\">阶段标记</td><td>单位</td><td>比例</td></tr><tr><td>1.0</td><td></td><td></td><td colspan=\"3\">量产管控</td><td>刘钊</td><td>190715</td><td rowspan=\"2\">关键尺寸*</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">A</td><td rowspan=\"2\"></td><td rowspan=\"2\">mm</td><td rowspan=\"2\">2:1</td></tr><tr><td>版本</td><td>标记</td><td>处数</td><td colspan=\"3\">更改描述</td><td>签名</td><td>日期</td></tr><tr><td colspan=\"2\">设计</td><td colspan=\"2\"></td><td>工艺</td><td colspan=\"3\"></td><td rowspan=\"3\" colspan=\"2\">材料:</td><td colspan=\"5\">共 张 第 张</td></tr><tr><td colspan=\"2\">审核</td><td colspan=\"2\"></td><td>标准化</td><td colspan=\"3\"></td><td rowspan=\"2\" colspan=\"5\">iHealth</td></tr><tr><td colspan=\"2\">批准</td><td colspan=\"2\"></td><td>批准</td><td colspan=\"3\"></td></tr></table>",
+                                            "image_path": "1c9e8e82b4ee84e6147f351669ec29ef530e1fc1bc2d543259ef8c4b180e5d95.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 19
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "3.1.6"
+}

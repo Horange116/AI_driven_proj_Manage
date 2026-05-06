@@ -1,0 +1,118 @@
+{
+  "format": "docreview-pdf-intake-flow-v1",
+  "generated_at": "2026-05-01T06:19:25.633821+00:00",
+  "source": "C:\\Users\\Administrator\\Documents\\New project\\DHF -梳理版\\09-设计输出\\PT9L-设计输出清单一\\设计输出清单一\\图纸\\PT9L-HFMP01 V1.0-带原理图.pdf",
+  "source_sha256": "773e68897686b07bf1f355a05c9f4be5112d91930ed594346ecdc307ec8c3a0b",
+  "run_root": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015",
+  "probe_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\probe.json",
+  "classification_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\classification.json",
+  "classification_ms": 0,
+  "classification": {
+    "pdf_type": "drawing",
+    "route": "vlm",
+    "template": "drawing",
+    "reason": "Probe router detected drawing/label filename; visual title blocks and artwork require VLM.",
+    "must_preserve": [
+      "title block",
+      "drawing text",
+      "visual layout"
+    ],
+    "risk": [
+      "probe route based partly on filename"
+    ],
+    "confidence": "high",
+    "classifier": "probe",
+    "needs_vlm_supplement": false
+  },
+  "route_result": {
+    "route": "vlm",
+    "page_count": 10,
+    "processed_pages": 10,
+    "page_results": [
+      {
+        "page": 1,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\pages\\page-001.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\page-001-vlm.md",
+        "elapsed_ms": 32543,
+        "chars": 2031,
+        "required_sections_present": true
+      },
+      {
+        "page": 2,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\pages\\page-002.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\page-002-vlm.md",
+        "elapsed_ms": 81292,
+        "chars": 5649,
+        "required_sections_present": true
+      },
+      {
+        "page": 3,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\pages\\page-003.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\page-003-vlm.md",
+        "elapsed_ms": 47247,
+        "chars": 2818,
+        "required_sections_present": true
+      },
+      {
+        "page": 4,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\pages\\page-004.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\page-004-vlm.md",
+        "elapsed_ms": 46242,
+        "chars": 2844,
+        "required_sections_present": true
+      },
+      {
+        "page": 5,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\pages\\page-005.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\page-005-vlm.md",
+        "elapsed_ms": 41045,
+        "chars": 2437,
+        "required_sections_present": true
+      },
+      {
+        "page": 6,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\pages\\page-006.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\page-006-vlm.md",
+        "elapsed_ms": 50291,
+        "chars": 3370,
+        "required_sections_present": true
+      },
+      {
+        "page": 7,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\pages\\page-007.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\page-007-vlm.md",
+        "elapsed_ms": 65790,
+        "chars": 3252,
+        "required_sections_present": true
+      },
+      {
+        "page": 8,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\pages\\page-008.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\page-008-vlm.md",
+        "elapsed_ms": 55482,
+        "chars": 2670,
+        "required_sections_present": true
+      },
+      {
+        "page": 9,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\pages\\page-009.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\page-009-vlm.md",
+        "elapsed_ms": 39339,
+        "chars": 2607,
+        "required_sections_present": true
+      },
+      {
+        "page": 10,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\pages\\page-010.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\page-010-vlm.md",
+        "elapsed_ms": 89692,
+        "chars": 4903,
+        "required_sections_present": true
+      }
+    ],
+    "combined_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-HFMP01-V1-0-带原理图-20260501T141015\\combined-visual-transcript.md",
+    "all_required_sections_present": true,
+    "elapsed_ms": 549963
+  },
+  "elapsed_ms": 550491
+}

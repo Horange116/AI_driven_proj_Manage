@@ -1,0 +1,181 @@
+[
+    [
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">软件质量策划</text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">（V1.0）</text>"
+        },
+        {
+            "type": "text",
+            "content": "产 品 型 号：<text style=\"underline\">       PT9L       </text>"
+        },
+        {
+            "type": "text",
+            "content": "项 目 编 号：<text style=\"underline\">   30000078  </text>"
+        },
+        {
+            "type": "text",
+            "content": "产品/项目名称：<text style=\"underline\">   红外体温计     </text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">编    制</text><text style=\"italic\">（软件工程师）</text><text style=\"underline\">                        年   月   日</text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">审    核</text><text style=\"italic\">（软 件主 管）</text><text style=\"underline\">                        年   月   日</text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">批    准</text><text style=\"italic\">（技术负责人）</text><text style=\"underline\">                        年   月   日 </text>"
+        },
+        {
+            "type": "header",
+            "content": "文件编号：<text style=\"underline\"> PT9L-RJCH01 </text>V1.0                                               软件质量策划"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">历史版本记录</text>"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>更改日期</strong></p></td><td><p><strong>版本描述</strong></p></td><td><p><strong>版本</strong></p></td><td><p><strong>更改人</strong></p></td><td><p><strong>批准人</strong></p></td></tr><tr><td><p>1</p></td><td><p>2024.1.31</p></td><td><p>起草</p></td><td><p>V1.0</p></td><td><p>王迪</p></td><td><p>侯广伟</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+        },
+        {
+            "type": "header",
+            "content": "文件编号：<text style=\"underline\"> PT9L-RJCH01 </text>V1.0                                               软件质量策划"
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "attribute": "ordered",
+            "content": [
+                {
+                    "type": "text",
+                    "content": "<text style=\"bold\">质量策划概要</text>"
+                }
+            ],
+            "ilevel": 0
+        },
+        {
+            "type": "text",
+            "content": "本计划作为软件部分的设计和开发策划的结束，识别了必要的任务、阶段，规定了人员职责、必要的资源支持、相关评审要求、各阶段接收准则、软件配置管理要求以及异常报告和解决程序等内容。本软件质量策划在软件生命周期策划部分中包含了软件确认计划相关内容。"
+        },
+        {
+            "type": "list",
+            "attribute": "ordered",
+            "content": [
+                {
+                    "type": "text",
+                    "content": "<text style=\"bold\">产品介绍</text>"
+                }
+            ],
+            "ilevel": 0
+        },
+        {
+            "type": "text",
+            "content": "产品型号：<text style=\"underline\">PT9L </text>"
+        },
+        {
+            "type": "list",
+            "attribute": "ordered",
+            "content": [
+                {
+                    "type": "text",
+                    "content": "<text style=\"bold\">设计输入要求</text>"
+                }
+            ],
+            "ilevel": 0
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p>序号</p></td><td><p>类别</p></td><td><p>引用表单</p></td><td><p>引用项目序号</p></td></tr><tr><td><p>1</p></td><td><p>功能要求</p></td><td><p>《设计输入-功能部分》</p><p>(PT9L-SRGN01 V1.0)</p></td><td><p>全项</p></td></tr><tr><td><p>2</p></td><td><p>温度显示范围</p></td><td><p>《设计输入-性能规格部分》</p><p>(PT9L-SRXN01 V1.0)</p></td><td><p>1</p></td></tr><tr><td><p>3</p></td><td><p>显示分辨率</p></td><td><p>《设计输入-性能规格部分》</p><p>(PT9L-SRXN01 V1.0)</p></td><td><p>2</p></td></tr><tr><td><p>4</p></td><td><p>准确度</p></td><td><p>《设计输入-性能规格部分》</p><p>(PT9L-SRXN01 V1.0)</p></td><td><p>3</p></td></tr><tr><td><p>5</p></td><td><p>工作环境</p></td><td><p>《设计输入-性能规格部分》</p><p>(PT9L-SRXN01 V1.0)</p></td><td><p>4</p></td></tr><tr><td><p>6</p></td><td><p>存储环境</p></td><td><p>《设计输入-性能规格部分》</p><p>(PT9L-SRXN01 V1.0)</p></td><td><p>5</p></td></tr><tr><td><p>7</p></td><td><p>其他</p></td><td><p>无</p></td><td><p>--</p></td></tr></table>"
+        },
+        {
+            "type": "list",
+            "attribute": "ordered",
+            "content": [
+                {
+                    "type": "text",
+                    "content": "<text style=\"bold\">软件风险分析：</text>"
+                }
+            ],
+            "ilevel": 0
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">软件相关的风险分析已经在设计输入前的风险评价时进行，具体见《</text>风险评价报告V1.0<text style=\"bold\">》(PT9L-FXPJ01 V1.0)。</text>"
+        },
+        {
+            "type": "list",
+            "attribute": "ordered",
+            "content": [
+                {
+                    "type": "text",
+                    "content": "<text style=\"bold\">软件生命周期策划及软件确认计划</text>"
+                }
+            ],
+            "ilevel": 0
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p>阶段</p></td><td><p>主要工作内容</p></td><td><p>人员职责</p></td><td><p>输出文件</p></td><td><p>输出文件要求</p></td><td><p>相关评审</p></td><td><p>软件确认接收准则</p></td></tr><tr><td><p>设计输入阶段</p></td><td><p>将客户需求转变为明确的、可以用分客观方法进行验证的设计输入要求；设计输入需考虑产品功能、性能、符合的标准、生产组装、维修保养、包装、标识等要求；</p></td><td><p>软件工程师拟制产品的设计输入“功能规格部分”，软件主管审核；</p></td><td><p>《PT9L设计输入 功能规格部分》</p></td><td><p>设计输入“功能规格部分”应该包含实现预期用途和用户需要所需的软件需求；</p><p>需保证设计输入是充足和适宜的，无不完善、含糊或矛盾之处。</p></td><td><p>设计输入评审</p></td><td><p>设计输入应按照评设计输入审计划进行评审，并得到批准。</p></td></tr><tr><td rowspan=\"2\"><p>设计策划阶段</p></td><td><ol><li>识别与软件确认相关的任务和活动，形成本质量策划</li></ol></td><td><p>软件工程师负责拟制软件质量策划；软件主管负责审核；技术负责人负责批准软件质量策划。</p></td><td><p>《软件质量策划》</p></td><td><p>软件质量策划需包括软件质量参数、软件确认计划、软件风险分析、问题报告及解决程序、软件版本管理要求等；</p></td><td><p>软件质量策划评审</p></td><td><p>软件质量策划应按照设计软件质量策划评审计划进行评审，并得到批准。</p></td></tr><tr><td><ol><li>根据设计输入汇总、整理《软件需求规格书》</li></ol></td><td><p>软件工程师负责拟制软件需求规格书；软件主管负责审核软件需求规格书；技术负责人负责批准软件需求规格书。</p></td><td><p>《软件需求规格书》</p></td><td><p>软件需求规格书需包括存储器容量、软件系统的信号输入、信号输出、软件系统将要实现的功能、性能要求、人机接口及软件与系统内部接口、错误描述、响应时间、软件的预期运行环境、软件接受的阈值或特殊值、软件与安全相关的要求、软件测试规划等。</p></td><td><p>软件需求评审</p></td><td><p>软件需求规格书应按照软件需求评审计划进行评审，并得到批准</p></td></tr><tr><td rowspan=\"3\"><p>设计开发阶段</p></td><td><p>1、根据设计输入和《软件需求规格书》进行软件方案设计</p></td><td><p>软件工程师负责进行软件方案设计；软件主管负责审核；技术负责人负责批准。</p></td><td><p>《软件设计方案》</p></td><td><p>软件设计方案应满足设计输入和软件需求规格书的要求;应至少包含软件运行环境、软件总体方案、软件设计规格、软、硬件接口、降低风险的措施等方面的软件设计方案。</p></td><td><p>软件设计方案评审</p></td><td><p>软件设计方案应按照评审计划进行评审，并得到批准</p></td></tr><tr><td><p>2、根据设计输入、软件需求规格、软件方案设计流程图</p></td><td><p>软件工程师负责产品软件流程图的设计和输出；软件主管负责审核；技术负责人负责批准。</p></td><td><p>《软件流程图》</p></td><td><p>应详细描述、规定了软件总体方案的各部分的软件执行流程。</p></td><td><p>软件流程图及通信协议评审</p></td><td><p>软件流程图应按照评审计划进行评审，并得到批准</p></td></tr><tr><td><p>3、根据软件设计方案和软件流程图软件编码和调试，并输出软件代码文件。</p></td><td><p>软件工程师具体实施并输出软件代码、目标代码、语音代码文件、EEPROM配置文件等软件代码文件，软件主管负责审核；技术负责人负责批准。</p></td><td><p>软件代码、目标代码、语音代码文件、EEPROM配置文件</p></td><td><p>输出文件应有版本，有审核、批准签字</p></td><td><p>软件代码文件审核</p></td><td><p>软件代码、目标代码、语音代码文件、EEPROM配置文件等输出需要审核，测试通过后需要批准</p></td></tr><tr><td rowspan=\"3\"><p>验证测试阶段</p></td><td><p>根据设计输入、软件需求规格、软件方案、流程图拟制测试计划</p></td><td><p>软件工程师负责拟制软件测试计划；软件主管负责审核；技术负责人负责批准软件测试计划。</p></td><td><p>《软件测试计划》</p></td><td><p>测试计划应包含测试阶段、人员职责、测试设备、测试说明、评价准则</p></td><td><p>软件测试计划审核</p></td><td><p>软件计划在执行前应得到审核和批准，批准信息要包括审核人、批准人签字和审核、批准日期。测试记录应包含测试是否通过的结论，要经过审核并签字。</p></td></tr><tr><td><ol><li>对软件子程序进行测试</li></ol></td><td><p>软件工程师负责子程序测试并形成记录；软件主管负责审核子程序测试记录。</p></td><td><p>《子程序测试记录》</p></td><td><p>子程序测试应记录测试结果和测试结论。</p></td><td><p>子程序测试记录审核</p></td><td><p>测试应按照测试计划进行测试，并得到批准</p></td></tr><tr><td><ol><li>软件子程序测试完成后，进行系统测试</li></ol></td><td><p>软件工程师负责软件系统测试并形成记录；软件主管负责审核软件系统测试记录；技术负责人负责审核软件系统测试记录。</p></td><td><p>《软件测试报告》</p></td><td><p>系统测试应记录测试结果和测试结论。</p></td><td><p>系统测试记录审核</p></td><td><p>测试应按照测试计划进行测试，并得到批准</p></td></tr><tr><td><p>设计更改</p></td><td><ol><li>设计更改需求、方案评估并实施；</li><li>评价设计更改后的风险控制及评价</li></ol></td><td><ol><li>软件工程师具体实施</li></ol><p>2、软件工程师配合风险管理小组进行</p></td><td><p>相关设计更改记录；</p><p>设计更改后风险控制措施验证及剩余风险评价报告</p></td><td><p>具体参见要求参见“设计开发计划”中“设计更改”部分要求</p></td><td><p>设计更改相关评审；剩余风险评价</p></td><td><p>按照设计更改计划进行变更设计，完成设计更改验证和确认，及风险控制和评价</p></td></tr><tr><td rowspan=\"2\"><p>设计确认阶段</p></td><td><p>1、拟制用户现场测试计划</p></td><td><p>软件工程师拟制用户现场测试计划，软件主管负责审核；技术负责人负责批准用户现场测试计划。</p></td><td><p>《用户现场测试》</p></td><td><p>用户现场测试应包含测试方法、测试要求、测试流程、接收准则</p><p>等。</p></td><td><p>用户现场测试计划评审</p></td><td><p>用户现场测试计划应文件化，应在设计确认活动前评审、批准。</p></td></tr><tr><td><p>2、进行用户现场测试</p></td><td><p>项目负责人负责组织进行用户现场测试，并做记录；</p></td><td><p>用户现场测试报告</p></td><td><p>用户现场测试报告应包含用户自行实现预期用途方面、用户对于使用感受方面、测试异常情况、风险方面的总结</p></td><td><p>用户现场测试报告审核</p></td><td><p>用户现场测试记录应按用户现场测试计划进行，测试报告应体现测试结果符合计划中的接收准则。</p></td></tr><tr><td><p>维护</p></td><td><p>目标代码在生产过程中固化在产品内的MCU后无需软件维护。</p></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+        },
+        {
+            "type": "list",
+            "attribute": "ordered",
+            "content": [
+                {
+                    "type": "text",
+                    "content": "<text style=\"bold\">软件版本管理要求</text>"
+                }
+            ],
+            "ilevel": 0
+        },
+        {
+            "type": "text",
+            "content": "本软件是基于单片机系统的、结构相对简单的软件设计，不涉及操作系统，软件的总体机器代码量不得超过60Kbytes。开发设计过程由一名软件工程师负责，其他工程师仅参与评审和测试等任务活动，因此针对软件配置管理方面，做下述版本管理要求："
+        },
+        {
+            "type": "text",
+            "content": "A在软件测试或提交评审前，应确定其版本号;"
+        },
+        {
+            "type": "text",
+            "content": "B所有测试报告应与相应软件版本相对应;"
+        },
+        {
+            "type": "text",
+            "content": "C若有软件更新，则应更新软件版本编号;"
+        },
+        {
+            "type": "list",
+            "attribute": "ordered",
+            "content": [
+                {
+                    "type": "text",
+                    "content": "<text style=\"bold\">问题报告与解决程序：</text>"
+                }
+            ],
+            "ilevel": 0
+        },
+        {
+            "type": "text",
+            "content": "测试人员，测试软件过程中发现错误后，修改软件代码，完成修改后需要对程序进行再次测试。"
+        },
+        {
+            "type": "header",
+            "content": "文件编号：<text style=\"underline\"> PT9L-RJCH01 </text>V1.0                                                                                                     软件质量策划"
+        },
+        {
+            "type": "footer",
+            "content": "第 1 页 共 4 页                                                          "
+        }
+    ]
+]

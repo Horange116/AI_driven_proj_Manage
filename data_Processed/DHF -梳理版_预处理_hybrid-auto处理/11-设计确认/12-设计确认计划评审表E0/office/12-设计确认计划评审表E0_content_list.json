@@ -1,0 +1,55 @@
+[
+    {
+        "type": "text",
+        "text": "**设计确认计划评审表**",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><tr><td><p><strong>产品型号： PT9L         项目编号：30000078       产品/项目名称：红外体温计</strong></p></td></tr><tr><td><p><strong>参加评审人员：</strong><em>（（在适用的选项前□内划√，横线上填写姓名，不适用选项空白）</em></p><p>□技术总监                  ☑技术负责人      侯广伟      ☑项目负责人      王迪龙   </p><p>☑结构主管    侯广伟        ☑硬件主管      侯广伟      ☑软件主管    侯广伟       </p><p>□结构工程师                  □硬件工程师                  □软件工程师                </p><p>□风险工程师                  ☑认证工程师      王艳红      □物料工程师                 </p><p>☑客户代表      赵一平      □用户代表                    ☑具有医学背景人员    高克俭     </p><p>☑对本阶段不负直接责任人员   谢雪   □销售及服务人员              </p><p> </p></td></tr><tr><td><p><strong>人员职责:</strong></p><p>技术负责人\t\t      从产品的相关视角评审确认活动的正确性、完整性                 </p><p>项目负责人：\t\t      组织设计确认评审，并形成评审记录                             </p><p>结构主管/结构工程师：\t\t结构相关确认的审核与评审                                     </p><p>硬件主管/硬件工程师：\t\t硬件相关确认的审核与评审                                     </p><p>软件主管<a></a>/软件工程师：\t\t软件相关确认的审核与评审                                                                           </p><p>客户代表：\t\t          从客户的视角评审确认活动的正确性、完整性                                          </p><p>具有医学背景人员：\t      从医护的视角评审确认活动的正确性、完整性                     </p><p>对本阶段不负直接责任的人员：   从不同的视角评审确认活动的正确性、完整性，以保持评审的独立性 </p><p>认证工程师：\t\t      从认证和风险的视角评审确认活动的正确性、完整性                      </p></td></tr><tr><td><p><strong>接收准则：</strong></p><p>如果评审内容中，各项的回答都是肯定的，则评审通过，否则，评审不通过。</p></td></tr><tr><td><p><strong>评审时间：</strong>       年   月   日   时   分<strong>  评审地点：</strong>  二楼会议室　　　　　　　　　　　　  </p></td></tr></table>",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**申请人***(结构工程师)***：**<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>**审核***(结构主管)***：**<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>**批准***(技术负责人)***：**<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u><u>**&nbsp;&nbsp;&nbsp;**</u>",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "     <u>年  月  日                        年  月  日                           年  月  日</u>",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**评审内容：**",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><tr><td><p>1.“规定的确认内容是否恰当合理、有无缺失 ”评审意见</p><p>    规定的确认内容恰当合理、无缺失                                                                                     </p></td></tr><tr><td><p>2. “安排的确认活动的时间是否合理 ”评审意见</p><p>     安排的确认活动的时间合理                                                       </p></td></tr><tr><td><p>3. “规定的确认方法是否明确、合理”评审意见</p><p>     规定的确认方法明确、合理                                             </p><p> </p></td></tr><tr><td><p>4. “安排的工作人员的职责和权限是否清晰”评审意见</p><p>    安排的工作人员的职责和权限清晰                                              </p><p> </p></td></tr><tr><td><p>5. “安排的资源是否充足”评审意见</p><p>     安排的资源充足                                                               </p></td></tr><tr><td><p>6. “组织技术接口是否恰当”评审意见</p><p>    组织技术接口恰当                                                           </p></td></tr><tr><td><p>7.“规定的接收准则是否合理”评审意见</p><p>    规定的接收准则合理                                                             </p></td></tr><tr><td></td></tr><tr><td><p>评审小组意见：本次评审通过_____________________________________________________________ </p><p>         ________________________________________________________________________________</p><p>         ________________________________________________________________________________</p></td></tr></table>",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**评审人员签字：***（打印前填写职务、部门、姓名，需与确定参加评审的人员一致）*",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><tr><td><p>序号</p></td><td><p>职务</p></td><td><p>部门</p></td><td><p>姓名</p></td><td><p>签名</p></td><td><p>日期</p></td></tr><tr><td><p>1</p></td><td><p>技术负责人</p></td><td><p>智能产品部</p></td><td><p>侯广伟</p></td><td></td><td><p>         年   月   日</p></td></tr><tr><td><p>2</p></td><td><p>结构主管</p></td><td><p>智能产品部</p></td><td><p>侯广伟</p></td><td></td><td><p>         年   月   日</p></td></tr><tr><td><p>3</p></td><td><p>硬件主管</p></td><td><p>智能产品部</p></td><td><p>侯广伟</p></td><td></td><td><p>         年   月   日</p></td></tr><tr><td><p>4</p></td><td><p>软件主管</p></td><td><p>智能产品部</p></td><td><p>侯广伟</p></td><td></td><td><p>         年   月   日</p></td></tr><tr><td><p>5</p></td><td><p>项目负责人</p></td><td><p>智能产品部</p></td><td><p>王迪龙</p></td><td></td><td><p>年   月   日</p></td></tr><tr><td><p>6</p></td><td><p>客户代表</p></td><td><p>智能产品部</p></td><td><p>赵一平</p></td><td></td><td><p>年   月   日</p></td></tr><tr><td><p>7</p></td><td><p>具有医学背景人员</p></td><td><p>外聘</p></td><td><p>高克俭</p></td><td></td><td><p>         年   月   日</p></td></tr><tr><td><p>8</p></td><td><p>对本阶段不负直接责任的人员</p></td><td><p>智能产品部</p></td><td><p>谢雪</p></td><td></td><td><p>         年   月   日</p></td></tr><tr><td><p>9</p></td><td><p>认证工程师</p></td><td><p>认证检测中心</p></td><td><p>王艳红</p></td><td></td><td><p>         年   月   日</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"6\"><p><strong>评审结论：</strong><em>（在适用的选项前□内划√，不适用选项空白）</em></p><p>□确认计划适当、完整、可行，按计划进行可保证使用需求或预期目的符合性确认，评审通过，可开始确认活动；</p><p>□确认计划有严重缺陷，按计划进行不可保证使用需求或预期目的符合性确认，评审不通过</p><p><strong>                                             批准</strong><em>(技术负责人)</em><strong>：</strong> <strong> </strong>        年  月  日</p></td></tr></table>",
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "文件编号：  <u>PT9L-QJPB01</u> V1.0                                   设计确认计划评审表 ",
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "第 1 页 / 共 3 页                                           ",
+        "page_idx": 0
+    }
+]

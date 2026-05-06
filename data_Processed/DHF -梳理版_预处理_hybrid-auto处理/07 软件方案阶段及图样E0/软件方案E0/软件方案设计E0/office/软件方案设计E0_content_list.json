@@ -1,0 +1,208 @@
+[
+    {
+        "type": "text",
+        "text": "**软件设计方案**",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**（V1.0）**",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "产 品 型 号：      <u>PT9L</u>      ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "项 目 编 号：  <u>30000078</u>   ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "产品/项目名称：   <u>红外体温计</u>     ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**编    制***（软件工程师）*                        <u>年   月   日</u>",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**审    核***（软 件主 管）*                        <u>年   月   日</u>",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**批    准***（技术负责人）*                        <u>年   月   日</u>",
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "文件编号： <u>PT9L-RJFA 01</u>  V1.0                                    软件设计方案",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**历史版本记录**",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>修改日期</strong></p></td><td><p><strong>修改描述</strong></p></td><td><p><strong>版本</strong></p></td><td><p><strong>编制</strong></p></td><td><p><strong>批准</strong></p></td></tr><tr><td><p>01</p></td><td><p>2024.2.2</p></td><td><p>起草</p></td><td><p>V1.0</p></td><td><p>王迪</p></td><td><p>侯广伟</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "文件编号： <u>PT9L-RJFA 01</u>  V1.0                                    软件设计方案",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "**1引言**",
+        "text_level": 1,
+        "page_idx": 2,
+        "anchor": "_Toc283668855"
+    },
+    {
+        "type": "text",
+        "text": "**1.1编写目的**",
+        "text_level": 2,
+        "page_idx": 2,
+        "anchor": "_Toc283668856"
+    },
+    {
+        "type": "text",
+        "text": "编写本文档的目的在于描述PT9L型红外体温计的设计方案。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文档的读者至少应该熟悉单片机系统及其软件开发方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "**1.2参考资料**",
+        "text_level": 2,
+        "page_idx": 2,
+        "anchor": "_Toc283668857"
+    },
+    {
+        "type": "text",
+        "text": "《PT9L设计输入》(PT9L-SJSR01 V1.0)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "《PT9L软件质量策划》(PT9L-RJCH01 V1.0)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "《PT9L软件需求规格》(PT9L-RJXQ01 V1.0)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "**2总体设计**",
+        "text_level": 1,
+        "page_idx": 2,
+        "anchor": "_Toc283668858"
+    },
+    {
+        "type": "text",
+        "text": "**2.1运行环境**",
+        "text_level": 2,
+        "page_idx": 2,
+        "anchor": "_Toc283668860"
+    },
+    {
+        "type": "text",
+        "text": "软件的预期运行环境：单片机系统 simBH67F2762",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "**2.2软件总体方案**",
+        "text_level": 2,
+        "page_idx": 2,
+        "anchor": "_Toc283668861"
+    },
+    {
+        "type": "text",
+        "text": "软件总体设计方案如下图所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/688c19b39b309c63ef46822e2a615312543fbf6f62c0873da29e90b7fe31953d.jpg",
+        "image_caption": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本软件流程图以一个主流程图作为总纲，明确了该机型的几个主要功能模块及其人机接口方式。各模块各作为子流程进行设计，其中：",
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "list_items": [
+            "1. 用户测量流程：单片机ADC采集外部NTC、红外传感器的环境温度和物体温度，当环境温度在允许测量范围以内,采集红外传感器的温度值并优化，通过环境温度值和物体温度值计算出人体实际的温度值，",
+            "2. 黑体测试流程：单片机ADC采集红外传感器的环境温度和物体温度，并通过补偿算法得出黑体的温度（不转化为人体体温）并进行显示。本模式用于检查机器能否测得正确的物体温度。",
+            "3. UE模式：UE模式下对传感器的值进行实时读取与显示，包括电池电压、内部NTC的温度值、阻值、红外传感器电压、AD值，按下按键，切换采集的参数。",
+            "4. UE2模式：UE2模式下，单片机读取EEPROM中保存的标定和校准参数，以及软件版本信息和硬件版本信息，并进行显示。按下按键，切换显示的参数。",
+            "5. 邦定检测：为工厂对机芯进行检测的状态，在该状态下能够对单片机的IO邦定，电路板元器件的焊接进行检测，在检测完成后，相应标志位进行设置并保存入EEPROM。"
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3. **2.3软件设计规格**",
+        "text_level": 2,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><tr><td><p>序号</p></td><td><p>软件设计规格</p></td><td><p>实现方法</p></td></tr><tr><td><p>1</p></td><td><p>初始化功能</p></td><td><p>1.首次上电或被唤醒后，初始化全局变量、IO、时钟，LCD </p><p>2. MCU系统功能初始化，配置相关模块和功能设置,读取EEPROM存储信息</p></td></tr><tr><td><p>2</p></td><td><p>关机功能</p></td><td><p>1.当完成测量后，启动定时器计时，当达15秒后关闭外设，同时单片机进入低功耗状态；期间如果有测量动作则重新计时</p><p>2. 模式设置界面，设置完成后，没有按键按下，机器会在3秒后自动关机</p></td></tr><tr><td><p>3</p></td><td><p>LCD显示功能</p></td><td><ol><li>首次上电后，LCD全屏显示3秒；</li><li>测量完成后，LCD显示测量温度结果，单位，电量，等信息</li><li>结合测试结果给出发烧提示，用背光颜色区分</li></ol></td></tr><tr><td><p>4</p></td><td><p>蜂鸣器提示功能</p></td><td><ol><li>在首次上电时，蜂鸣器长鸣；</li><li>LCD显示测量结果时，成功长鸣，发烧连续四次短鸣；</li><li>模式设置界面，选择时短鸣，确认后长鸣</li></ol></td></tr><tr><td><p>5</p></td><td><p>低电压检测功能</p></td><td><ol><li>如果电源电压 2.5V – 2.7V时，LCD能提示低电压并保存低电状态，直至下次重新上电后再检测；</li><li>如果电源电压小于2.5V时，LCD提示超低电压后关机，一直保存此状态，直至下次重新上电后再检测；</li></ol></td></tr><tr><td><p>6</p></td><td><p>测量模式设置功能</p></td><td><p>1.在开机状态下，短按设置按键，切换测量模式</p><p>2.按下测量按键，保存当前模式，并完成一次测量；</p><p>3.选择完成后，15s没有操作，进入关机状态；</p></td></tr><tr><td><p>7</p></td><td><p>单位切换功能</p></td><td><p>长按测量按键8秒后，出现单位图标闪烁，短按测量按键切换单位，选好后长按2秒，图标停止闪烁，3秒后关机；如果进入设置后无按键操作，15秒关机</p></td></tr><tr><td><p>8</p></td><td><p>测量功能</p></td><td><p>单片机检测到按键按下后，单片机读取ADC采集数据, 在深度测量模式下，单片机连续读取ADC采集数据，直到测量时间结束，通过计算得出温度值，在屏幕显示结果，并且蜂鸣器提示 </p></td></tr><tr><td><p>9</p></td><td><p>错误显示功能</p></td><td><p>1.当环境温度超出10~40℃，LCD闪烁显示“Err”</p><p>2.测温大于42.9℃，或小于32℃提示”---℃”，不显示结果</p></td></tr><tr><td><p>10</p></td><td><p>记忆功能</p></td><td><p>1.每次测量成功，把数据保存到EEPROM,同时也保存测量模式等信息</p><p>2.长按设置按键3秒进入记忆查看模式，且只能查看之前测量模式下对应的记忆数据，如果想查看其他模式记忆，需要退出记忆后切换测量模式再查看</p><p>3.关机状态下，同时长按测量键和设置键8秒，可清空记忆</p></td></tr></table>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4. **2.4软、硬件接口方案**",
+        "text_level": 2,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><tr><td><p>功能描述</p></td><td><p>引脚配置</p></td></tr><tr><td><p><strong>按键</strong></p></td><td><p>Pin45，Pin40</p></td></tr><tr><td><p><strong>蜂鸣器</strong></p></td><td><p>Pin38</p></td></tr><tr><td><p><strong>LCD显示</strong></p></td><td><p>Pin8~Pin25</p></td></tr><tr><td><p><strong>红外传感器接口</strong></p></td><td><p>Pin3、Pin4</p></td></tr><tr><td><p><strong>LCD背光驱动接口</strong></p></td><td><p>Pin35，Pin36，Pin39</p></td></tr><tr><td><p><strong>NTC采样</strong></p></td><td><p>Pin42</p></td></tr><tr><td><p><strong>电池电量采集</strong></p></td><td><p>Pin41</p></td></tr><tr><td><p><strong>静音开关接口</strong></p></td><td><p>Pin44</p></td></tr></table>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "**2.5降低风险的措施方案**",
+        "text_level": 2,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><thead><tr><th><p>危害（Hazard）</p></th><th><p>危害处境</p></th><th><p>措施方案</p></th></tr><tr><th><p>显示信息不明确</p></th><th><p>患者、操作者将显示的信息理解错误</p></th><th><p>软件对显示功能做测试，说明书解释显示的信息</p></th></tr><tr><th><p>不正确的算法</p></th><th><p>患者、操作者使用了算法不正确的设备</p></th><th><p>软件发布前进行算法验证</p></th></tr><tr><th><p>不正确的测试结果存储，包括结果分组和时间的对应</p></th><th><p>患者、操作者查询错误的记忆值</p></th><th><p>软件对记忆功能做测试</p></th></tr></thead></table>",
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "文件编号： <u>PT9L-RJFA 01</u>  V1.0                                    软件设计方案",
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "第 1 页 / 共 4 页                                   ",
+        "page_idx": 2
+    }
+]

@@ -1,0 +1,563 @@
+[
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/b9fda7d60aa51387440e17999dddf591d0c076ae3213d85ea70f6391316f0d4d.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>6</td><td></td><td>3</td><td></td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>ABS</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>5</td><td></td><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>X</td><td></td><td>Part name</td><td>支架</td></tr><tr><td>4</td><td></td><td>1</td><td></td><td>初版制作</td><td>2021.07.15</td><td>Checkkup</td><td></td><td>.XX</td><td></td><td>Scale</td><td>2:1 Drawing NO.</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Unit/s</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                0,
+                0,
+                117,
+                998
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "uopup "
+                    }
+                ]
+            },
+            "bbox": [
+                934,
+                23,
+                964,
+                74
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2786aec7404e782a9f2fabd9c5ebe0a0f7421da98df1ce92a8e657e123c4d9f3.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a fill-in-the-blank placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth. "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\overline{\\varepsilon}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "— "
+                    },
+                    {
+                        "type": "text",
+                        "content": "- 0.17±0.03 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "— "
+                    },
+                    {
+                        "type": "text",
+                        "content": "S\n—\n—"
+                    },
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "C. 2017 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "6. 1910 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "。"
+                    },
+                    {
+                        "type": "text",
+                        "content": "N\nII\nIII "
+                    },
+                    {
+                        "type": "text",
+                        "content": "∀\n≡\n∈ "
+                    },
+                    {
+                        "type": "text",
+                        "content": "√-\nF "
+                    },
+                    {
+                        "type": "text",
+                        "content": "• "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "⑧ "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\overline{\\phi}"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\overline{z} \\phi"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\overline{z} \\tau"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{3}{12}"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{04}{60^{\\circ}C}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "50 s "
+                    },
+                    {
+                        "type": "text",
+                        "content": "1.5±0.05 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "= "
+                    },
+                    {
+                        "type": "text",
+                        "content": "A\nV\nV\nV\n① "
+                    },
+                    {
+                        "type": "text",
+                        "content": "15 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "——\n——\n——\n——\n——\n——\n——\n——\n—— "
+                    },
+                    {
+                        "type": "text",
+                        "content": "——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n——\n—— "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Z\n—\nA\n—\n—\n—\n05\n—\nH"
+                    },
+                    {
+                        "type": "text",
+                        "content": "10 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "- 500\n- 1/25\n- 50 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "1. "
+                    },
+                    {
+                        "type": "text",
+                        "content": ". "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "10 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\overline{1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "L "
+                    },
+                    {
+                        "type": "text",
+                        "content": "3 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "，"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\overline{F}"
+                    },
+                    {
+                        "type": "text",
+                        "content": " S "
+                    },
+                    {
+                        "type": "text",
+                        "content": "品把\n1.；\n2.；\n3.；\n4.；\n5.；\n6. "
+                    },
+                    {
+                        "type": "text",
+                        "content": "求带有财务风险、税收、货币资产 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "原号为，安装零部件\nⅡ（）"
+                    },
+                    {
+                        "type": "text",
+                        "content": "为水产品实验合和"
+                    },
+                    {
+                        "type": "text",
+                        "content": "SHOU\n(1) "
+                    },
+                    {
+                        "type": "text",
+                        "content": "只自不良并能"
+                    },
+                    {
+                        "type": "text",
+                        "content": "于，现能"
+                    },
+                    {
+                        "type": "text",
+                        "content": "需要，额外满足 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "装订 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "(1)   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda_{0}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  (2)   "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\lambda_{1}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  (3) "
+                    },
+                    {
+                        "type": "text",
+                        "content": "· 感知，观良"
+                    },
+                    {
+                        "type": "text",
+                        "content": "：好未和"
+                    },
+                    {
+                        "type": "text",
+                        "content": "3.5 标注组"
+                    },
+                    {
+                        "type": "text",
+                        "content": "拉伸 封尺 要( )"
+                    },
+                    {
+                        "type": "text",
+                        "content": "1.05 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "，以有"
+                    },
+                    {
+                        "type": "text",
+                        "content": "形板为"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，考为准"
+                    },
+                    {
+                        "type": "text",
+                        "content": "此转"
+                    },
+                    {
+                        "type": "text",
+                        "content": "“1 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "1 "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\frac{1}{2}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，"
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "= \\sqrt{5\\phi}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "24 || 6 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "项\n "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\sqrt{U^{2}}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "，自"
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    },
+                    {
+                        "type": "text",
+                        "content": "S\nV\n<\n<\n<\n<\n> "
+                    },
+                    {
+                        "type": "text",
+                        "content": "13\n100\n5~5\n5~5\n5\n17\n13 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "B\nT\n1\nB\n0\n0\n0\n0\n0\n0\n0\n0\n0 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "EVE\n=0.1\n=0.5\n=0.0\n=0.0\n=0.0\n=0.0\nA\nE "
+                    },
+                    {
+                        "type": "text",
+                        "content": "NERP\n= .%\n= 8\n= 5\n= 5\n= 8 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "B\nL TL "
+                    },
+                    {
+                        "type": "text",
+                        "content": "1 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "NCI C\n0.5\n0.75\n0.15\n0.2\n0.3\n0.39\n0.5 "
+                    }
+                ]
+            },
+            "bbox": [
+                117,
+                14,
+                899,
+                998
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "8\n7\n6\n5\n4\n3\n2\n1 "
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                0,
+                998,
+                13
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "X "
+                    }
+                ]
+            },
+            "bbox": [
+                954,
+                954,
+                968,
+                964
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    }
+                ]
+            },
+            "bbox": [
+                974,
+                964,
+                979,
+                973
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    }
+                ]
+            },
+            "bbox": [
+                974,
+                973,
+                979,
+                983
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "[Non-Text] "
+                    }
+                ]
+            },
+            "bbox": [
+                974,
+                983,
+                979,
+                992
+            ]
+        }
+    ]
+]

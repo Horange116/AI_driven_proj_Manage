@@ -1,0 +1,7245 @@
+{
+  "format": "docreview-pdf-layout-probe-v1",
+  "source_name": "2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式.pdf",
+  "content_hash": "9a03663937b911c51ddd85720c94d0afbcfa6bf2d96921a7f949e151fd7f822a",
+  "page_count": 21,
+  "engine": "pymupdf",
+  "capabilities": {
+    "text_blocks": true,
+    "word_coordinates": true,
+    "row_clustering": true,
+    "vector_drawings": true,
+    "tables": false,
+    "ocr": false,
+    "semantic_table_reconstruction": false
+  },
+  "limits": [
+    "Rows are geometric text clusters, not verified semantic tables.",
+    "Vector drawings are counted but not converted into Gantt/task bars.",
+    "Scanned-image OCR is not enabled.",
+    "PDF W1 output is text/layout-audit evidence, not semantic Gantt reconstruction."
+  ],
+  "totals": {
+    "text_block_count": 843,
+    "word_count": 4126,
+    "row_count": 627,
+    "table_like_row_count": 507,
+    "drawing_path_count": 407,
+    "drawing_item_count": 435,
+    "line_item_count": 431,
+    "rectangle_item_count": 4
+  },
+  "pages": [
+    {
+      "page_index": 1,
+      "width": 595.0,
+      "height": 841.0,
+      "text_block_count": 0,
+      "word_count": 0,
+      "row_count": 0,
+      "table_like_row_count": 0,
+      "drawing_path_count": 0,
+      "drawing_item_count": 0,
+      "line_item_count": 0,
+      "rectangle_item_count": 0,
+      "rows": []
+    },
+    {
+      "page_index": 2,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 45,
+      "word_count": 268,
+      "row_count": 34,
+      "table_like_row_count": 30,
+      "drawing_path_count": 12,
+      "drawing_item_count": 40,
+      "line_item_count": 40,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            208.57,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-03"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            65.16,
+            89.27,
+            192.46,
+            103.51
+          ],
+          "word_count": 2,
+          "text": "GENERAL INFORMATION"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            68.64,
+            107.51,
+            259.75,
+            121.75
+          ],
+          "word_count": 7,
+          "text": "Test item particulars (see also Clause 6):"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            68.64,
+            138.71,
+            481.51,
+            152.95
+          ],
+          "word_count": 10,
+          "text": "Classification of installation and use ................................. : Hand-held ME equipment"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            68.64,
+            154.31,
+            310.31,
+            168.55
+          ],
+          "word_count": 4,
+          "text": "Device type (component/sub-assembly/ equipment/"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            68.64,
+            169.91,
+            413.95,
+            184.15
+          ],
+          "word_count": 4,
+          "text": "system) ................................................................................... : Equipment"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            68.64,
+            201.11,
+            506.35,
+            215.35
+          ],
+          "word_count": 11,
+          "text": "Intended use (Including type of patient, application The Infrared No-Touch Forehead"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            68.64,
+            216.71,
+            505.33,
+            230.95
+          ],
+          "word_count": 7,
+          "text": "location).................................................................................. : Thermometer is intended for the"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            353.52,
+            232.31,
+            513.73,
+            246.55
+          ],
+          "word_count": 4,
+          "text": "intermittent measurement of body"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            353.52,
+            247.91,
+            520.27,
+            262.15
+          ],
+          "word_count": 5,
+          "text": "temperature from the forehead skin"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            353.52,
+            263.51,
+            534.97,
+            277.75
+          ],
+          "word_count": 9,
+          "text": "surface on people of all ages. It can be"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            353.52,
+            279.11,
+            528.55,
+            293.35
+          ],
+          "word_count": 6,
+          "text": "used by consumers in the household"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            353.52,
+            294.71,
+            499.93,
+            308.95
+          ],
+          "word_count": 4,
+          "text": "environment and by healthcare"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            353.52,
+            310.31,
+            401.51,
+            324.55
+          ],
+          "word_count": 1,
+          "text": "providers."
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            68.64,
+            341.51,
+            408.61,
+            355.75
+          ],
+          "word_count": 6,
+          "text": "Mode of operation ................................................................ : Continuous"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            68.64,
+            357.11,
+            450.07,
+            371.35
+          ],
+          "word_count": 6,
+          "text": "Supply connection ............................................................... : internally powered"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            68.64,
+            372.71,
+            379.78,
+            386.95
+          ],
+          "word_count": 8,
+          "text": "Accessories and detachable parts included ...................... : N/A"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            68.64,
+            388.31,
+            379.78,
+            402.55
+          ],
+          "word_count": 6,
+          "text": "Other options include ........................................................... : N/A"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            68.64,
+            416.15,
+            199.63,
+            430.39
+          ],
+          "word_count": 4,
+          "text": "Possible test case verdicts:"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            68.64,
+            439.55,
+            379.78,
+            457.63
+          ],
+          "word_count": 12,
+          "text": "- test case does not apply to the test object ...................: N/A"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            68.64,
+            462.95,
+            401.95,
+            477.19
+          ],
+          "word_count": 10,
+          "text": "- test object does meet the requirement ...........................: Pass (P)"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            68.64,
+            486.35,
+            379.23,
+            500.59
+          ],
+          "word_count": 10,
+          "text": "- test object was not evaluated for the requirement.......... N/E"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            68.64,
+            512.63,
+            225.79,
+            526.87
+          ],
+          "word_count": 5,
+          "text": "Abbreviations used in the report:"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            68.64,
+            538.79,
+            150.79,
+            553.03
+          ],
+          "word_count": 2,
+          "text": "General remarks:"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            59.64,
+            559.35,
+            394.55,
+            572.91
+          ],
+          "word_count": 11,
+          "text": "\"(see Attachment #)\" refers to additional information appended to the report."
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            59.64,
+            575.43,
+            340.07,
+            588.99
+          ],
+          "word_count": 11,
+          "text": "\"(see appended table)\" refers to a table appended to the report."
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            59.64,
+            591.39,
+            376.91,
+            604.95
+          ],
+          "word_count": 13,
+          "text": "The tests results presented in this report relate only to the object tested."
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            59.64,
+            607.35,
+            506.99,
+            620.91
+          ],
+          "word_count": 17,
+          "text": "This report shall not be reproduced except in full without the written approval of the testing laboratory."
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            59.64,
+            623.43,
+            354.35,
+            636.99
+          ],
+          "word_count": 13,
+          "text": "List of test equipment must be kept on file and available for review."
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            59.64,
+            639.39,
+            502.81,
+            652.95
+          ],
+          "word_count": 15,
+          "text": "This Test Report Form is intended for the investigation of clinical thermometers for body temperature"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            59.64,
+            655.35,
+            534.01,
+            668.91
+          ],
+          "word_count": 10,
+          "text": "measurement in accordance with EN ISO 80601-2-56:2017/A1:2020/ISO 80601-2-56:2017+A1:2018. It can"
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            59.64,
+            671.43,
+            263.04,
+            684.99
+          ],
+          "word_count": 7,
+          "text": "only be used together with IEC 60601-1:2005."
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            59.64,
+            687.39,
+            414.71,
+            700.95
+          ],
+          "word_count": 12,
+          "text": "Additional test data and/or information provided in the attachments to this report."
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            59.64,
+            704.87,
+            439.67,
+            719.11
+          ],
+          "word_count": 13,
+          "text": "Throughout this report a comma / point is used as the decimal separator."
+        }
+      ]
+    },
+    {
+      "page_index": 3,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 28,
+      "word_count": 283,
+      "row_count": 28,
+      "table_like_row_count": 22,
+      "drawing_path_count": 9,
+      "drawing_item_count": 9,
+      "line_item_count": 9,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            208.57,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-03"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            68.64,
+            77.63,
+            206.95,
+            91.87
+          ],
+          "word_count": 3,
+          "text": "General product information:"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            70.44,
+            97.23,
+            542.57,
+            110.79
+          ],
+          "word_count": 13,
+          "text": "The Infrared No-Touch Forehead Thermometer is intended for the intermittent measurement of body"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            70.44,
+            112.83,
+            542.53,
+            126.39
+          ],
+          "word_count": 19,
+          "text": "temperature from the forehead skin surface on people of all ages. It can be used by consumers in the"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            70.44,
+            128.43,
+            303.23,
+            141.99
+          ],
+          "word_count": 6,
+          "text": "household environment and by healthcare providers."
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            68.64,
+            160.79,
+            292.87,
+            175.03
+          ],
+          "word_count": 8,
+          "text": "Tests performed (name of test and test clause):"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            70.44,
+            182.91,
+            542.53,
+            196.47
+          ],
+          "word_count": 10,
+          "text": "All the requirements of EN ISO 80601-2-56:2017/A1:2020/ISO 80601-2-56:2017+A1:2018 were evaluated"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            70.44,
+            200.91,
+            274.31,
+            214.47
+          ],
+          "word_count": 8,
+          "text": "in this test report except the following clauses:"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            70.44,
+            218.91,
+            445.43,
+            232.95
+          ],
+          "word_count": 14,
+          "text": "- 201.11.7 Biocompatibility of ME EQUIPMENT and ME is not evaluated in this report."
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            70.44,
+            236.91,
+            542.51,
+            250.95
+          ],
+          "word_count": 16,
+          "text": "- 201.17 Electromagnetic compatibility of ME EQUIPMENT and ME SYSTEMS is not evaluated in this report."
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            70.44,
+            254.91,
+            416.39,
+            268.47
+          ],
+          "word_count": 11,
+          "text": "- 201.102 CLINICAL ACCURACY VALIDATION is not evaluated in this report."
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            70.44,
+            272.91,
+            471.12,
+            286.95
+          ],
+          "word_count": 14,
+          "text": "- 202 Electromagnetic disturbances - Requirements and tests is not evaluated in this report."
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            70.44,
+            290.91,
+            269.28,
+            304.95
+          ],
+          "word_count": 9,
+          "text": "- 206 Usability is not evaluated in this report."
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            64.56,
+            318.71,
+            124.87,
+            332.95
+          ],
+          "word_count": 2,
+          "text": "Test result:"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            61.68,
+            342.27,
+            503.51,
+            355.83
+          ],
+          "word_count": 17,
+          "text": "The test item passed the test specification(s). All apply to the test object does meet the requirement."
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            64.56,
+            366.47,
+            164.03,
+            380.71
+          ],
+          "word_count": 2,
+          "text": "General disclaimer："
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            64.44,
+            389.19,
+            376.67,
+            402.75
+          ],
+          "word_count": 13,
+          "text": "The test results presented in this report relate only to the object tested."
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            64.56,
+            407.19,
+            525.35,
+            420.75
+          ],
+          "word_count": 17,
+          "text": "Without permission of the Report department this test report is not permitted to be duplicated in extracts."
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            64.56,
+            432.95,
+            190.03,
+            447.19
+          ],
+          "word_count": 3,
+          "text": "Condition of acceptability:"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            69.6,
+            455.07,
+            455.39,
+            469.11
+          ],
+          "word_count": 14,
+          "text": "1) 201.11.7 Biocompatibility of ME EQUIPMENT and ME is not evaluated in this report."
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            70.44,
+            473.07,
+            522.53,
+            487.11
+          ],
+          "word_count": 15,
+          "text": "2) 201.17 Electromagnetic compatibility of ME EQUIPMENT and ME SYSTEMS is not evaluated in this"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            70.44,
+            491.07,
+            99.23,
+            504.63
+          ],
+          "word_count": 1,
+          "text": "report."
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            70.44,
+            509.07,
+            425.03,
+            522.63
+          ],
+          "word_count": 11,
+          "text": "3) 201.102 CLINICAL ACCURACY VALIDATION is not evaluated in this report."
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            70.44,
+            527.07,
+            479.88,
+            541.11
+          ],
+          "word_count": 14,
+          "text": "4) 202 Electromagnetic disturbances - Requirements and tests is not evaluated in this report."
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            69.24,
+            545.07,
+            276.0,
+            559.11
+          ],
+          "word_count": 9,
+          "text": "5) 206 Usability is not evaluated in this report."
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            66.24,
+            565.55,
+            168.37,
+            579.79
+          ],
+          "word_count": 4,
+          "text": "Copy of marking plate"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            61.56,
+            585.27,
+            542.77,
+            598.83
+          ],
+          "word_count": 21,
+          "text": "The artwork below may be only a draft. The use of certification marks on a product must be authorized by the"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            61.56,
+            600.87,
+            231.35,
+            614.43
+          ],
+          "word_count": 6,
+          "text": "respective NCBs that own these marks."
+        }
+      ]
+    },
+    {
+      "page_index": 4,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 54,
+      "word_count": 253,
+      "row_count": 37,
+      "table_like_row_count": 31,
+      "drawing_path_count": 39,
+      "drawing_item_count": 39,
+      "line_item_count": 39,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            208.57,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-03"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            162.84,
+            73.67,
+            452.53,
+            87.91
+          ],
+          "word_count": 4,
+          "text": "EN ISO 80601-2-56:2017/A1:2020/ISO 80601-2-56:2017+A1:2018"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            62.04,
+            95.03,
+            533.23,
+            109.27
+          ],
+          "word_count": 8,
+          "text": "Clause Requirement + Test Result - Remark Verdict"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            61.56,
+            126.87,
+            521.79,
+            140.43
+          ],
+          "word_count": 4,
+          "text": "201.4 GENERAL REQUIREMENTS P"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            61.56,
+            145.59,
+            521.79,
+            159.15
+          ],
+          "word_count": 7,
+          "text": "201.4.2 RISK MANAGEMENT PROCESS for ME P"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            118.44,
+            161.19,
+            254.66,
+            174.75
+          ],
+          "word_count": 4,
+          "text": "EQUIPMENT or ME SYSTEMS"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            61.56,
+            178.95,
+            521.79,
+            192.51
+          ],
+          "word_count": 12,
+          "text": "201.4.2.101 Additional requirements for RISK MANAGEMENT PROCESS for ME EQUIPMENT or P"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            118.44,
+            194.55,
+            182.78,
+            208.11
+          ],
+          "word_count": 2,
+          "text": "ME SYSTEMS"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            118.44,
+            213.63,
+            521.79,
+            227.19
+          ],
+          "word_count": 10,
+          "text": "The RISKS of changing environmental conditions See RISK MANAGEMENT P"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            118.44,
+            229.23,
+            487.45,
+            242.79
+          ],
+          "word_count": 11,
+          "text": "for the CLINICAL THERMOMETER are considered in PROCESS PROVIDED BY the"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            118.44,
+            244.83,
+            408.25,
+            258.39
+          ],
+          "word_count": 4,
+          "text": "RISK MANAGEMENT PROCESS manufacture"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            118.44,
+            257.43,
+            521.79,
+            270.99
+          ],
+          "word_count": 11,
+          "text": "Guidance regarding the RESIDUAL RISKS is Refer to Operation Guide. P"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            118.44,
+            273.03,
+            260.77,
+            286.59
+          ],
+          "word_count": 6,
+          "text": "provided in the instruction for use"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            61.56,
+            290.19,
+            521.79,
+            303.75
+          ],
+          "word_count": 4,
+          "text": "201.4.3 ESSENTIAL PERFORMANCE P"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            61.56,
+            308.67,
+            521.79,
+            322.23
+          ],
+          "word_count": 6,
+          "text": "201.4.3.101 Additional requirements for ESSENTIAL P"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            118.44,
+            324.27,
+            194.78,
+            337.83
+          ],
+          "word_count": 1,
+          "text": "PERFORMANCE"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            118.44,
+            337.83,
+            521.79,
+            351.39
+          ],
+          "word_count": 13,
+          "text": "At least one of the following functions is identified See RISK MANAGEMENT P"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            118.44,
+            353.43,
+            374.67,
+            366.99
+          ],
+          "word_count": 6,
+          "text": "as ESSENTIAL PERFORMANCE in RISK FILE"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            118.44,
+            369.03,
+            214.56,
+            382.59
+          ],
+          "word_count": 2,
+          "text": "MANAGEMENT FILE:"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            118.44,
+            383.91,
+            521.79,
+            397.47
+          ],
+          "word_count": 8,
+          "text": "– accuracy of the CLINICAL THERMOMETER , P"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            118.44,
+            405.87,
+            521.79,
+            419.43
+          ],
+          "word_count": 8,
+          "text": "– generation of a TECHNICAL ALARM CONDITION, P"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            118.44,
+            427.95,
+            521.79,
+            441.51
+          ],
+          "word_count": 8,
+          "text": "– not providing an OUTPUT TEMPERATURE, or P"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            61.56,
+            452.31,
+            526.59,
+            465.87
+          ],
+          "word_count": 9,
+          "text": "201.5 General requirements for testing of ME EQUIPMENT N/A"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            118.44,
+            475.11,
+            526.59,
+            488.67
+          ],
+          "word_count": 6,
+          "text": "IEC 60601-1:2005, Clause 5 applies. N/A"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            61.56,
+            495.51,
+            526.59,
+            509.07
+          ],
+          "word_count": 9,
+          "text": "201.6 Classification of ME EQUIPMENT and ME SYSTEMS N/A"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            118.44,
+            525.27,
+            526.59,
+            538.83
+          ],
+          "word_count": 6,
+          "text": "IEC 60601-1:2005, Clause 6 applies N/A"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            62.04,
+            548.07,
+            521.79,
+            564.63
+          ],
+          "word_count": 8,
+          "text": "201.7 ME EQUIPMENT IDENTIFICATION, MARKING AND DOCUMENTS P"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            118.92,
+            568.11,
+            521.79,
+            584.67
+          ],
+          "word_count": 9,
+          "text": "IEC 60601-1:2005+A1:2012, Clause 7 applies, except as follows: P"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            62.04,
+            591.15,
+            522.51,
+            604.71
+          ],
+          "word_count": 12,
+          "text": "201.7.2.1 Minimum requirements for marking on ME EQUIPMENT and interchangeable parts P"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            62.04,
+            615.39,
+            522.51,
+            628.95
+          ],
+          "word_count": 12,
+          "text": "201.7.2.1.10 Additional requirements for minimum requirements for marking on ME EQUIPMENT P"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            62.04,
+            633.99,
+            344.41,
+            647.55
+          ],
+          "word_count": 8,
+          "text": "1 and interchangeable parts, marking of the packaging"
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            118.92,
+            654.63,
+            522.51,
+            668.19
+          ],
+          "word_count": 7,
+          "text": "The packaging of the CLINICAL THERMOMETER P"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            118.92,
+            670.23,
+            272.63,
+            683.79
+          ],
+          "word_count": 6,
+          "text": "and PROBE is marked as following:"
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            118.92,
+            692.55,
+            527.31,
+            706.11
+          ],
+          "word_count": 7,
+          "text": "a) MEASURING SITE and REFERENCE BODY N/A"
+        },
+        {
+          "row_index": 35,
+          "bbox": [
+            118.92,
+            708.15,
+            140.79,
+            721.71
+          ],
+          "word_count": 1,
+          "text": "SITE"
+        },
+        {
+          "row_index": 36,
+          "bbox": [
+            118.92,
+            729.99,
+            522.51,
+            743.55
+          ],
+          "word_count": 8,
+          "text": "b) mode of operation of the CLINICAL P"
+        },
+        {
+          "row_index": 37,
+          "bbox": [
+            118.92,
+            748.71,
+            219.97,
+            762.27
+          ],
+          "word_count": 3,
+          "text": "THERMOMETER ; and"
+        }
+      ]
+    },
+    {
+      "page_index": 5,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 44,
+      "word_count": 230,
+      "row_count": 33,
+      "table_like_row_count": 26,
+      "drawing_path_count": 25,
+      "drawing_item_count": 25,
+      "line_item_count": 25,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            208.57,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-03"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            118.92,
+            76.71,
+            522.51,
+            90.27
+          ],
+          "word_count": 7,
+          "text": "– the contents of the packaging P"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            118.92,
+            98.43,
+            522.51,
+            111.99
+          ],
+          "word_count": 8,
+          "text": "c) appropriate symbol from ISO 15223-1:2016 used P"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            118.92,
+            117.03,
+            349.85,
+            130.59
+          ],
+          "word_count": 7,
+          "text": "for sterile packaging (See Table 201.D.2.101, symbols"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            118.92,
+            132.63,
+            304.55,
+            146.19
+          ],
+          "word_count": 1,
+          "text": "3-8)................................................................"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            118.92,
+            153.15,
+            522.51,
+            166.71
+          ],
+          "word_count": 9,
+          "text": "d) Symbol 5.1.4 of ISO 15233-1:2016 used for P"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            118.92,
+            168.75,
+            309.61,
+            182.31
+          ],
+          "word_count": 5,
+          "text": "CLINICAL THERMOMETER or PROBE with"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            118.92,
+            184.35,
+            337.44,
+            197.91
+          ],
+          "word_count": 8,
+          "text": "expiration date (see Table 201.D.2.101, symbol 2) ."
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            118.92,
+            203.79,
+            522.51,
+            217.35
+          ],
+          "word_count": 8,
+          "text": "e) Packaging marked with special storage and/or P"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            118.92,
+            222.51,
+            325.55,
+            236.07
+          ],
+          "word_count": 2,
+          "text": "handling instructions............................................."
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            118.92,
+            245.55,
+            522.51,
+            259.11
+          ],
+          "word_count": 12,
+          "text": "For a specific MODEL OR TYPE REFERENCE, the No single use: P"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            118.92,
+            261.15,
+            301.43,
+            274.71
+          ],
+          "word_count": 7,
+          "text": "indication of single use shall be consistent."
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            62.04,
+            280.83,
+            522.51,
+            294.39
+          ],
+          "word_count": 13,
+          "text": "201.7.2.2 Marking on the outside of ME EQUIPMENT or ME EQUIPMENT parts P"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            62.04,
+            300.75,
+            522.51,
+            314.31
+          ],
+          "word_count": 14,
+          "text": "201.7.2.101 Additional requirements for marking on the outside of ME EQUIPMENT or ME P"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            118.92,
+            316.35,
+            201.17,
+            329.91
+          ],
+          "word_count": 2,
+          "text": "EQUIPMENT parts"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            118.92,
+            336.27,
+            522.51,
+            349.83
+          ],
+          "word_count": 13,
+          "text": "The following markings provided on the CLINICAL See Copy of marking plate P"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            118.92,
+            354.99,
+            304.56,
+            368.55
+          ],
+          "word_count": 4,
+          "text": "THERMOMETER are CLEARLY LEGIBLE:"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            118.92,
+            377.31,
+            522.51,
+            390.87
+          ],
+          "word_count": 14,
+          "text": "a) symbol “°C” or “°F” marked adjacent to the Indicated at the display P"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            118.92,
+            392.91,
+            313.93,
+            406.47
+          ],
+          "word_count": 6,
+          "text": "OUTPUT TEMPERATURE or indicated at the"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            118.92,
+            408.51,
+            154.44,
+            422.07
+          ],
+          "word_count": 2,
+          "text": "display :"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            118.92,
+            429.15,
+            522.51,
+            442.71
+          ],
+          "word_count": 9,
+          "text": "– if switching between units is possible, the P"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            118.92,
+            444.75,
+            275.77,
+            458.31
+          ],
+          "word_count": 5,
+          "text": "respective displayed unit is indicated"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            118.92,
+            463.11,
+            527.31,
+            476.67
+          ],
+          "word_count": 13,
+          "text": "b) the intended MEASURING SITE is marked See Copy of marking plate N/A"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            118.92,
+            488.19,
+            527.31,
+            501.75
+          ],
+          "word_count": 7,
+          "text": "c) if necessary to maintain ESSENTIAL N/A"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            118.92,
+            506.79,
+            313.54,
+            520.35
+          ],
+          "word_count": 8,
+          "text": "PERFORMANCE, it is indicated to use a new"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            118.92,
+            522.39,
+            153.39,
+            535.95
+          ],
+          "word_count": 1,
+          "text": "PROBE"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            62.04,
+            540.39,
+            187.57,
+            553.95
+          ],
+          "word_count": 4,
+          "text": "201.7.4.3 Unit of measure"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            62.04,
+            565.59,
+            522.51,
+            579.15
+          ],
+          "word_count": 8,
+          "text": "201.7.4.3.10 Additional requirements for unit of measure P"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            62.04,
+            581.19,
+            67.57,
+            594.75
+          ],
+          "word_count": 1,
+          "text": "1"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            118.92,
+            601.11,
+            522.51,
+            614.67
+          ],
+          "word_count": 12,
+          "text": "OUTPUT TEMPERATURE expressed in degrees Expressed optionally in °C or °F P"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            118.92,
+            619.71,
+            327.35,
+            633.27
+          ],
+          "word_count": 7,
+          "text": "Celsius, °C or degrees Fahrenheit, °F ................."
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            118.92,
+            634.83,
+            522.51,
+            648.39
+          ],
+          "word_count": 6,
+          "text": "Unit of measure clearly indicated......................... P"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            62.04,
+            657.15,
+            522.51,
+            670.71
+          ],
+          "word_count": 4,
+          "text": "201.7.9 ACCOMPANYING DOCUMENT P"
+        }
+      ]
+    },
+    {
+      "page_index": 6,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 64,
+      "word_count": 240,
+      "row_count": 38,
+      "table_like_row_count": 29,
+      "drawing_path_count": 20,
+      "drawing_item_count": 20,
+      "line_item_count": 20,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            208.57,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-03"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            118.92,
+            76.71,
+            522.51,
+            90.27
+          ],
+          "word_count": 11,
+          "text": "– the ACCOMPANYING DOCUMENT contains See chapter “Warranty” of user P"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            118.92,
+            92.31,
+            383.93,
+            108.87
+          ],
+          "word_count": 8,
+          "text": "name or trade name and address of manual"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            128.64,
+            110.91,
+            254.29,
+            124.47
+          ],
+          "word_count": 3,
+          "text": "--the MANUFACTURER, and"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            128.64,
+            129.51,
+            314.41,
+            143.07
+          ],
+          "word_count": 7,
+          "text": "--where the manufacturer does not have an"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            118.92,
+            145.11,
+            288.73,
+            158.67
+          ],
+          "word_count": 6,
+          "text": "address within the locale, an authorized"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            118.92,
+            160.71,
+            254.27,
+            174.27
+          ],
+          "word_count": 4,
+          "text": "representative within the locale,"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            128.64,
+            179.43,
+            328.3,
+            192.99
+          ],
+          "word_count": 5,
+          "text": "to which the RESPONSIBLE ORGANIZATION"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            118.92,
+            195.03,
+            333.35,
+            208.59
+          ],
+          "word_count": 4,
+          "text": "can refer . ................................................................"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            62.04,
+            213.27,
+            318.13,
+            226.83
+          ],
+          "word_count": 7,
+          "text": "201.7.9.2 Additional requirements for instructions for use"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            62.04,
+            241.35,
+            200.65,
+            254.91
+          ],
+          "word_count": 4,
+          "text": "201.7.9.2.10 Instructions for use"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            62.04,
+            256.95,
+            67.57,
+            270.51
+          ],
+          "word_count": 1,
+          "text": "1"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            118.92,
+            274.11,
+            522.51,
+            287.67
+          ],
+          "word_count": 9,
+          "text": "a) a summary of the USE SPECIFICATION as P"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            118.92,
+            289.71,
+            265.56,
+            303.27
+          ],
+          "word_count": 4,
+          "text": "determined for IEC 62366-1:2015;"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            118.92,
+            306.87,
+            522.51,
+            320.43
+          ],
+          "word_count": 13,
+          "text": "b) MEASURING SITE and REFERENCE BODY of See chapter “Intended use” of P"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            118.92,
+            322.47,
+            405.41,
+            339.15
+          ],
+          "word_count": 5,
+          "text": "CLINICAL THERMOMETER specified user manual"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            118.92,
+            345.27,
+            522.51,
+            358.83
+          ],
+          "word_count": 7,
+          "text": "c) recommended minimum measuring time and P"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            118.92,
+            360.87,
+            323.53,
+            374.43
+          ],
+          "word_count": 6,
+          "text": "minimum time between measurements for each"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            118.92,
+            376.47,
+            252.36,
+            390.03
+          ],
+          "word_count": 4,
+          "text": "intended MEASURING SITE, if"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            118.92,
+            392.07,
+            212.52,
+            405.63
+          ],
+          "word_count": 3,
+          "text": "applicable ................ :"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            118.92,
+            411.15,
+            522.51,
+            424.71
+          ],
+          "word_count": 11,
+          "text": "d) RATED OUTPUT RANGE for each intended See chapter “Safety P"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            118.92,
+            426.75,
+            412.08,
+            443.43
+          ],
+          "word_count": 5,
+          "text": "REFERENCE BODY SITE Precaution” of"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            118.92,
+            445.47,
+            405.41,
+            459.03
+          ],
+          "word_count": 5,
+          "text": "specified ............................ : user manual"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            118.92,
+            465.87,
+            522.51,
+            479.43
+          ],
+          "word_count": 11,
+          "text": "e) the LABORATORY ACCURACY in the RATED See chapter “Product P"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            118.92,
+            481.47,
+            420.24,
+            495.03
+          ],
+          "word_count": 8,
+          "text": "OUTPUT RANGE and, if equipped, the performance” of"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            118.92,
+            497.07,
+            405.41,
+            513.63
+          ],
+          "word_count": 3,
+          "text": "LABORATORY user manual"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            118.92,
+            519.63,
+            522.51,
+            533.19
+          ],
+          "word_count": 12,
+          "text": "f) for CLINICAL THERMOMETERS for use with No PROBE COVER used P"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            118.92,
+            535.23,
+            193.43,
+            548.79
+          ],
+          "word_count": 2,
+          "text": "PROBE COVER:"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            118.92,
+            551.79,
+            522.51,
+            565.35
+          ],
+          "word_count": 8,
+          "text": "1) instruction how to apply PROBE COVER P"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            118.92,
+            572.55,
+            522.51,
+            586.11
+          ],
+          "word_count": 9,
+          "text": "2) information about the behaviour of the CLINICAL P"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            118.92,
+            588.15,
+            315.62,
+            601.71
+          ],
+          "word_count": 5,
+          "text": "THERMOMETER when used without PROBE"
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            118.92,
+            603.75,
+            153.94,
+            617.31
+          ],
+          "word_count": 1,
+          "text": "COVER"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            118.92,
+            621.39,
+            522.51,
+            634.95
+          ],
+          "word_count": 11,
+          "text": "g) mode of operation of the CLINICAL See chapter “Product P"
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            118.92,
+            636.99,
+            479.81,
+            650.55
+          ],
+          "word_count": 9,
+          "text": "THERMOMETER (DIRECT MODE or ADJUSTED specifications” of user manual"
+        },
+        {
+          "row_index": 35,
+          "bbox": [
+            118.92,
+            652.59,
+            222.6,
+            666.15
+          ],
+          "word_count": 3,
+          "text": "MODE) ........................ :"
+        },
+        {
+          "row_index": 36,
+          "bbox": [
+            118.92,
+            670.11,
+            522.51,
+            683.67
+          ],
+          "word_count": 12,
+          "text": "h) instructions for selection and replacement of See chapter “Setup and P"
+        },
+        {
+          "row_index": 37,
+          "bbox": [
+            118.92,
+            685.71,
+            456.73,
+            702.27
+          ],
+          "word_count": 8,
+          "text": "INTERNAL ELECTRICAL POWER SOURCES, if operating procedures” in"
+        },
+        {
+          "row_index": 38,
+          "bbox": [
+            118.92,
+            704.31,
+            405.41,
+            720.99
+          ],
+          "word_count": 3,
+          "text": "applicable user manual"
+        }
+      ]
+    },
+    {
+      "page_index": 7,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 54,
+      "word_count": 267,
+      "row_count": 41,
+      "table_like_row_count": 35,
+      "drawing_path_count": 26,
+      "drawing_item_count": 26,
+      "line_item_count": 26,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            208.57,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-03"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            118.92,
+            76.71,
+            522.51,
+            90.27
+          ],
+          "word_count": 8,
+          "text": "i) Instructions provided on nature of maintenance P"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            118.92,
+            95.31,
+            338.29,
+            108.87
+          ],
+          "word_count": 7,
+          "text": "and/or calibration needed to ensure proper function"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            118.92,
+            110.91,
+            295.2,
+            124.47
+          ],
+          "word_count": 5,
+          "text": "and its frequency .................................... :"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            118.92,
+            130.35,
+            522.51,
+            143.91
+          ],
+          "word_count": 11,
+          "text": "j) information about disposal of the clinical See chapter “Maintenance” P"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            118.92,
+            148.95,
+            415.49,
+            162.51
+          ],
+          "word_count": 9,
+          "text": "thermometer and its components ........................ : in user manual"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            118.92,
+            168.75,
+            527.31,
+            182.31
+          ],
+          "word_count": 8,
+          "text": "k) if the CLINICAL THERMOMETER and/or its N/A"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            118.92,
+            184.35,
+            310.92,
+            197.91
+          ],
+          "word_count": 7,
+          "text": "components are intended for single use only,"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            118.92,
+            199.95,
+            335.93,
+            213.51
+          ],
+          "word_count": 6,
+          "text": "information on characteristics and technical factors"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            118.92,
+            215.55,
+            328.97,
+            229.11
+          ],
+          "word_count": 9,
+          "text": "that could pose a RISK is provided in instructions"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            118.92,
+            231.15,
+            148.69,
+            244.71
+          ],
+          "word_count": 2,
+          "text": "for use"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            62.04,
+            250.71,
+            522.51,
+            264.27
+          ],
+          "word_count": 7,
+          "text": "201.7.9.101 The ACCOMPANYING DOCUMENT includes a P"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            118.92,
+            266.31,
+            312.37,
+            279.87
+          ],
+          "word_count": 7,
+          "text": "description of the correction method to derive"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            118.92,
+            281.91,
+            291.19,
+            295.47
+          ],
+          "word_count": 4,
+          "text": "unadjusted temperatures from OUTPUT"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            118.92,
+            297.51,
+            318.1,
+            311.07
+          ],
+          "word_count": 5,
+          "text": "TEMPERATURE measured in the ADJUSTED"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            118.92,
+            313.11,
+            270.85,
+            326.67
+          ],
+          "word_count": 5,
+          "text": "MODE, except when the CLINICAL"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            118.92,
+            328.71,
+            335.07,
+            342.27
+          ],
+          "word_count": 7,
+          "text": "THERMOMETER is equipped with a TEST MODE"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            118.92,
+            344.31,
+            198.51,
+            357.87
+          ],
+          "word_count": 3,
+          "text": "or DIRECT MODE"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            62.04,
+            364.95,
+            522.51,
+            378.51
+          ],
+          "word_count": 9,
+          "text": "201.8 Protection against electrical HAZARDS from ME EQUIPMENT P"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            118.92,
+            385.35,
+            522.51,
+            398.91
+          ],
+          "word_count": 6,
+          "text": "IEC 60601-1:2005+A1:2012, Clause 8 applies P"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            62.04,
+            404.55,
+            522.51,
+            418.11
+          ],
+          "word_count": 12,
+          "text": "201.9 Protection against mechanical HAZARDS of ME EQUIPMENT and ME SYSTEMS P"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            118.92,
+            424.95,
+            522.51,
+            438.51
+          ],
+          "word_count": 6,
+          "text": "IEC 60601-1:2005+A1:2012, Clause 9 applies P"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            62.04,
+            445.35,
+            527.31,
+            458.91
+          ],
+          "word_count": 9,
+          "text": "201.10 Protection against unwanted and excessive radiation HAZARDS N/A"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            118.92,
+            465.63,
+            527.31,
+            479.19
+          ],
+          "word_count": 6,
+          "text": "IEC 60601-1:2005+A1:2012, Clause 10 applies N/A"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            62.04,
+            484.23,
+            522.51,
+            497.79
+          ],
+          "word_count": 9,
+          "text": "201.11 Protection against excessive temperatures and other HAZARDS P"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            118.92,
+            504.51,
+            522.51,
+            518.07
+          ],
+          "word_count": 6,
+          "text": "IEC 60601-1:2005+A1:2012, Clause 11 applies P"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            118.92,
+            520.11,
+            195.35,
+            533.67
+          ],
+          "word_count": 3,
+          "text": "except as follows:"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            62.04,
+            538.11,
+            522.51,
+            551.67
+          ],
+          "word_count": 9,
+          "text": "201.11.6.6 Cleaning and disinfection of ME EQUIPMENT and P"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            118.92,
+            553.71,
+            176.65,
+            567.27
+          ],
+          "word_count": 2,
+          "text": "ME SYSTEM"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            118.92,
+            571.59,
+            522.51,
+            585.15
+          ],
+          "word_count": 11,
+          "text": "The surfaces of the CLINICAL THERMOMETER, See “Caution” of the P"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            118.92,
+            587.19,
+            425.75,
+            600.75
+          ],
+          "word_count": 8,
+          "text": "PROBE and ACCESSORIES that can become Operation Guide."
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            118.92,
+            602.79,
+            319.93,
+            616.35
+          ],
+          "word_count": 6,
+          "text": "contaminated with body fluids during NORMAL"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            118.92,
+            618.39,
+            335.33,
+            631.95
+          ],
+          "word_count": 6,
+          "text": "CONDITION or SINGLE FAULT CONDITION shall"
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            118.92,
+            633.99,
+            340.39,
+            647.55
+          ],
+          "word_count": 9,
+          "text": "be designed to allow for cleaning and disinfection or"
+        },
+        {
+          "row_index": 35,
+          "bbox": [
+            118.92,
+            649.59,
+            331.01,
+            663.15
+          ],
+          "word_count": 5,
+          "text": "cleaning and sterilization (additional requirements"
+        },
+        {
+          "row_index": 36,
+          "bbox": [
+            118.92,
+            665.19,
+            324.37,
+            678.75
+          ],
+          "word_count": 6,
+          "text": "arc found in IEC 60601-1:2005+A1:2012, 11.6.7"
+        },
+        {
+          "row_index": 37,
+          "bbox": [
+            118.92,
+            680.79,
+            280.56,
+            694.35
+          ],
+          "word_count": 5,
+          "text": "and IEC 60601-1-11:2015, Clause B)."
+        },
+        {
+          "row_index": 38,
+          "bbox": [
+            118.92,
+            698.55,
+            522.51,
+            712.11
+          ],
+          "word_count": 6,
+          "text": "The CLINICAL THERMOMETER may be P"
+        },
+        {
+          "row_index": 39,
+          "bbox": [
+            118.92,
+            714.15,
+            338.4,
+            727.71
+          ],
+          "word_count": 5,
+          "text": "dismantled during the decontamination PROCESS,"
+        },
+        {
+          "row_index": 40,
+          "bbox": [
+            118.92,
+            733.47,
+            527.31,
+            747.03
+          ],
+          "word_count": 7,
+          "text": "ACCESSORlES not intended for re-use are N/A"
+        },
+        {
+          "row_index": 41,
+          "bbox": [
+            118.92,
+            749.07,
+            242.39,
+            762.63
+          ],
+          "word_count": 3,
+          "text": "exempfrom this requirement."
+        }
+      ]
+    },
+    {
+      "page_index": 8,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 54,
+      "word_count": 290,
+      "row_count": 43,
+      "table_like_row_count": 41,
+      "drawing_path_count": 12,
+      "drawing_item_count": 12,
+      "line_item_count": 12,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            208.57,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-03"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            118.92,
+            76.71,
+            522.51,
+            90.27
+          ],
+          "word_count": 9,
+          "text": "CLINICAL THERMOMETER and PROBE See “Caution” of the P"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            118.92,
+            92.31,
+            425.75,
+            105.87
+          ],
+          "word_count": 9,
+          "text": "ENCLOSURES shall be designed to allow for Operation Guide."
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            118.92,
+            107.91,
+            312.85,
+            121.47
+          ],
+          "word_count": 7,
+          "text": "surface cleaning and disinfection to reduce to"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            118.92,
+            123.51,
+            294.6,
+            137.07
+          ],
+          "word_count": 7,
+          "text": "acceptable levels the RISK of infection of"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            118.92,
+            139.11,
+            304.51,
+            152.67
+          ],
+          "word_count": 5,
+          "text": "OPERATORS, bystanders, or the PATIENT"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            118.92,
+            157.83,
+            522.51,
+            171.39
+          ],
+          "word_count": 10,
+          "text": "Instructions for processing and REPROCESSING See “Caution” of the P"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            118.92,
+            173.43,
+            425.75,
+            186.99
+          ],
+          "word_count": 7,
+          "text": "the CLINICAL THERMOMETER, PROBE and Operation Guide."
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            118.92,
+            189.03,
+            287.33,
+            202.59
+          ],
+          "word_count": 5,
+          "text": "ACC:ESSORIES shall comply with ISO"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            118.92,
+            204.63,
+            317.41,
+            218.19
+          ],
+          "word_count": 7,
+          "text": "17664:2004 and ISO 14937:2009 and shall be"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            118.92,
+            220.23,
+            271.92,
+            233.79
+          ],
+          "word_count": 6,
+          "text": "disclosed in the instructions for use."
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            118.92,
+            239.79,
+            522.51,
+            253.35
+          ],
+          "word_count": 11,
+          "text": "Check compliance by inspection of the RISK See appended Table P"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            118.92,
+            255.39,
+            397.09,
+            268.95
+          ],
+          "word_count": 7,
+          "text": "MANAGEMENT FILE. When compliance with this 201.11.6.6"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            118.92,
+            270.99,
+            332.77,
+            284.55
+          ],
+          "word_count": 9,
+          "text": "document could be affected by the cleaning or the"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            118.92,
+            286.59,
+            320.15,
+            300.15
+          ],
+          "word_count": 5,
+          "text": "disinfecting of the CLINICAL TIIERMOMETER,"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            118.92,
+            302.19,
+            332.05,
+            315.75
+          ],
+          "word_count": 8,
+          "text": "PROBE or its parts or ACCESSORIES, clean and"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            118.92,
+            317.79,
+            322.09,
+            331.35
+          ],
+          "word_count": 8,
+          "text": "disinfect them 100 times in accordance with the"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            118.92,
+            333.39,
+            305.28,
+            346.95
+          ],
+          "word_count": 7,
+          "text": "methods indicated in the instruction for use,"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            118.92,
+            348.99,
+            330.01,
+            362.55
+          ],
+          "word_count": 8,
+          "text": "including any cooling or drying period. After these"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            118.92,
+            364.59,
+            335.05,
+            378.15
+          ],
+          "word_count": 6,
+          "text": "PROCEDURES, confirm that BASIC SAFETY and"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            118.92,
+            380.19,
+            320.52,
+            393.75
+          ],
+          "word_count": 4,
+          "text": "ESSENTIAL PERFORMANCE are maintained."
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            118.92,
+            395.79,
+            334.93,
+            409.35
+          ],
+          "word_count": 6,
+          "text": "Confirm that the MANUFACTURER has evaluated"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            118.92,
+            411.39,
+            324.85,
+            424.95
+          ],
+          "word_count": 8,
+          "text": "the effects of multiple PROCESS cycles and the"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            118.92,
+            426.99,
+            244.55,
+            440.55
+          ],
+          "word_count": 4,
+          "text": "effectiveness of those cycles."
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            62.04,
+            444.75,
+            527.31,
+            458.31
+          ],
+          "word_count": 8,
+          "text": "201.11.7 Biocompatibility of ME EQUIPMENT and ME N/E"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            118.92,
+            461.19,
+            527.31,
+            474.75
+          ],
+          "word_count": 7,
+          "text": "The ACCESSIBLE PARTS of a CUNICAL N/E"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            118.92,
+            476.79,
+            285.43,
+            490.35
+          ],
+          "word_count": 5,
+          "text": "THERMOMETER, PROBE, its parts or"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            118.92,
+            492.39,
+            289.49,
+            505.95
+          ],
+          "word_count": 4,
+          "text": "ACCESSORIES that contain phthalates"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            118.92,
+            510.99,
+            333.91,
+            524.55
+          ],
+          "word_count": 7,
+          "text": "which are classified as carcinogenic, mutagenic or"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            118.92,
+            526.59,
+            336.61,
+            540.15
+          ],
+          "word_count": 8,
+          "text": "toxic to reproduction shall be marked as containing"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            118.92,
+            542.19,
+            336.48,
+            555.75
+          ],
+          "word_count": 9,
+          "text": "phthalates on the device itself or on the packaging."
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            118.92,
+            561.99,
+            527.31,
+            575.55
+          ],
+          "word_count": 8,
+          "text": "If the INTENDED USE of a CLINICAL N/E"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            118.92,
+            577.59,
+            285.43,
+            591.15
+          ],
+          "word_count": 5,
+          "text": "THERMOMETER, PROBE, its parts or"
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            118.92,
+            593.19,
+            327.07,
+            606.75
+          ],
+          "word_count": 6,
+          "text": "ACCESSORES includes treatment of children or"
+        },
+        {
+          "row_index": 35,
+          "bbox": [
+            118.92,
+            608.79,
+            336.77,
+            622.35
+          ],
+          "word_count": 8,
+          "text": "treatment of pregnant or nursing women, a specific"
+        },
+        {
+          "row_index": 36,
+          "bbox": [
+            118.92,
+            624.39,
+            335.65,
+            637.95
+          ],
+          "word_count": 9,
+          "text": "justification for the use of these phthalates shalt be"
+        },
+        {
+          "row_index": 37,
+          "bbox": [
+            118.92,
+            639.99,
+            324.49,
+            653.55
+          ],
+          "word_count": 7,
+          "text": "included in the RISK MANAGEMENT FILE. The"
+        },
+        {
+          "row_index": 38,
+          "bbox": [
+            118.92,
+            655.59,
+            264.13,
+            669.15
+          ],
+          "word_count": 6,
+          "text": "instructions for use of a CUNICAL"
+        },
+        {
+          "row_index": 39,
+          "bbox": [
+            118.92,
+            671.19,
+            285.43,
+            684.75
+          ],
+          "word_count": 5,
+          "text": "THERMOMETER, PROBE, its parts or"
+        },
+        {
+          "row_index": 40,
+          "bbox": [
+            118.92,
+            686.79,
+            335.09,
+            700.35
+          ],
+          "word_count": 6,
+          "text": "ACCESSORIES that contain such phthalates shall"
+        },
+        {
+          "row_index": 41,
+          "bbox": [
+            118.92,
+            702.39,
+            337.45,
+            715.95
+          ],
+          "word_count": 7,
+          "text": "contain information on RESIDUAL RISKS for these"
+        },
+        {
+          "row_index": 42,
+          "bbox": [
+            118.92,
+            717.99,
+            333.61,
+            731.55
+          ],
+          "word_count": 7,
+          "text": "PATIENT groups and, if applicable, on appropriate"
+        },
+        {
+          "row_index": 43,
+          "bbox": [
+            118.92,
+            733.59,
+            225.84,
+            747.15
+          ],
+          "word_count": 2,
+          "text": "precautionary measures."
+        }
+      ]
+    },
+    {
+      "page_index": 9,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 49,
+      "word_count": 234,
+      "row_count": 39,
+      "table_like_row_count": 27,
+      "drawing_path_count": 30,
+      "drawing_item_count": 30,
+      "line_item_count": 30,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            208.57,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-03"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            118.92,
+            76.71,
+            527.31,
+            90.27
+          ],
+          "word_count": 8,
+          "text": "Check compliance by inspection of the instructions N/E"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            118.92,
+            92.31,
+            330.61,
+            105.87
+          ],
+          "word_count": 8,
+          "text": "for use and inspection of the information provided"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            118.92,
+            107.91,
+            326.29,
+            121.47
+          ],
+          "word_count": 7,
+          "text": "by the MANUFACTURER for identification of the"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            118.92,
+            123.51,
+            325.19,
+            137.07
+          ],
+          "word_count": 6,
+          "text": "presence of substances which are carcinogenic,"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            118.92,
+            139.11,
+            333.73,
+            152.67
+          ],
+          "word_count": 7,
+          "text": "mutagenic or toxic to reproduction and justification"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            118.92,
+            154.71,
+            172.68,
+            168.27
+          ],
+          "word_count": 3,
+          "text": "for their use."
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            62.04,
+            175.35,
+            517.71,
+            188.91
+          ],
+          "word_count": 10,
+          "text": "201.12 ACCURACY OF CONTROLS AND INSTRUMENTS AND PROTECTION AGAINST P"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            118.92,
+            190.95,
+            230.07,
+            204.51
+          ],
+          "word_count": 2,
+          "text": "HAZARDOUS OUTPUTS"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            62.04,
+            210.51,
+            517.71,
+            224.07
+          ],
+          "word_count": 7,
+          "text": "201.12.1 Accuracy of controls and instruments P"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            62.04,
+            230.43,
+            517.71,
+            243.99
+          ],
+          "word_count": 10,
+          "text": "201.12.1. Additional requirements for accuracy of controls and instruments P"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            62.04,
+            246.03,
+            78.49,
+            259.59
+          ],
+          "word_count": 1,
+          "text": "101"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            118.92,
+            264.03,
+            517.71,
+            277.59
+          ],
+          "word_count": 8,
+          "text": "If the CLINICAL THERMOMETER cannot indicate a P"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            118.92,
+            279.63,
+            341.39,
+            293.19
+          ],
+          "word_count": 5,
+          "text": "temperature within the LABORATORY ACCURACY,"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            118.92,
+            295.23,
+            123.84,
+            308.79
+          ],
+          "word_count": 1,
+          "text": "it"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            118.92,
+            312.27,
+            517.71,
+            325.83
+          ],
+          "word_count": 8,
+          "text": "– either it provides a TECHNICAL ALARM P"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            118.92,
+            327.87,
+            173.98,
+            341.43
+          ],
+          "word_count": 1,
+          "text": "CONDITION"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            118.92,
+            351.51,
+            517.71,
+            365.07
+          ],
+          "word_count": 9,
+          "text": "– or it does not provide an OUTPUT P"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            118.92,
+            367.11,
+            194.99,
+            380.67
+          ],
+          "word_count": 1,
+          "text": "TEMPERATURE;"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            118.92,
+            387.03,
+            517.71,
+            400.59
+          ],
+          "word_count": 10,
+          "text": "Minimum RATED OUTPUT RANGE of the 32.0°C to 42.9°C P"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            118.92,
+            402.63,
+            335.28,
+            416.19
+          ],
+          "word_count": 7,
+          "text": "CLINICAL THERMOMETER is from 34°C to 42°C."
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            62.04,
+            419.31,
+            520.83,
+            435.87
+          ],
+          "word_count": 3,
+          "text": "201.12.2 USABILITY P"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            62.04,
+            441.03,
+            520.83,
+            457.59
+          ],
+          "word_count": 6,
+          "text": "201.12.2. Additional requirements for USABILITY P"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            62.04,
+            459.63,
+            78.49,
+            473.19
+          ],
+          "word_count": 1,
+          "text": "101"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            118.92,
+            473.31,
+            520.83,
+            489.99
+          ],
+          "word_count": 7,
+          "text": "CLINICAL THERMOMETERS intended for home 10mm P"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            118.92,
+            492.03,
+            317.71,
+            505.59
+          ],
+          "word_count": 7,
+          "text": "healthcare use require the display of OUTPUT"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            118.92,
+            507.63,
+            323.69,
+            521.19
+          ],
+          "word_count": 9,
+          "text": "TEMPERATURE of at least 4mm or the value is"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            118.92,
+            523.23,
+            340.09,
+            536.79
+          ],
+          "word_count": 9,
+          "text": "optically magnified to this height. This is indicated in"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            118.92,
+            538.83,
+            292.79,
+            552.39
+          ],
+          "word_count": 3,
+          "text": "USABILITY ENGINEERING PROCESS."
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            118.92,
+            554.91,
+            525.63,
+            571.47
+          ],
+          "word_count": 6,
+          "text": "CLINICAL THERMOMETERS with a segmented N/A"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            118.92,
+            573.51,
+            321.65,
+            587.07
+          ],
+          "word_count": 8,
+          "text": "indication display perform a functional test of all"
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            118.92,
+            589.11,
+            226.57,
+            602.67
+          ],
+          "word_count": 3,
+          "text": "segments after activation"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            62.04,
+            608.31,
+            517.71,
+            621.87
+          ],
+          "word_count": 7,
+          "text": "201.13 HAZARDOUS SITUATIONS and fault conditions P"
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            118.92,
+            629.07,
+            517.71,
+            642.63
+          ],
+          "word_count": 9,
+          "text": "IEC 60601-1 :2005+A 1 :2012, Clause 13 applies. P"
+        },
+        {
+          "row_index": 35,
+          "bbox": [
+            62.04,
+            649.83,
+            517.71,
+            663.39
+          ],
+          "word_count": 8,
+          "text": "201.14 201.14 PROGRAMMABLE ELECTRICAL MEDICAL SYSTEMS (PEMS) P"
+        },
+        {
+          "row_index": 36,
+          "bbox": [
+            118.92,
+            670.59,
+            517.71,
+            684.15
+          ],
+          "word_count": 6,
+          "text": "IEC 60601-1:2005+A1:2012. Clause 14 applies. P"
+        },
+        {
+          "row_index": 37,
+          "bbox": [
+            62.04,
+            692.79,
+            517.71,
+            706.35
+          ],
+          "word_count": 7,
+          "text": "201.15 201.15 Construction of ME EQUIPMENT P"
+        },
+        {
+          "row_index": 38,
+          "bbox": [
+            118.92,
+            714.99,
+            517.71,
+            728.55
+          ],
+          "word_count": 10,
+          "text": "IEC 6060 1-1 :2005+A 1:20 12, Clause 15 applies. P"
+        },
+        {
+          "row_index": 39,
+          "bbox": [
+            62.04,
+            737.19,
+            183.14,
+            750.75
+          ],
+          "word_count": 3,
+          "text": "201.16 ME SYSTEMS"
+        }
+      ]
+    },
+    {
+      "page_index": 10,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 53,
+      "word_count": 252,
+      "row_count": 40,
+      "table_like_row_count": 33,
+      "drawing_path_count": 26,
+      "drawing_item_count": 26,
+      "line_item_count": 26,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            208.57,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-03"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            118.92,
+            76.71,
+            522.63,
+            90.27
+          ],
+          "word_count": 10,
+          "text": "IEC 60601-1 :2005+A1:2012, Clause 16 applies. Not ME systems N/A"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            62.04,
+            98.91,
+            522.37,
+            112.47
+          ],
+          "word_count": 10,
+          "text": "201.17 Electromagnetic compatibility of ME EQUIPMENT and ME SYSTEMS N/E"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            118.92,
+            121.11,
+            522.37,
+            134.67
+          ],
+          "word_count": 11,
+          "text": "IEC 60601-1:2005, Clause 17 applies. Not evaluate in this report N/E"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            62.04,
+            143.31,
+            330.62,
+            156.87
+          ],
+          "word_count": 4,
+          "text": "201.101 LABORATY PERFORMANCE REQUIREMENTS"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            62.04,
+            163.71,
+            231.05,
+            177.27
+          ],
+          "word_count": 4,
+          "text": "201.101.1 General test requirements"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            118.92,
+            184.23,
+            517.71,
+            197.79
+          ],
+          "word_count": 10,
+          "text": "Laboratory performance is assessed in DIRECT In test mode P"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            118.92,
+            199.83,
+            299.17,
+            213.39
+          ],
+          "word_count": 8,
+          "text": "MODE or in TEST MODE under the same"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            118.92,
+            215.43,
+            162.65,
+            228.99
+          ],
+          "word_count": 1,
+          "text": "conditions"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            118.92,
+            233.79,
+            517.71,
+            247.35
+          ],
+          "word_count": 8,
+          "text": "Alternatively correction method is used to derive P"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            118.92,
+            249.39,
+            291.19,
+            262.95
+          ],
+          "word_count": 4,
+          "text": "unadjusted temperatures from OUTPUT"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            118.92,
+            264.99,
+            291.01,
+            278.55
+          ],
+          "word_count": 5,
+          "text": "TEMPERATURE in accordance with the"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            118.92,
+            280.59,
+            257.95,
+            294.15
+          ],
+          "word_count": 2,
+          "text": "ACCOMPANYING DOCUMENT"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            118.92,
+            299.91,
+            522.63,
+            313.47
+          ],
+          "word_count": 12,
+          "text": "If the CLINICAL THERMOMETER is intended for No PROBE COVER used N/A"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            118.92,
+            315.51,
+            317.29,
+            329.07
+          ],
+          "word_count": 9,
+          "text": "use with a PROBE COVER as indicated in the"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            118.92,
+            331.11,
+            338.89,
+            344.67
+          ],
+          "word_count": 9,
+          "text": "instructions for use, a new PROBE COVER is used"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            118.92,
+            349.71,
+            334.55,
+            363.27
+          ],
+          "word_count": 5,
+          "text": "for each OUTPUT TEMPERATURE measurement"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            62.04,
+            367.95,
+            517.71,
+            381.51
+          ],
+          "word_count": 4,
+          "text": "201.101.2 LABORATORY ACCURACY P"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            118.92,
+            390.03,
+            517.71,
+            403.59
+          ],
+          "word_count": 8,
+          "text": "The LABORATORY ACCURACY within the RATED 0,3°C P"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            118.92,
+            405.63,
+            336.73,
+            419.19
+          ],
+          "word_count": 8,
+          "text": "OUTPUT RANGE in NORMAL USE shall be within"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            118.92,
+            421.23,
+            148.78,
+            434.79
+          ],
+          "word_count": 1,
+          "text": "±0,3°C"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            118.92,
+            440.91,
+            517.71,
+            454.47
+          ],
+          "word_count": 8,
+          "text": "The LABORATORY ACCURACY, within the RATED 0,3°C P"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            118.92,
+            456.51,
+            332.04,
+            470.07
+          ],
+          "word_count": 6,
+          "text": "EXTENDED OUTPUT RANGE in NORMAL USE,"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            118.92,
+            472.11,
+            283.69,
+            485.67
+          ],
+          "word_count": 6,
+          "text": "shall be within 0,4°C unless CLINICAL"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            118.92,
+            487.71,
+            317.29,
+            501.27
+          ],
+          "word_count": 5,
+          "text": "THERMOMETER indicates that the measured"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            118.92,
+            503.31,
+            319.39,
+            516.87
+          ],
+          "word_count": 7,
+          "text": "temperature is outside of the RATED OUTPUT"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            118.92,
+            518.91,
+            156.59,
+            532.47
+          ],
+          "word_count": 1,
+          "text": "RANGE."
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            118.92,
+            537.15,
+            522.63,
+            550.71
+          ],
+          "word_count": 9,
+          "text": "If the PROBE is separable from the CLINICAL N/A"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            118.92,
+            555.75,
+            330.05,
+            569.31
+          ],
+          "word_count": 6,
+          "text": "THERMOMETER, they may be tested separately"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            118.92,
+            576.15,
+            517.71,
+            589.71
+          ],
+          "word_count": 8,
+          "text": "Calculated equation for CLINICAL See Appended Table P"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            118.92,
+            591.75,
+            397.81,
+            605.31
+          ],
+          "word_count": 4,
+          "text": "THERMOMETER .. : 201.101.2"
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            62.04,
+            609.99,
+            517.71,
+            623.55
+          ],
+          "word_count": 9,
+          "text": "201.101.3 Time response for a continuous CLINICAL THERMOMETER P"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            118.92,
+            631.95,
+            517.71,
+            645.51
+          ],
+          "word_count": 12,
+          "text": "The transient response for a DIRECT MODE Not a DIRECT MODE P"
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            118.92,
+            647.55,
+            477.22,
+            661.11
+          ],
+          "word_count": 8,
+          "text": "CLINICAL THERMOMETER that is not an CLINICAL THERMOMETER"
+        },
+        {
+          "row_index": 35,
+          "bbox": [
+            118.92,
+            663.15,
+            327.94,
+            676.71
+          ],
+          "word_count": 4,
+          "text": "ADJUSTED MODE CLINICAL THERMOMETER"
+        },
+        {
+          "row_index": 36,
+          "bbox": [
+            118.92,
+            678.75,
+            300.97,
+            692.31
+          ],
+          "word_count": 7,
+          "text": "shall be characterized and disclosed in the"
+        },
+        {
+          "row_index": 37,
+          "bbox": [
+            118.92,
+            694.35,
+            202.8,
+            707.91
+          ],
+          "word_count": 3,
+          "text": "instructions for use."
+        },
+        {
+          "row_index": 38,
+          "bbox": [
+            118.92,
+            714.27,
+            522.63,
+            727.83
+          ],
+          "word_count": 7,
+          "text": "Transient time lower than recommended minimum N/A"
+        },
+        {
+          "row_index": 39,
+          "bbox": [
+            118.92,
+            729.87,
+            318.53,
+            743.43
+          ],
+          "word_count": 5,
+          "text": "measuring time indicated in ACCOMPANYING"
+        },
+        {
+          "row_index": 40,
+          "bbox": [
+            118.92,
+            745.47,
+            177.35,
+            759.03
+          ],
+          "word_count": 1,
+          "text": "DOCUMENT."
+        }
+      ]
+    },
+    {
+      "page_index": 11,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 46,
+      "word_count": 244,
+      "row_count": 37,
+      "table_like_row_count": 32,
+      "drawing_path_count": 24,
+      "drawing_item_count": 24,
+      "line_item_count": 24,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            208.57,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-03"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            62.04,
+            76.71,
+            522.63,
+            90.27
+          ],
+          "word_count": 4,
+          "text": "201.102 CLINICALACCURACY VALIDATION N/E"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            62.04,
+            98.67,
+            522.63,
+            112.23
+          ],
+          "word_count": 3,
+          "text": "201.102.1 Method N/E"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            118.92,
+            120.63,
+            522.63,
+            134.19
+          ],
+          "word_count": 5,
+          "text": "ADJUSTED MODE CLINICAL THERMOMETER N/E"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            118.92,
+            136.23,
+            339.13,
+            149.79
+          ],
+          "word_count": 7,
+          "text": "are VALIDATED for CLINICAL ACCURACY in each"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            118.92,
+            151.83,
+            304.85,
+            165.39
+          ],
+          "word_count": 6,
+          "text": "ADJUSTED MODE in accordance with ISO"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            118.92,
+            167.43,
+            282.48,
+            180.99
+          ],
+          "word_count": 4,
+          "text": "14155-1:2003 and ISO 14155-2:2003."
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            118.92,
+            188.67,
+            522.63,
+            202.23
+          ],
+          "word_count": 7,
+          "text": "The results of CLINICAL ACCURACY VALIDATION N/E"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            118.92,
+            204.27,
+            337.79,
+            217.83
+          ],
+          "word_count": 6,
+          "text": "is disclosed in the ACCOMPANYING DOCUMENT."
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            118.92,
+            225.15,
+            522.63,
+            238.71
+          ],
+          "word_count": 8,
+          "text": "If the CLINICAL THERMOMETER is intended for N/E"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            118.92,
+            240.75,
+            317.29,
+            254.31
+          ],
+          "word_count": 9,
+          "text": "use with a PROBE COVER as indicated in the"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            118.92,
+            256.35,
+            338.89,
+            269.91
+          ],
+          "word_count": 9,
+          "text": "instructions for use, a new PROBE COVER is used"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            118.92,
+            271.95,
+            337.19,
+            285.51
+          ],
+          "word_count": 5,
+          "text": "for each OUTPUT TEMPERATURE measurement."
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            118.92,
+            293.67,
+            522.63,
+            307.23
+          ],
+          "word_count": 6,
+          "text": "Requirements of clauses 201.102.2, 201.102.3, N/E"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            118.92,
+            312.27,
+            278.51,
+            325.83
+          ],
+          "word_count": 5,
+          "text": "201.102.4 and 201.102.5 are fulfilled."
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            118.92,
+            331.11,
+            522.63,
+            344.67
+          ],
+          "word_count": 3,
+          "text": "CLINICALACCURACY validated. N/E"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            62.04,
+            351.39,
+            522.63,
+            364.95
+          ],
+          "word_count": 6,
+          "text": "201.102.2 Human subject population requirements N/E"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            118.92,
+            373.35,
+            522.63,
+            386.91
+          ],
+          "word_count": 9,
+          "text": "Total number of febrile subjects not less than N/E"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            118.92,
+            392.07,
+            326.89,
+            405.63
+          ],
+          "word_count": 12,
+          "text": "30 % and not greater than 50 % of all subjects in"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            118.92,
+            410.67,
+            222.72,
+            424.23
+          ],
+          "word_count": 5,
+          "text": "the selected age group ."
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            118.92,
+            433.11,
+            522.63,
+            446.67
+          ],
+          "word_count": 6,
+          "text": "CLINICALACCURACY VALIDATION carried out on N/E"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            118.92,
+            448.71,
+            333.6,
+            462.27
+          ],
+          "word_count": 9,
+          "text": "all age groups indicated in the instructions for use."
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            118.92,
+            468.99,
+            522.63,
+            482.55
+          ],
+          "word_count": 10,
+          "text": "Number of subjects in each age group is : N/E"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            118.92,
+            487.59,
+            327.73,
+            501.15
+          ],
+          "word_count": 8,
+          "text": "sufficiently large to minimize the effect of random"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            118.92,
+            506.31,
+            323.88,
+            519.87
+          ],
+          "word_count": 6,
+          "text": "components of measurement error (minimum of"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            118.92,
+            524.91,
+            316.2,
+            538.47
+          ],
+          "word_count": 10,
+          "text": "all groups is 105; minimum in age group is 35;"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            118.92,
+            543.51,
+            327.53,
+            557.07
+          ],
+          "word_count": 11,
+          "text": "minimum 15 subjects in A1 or A2 if subgroup A is"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            118.92,
+            562.23,
+            182.4,
+            575.79
+          ],
+          "word_count": 3,
+          "text": "not excluded )."
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            118.92,
+            580.71,
+            522.63,
+            594.27
+          ],
+          "word_count": 7,
+          "text": "– age group A1 (0-3 months) N/E"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            118.92,
+            602.67,
+            522.63,
+            616.23
+          ],
+          "word_count": 7,
+          "text": "– age group A2 (3-12 months) N/E"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            118.92,
+            624.75,
+            522.63,
+            638.31
+          ],
+          "word_count": 9,
+          "text": "– age group B (>1 and <5 years) N/E"
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            118.92,
+            646.71,
+            522.63,
+            660.27
+          ],
+          "word_count": 7,
+          "text": "– age group C (>5 years) N/E"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            62.04,
+            668.67,
+            522.63,
+            682.23
+          ],
+          "word_count": 8,
+          "text": "201.102.3 Calculated CLINICAL BIAS for the OPERATING N/E"
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            118.92,
+            684.27,
+            244.75,
+            697.83
+          ],
+          "word_count": 4,
+          "text": "MODE being evaluated (∆cb)"
+        },
+        {
+          "row_index": 35,
+          "bbox": [
+            62.04,
+            708.63,
+            522.63,
+            722.19
+          ],
+          "word_count": 7,
+          "text": "201.102.4 Calculated LIMITS OF AGREEMENT (LA) N/E"
+        },
+        {
+          "row_index": 36,
+          "bbox": [
+            62.04,
+            727.95,
+            522.63,
+            741.51
+          ],
+          "word_count": 7,
+          "text": "201.102.5 Calculated CLINICAL REPEATABILITY for particular N/E"
+        },
+        {
+          "row_index": 37,
+          "bbox": [
+            118.92,
+            743.55,
+            226.15,
+            757.11
+          ],
+          "word_count": 3,
+          "text": "OPERATING MODE (σr)"
+        }
+      ]
+    },
+    {
+      "page_index": 12,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 46,
+      "word_count": 235,
+      "row_count": 38,
+      "table_like_row_count": 33,
+      "drawing_path_count": 19,
+      "drawing_item_count": 19,
+      "line_item_count": 19,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            208.57,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-03"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            118.92,
+            76.71,
+            522.63,
+            90.27
+          ],
+          "word_count": 6,
+          "text": "An ADJUSTED MODE CLINICAL THERMOMETER N/E"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            118.92,
+            92.31,
+            286.81,
+            105.87
+          ],
+          "word_count": 6,
+          "text": "that makes continuous estimates of the"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            118.92,
+            107.91,
+            332.87,
+            121.47
+          ],
+          "word_count": 6,
+          "text": "REFERENCE BODY SITE temperature is exempt"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            118.92,
+            123.51,
+            288.37,
+            137.07
+          ],
+          "word_count": 6,
+          "text": "from the requirements of this subclause"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            62.04,
+            145.11,
+            517.71,
+            158.67
+          ],
+          "word_count": 9,
+          "text": "201.103 PROBES, PROBE CABLE EXTENDERS AND PROBE COVERS P"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            62.04,
+            167.19,
+            517.71,
+            180.75
+          ],
+          "word_count": 3,
+          "text": "201.103.1 General P"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            118.92,
+            189.15,
+            517.71,
+            202.71
+          ],
+          "word_count": 10,
+          "text": "PROBES, PROBE CABLE EXTENDERS and No such parts used P"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            118.92,
+            204.75,
+            336.48,
+            218.31
+          ],
+          "word_count": 7,
+          "text": "PROBE COVERS comply with the requirements of"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            118.92,
+            220.35,
+            216.73,
+            233.91
+          ],
+          "word_count": 3,
+          "text": "this particular standard"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            118.92,
+            237.75,
+            517.71,
+            251.31
+          ],
+          "word_count": 6,
+          "text": "MANUFACTURERS of PROBES, PROBE CABLE P"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            118.92,
+            256.35,
+            338.21,
+            269.91
+          ],
+          "word_count": 6,
+          "text": "EXTENDERS and PROBE COVERS conduct tests"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            118.92,
+            271.95,
+            315.58,
+            285.51
+          ],
+          "word_count": 6,
+          "text": "to ensure that all CLINICAL THERMOMETER"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            118.92,
+            290.67,
+            338.43,
+            304.23
+          ],
+          "word_count": 8,
+          "text": "specifications are met with each MODEL OR TYPE"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            118.92,
+            309.27,
+            335.17,
+            322.83
+          ],
+          "word_count": 5,
+          "text": "REFERENCE of CLINICAL THERMOMETER with"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            118.92,
+            324.87,
+            269.17,
+            338.43
+          ],
+          "word_count": 7,
+          "text": "which they are intended to be used"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            118.92,
+            341.43,
+            517.71,
+            354.99
+          ],
+          "word_count": 6,
+          "text": "All CLINICAL THERMOMETERS with which P"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            118.92,
+            360.03,
+            316.47,
+            373.59
+          ],
+          "word_count": 6,
+          "text": "compatibility to the PROBES, PROBE CABLE"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            118.92,
+            378.75,
+            340.81,
+            392.31
+          ],
+          "word_count": 7,
+          "text": "EXTENDERS and PROBE COVERS is claimed are"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            118.92,
+            394.35,
+            336.6,
+            407.91
+          ],
+          "word_count": 7,
+          "text": "listed in the ACCOMPANYING UMENT ................ :"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            118.92,
+            414.75,
+            517.71,
+            428.31
+          ],
+          "word_count": 10,
+          "text": "It is the responsibility of the MANUFACTURER of a P"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            118.92,
+            433.35,
+            339.15,
+            446.91
+          ],
+          "word_count": 6,
+          "text": "PROBE, PROBE CABLE EXTENDER and PROBE"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            118.92,
+            448.95,
+            322.55,
+            462.51
+          ],
+          "word_count": 5,
+          "text": "COVER, including a REPROCESSED PROBE,"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            118.92,
+            464.55,
+            339.71,
+            478.11
+          ],
+          "word_count": 6,
+          "text": "PROBE CABLE EXTENDER and PROBE COVER,"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            118.92,
+            480.15,
+            334.21,
+            493.71
+          ],
+          "word_count": 7,
+          "text": "to have their PROCESSES VALIDATED to ensure"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            118.92,
+            495.75,
+            338.69,
+            509.31
+          ],
+          "word_count": 7,
+          "text": "that any new or REPROCESSED product complies"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            118.92,
+            511.35,
+            322.45,
+            524.91
+          ],
+          "word_count": 7,
+          "text": "with the requirements of this particular standard"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            62.04,
+            534.75,
+            517.71,
+            548.31
+          ],
+          "word_count": 3,
+          "text": "201.103.2 Labelling P"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            118.92,
+            556.83,
+            517.71,
+            570.39
+          ],
+          "word_count": 9,
+          "text": "At least one MODEL OR TYPE REFERENCE of P"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            118.92,
+            575.43,
+            315.97,
+            588.99
+          ],
+          "word_count": 6,
+          "text": "CLINICAL THERMOMETER is included in the"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            118.92,
+            594.15,
+            341.17,
+            607.71
+          ],
+          "word_count": 5,
+          "text": "ACCOMPANYING DOCUMENT provided with each"
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            118.92,
+            609.75,
+            339.15,
+            623.31
+          ],
+          "word_count": 6,
+          "text": "PROBE, PROBE CABLE EXTENDER and PROBE"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            118.92,
+            625.35,
+            266.17,
+            638.91
+          ],
+          "word_count": 4,
+          "text": "COVER, compliant with 201.103.1"
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            118.92,
+            647.43,
+            517.71,
+            660.99
+          ],
+          "word_count": 9,
+          "text": "The following statements can be found in the P"
+        },
+        {
+          "row_index": 35,
+          "bbox": [
+            118.92,
+            666.03,
+            331.67,
+            679.59
+          ],
+          "word_count": 5,
+          "text": "ACCOMPANYING DOCUMENT of each PROBE,"
+        },
+        {
+          "row_index": 36,
+          "bbox": [
+            118.92,
+            681.63,
+            339.71,
+            695.19
+          ],
+          "word_count": 6,
+          "text": "PROBE CABLE EXTENDER and PROBE COVER:"
+        },
+        {
+          "row_index": 37,
+          "bbox": [
+            118.92,
+            701.55,
+            517.71,
+            715.11
+          ],
+          "word_count": 9,
+          "text": "a) Designed for use with specific thermometer or P"
+        },
+        {
+          "row_index": 38,
+          "bbox": [
+            118.92,
+            720.15,
+            215.04,
+            733.71
+          ],
+          "word_count": 2,
+          "text": "monitoring equipment;"
+        }
+      ]
+    },
+    {
+      "page_index": 13,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 45,
+      "word_count": 197,
+      "row_count": 35,
+      "table_like_row_count": 27,
+      "drawing_path_count": 22,
+      "drawing_item_count": 22,
+      "line_item_count": 22,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            208.57,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-03"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            118.92,
+            76.71,
+            517.71,
+            90.27
+          ],
+          "word_count": 9,
+          "text": "b) The OPERATOR is responsible for checking the P"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            118.92,
+            95.31,
+            315.73,
+            108.87
+          ],
+          "word_count": 6,
+          "text": "compatibility of the thermometer or monitoring"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            118.92,
+            113.91,
+            334.06,
+            127.47
+          ],
+          "word_count": 5,
+          "text": "equipment, PROBE, PROBE CABLE EXTENDER"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            118.92,
+            129.51,
+            283.93,
+            143.07
+          ],
+          "word_count": 6,
+          "text": "AND PROBE COVER before use; and"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            118.92,
+            149.67,
+            517.71,
+            163.23
+          ],
+          "word_count": 7,
+          "text": "c) Incompatible components can result in P"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            118.92,
+            168.27,
+            219.95,
+            181.83
+          ],
+          "word_count": 2,
+          "text": "degraded performance."
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            62.04,
+            184.11,
+            522.63,
+            197.67
+          ],
+          "word_count": 8,
+          "text": "202 Electromagnetic disturbances - Requirements and tests N/E"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            118.92,
+            207.63,
+            522.63,
+            221.19
+          ],
+          "word_count": 7,
+          "text": "IEC 60601-1-2:2014 applies except as follows: N/E"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            62.04,
+            227.55,
+            522.63,
+            241.11
+          ],
+          "word_count": 3,
+          "text": "202.4.3.1 Configurations N/E"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            118.92,
+            252.87,
+            522.63,
+            266.43
+          ],
+          "word_count": 9,
+          "text": "Amendment (add after the last dash of 4.3.1): N/E"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            118.92,
+            271.47,
+            325.85,
+            285.03
+          ],
+          "word_count": 6,
+          "text": "--if applicable, attachment of ACCESSORIES as"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            118.92,
+            287.07,
+            317.29,
+            300.63
+          ],
+          "word_count": 7,
+          "text": "necessary to achieve the BASIC SAFETY and"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            118.92,
+            302.67,
+            324.37,
+            316.23
+          ],
+          "word_count": 5,
+          "text": "ESSENTIAL PERFORMANCE of the CLINICAL"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            118.92,
+            318.27,
+            198.47,
+            331.83
+          ],
+          "word_count": 1,
+          "text": "THERMOMETER;"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            62.04,
+            338.43,
+            522.63,
+            351.99
+          ],
+          "word_count": 9,
+          "text": "202.5.2.2. Requirements applicable to all ME Equipment and N/E"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            62.04,
+            354.03,
+            172.13,
+            367.59
+          ],
+          "word_count": 3,
+          "text": "1 ME systems"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            116.52,
+            375.51,
+            522.63,
+            389.07
+          ],
+          "word_count": 8,
+          "text": "Amendment [add note to list element b]: N/E"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            116.52,
+            394.11,
+            328.08,
+            407.67
+          ],
+          "word_count": 8,
+          "text": "NOTE: the requirements of this document are not"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            116.52,
+            409.71,
+            272.09,
+            423.27
+          ],
+          "word_count": 4,
+          "text": "considered deviations or allowances"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            62.04,
+            435.39,
+            522.63,
+            448.95
+          ],
+          "word_count": 5,
+          "text": "202.8.1.1 Additional general requirements N/E"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            62.04,
+            450.99,
+            73.09,
+            464.55
+          ],
+          "word_count": 1,
+          "text": "01"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            118.92,
+            469.35,
+            522.63,
+            482.91
+          ],
+          "word_count": 8,
+          "text": "The following degradations, if assiciated with BASIC N/E"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            118.92,
+            484.95,
+            342.96,
+            498.51
+          ],
+          "word_count": 6,
+          "text": "SAFETY or ESSENTIAL PERFORMANCE, shall not"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            118.92,
+            500.55,
+            167.99,
+            514.11
+          ],
+          "word_count": 2,
+          "text": "be allowed:"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            118.92,
+            519.51,
+            522.63,
+            533.07
+          ],
+          "word_count": 3,
+          "text": "--component failures N/E"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            118.92,
+            540.51,
+            522.63,
+            554.07
+          ],
+          "word_count": 7,
+          "text": "--changes in programmable parameters or settings N/E"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            118.92,
+            561.51,
+            522.63,
+            575.07
+          ],
+          "word_count": 5,
+          "text": "--reset to default settings N/E"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            118.92,
+            582.51,
+            522.63,
+            596.07
+          ],
+          "word_count": 5,
+          "text": "--change of operating mode N/E"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            118.92,
+            603.51,
+            522.63,
+            617.07
+          ],
+          "word_count": 7,
+          "text": "--change in LABORATORY ACCURACY at any N/E"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            118.92,
+            619.11,
+            326.41,
+            632.67
+          ],
+          "word_count": 9,
+          "text": "point in the RATED OUTPUT RANGE and in the"
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            118.92,
+            634.71,
+            342.25,
+            648.27
+          ],
+          "word_count": 6,
+          "text": "RATED EXTENDED OUTPUT RANGE greater than"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            118.92,
+            650.31,
+            323.76,
+            663.87
+          ],
+          "word_count": 7,
+          "text": "permitted in 201.101.2 without the generation of"
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            118.92,
+            665.91,
+            326.53,
+            679.47
+          ],
+          "word_count": 6,
+          "text": "either a TECHNICALALARM CONDITION or an"
+        },
+        {
+          "row_index": 35,
+          "bbox": [
+            118.92,
+            681.51,
+            259.2,
+            695.07
+          ],
+          "word_count": 4,
+          "text": "indication of abnormal operation."
+        }
+      ]
+    },
+    {
+      "page_index": 14,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 49,
+      "word_count": 197,
+      "row_count": 39,
+      "table_like_row_count": 27,
+      "drawing_path_count": 21,
+      "drawing_item_count": 21,
+      "line_item_count": 21,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            208.57,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-03"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            118.92,
+            76.71,
+            522.63,
+            90.27
+          ],
+          "word_count": 6,
+          "text": "The CLINICAL THERMOMETER may exhibit N/E"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            118.92,
+            92.31,
+            306.24,
+            105.87
+          ],
+          "word_count": 5,
+          "text": "temporary degradation of performance (e.g."
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            118.92,
+            107.91,
+            320.41,
+            121.47
+          ],
+          "word_count": 7,
+          "text": "deviation from the performance indicated in the"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            118.92,
+            123.51,
+            318.84,
+            137.07
+          ],
+          "word_count": 6,
+          "text": "instructions for use dUring IMMUNITY testing),"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            118.92,
+            139.11,
+            325.57,
+            152.67
+          ],
+          "word_count": 6,
+          "text": "which does not require OPERATOR intervention"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            118.92,
+            154.71,
+            303.43,
+            168.27
+          ],
+          "word_count": 8,
+          "text": "and that does not affect BASIC SAFETY or"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            118.92,
+            170.31,
+            253.79,
+            183.87
+          ],
+          "word_count": 2,
+          "text": "ESSENTIAL PERFORMANCE."
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            118.92,
+            190.59,
+            522.63,
+            204.15
+          ],
+          "word_count": 9,
+          "text": "In the event of disruption during IMMUNITY tests. N/E"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            118.92,
+            206.19,
+            337.21,
+            219.75
+          ],
+          "word_count": 6,
+          "text": "the CLINICAL THERMOMETER shall recover from"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            118.92,
+            221.79,
+            227.46,
+            235.35
+          ],
+          "word_count": 5,
+          "text": "any disruption within 30 s"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            62.04,
+            243.51,
+            522.63,
+            257.07
+          ],
+          "word_count": 3,
+          "text": "206 Usability N/E"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            118.92,
+            265.35,
+            522.63,
+            278.91
+          ],
+          "word_count": 6,
+          "text": "EC 60601-1-6:2010+A1:2013 applies except as N/E"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            118.92,
+            280.95,
+            151.31,
+            294.51
+          ],
+          "word_count": 1,
+          "text": "follows:"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            118.92,
+            299.55,
+            325.81,
+            313.11
+          ],
+          "word_count": 6,
+          "text": "For a CLINICAL THERMOMETER, the following"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            118.92,
+            315.15,
+            308.57,
+            328.71
+          ],
+          "word_count": 5,
+          "text": "shall be considered PRIMARY OPERATING"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            118.92,
+            330.75,
+            178.68,
+            344.31
+          ],
+          "word_count": 1,
+          "text": "FUNCTIONS;"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            116.52,
+            350.55,
+            522.63,
+            364.11
+          ],
+          "word_count": 6,
+          "text": "a) observing the OUTPUT TEMPERATURE; N/E"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            116.52,
+            371.67,
+            522.63,
+            385.23
+          ],
+          "word_count": 6,
+          "text": "b) properly positioning CLINICAL THERMOMETER N/E"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            116.52,
+            387.27,
+            277.67,
+            400.83
+          ],
+          "word_count": 6,
+          "text": "or PROBE at the MEASURING SITE;"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            116.52,
+            406.71,
+            522.63,
+            420.27
+          ],
+          "word_count": 7,
+          "text": "c) starting the CLINICAL THERMOMETER from N/E"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            116.52,
+            422.31,
+            158.99,
+            435.87
+          ],
+          "word_count": 2,
+          "text": "power off;"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            116.52,
+            443.43,
+            522.63,
+            456.99
+          ],
+          "word_count": 7,
+          "text": "d) turning off the CLINICAL THERMOMETER; N/E"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            116.52,
+            466.71,
+            522.63,
+            480.27
+          ],
+          "word_count": 10,
+          "text": "e) performing a basic pre-use functional check of the N/E"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            116.52,
+            482.31,
+            239.03,
+            495.87
+          ],
+          "word_count": 1,
+          "text": "CLINICALTHERMOMETER."
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            116.52,
+            502.35,
+            522.63,
+            515.91
+          ],
+          "word_count": 9,
+          "text": "The folloWing functions, if available, also shall be N/E"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            116.52,
+            517.95,
+            332.52,
+            531.51
+          ],
+          "word_count": 4,
+          "text": "considered PRIMARY OPERATING FUNCTIONS:"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            116.52,
+            538.59,
+            522.63,
+            552.15
+          ],
+          "word_count": 10,
+          "text": "f) performing a basic pre-use functional check of the N/E"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            116.52,
+            554.19,
+            197.87,
+            567.75
+          ],
+          "word_count": 2,
+          "text": "ALARM SIGNALS;"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            116.52,
+            576.75,
+            522.63,
+            590.31
+          ],
+          "word_count": 6,
+          "text": "g) configuring the ACCESSORIES including N/E"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            116.52,
+            592.35,
+            337.69,
+            605.91
+          ],
+          "word_count": 8,
+          "text": "connection of the detachable parts to the CLINICAL"
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            116.52,
+            611.07,
+            196.07,
+            624.63
+          ],
+          "word_count": 1,
+          "text": "THERMOMETER;"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            116.52,
+            631.23,
+            522.63,
+            644.79
+          ],
+          "word_count": 5,
+          "text": "h) REPROCESSING the ACCESSORIES; N/E"
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            116.52,
+            653.67,
+            522.63,
+            667.23
+          ],
+          "word_count": 6,
+          "text": "i) setting the OPERATOR-adjustable controls: N/E"
+        },
+        {
+          "row_index": 35,
+          "bbox": [
+            116.52,
+            675.03,
+            522.63,
+            688.59
+          ],
+          "word_count": 5,
+          "text": "--switching between MEASURING SITES; N/E"
+        },
+        {
+          "row_index": 36,
+          "bbox": [
+            116.52,
+            693.63,
+            308.33,
+            707.19
+          ],
+          "word_count": 4,
+          "text": "--setting CLINICAL THERMOMETER control"
+        },
+        {
+          "row_index": 37,
+          "bbox": [
+            116.52,
+            709.23,
+            168.47,
+            722.79
+          ],
+          "word_count": 1,
+          "text": "parameters;"
+        },
+        {
+          "row_index": 38,
+          "bbox": [
+            116.52,
+            727.95,
+            223.79,
+            741.51
+          ],
+          "word_count": 3,
+          "text": "--setting ALARM LIMITS;"
+        },
+        {
+          "row_index": 39,
+          "bbox": [
+            116.52,
+            746.55,
+            251.91,
+            760.11
+          ],
+          "word_count": 3,
+          "text": "--inactivating ALARM SIGNALS"
+        }
+      ]
+    },
+    {
+      "page_index": 15,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 46,
+      "word_count": 195,
+      "row_count": 32,
+      "table_like_row_count": 23,
+      "drawing_path_count": 20,
+      "drawing_item_count": 20,
+      "line_item_count": 20,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            208.57,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-03"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            62.04,
+            76.71,
+            527.31,
+            90.27
+          ],
+          "word_count": 9,
+          "text": "208 General requirements, tests and guidance for alarm N/A"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            116.52,
+            92.31,
+            342.05,
+            105.87
+          ],
+          "word_count": 7,
+          "text": "systems in medical electrical equipment and medical"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            116.52,
+            107.91,
+            193.01,
+            121.47
+          ],
+          "word_count": 2,
+          "text": "electrical systems"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            116.52,
+            126.39,
+            527.31,
+            139.95
+          ],
+          "word_count": 7,
+          "text": "IEC 60601-1-8:2006+A 1:2012 applies except as N/A"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            116.52,
+            141.99,
+            148.91,
+            155.55
+          ],
+          "word_count": 1,
+          "text": "follows:"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            62.04,
+            162.39,
+            527.31,
+            175.95
+          ],
+          "word_count": 7,
+          "text": "208.6.1.2 Determination of ALARM CONDITIONS and N/A"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            116.52,
+            177.99,
+            208.49,
+            191.55
+          ],
+          "word_count": 3,
+          "text": "assignment of priority"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            116.52,
+            198.39,
+            527.31,
+            211.95
+          ],
+          "word_count": 7,
+          "text": "Amendment (add prior to the compliancecheck): N/A"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            116.52,
+            216.99,
+            319.93,
+            230.55
+          ],
+          "word_count": 7,
+          "text": "A CLINICAL THERMOMETER need not have a"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            116.52,
+            232.59,
+            291.35,
+            246.15
+          ],
+          "word_count": 2,
+          "text": "PHYSIOLOGICALALARM CONDITION."
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            62.04,
+            254.43,
+            517.71,
+            267.99
+          ],
+          "word_count": 8,
+          "text": "211 Requirements for medical electrical equipment and P"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            116.52,
+            270.03,
+            306.01,
+            283.59
+          ],
+          "word_count": 7,
+          "text": "medical electrical systems used in the home"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            116.52,
+            285.63,
+            217.92,
+            299.19
+          ],
+          "word_count": 2,
+          "text": "healthcare environment"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            116.52,
+            300.99,
+            520.83,
+            317.55
+          ],
+          "word_count": 8,
+          "text": "IEC 60601-1-11 :2015 applies except as follows: P"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            62.04,
+            322.23,
+            520.83,
+            338.79
+          ],
+          "word_count": 5,
+          "text": "211.4.2.3. Continuous operating conditions P"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            62.04,
+            340.83,
+            67.57,
+            354.39
+          ],
+          "word_count": 1,
+          "text": "1"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            116.52,
+            357.15,
+            520.83,
+            373.83
+          ],
+          "word_count": 11,
+          "text": "Amendment (replace the first dash with): See electrical safety report P"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            116.52,
+            375.87,
+            453.61,
+            392.43
+          ],
+          "word_count": 13,
+          "text": "- a temperature range of at least +15 °C to +40 °C; ETX202303-07-003-04"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            62.04,
+            392.19,
+            520.83,
+            408.87
+          ],
+          "word_count": 7,
+          "text": "211.10.1.1 General requirements for mechanical strength P"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            116.52,
+            420.75,
+            520.83,
+            437.43
+          ],
+          "word_count": 13,
+          "text": "The tests of IEC 60601-1-11:2015, Clause 10 and I See appended Table P"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            116.52,
+            439.47,
+            399.85,
+            453.03
+          ],
+          "word_count": 8,
+          "text": "EC 60601-1 :2005+A1:2012, 15.3 shall be performed 211.10.1.1"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            116.52,
+            455.07,
+            277.21,
+            468.63
+          ],
+          "word_count": 7,
+          "text": "on the same sample of the CLINICAL"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            116.52,
+            470.67,
+            339.73,
+            484.23
+          ],
+          "word_count": 6,
+          "text": "THERMOMETER after the cleaning and disinfection"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            116.52,
+            486.27,
+            196.43,
+            499.83
+          ],
+          "word_count": 2,
+          "text": "PROCEDURES of"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            62.04,
+            507.15,
+            527.31,
+            520.71
+          ],
+          "word_count": 8,
+          "text": "212 Requirements for medical electrical equipment and N/A"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            116.52,
+            522.75,
+            327.01,
+            536.31
+          ],
+          "word_count": 8,
+          "text": "medical electrical systems intended for use in the"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            116.52,
+            538.35,
+            294.96,
+            551.91
+          ],
+          "word_count": 4,
+          "text": "emergency medical services environment"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            116.52,
+            556.95,
+            527.31,
+            570.51
+          ],
+          "word_count": 7,
+          "text": "IEC 60601-1-12:2014 applies except as follows: N/A"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            62.04,
+            577.71,
+            527.31,
+            591.27
+          ],
+          "word_count": 7,
+          "text": "212.10.1. General requirements for mechanical strength N/A"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            62.04,
+            593.31,
+            67.57,
+            606.87
+          ],
+          "word_count": 1,
+          "text": "1"
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            116.52,
+            612.87,
+            527.31,
+            626.43
+          ],
+          "word_count": 7,
+          "text": "Amendment (add as the first paragraph): N/A"
+        }
+      ]
+    },
+    {
+      "page_index": 16,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 14,
+      "word_count": 79,
+      "row_count": 13,
+      "table_like_row_count": 10,
+      "drawing_path_count": 7,
+      "drawing_item_count": 7,
+      "line_item_count": 7,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            208.57,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-03"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            116.52,
+            76.71,
+            527.31,
+            90.27
+          ],
+          "word_count": 9,
+          "text": "The tests of IEC 60601-1-12:2014, Clause 10 and N/A"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            116.52,
+            92.31,
+            340.45,
+            105.87
+          ],
+          "word_count": 6,
+          "text": "lEC 60601-1:2005+Al:2012, 15.3 shall be performed"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            116.52,
+            107.91,
+            277.21,
+            121.47
+          ],
+          "word_count": 7,
+          "text": "on the same sample of the CLINICAL"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            116.52,
+            123.51,
+            339.73,
+            137.07
+          ],
+          "word_count": 6,
+          "text": "THERMOMETER after the cleaning and disinfection"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            116.52,
+            139.11,
+            197.03,
+            152.67
+          ],
+          "word_count": 2,
+          "text": "PROCEOURES of"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            116.52,
+            157.71,
+            330.25,
+            171.27
+          ],
+          "word_count": 7,
+          "text": "201.11.6.6 of this document have been performed"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            116.52,
+            173.31,
+            307.33,
+            186.87
+          ],
+          "word_count": 7,
+          "text": "unless there arc no cleaning and disinfection"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            116.52,
+            191.91,
+            337.08,
+            205.47
+          ],
+          "word_count": 7,
+          "text": "PROf.EDURES specified in the instructions for use."
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            116.52,
+            207.51,
+            326.89,
+            221.07
+          ],
+          "word_count": 9,
+          "text": "If more than one PROf.EDURE is specified in the"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            116.52,
+            226.23,
+            337.93,
+            239.79
+          ],
+          "word_count": 8,
+          "text": "instructions for use, each PROCEDURE shall be so"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            116.52,
+            241.83,
+            298.45,
+            255.39
+          ],
+          "word_count": 7,
+          "text": "tested. A separate sample of the f.UNICAL"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            116.52,
+            257.43,
+            193.42,
+            270.99
+          ],
+          "word_count": 1,
+          "text": "THERMOMETER"
+        }
+      ]
+    },
+    {
+      "page_index": 17,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 62,
+      "word_count": 242,
+      "row_count": 38,
+      "table_like_row_count": 33,
+      "drawing_path_count": 42,
+      "drawing_item_count": 42,
+      "line_item_count": 42,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            208.57,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-03"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            65.64,
+            75.54,
+            150.43,
+            91.9
+          ],
+          "word_count": 2,
+          "text": "Appended Table"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            511.2,
+            100.35,
+            517.83,
+            113.91
+          ],
+          "word_count": 1,
+          "text": "P"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            62.04,
+            106.71,
+            253.61,
+            120.27
+          ],
+          "word_count": 4,
+          "text": "201.101.2 TABLE: Laboratory accuracy"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            130.2,
+            132.63,
+            497.11,
+            150.15
+          ],
+          "word_count": 8,
+          "text": "Rated output range (°C) 32.0°C to 42.9°C --"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            490.56,
+            159.75,
+            497.11,
+            173.31
+          ],
+          "word_count": 1,
+          "text": "--"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            130.2,
+            165.75,
+            411.75,
+            179.31
+          ],
+          "word_count": 6,
+          "text": "RATED EXTENDED OUTPUT RANGE (°C) N/A"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            130.2,
+            190.95,
+            497.11,
+            204.51
+          ],
+          "word_count": 10,
+          "text": "Ambient conditions of CLINICAL THERMOMETER (°C 10°C to 40°C, --"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            130.2,
+            206.55,
+            437.73,
+            220.11
+          ],
+          "word_count": 5,
+          "text": "/ %rH) ............. : 15%-95%"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            130.2,
+            225.03,
+            497.11,
+            238.59
+          ],
+          "word_count": 6,
+          "text": "Total uncertainty of REFERENCE TEMPERATURE --"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            130.2,
+            240.63,
+            223.56,
+            254.19
+          ],
+          "word_count": 4,
+          "text": "SOURCE (°C) ......... :"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            130.2,
+            256.83,
+            184.81,
+            270.39
+          ],
+          "word_count": 1,
+          "text": "Combination"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            130.2,
+            273.75,
+            531.55,
+            288.99
+          ],
+          "word_count": 10,
+          "text": "of ambient TRTS (°C) TTUT (°C) TRCT (°C) Equation (°C)"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            135.0,
+            292.95,
+            516.49,
+            306.51
+          ],
+          "word_count": 6,
+          "text": "1 25℃,55%RH 37.0 36.8 36.90 -0.1"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            62.04,
+            307.11,
+            515.53,
+            323.79
+          ],
+          "word_count": 8,
+          "text": "Midpoint of 2 39.5℃,90%RH 37.0 37.2 37.11 0.1"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            62.04,
+            324.39,
+            515.53,
+            341.07
+          ],
+          "word_count": 7,
+          "text": "RATED 3 10.5℃,90%RH 37.0 37.0 36.96 0.0"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            62.04,
+            341.43,
+            515.65,
+            358.23
+          ],
+          "word_count": 7,
+          "text": "OUTPUT 4 39.5℃,20%RH 37.0 36.9 36.90 0.0"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            62.04,
+            358.95,
+            515.53,
+            375.51
+          ],
+          "word_count": 7,
+          "text": "RANGE 5 10.5℃,20%RH 37.0 36.9 36.90 0.0"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            135.0,
+            376.11,
+            516.49,
+            392.79
+          ],
+          "word_count": 6,
+          "text": "1 25℃,55%RH 42.0 41.8 41.88 -0.1"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            62.04,
+            393.39,
+            517.21,
+            410.07
+          ],
+          "word_count": 9,
+          "text": "Upper limit of 2 39.5℃,90%RH 42.0 42.0 42.04 -0.0"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            62.04,
+            410.67,
+            515.53,
+            427.23
+          ],
+          "word_count": 7,
+          "text": "RATED 3 10.5℃,90%RH 42.0 42.0 41.95 0.1"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            62.04,
+            427.71,
+            517.21,
+            444.51
+          ],
+          "word_count": 7,
+          "text": "OUTPUT 4 39.5℃,20%RH 42.0 41.8 41.86 -0.1"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            62.04,
+            445.11,
+            517.21,
+            461.79
+          ],
+          "word_count": 7,
+          "text": "RANGE 5 10.5℃,20%RH 42.0 41.8 41.95 -0.2"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            135.0,
+            462.39,
+            515.05,
+            479.07
+          ],
+          "word_count": 6,
+          "text": "1 25℃,55%RH 33.0 32.9 32.90 0.0"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            62.04,
+            479.67,
+            515.53,
+            496.23
+          ],
+          "word_count": 9,
+          "text": "lower limit of 2 39.5℃,90%RH 33.0 32.9 34.82 0.1"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            62.04,
+            496.95,
+            515.53,
+            513.51
+          ],
+          "word_count": 7,
+          "text": "RATED 3 10.5℃,90%RH 33.0 32.9 32.88 0.0"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            62.04,
+            513.87,
+            515.53,
+            530.79
+          ],
+          "word_count": 7,
+          "text": "OUTPUT 4 39.5℃,20%RH 33.0 33.0 32.91 0.1"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            62.04,
+            531.39,
+            515.53,
+            548.07
+          ],
+          "word_count": 7,
+          "text": "RANGE 5 10.5℃,20%RH 33.0 32.9 32.89 0.0"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            62.04,
+            551.67,
+            513.99,
+            565.23
+          ],
+          "word_count": 9,
+          "text": "Upper limit of 1 25℃,55%RH N/A N/A N/A N/A"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            62.04,
+            565.95,
+            516.99,
+            583.95
+          ],
+          "word_count": 7,
+          "text": "RATED 2 39.5℃,90%RH N/A N/A N/A N/A"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            62.04,
+            583.11,
+            516.99,
+            599.79
+          ],
+          "word_count": 7,
+          "text": "EXTENDED 3 10.5℃,90%RH N/A N/A N/A N/A"
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            62.04,
+            600.39,
+            516.99,
+            617.07
+          ],
+          "word_count": 7,
+          "text": "OUTPUT 4 39.5℃,20%RH N/A N/A N/A N/A"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            62.04,
+            617.67,
+            516.99,
+            634.23
+          ],
+          "word_count": 7,
+          "text": "RANGE 5 10.5℃,20%RH N/A N/A N/A N/A"
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            62.04,
+            637.95,
+            513.99,
+            651.51
+          ],
+          "word_count": 9,
+          "text": "lower limit of 1 25℃,55%RH N/A N/A N/A N/A"
+        },
+        {
+          "row_index": 35,
+          "bbox": [
+            62.04,
+            652.11,
+            516.99,
+            670.11
+          ],
+          "word_count": 7,
+          "text": "RATED 2 39.5℃,90%RH N/A N/A N/A N/A"
+        },
+        {
+          "row_index": 36,
+          "bbox": [
+            62.04,
+            669.39,
+            516.99,
+            686.07
+          ],
+          "word_count": 7,
+          "text": "EXTENDED 3 10.5℃,90%RH N/A N/A N/A N/A"
+        },
+        {
+          "row_index": 37,
+          "bbox": [
+            62.04,
+            686.67,
+            516.99,
+            703.23
+          ],
+          "word_count": 7,
+          "text": "OUTPUT 4 39.5℃,20%RH N/A N/A N/A N/A"
+        },
+        {
+          "row_index": 38,
+          "bbox": [
+            62.04,
+            703.95,
+            516.99,
+            720.51
+          ],
+          "word_count": 7,
+          "text": "RANGE 5 10.5℃,20%RH N/A N/A N/A N/A"
+        }
+      ]
+    },
+    {
+      "page_index": 18,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 52,
+      "word_count": 272,
+      "row_count": 35,
+      "table_like_row_count": 28,
+      "drawing_path_count": 31,
+      "drawing_item_count": 31,
+      "line_item_count": 27,
+      "rectangle_item_count": 4,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            208.57,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-03"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            62.04,
+            84.87,
+            180.59,
+            98.43
+          ],
+          "word_count": 2,
+          "text": "Supplementary information:"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            62.04,
+            103.59,
+            456.72,
+            117.15
+          ],
+          "word_count": 13,
+          "text": "1) Combination of upper and lower limits of environmental temperature and humidity ranges:"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            62.04,
+            122.19,
+            276.61,
+            135.75
+          ],
+          "word_count": 7,
+          "text": "1. Midpoint of humidity and ambient temperature"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            62.04,
+            140.91,
+            333.37,
+            154.47
+          ],
+          "word_count": 11,
+          "text": "2. Upper limit of humidity + upper limit of ambient temperature"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            62.04,
+            159.51,
+            331.69,
+            173.07
+          ],
+          "word_count": 11,
+          "text": "3. Upper limit of humidity + lower limit of ambient temperature"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            62.04,
+            178.11,
+            333.37,
+            191.67
+          ],
+          "word_count": 11,
+          "text": "4. Lower limit of humidity + upper limit of ambient temperature"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            62.04,
+            196.83,
+            331.69,
+            210.39
+          ],
+          "word_count": 11,
+          "text": "5. Lower limit of humidity + lower limit of ambient temperature"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            62.04,
+            215.43,
+            390.15,
+            228.99
+          ],
+          "word_count": 8,
+          "text": "TRTS – Measured temperature of REFERENCE TEMPERATURE SOURCE"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            62.04,
+            234.15,
+            377.27,
+            247.71
+          ],
+          "word_count": 9,
+          "text": "TTUT – Measured temperature of CLINICAL THERMOMETER under test"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            62.04,
+            252.75,
+            395.74,
+            266.31
+          ],
+          "word_count": 8,
+          "text": "TRCT – Measured temperature of REFERENCE CLINICAL THERMOMETER"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            62.04,
+            271.35,
+            486.79,
+            284.91
+          ],
+          "word_count": 12,
+          "text": "Note: reference temperature source and reference clinical thermometer are same one thermometer"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            64.8,
+            322.11,
+            519.13,
+            335.79
+          ],
+          "word_count": 13,
+          "text": "201.11.6.6 RM RESULTS TABLE:Cleaning and disinfection of ME EQUIPMENT and ME SYSTEM P"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            64.8,
+            352.71,
+            535.8,
+            368.31
+          ],
+          "word_count": 11,
+          "text": "Clause of Document Ref. in RMF (Document Result - Remarks Verdict"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            64.8,
+            364.11,
+            198.91,
+            381.51
+          ],
+          "word_count": 5,
+          "text": "ISO 14971 No. & paragraph)"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            64.8,
+            385.47,
+            519.13,
+            399.03
+          ],
+          "word_count": 12,
+          "text": "4.2 Risk Management Report ( file Intended use and identification of P"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            123.6,
+            401.07,
+            480.49,
+            414.63
+          ],
+          "word_count": 9,
+          "text": "No.: PT9C-FXGB01 V1.0 ) characteristics related to cleaning analyzed"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            291.84,
+            416.67,
+            349.57,
+            430.23
+          ],
+          "word_count": 2,
+          "text": "and recorded"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            64.8,
+            435.39,
+            519.13,
+            448.95
+          ],
+          "word_count": 10,
+          "text": "4.3 Risk Management Report ( file Hazard analysis recorded P"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            123.6,
+            450.99,
+            239.11,
+            464.55
+          ],
+          "word_count": 4,
+          "text": "No.: PT9C-FXGB01 V1.0 )"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            64.8,
+            470.67,
+            519.13,
+            484.23
+          ],
+          "word_count": 10,
+          "text": "4.4 Risk Management Report ( file Risk estimation recorded P"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            123.6,
+            486.27,
+            239.11,
+            499.83
+          ],
+          "word_count": 4,
+          "text": "No.: PT9C-FXGB01 V1.0 )"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            64.8,
+            505.23,
+            519.13,
+            518.91
+          ],
+          "word_count": 10,
+          "text": "5 Risk Management Report ( file Risk evaluation recorded P"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            123.6,
+            520.95,
+            239.11,
+            534.51
+          ],
+          "word_count": 4,
+          "text": "No.: PT9C-FXGB01 V1.0 )"
+        },
+        {
+          "row_index": 25,
+          "bbox": [
+            64.8,
+            537.75,
+            519.13,
+            551.31
+          ],
+          "word_count": 10,
+          "text": "6.4 Risk Management Report ( file Residual risk evaluated. P"
+        },
+        {
+          "row_index": 26,
+          "bbox": [
+            123.6,
+            553.35,
+            239.11,
+            566.91
+          ],
+          "word_count": 4,
+          "text": "No.: PT9C-FXGB01 V1.0 )"
+        },
+        {
+          "row_index": 27,
+          "bbox": [
+            83.76,
+            570.75,
+            203.16,
+            584.31
+          ],
+          "word_count": 2,
+          "text": "Supplementary information:"
+        },
+        {
+          "row_index": 28,
+          "bbox": [
+            66.12,
+            625.11,
+            522.49,
+            638.67
+          ],
+          "word_count": 11,
+          "text": "201.11.6. TABLE:Cleaning and disinfection of ME EQUIPMENT and ME SYSTEM P"
+        },
+        {
+          "row_index": 29,
+          "bbox": [
+            66.12,
+            640.71,
+            71.65,
+            654.27
+          ],
+          "word_count": 1,
+          "text": "6"
+        },
+        {
+          "row_index": 30,
+          "bbox": [
+            69.12,
+            655.23,
+            536.57,
+            673.35
+          ],
+          "word_count": 10,
+          "text": "Clause Characteristics of the Marking Label tested: Results observed Remarks"
+        },
+        {
+          "row_index": 31,
+          "bbox": [
+            77.4,
+            674.55,
+            534.37,
+            690.51
+          ],
+          "word_count": 2,
+          "text": "No. (Yes/No)"
+        },
+        {
+          "row_index": 32,
+          "bbox": [
+            63.6,
+            697.59,
+            523.18,
+            713.43
+          ],
+          "word_count": 11,
+          "text": "201.12.1.1 When the CLINICAL THERMOMETER is not capable The CLINICAL Y"
+        },
+        {
+          "row_index": 33,
+          "bbox": [
+            63.6,
+            715.47,
+            445.22,
+            729.03
+          ],
+          "word_count": 10,
+          "text": "01 of indicating a temperature within the LABORATORV THERMOMETER show"
+        },
+        {
+          "row_index": 34,
+          "bbox": [
+            122.28,
+            731.7,
+            412.1,
+            746.97
+          ],
+          "word_count": 8,
+          "text": "ACCURACV, it shall provide a TECHNICALALARM “LOW POWER"
+        },
+        {
+          "row_index": 35,
+          "bbox": [
+            353.4,
+            747.3,
+            469.58,
+            759.57
+          ],
+          "word_count": 3,
+          "text": "REMINDER”symbol when low"
+        }
+      ]
+    },
+    {
+      "page_index": 19,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 34,
+      "word_count": 129,
+      "row_count": 23,
+      "table_like_row_count": 18,
+      "drawing_path_count": 13,
+      "drawing_item_count": 13,
+      "line_item_count": 13,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            208.57,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-03"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            122.28,
+            74.22,
+            436.28,
+            86.49
+          ],
+          "word_count": 11,
+          "text": "CONDITION or it shall not provide an voltage of the internal"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            122.28,
+            89.82,
+            452.73,
+            102.09
+          ],
+          "word_count": 5,
+          "text": "OUTPUTTEMPERATURE electrical power source ."
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            353.4,
+            123.54,
+            410.36,
+            135.81
+          ],
+          "word_count": 2,
+          "text": "The CLINICAL"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            353.4,
+            138.11,
+            461.28,
+            152.17
+          ],
+          "word_count": 4,
+          "text": "THERMOMETER show “- -"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            353.4,
+            153.71,
+            449.24,
+            167.77
+          ],
+          "word_count": 7,
+          "text": "-°F ” or “- - -℃” When"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            353.4,
+            170.34,
+            471.68,
+            182.61
+          ],
+          "word_count": 4,
+          "text": "output temperature outside the"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            353.4,
+            185.94,
+            462.68,
+            198.21
+          ],
+          "word_count": 4,
+          "text": "rated extended output range"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            66.12,
+            204.27,
+            522.49,
+            217.83
+          ],
+          "word_count": 7,
+          "text": "211.10.1. TABLE:General requirements for mechanical strength P"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            66.12,
+            219.87,
+            71.65,
+            233.43
+          ],
+          "word_count": 1,
+          "text": "1"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            69.12,
+            232.71,
+            536.57,
+            250.83
+          ],
+          "word_count": 10,
+          "text": "Clause Characteristics of the Marking Label tested: Results observed Remarks"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            77.4,
+            252.03,
+            534.37,
+            267.99
+          ],
+          "word_count": 2,
+          "text": "No. (Yes/No)"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            63.6,
+            274.95,
+            523.18,
+            290.91
+          ],
+          "word_count": 11,
+          "text": "201.12.1.1 When the CLINICAL THERMOMETER is not capable The CLINICAL Y"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            63.6,
+            292.95,
+            445.22,
+            306.51
+          ],
+          "word_count": 10,
+          "text": "01 of indicating a temperature within the LABORATORV THERMOMETER show"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            122.28,
+            309.18,
+            412.1,
+            324.32
+          ],
+          "word_count": 8,
+          "text": "ACCURACV, it shall provide a TECHNICALALARM “LOW POWER"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            122.28,
+            324.78,
+            469.58,
+            339.92
+          ],
+          "word_count": 10,
+          "text": "CONDITION or it shall not provide an REMINDER”symbol when low"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            122.28,
+            340.38,
+            436.28,
+            355.52
+          ],
+          "word_count": 5,
+          "text": "OUTPUTTEMPERATURE voltage of the internal"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            353.4,
+            355.98,
+            452.73,
+            368.25
+          ],
+          "word_count": 4,
+          "text": "electrical power source ."
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            353.4,
+            374.94,
+            410.36,
+            387.21
+          ],
+          "word_count": 2,
+          "text": "The CLINICAL"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            353.4,
+            389.51,
+            461.28,
+            403.57
+          ],
+          "word_count": 4,
+          "text": "THERMOMETER show “- -"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            353.4,
+            405.11,
+            449.24,
+            419.17
+          ],
+          "word_count": 7,
+          "text": "-°F ” or “- - -℃” When"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            353.4,
+            421.74,
+            471.68,
+            434.01
+          ],
+          "word_count": 4,
+          "text": "output temperature outside the"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            353.4,
+            437.34,
+            462.68,
+            449.61
+          ],
+          "word_count": 4,
+          "text": "rated extended output range"
+        }
+      ]
+    },
+    {
+      "page_index": 20,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 2,
+      "word_count": 10,
+      "row_count": 2,
+      "table_like_row_count": 1,
+      "drawing_path_count": 5,
+      "drawing_item_count": 5,
+      "line_item_count": 5,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            208.57,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-03"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            205.8,
+            73.11,
+            383.47,
+            86.67
+          ],
+          "word_count": 7,
+          "text": "ATTACHMENT FILE 1 photos of the DUT"
+        }
+      ]
+    },
+    {
+      "page_index": 21,
+      "width": 595.3,
+      "height": 841.9,
+      "text_block_count": 2,
+      "word_count": 9,
+      "row_count": 2,
+      "table_like_row_count": 1,
+      "drawing_path_count": 4,
+      "drawing_item_count": 4,
+      "line_item_count": 4,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            54.96,
+            41.19,
+            208.57,
+            54.75
+          ],
+          "word_count": 3,
+          "text": "Report No.: ETX202303-07-078-03"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            241.2,
+            342.39,
+            345.79,
+            355.95
+          ],
+          "word_count": 6,
+          "text": "--- End of Test Report ---"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "format": "docreview-pdf-intake-flow-v1",
+  "generated_at": "2026-05-01T05:19:36.918372+00:00",
+  "source": "C:\\Users\\Administrator\\Documents\\New project\\DHF -梳理版\\09-设计输出\\设计输出清单二\\设计输出清单二\\图纸\\PT9L-总装图-v1.0-20240627.pdf",
+  "source_sha256": "086b5e38a0003aa78f431614ff80fb5ea3a4276305339357e2e367b974965f4a",
+  "run_root": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-总装图-v1-0-20240627-20260501T131840",
+  "probe_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-总装图-v1-0-20240627-20260501T131840\\probe.json",
+  "classification_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-总装图-v1-0-20240627-20260501T131840\\classification.json",
+  "classification_ms": 0,
+  "classification": {
+    "pdf_type": "drawing",
+    "route": "vlm",
+    "template": "drawing",
+    "reason": "Probe router detected drawing/label filename; visual title blocks and artwork require VLM.",
+    "must_preserve": [
+      "title block",
+      "drawing text",
+      "visual layout"
+    ],
+    "risk": [
+      "probe route based partly on filename"
+    ],
+    "confidence": "high",
+    "classifier": "probe",
+    "needs_vlm_supplement": false
+  },
+  "route_result": {
+    "route": "vlm",
+    "page_count": 1,
+    "processed_pages": 1,
+    "page_results": [
+      {
+        "page": 1,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-总装图-v1-0-20240627-20260501T131840\\pages\\page-001.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-总装图-v1-0-20240627-20260501T131840\\page-001-vlm.md",
+        "elapsed_ms": 55839,
+        "chars": 3714,
+        "required_sections_present": true
+      }
+    ],
+    "combined_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT9L-总装图-v1-0-20240627-20260501T131840\\combined-visual-transcript.md",
+    "all_required_sections_present": true,
+    "elapsed_ms": 55958
+  },
+  "elapsed_ms": 56122
+}

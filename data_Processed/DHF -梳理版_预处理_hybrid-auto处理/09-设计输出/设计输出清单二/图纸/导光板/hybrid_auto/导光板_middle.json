@@ -1,0 +1,1110 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "bbox": [
+                        787,
+                        20,
+                        832,
+                        32
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                787,
+                                20,
+                                832,
+                                32
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        787,
+                                        20,
+                                        832,
+                                        32
+                                    ],
+                                    "type": "text",
+                                    "content": "⑧ 尺寸序号"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        125,
+                        130,
+                        341,
+                        262
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                125,
+                                130,
+                                341,
+                                262
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        130,
+                                        341,
+                                        262
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                125,
+                                                130,
+                                                341,
+                                                262
+                                            ],
+                                            "type": "image",
+                                            "content": "①\n32.7±0.1\nC4.42\n13.15\n2.2 8.9\n②\n22±0.1",
+                                            "image_path": "08ea5deba2804521711e6337df3fb4829ea1db5cb6fe6f2bc5fab95cc4fded04.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        79,
+                        307,
+                        290,
+                        424
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                226,
+                                284,
+                                263,
+                                301
+                            ],
+                            "type": "image_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        284,
+                                        263,
+                                        301
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                226,
+                                                284,
+                                                263,
+                                                301
+                                            ],
+                                            "type": "text",
+                                            "content": "导光板"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                79,
+                                307,
+                                290,
+                                424
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        307,
+                                        290,
+                                        424
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                79,
+                                                307,
+                                                290,
+                                                424
+                                            ],
+                                            "type": "image",
+                                            "content": "0.1(反射膜)\n2.7±0.1(导光板)\n带膜厚度2.9±0.1\n③\n0.1(透射膜)",
+                                            "image_path": "2ac9603934fa429dfa95b06719f993335516d48309e71ec594743ad2a69d24f2.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        489,
+                        88,
+                        656,
+                        213
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                489,
+                                88,
+                                656,
+                                213
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        489,
+                                        88,
+                                        656,
+                                        213
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                489,
+                                                88,
+                                                656,
+                                                213
+                                            ],
+                                            "type": "image",
+                                            "content": "32.7±0.1\nC4.42\n8.9\n22±0.1\n2.2",
+                                            "image_path": "7531a814280256743bd1ce6b6b66ced9cc6be25f2e728f50df3837dfc13f23a8.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                544,
+                                221,
+                                578,
+                                238
+                            ],
+                            "type": "image_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        544,
+                                        221,
+                                        578,
+                                        238
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                544,
+                                                221,
+                                                578,
+                                                238
+                                            ],
+                                            "type": "text",
+                                            "content": "反射膜"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        428,
+                        289,
+                        656,
+                        423
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                428,
+                                289,
+                                656,
+                                423
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        428,
+                                        289,
+                                        656,
+                                        423
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                428,
+                                                289,
+                                                656,
+                                                423
+                                            ],
+                                            "type": "image",
+                                            "content": "32.7±0.1\nC4.42\n22±0.1\n黑色区域\n3.7",
+                                            "image_path": "fbbe3065b607ea6e4f04c14ff15ef3a3e008a81eef5c5b796809e439a025c428.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                544,
+                                434,
+                                578,
+                                451
+                            ],
+                            "type": "image_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        544,
+                                        434,
+                                        578,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                544,
+                                                434,
+                                                578,
+                                                451
+                                            ],
+                                            "type": "text",
+                                            "content": "透射膜"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 7,
+                    "sub_type": "text_image"
+                },
+                {
+                    "bbox": [
+                        70,
+                        442,
+                        150,
+                        461
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                442,
+                                150,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        442,
+                                        150,
+                                        461
+                                    ],
+                                    "type": "text",
+                                    "content": "技术要求："
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        70,
+                        464,
+                        333,
+                        506
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 12,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                70,
+                                464,
+                                333,
+                                485
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        464,
+                                        333,
+                                        485
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                70,
+                                                464,
+                                                333,
+                                                485
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 带编号为重要尺寸,需要IQC测量;"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                70,
+                                487,
+                                219,
+                                506
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        487,
+                                        219,
+                                        506
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                70,
+                                                487,
+                                                219,
+                                                506
+                                            ],
+                                            "type": "text",
+                                            "content": "2.产品符合rohs 2.0"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "merge_prev": false
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        0,
+                        517,
+                        840,
+                        590
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                517,
+                                840,
+                                590
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        517,
+                                        840,
+                                        590
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                517,
+                                                840,
+                                                590
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>PMMA</td><td>Model NO.</td><td colspan=\"2\">T-Z1</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">导光板</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">T-Z1-P10</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "8a4252563a5c8253d83066443630ea5ec28ef3c4857737c4cc6dccb9b6326712.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        735,
+                        411,
+                        840,
+                        517
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                735,
+                                411,
+                                840,
+                                517
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        735,
+                                        411,
+                                        840,
+                                        517
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                735,
+                                                411,
+                                                840,
+                                                517
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">DTM\\LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt; 5</td><td>±0.03</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 5~15</td><td>±0.05</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 15~50</td><td>±0.05</td><td>±0.1</td><td>±0.2</td></tr><tr><td>&gt; 50~100</td><td>±0.08</td><td>±0.2</td><td>±0.3</td></tr><tr><td>&gt;100</td><td>±0.1%</td><td>±0.2%</td><td>±0.3%</td></tr><tr><td>ANGULAR</td><td>±0.1°</td><td>±0.5°</td><td>±0.5°</td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\">B</td></tr></table>",
+                                            "image_path": "39da7214b2ba45d09163da36a5c27a4b2d9aadcc23f27fe082980ae0fe3245f4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        0,
+                        0,
+                        840,
+                        17
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                0,
+                                840,
+                                17
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        840,
+                                        17
+                                    ],
+                                    "type": "text",
+                                    "content": "A B C D E F G H"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "page_size": [
+                841,
+                595
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "bbox": [
+                        787,
+                        20,
+                        832,
+                        32
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                787,
+                                20,
+                                832,
+                                32
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        787,
+                                        20,
+                                        832,
+                                        32
+                                    ],
+                                    "type": "text",
+                                    "content": "⑧ 尺寸序号"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        125,
+                        130,
+                        341,
+                        262
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                125,
+                                130,
+                                341,
+                                262
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        130,
+                                        341,
+                                        262
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                125,
+                                                130,
+                                                341,
+                                                262
+                                            ],
+                                            "type": "image",
+                                            "content": "①\n32.7±0.1\nC4.42\n13.15\n2.2 8.9\n②\n22±0.1",
+                                            "image_path": "08ea5deba2804521711e6337df3fb4829ea1db5cb6fe6f2bc5fab95cc4fded04.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        79,
+                        307,
+                        290,
+                        424
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                226,
+                                284,
+                                263,
+                                301
+                            ],
+                            "type": "image_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        226,
+                                        284,
+                                        263,
+                                        301
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                226,
+                                                284,
+                                                263,
+                                                301
+                                            ],
+                                            "type": "text",
+                                            "content": "导光板"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                79,
+                                307,
+                                290,
+                                424
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        307,
+                                        290,
+                                        424
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                79,
+                                                307,
+                                                290,
+                                                424
+                                            ],
+                                            "type": "image",
+                                            "content": "0.1(反射膜)\n2.7±0.1(导光板)\n带膜厚度2.9±0.1\n③\n0.1(透射膜)",
+                                            "image_path": "2ac9603934fa429dfa95b06719f993335516d48309e71ec594743ad2a69d24f2.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        489,
+                        88,
+                        656,
+                        213
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                489,
+                                88,
+                                656,
+                                213
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        489,
+                                        88,
+                                        656,
+                                        213
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                489,
+                                                88,
+                                                656,
+                                                213
+                                            ],
+                                            "type": "image",
+                                            "content": "32.7±0.1\nC4.42\n8.9\n22±0.1\n2.2",
+                                            "image_path": "7531a814280256743bd1ce6b6b66ced9cc6be25f2e728f50df3837dfc13f23a8.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                544,
+                                221,
+                                578,
+                                238
+                            ],
+                            "type": "image_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        544,
+                                        221,
+                                        578,
+                                        238
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                544,
+                                                221,
+                                                578,
+                                                238
+                                            ],
+                                            "type": "text",
+                                            "content": "反射膜"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        428,
+                        289,
+                        656,
+                        423
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                428,
+                                289,
+                                656,
+                                423
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        428,
+                                        289,
+                                        656,
+                                        423
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                428,
+                                                289,
+                                                656,
+                                                423
+                                            ],
+                                            "type": "image",
+                                            "content": "32.7±0.1\nC4.42\n22±0.1\n黑色区域\n3.7",
+                                            "image_path": "fbbe3065b607ea6e4f04c14ff15ef3a3e008a81eef5c5b796809e439a025c428.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                544,
+                                434,
+                                578,
+                                451
+                            ],
+                            "type": "image_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        544,
+                                        434,
+                                        578,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                544,
+                                                434,
+                                                578,
+                                                451
+                                            ],
+                                            "type": "text",
+                                            "content": "透射膜"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 7,
+                    "sub_type": "text_image"
+                },
+                {
+                    "bbox": [
+                        70,
+                        442,
+                        150,
+                        461
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                442,
+                                150,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        442,
+                                        150,
+                                        461
+                                    ],
+                                    "type": "text",
+                                    "content": "技术要求："
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        70,
+                        464,
+                        333,
+                        506
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 12,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                70,
+                                464,
+                                333,
+                                485
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        464,
+                                        333,
+                                        485
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                70,
+                                                464,
+                                                333,
+                                                485
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 带编号为重要尺寸,需要IQC测量;"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                70,
+                                487,
+                                219,
+                                506
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        487,
+                                        219,
+                                        506
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                70,
+                                                487,
+                                                219,
+                                                506
+                                            ],
+                                            "type": "text",
+                                            "content": "2.产品符合rohs 2.0"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "merge_prev": false
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        0,
+                        517,
+                        840,
+                        590
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                517,
+                                840,
+                                590
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        517,
+                                        840,
+                                        590
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                517,
+                                                840,
+                                                590
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>PMMA</td><td>Model NO.</td><td colspan=\"2\">T-Z1</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">导光板</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">T-Z1-P10</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "8a4252563a5c8253d83066443630ea5ec28ef3c4857737c4cc6dccb9b6326712.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        735,
+                        411,
+                        840,
+                        517
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                735,
+                                411,
+                                840,
+                                517
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        735,
+                                        411,
+                                        840,
+                                        517
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                735,
+                                                411,
+                                                840,
+                                                517
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">DTM\\LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt; 5</td><td>±0.03</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 5~15</td><td>±0.05</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 15~50</td><td>±0.05</td><td>±0.1</td><td>±0.2</td></tr><tr><td>&gt; 50~100</td><td>±0.08</td><td>±0.2</td><td>±0.3</td></tr><tr><td>&gt;100</td><td>±0.1%</td><td>±0.2%</td><td>±0.3%</td></tr><tr><td>ANGULAR</td><td>±0.1°</td><td>±0.5°</td><td>±0.5°</td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\">B</td></tr></table>",
+                                            "image_path": "39da7214b2ba45d09163da36a5c27a4b2d9aadcc23f27fe082980ae0fe3245f4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "3.1.6"
+}

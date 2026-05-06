@@ -1,0 +1,82 @@
+[
+    [
+        {
+            "type": "table",
+            "bbox": [
+                0.0,
+                0.0,
+                0.131,
+                0.999
+            ],
+            "angle": 270,
+            "content": "<table><tr><td>3</td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>坏真树脂板</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>2</td><td></td><td>Design</td><td></td><td>X</td><td></td><td>Surf dispose</td><td></td><td>PCB</td></tr><tr><td>1</td><td></td><td>Chuckup</td><td></td><td>XX</td><td></td><td>Scale</td><td>2:1</td><td>Drawing NO.</td></tr><tr><td>No.</td><td>更改记录</td><td>Approve</td><td></td><td>X°</td><td></td><td>Units</td><td>mm</td><td></td></tr></table>"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.131,
+                0.0,
+                0.999,
+                0.014
+            ],
+            "angle": 0,
+            "content": "∞ ∨ σ 51 4 ω n 1"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.368,
+                0.301,
+                0.745,
+                0.691
+            ],
+            "angle": 270,
+            "content": "φ20.5\n19.2\n17.4\n8\n1.5\n1.1\n1.8\n-0.07\nφ3.2",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.174,
+                0.66,
+                0.281,
+                0.838
+            ],
+            "angle": 270,
+            "content": "技术要求：1.TH=1.0±0.12.产品符合rohs 2.0"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.131,
+                0.875,
+                0.308,
+                0.999
+            ],
+            "angle": 270,
+            "content": "<table><tr><td colspan=\"2\">LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>DTM</td><td>A</td><td>B</td><td>C</td><td></td></tr><tr><td>&lt; 5</td><td>≠0.03</td><td>≠0.1</td><td>≠0.15</td><td></td></tr><tr><td>&gt; 5~50</td><td>≠0.05</td><td>≠0.1</td><td>≠0.2</td><td></td></tr><tr><td>&gt; 50~100</td><td>≠0.08</td><td>≠0.2</td><td>≠0.3</td><td></td></tr><tr><td>&gt;100</td><td>≠0.1%</td><td>≠0.2%</td><td>≠0.3%</td><td></td></tr><tr><td>ANSULFAR</td><td>≠0.10</td><td>≠0.5</td><td>≠0.5</td><td></td></tr><tr><td colspan=\"5\">SELECTT LEVEL</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.947,
+                0.937,
+                0.965,
+                0.99
+            ],
+            "angle": 270,
+            "content": "\\(⑧\\) 尺寸序号"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.973,
+                0.056,
+                0.992,
+                0.993
+            ],
+            "angle": 0,
+            "content": "A | B | C | D | E | F | G | H"
+        }
+    ]
+]

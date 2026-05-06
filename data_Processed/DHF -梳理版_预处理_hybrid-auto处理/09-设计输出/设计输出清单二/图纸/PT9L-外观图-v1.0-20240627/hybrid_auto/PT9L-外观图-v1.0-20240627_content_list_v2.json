@@ -1,0 +1,108 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "andon "
+                    }
+                ]
+            },
+            "bbox": [
+                32,
+                42,
+                84,
+                73
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0c991bb4d14e906229768fcf119eb6717e5da5a16854373ef8114956ff67fbb5.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                86,
+                117,
+                963,
+                820
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/4c8ef5e69fdc5e29d0a8c737498dfa3d4b185524e338c776ae3b3490c105b3f1.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>6</td><td></td><td></td><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>ABS</td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>5</td><td></td><td></td><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">外观图</td></tr><tr><td>4</td><td></td><td></td><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-F01</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                10,
+                870,
+                989,
+                984
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "1\n2\n3\n4\n5\n6\n7\n8 "
+                    }
+                ]
+            },
+            "bbox": [
+                9,
+                58,
+                21,
+                815
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "A | B | C | D | E | F | G | H "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                16,
+                931,
+                31
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "☒ 尺寸序号"
+                    }
+                ]
+            },
+            "bbox": [
+                945,
+                38,
+                982,
+                53
+            ]
+        }
+    ]
+]

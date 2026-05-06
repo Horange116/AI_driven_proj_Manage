@@ -1,0 +1,315 @@
+2026-05-06 09:23:25.970 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:41327
+2026-05-06 09:23:31.718 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2806057]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:41327 (Press CTRL+C to quit)
+2026-05-06 09:23:33.056 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [K040100014357620814-图纸-PT9L-F01+V1.0]
+2026-05-06 09:23:48.602 | INFO     | mineru.utils.engine_utils:get_vlm_engine:34 - Using vllm-async-engine as the inference engine for VLM.
+2026-05-06 09:24:27.773 | INFO     | mineru.backend.vlm.utils:enable_custom_logits_processors:56 - compute_capability: 8.0 >= 8.0 and vllm version: 0.11.2 >= 0.10.1, enable custom_logits_processors
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m The image processor of type `Qwen2VLImageProcessor` is now loaded as a fast processor by default, even if the model checkpoint was saved with a slow processor. This is a breaking change and may produce slightly different outputs. To continue using the slow processor, instantiate this class with `use_fast=False`. Note that this behavior will be extended to all models in a future release.
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m /home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/tvm_ffi/_optional_torch_c_dlpack.py:181: UserWarning: Failed to JIT torch c dlpack extension, EnvTensorAllocator will not be enabled.
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m We recommend installing via `pip install torch-c-dlpack-ext`
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m   warnings.warn(
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m 
+Loading safetensors checkpoint shards:   0% Completed | 0/1 [00:00<?, ?it/s]
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m 
+Loading safetensors checkpoint shards: 100% Completed | 1/1 [00:01<00:00,  1.30s/it]
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m 
+Loading safetensors checkpoint shards: 100% Completed | 1/1 [00:01<00:00,  1.30s/it]
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m 
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m 
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):   0%|          | 0/35 [00:00<?, ?it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):   9%|▊         | 3/35 [00:00<00:01, 23.03it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  17%|█▋        | 6/35 [00:00<00:01, 23.91it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  26%|██▌       | 9/35 [00:00<00:01, 22.04it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  34%|███▍      | 12/35 [00:00<00:01, 22.40it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  43%|████▎     | 15/35 [00:00<00:00, 22.21it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  51%|█████▏    | 18/35 [00:00<00:00, 22.44it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  60%|██████    | 21/35 [00:00<00:00, 22.48it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  69%|██████▊   | 24/35 [00:01<00:00, 22.92it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  77%|███████▋  | 27/35 [00:01<00:00, 23.08it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  86%|████████▌ | 30/35 [00:01<00:00, 20.18it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  94%|█████████▍| 33/35 [00:01<00:00, 21.14it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE): 100%|██████████| 35/35 [00:01<00:00, 22.07it/s]
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m 
+Capturing CUDA graphs (decode, FULL):   0%|          | 0/19 [00:00<?, ?it/s]
+Capturing CUDA graphs (decode, FULL):  16%|█▌        | 3/19 [00:00<00:00, 24.94it/s]
+Capturing CUDA graphs (decode, FULL):  32%|███▏      | 6/19 [00:00<00:00, 24.20it/s]
+Capturing CUDA graphs (decode, FULL):  47%|████▋     | 9/19 [00:00<00:00, 24.70it/s]
+Capturing CUDA graphs (decode, FULL):  63%|██████▎   | 12/19 [00:00<00:00, 24.56it/s]
+Capturing CUDA graphs (decode, FULL):  79%|███████▉  | 15/19 [00:00<00:00, 23.52it/s]
+Capturing CUDA graphs (decode, FULL):  95%|█████████▍| 18/19 [00:00<00:00, 24.04it/s]
+Capturing CUDA graphs (decode, FULL): 100%|██████████| 19/19 [00:00<00:00, 24.20it/s]
+2026-05-06 09:25:39.216 | INFO     | mineru.backend.vlm.vlm_analyze:get_model:251 - get vllm-async-engine predictor cost: 79.14s
+2026-05-06 09:25:39.267 | INFO     | mineru.backend.hybrid.hybrid_analyze:aio_doc_analyze:706 - Hybrid processing-window run. page_count=1, window_size=64, total_windows=1
+2026-05-06 09:25:45.197 | INFO     | mineru.backend.hybrid.hybrid_analyze:aio_doc_analyze:727 - Hybrid processing window 1/1: pages 1-1/1 (1 pages)
+
+Two Step Extraction:   0%|          | 0/1 [00:00<?, ?it/s]The image processor of type `Qwen2VLImageProcessor` is now loaded as a fast processor by default, even if the model checkpoint was saved with a slow processor. This is a breaking change and may produce slightly different outputs. To continue using the slow processor, instantiate this class with `use_fast=False`. Note that this behavior will be extended to all models in a future release.
+2026-05-06 09:25:55.850 | WARNING  | mineru_vl_utils.post_process.image_analysis_postprocess:_normalize_chart_sub_class:509 - Unknown chart sub_class: Technical Diagram; mapped to other
+
+Two Step Extraction: 100%|██████████| 1/1 [00:10<00:00, 10.66s/it]
+Two Step Extraction: 100%|██████████| 1/1 [00:10<00:00, 10.66s/it]
+
+Processing pages:   0%|          | 0/1 [00:00<?, ?it/s]
+Processing pages: 100%|██████████| 1/1 [00:08<00:00,  8.26s/it]
+Processing pages: 100%|██████████| 1/1 [00:08<00:00,  8.26s/it]
+2026-05-06 09:26:04.950 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [K040100014357620814-图纸-PT9L-F01+V1.0]
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2806057]
+
+2026-05-06 09:26:34.736 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:35715
+2026-05-06 09:26:38.746 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2806809]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:35715 (Press CTRL+C to quit)
+2026-05-06 09:26:39.777 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [75CEE0-Model]
+2026-05-06 09:26:43.998 | INFO     | mineru.utils.engine_utils:get_vlm_engine:34 - Using vllm-async-engine as the inference engine for VLM.
+2026-05-06 09:26:55.378 | INFO     | mineru.backend.vlm.utils:enable_custom_logits_processors:56 - compute_capability: 8.0 >= 8.0 and vllm version: 0.11.2 >= 0.10.1, enable custom_logits_processors
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m The image processor of type `Qwen2VLImageProcessor` is now loaded as a fast processor by default, even if the model checkpoint was saved with a slow processor. This is a breaking change and may produce slightly different outputs. To continue using the slow processor, instantiate this class with `use_fast=False`. Note that this behavior will be extended to all models in a future release.
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m /home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/tvm_ffi/_optional_torch_c_dlpack.py:181: UserWarning: Failed to JIT torch c dlpack extension, EnvTensorAllocator will not be enabled.
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m We recommend installing via `pip install torch-c-dlpack-ext`
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m   warnings.warn(
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m 
+Loading safetensors checkpoint shards:   0% Completed | 0/1 [00:00<?, ?it/s]
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m 
+Loading safetensors checkpoint shards: 100% Completed | 1/1 [00:01<00:00,  1.40s/it]
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m 
+Loading safetensors checkpoint shards: 100% Completed | 1/1 [00:01<00:00,  1.40s/it]
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m 
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m 
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):   0%|          | 0/35 [00:00<?, ?it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):   9%|▊         | 3/35 [00:00<00:01, 21.83it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  17%|█▋        | 6/35 [00:00<00:01, 23.58it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  26%|██▌       | 9/35 [00:00<00:01, 24.42it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  34%|███▍      | 12/35 [00:00<00:00, 25.59it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  43%|████▎     | 15/35 [00:00<00:00, 26.19it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  51%|█████▏    | 18/35 [00:00<00:00, 25.85it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  60%|██████    | 21/35 [00:00<00:00, 25.74it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  69%|██████▊   | 24/35 [00:00<00:00, 26.18it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  77%|███████▋  | 27/35 [00:01<00:00, 26.18it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  86%|████████▌ | 30/35 [00:01<00:00, 22.95it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  94%|█████████▍| 33/35 [00:01<00:00, 23.70it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE): 100%|██████████| 35/35 [00:01<00:00, 24.62it/s]
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m 
+Capturing CUDA graphs (decode, FULL):   0%|          | 0/19 [00:00<?, ?it/s]
+Capturing CUDA graphs (decode, FULL):  16%|█▌        | 3/19 [00:00<00:00, 26.47it/s]
+Capturing CUDA graphs (decode, FULL):  32%|███▏      | 6/19 [00:00<00:00, 26.45it/s]
+Capturing CUDA graphs (decode, FULL):  47%|████▋     | 9/19 [00:00<00:00, 26.29it/s]
+Capturing CUDA graphs (decode, FULL):  63%|██████▎   | 12/19 [00:00<00:00, 26.93it/s]
+Capturing CUDA graphs (decode, FULL):  79%|███████▉  | 15/19 [00:00<00:00, 26.56it/s]
+Capturing CUDA graphs (decode, FULL):  95%|█████████▍| 18/19 [00:00<00:00, 26.87it/s]
+Capturing CUDA graphs (decode, FULL): 100%|██████████| 19/19 [00:00<00:00, 26.88it/s]
+2026-05-06 09:27:48.442 | INFO     | mineru.backend.vlm.vlm_analyze:get_model:251 - get vllm-async-engine predictor cost: 56.37s
+2026-05-06 09:27:48.460 | INFO     | mineru.backend.hybrid.hybrid_analyze:aio_doc_analyze:706 - Hybrid processing-window run. page_count=1, window_size=64, total_windows=1
+2026-05-06 09:27:53.196 | INFO     | mineru.backend.hybrid.hybrid_analyze:aio_doc_analyze:727 - Hybrid processing window 1/1: pages 1-1/1 (1 pages)
+
+Two Step Extraction:   0%|          | 0/1 [00:00<?, ?it/s]The image processor of type `Qwen2VLImageProcessor` is now loaded as a fast processor by default, even if the model checkpoint was saved with a slow processor. This is a breaking change and may produce slightly different outputs. To continue using the slow processor, instantiate this class with `use_fast=False`. Note that this behavior will be extended to all models in a future release.
+2026-05-06 09:28:00.835 | WARNING  | mineru_vl_utils.post_process.image_analysis_postprocess:_normalize_chart_sub_class:509 - Unknown chart sub_class: Technical Drawing; mapped to other
+
+Two Step Extraction: 100%|██████████| 1/1 [00:07<00:00,  7.64s/it]
+Two Step Extraction: 100%|██████████| 1/1 [00:07<00:00,  7.64s/it]
+
+Processing pages:   0%|          | 0/1 [00:00<?, ?it/s]
+Processing pages: 100%|██████████| 1/1 [00:00<00:00, 17.40it/s]
+2026-05-06 09:28:01.829 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [75CEE0-Model]
+INFO:     Shutting down
+[rank0]:[W506 09:28:12.378002848 ProcessGroupNCCL.cpp:1524] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2806809]
+
+2026-05-06 09:28:22.777 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:33201
+2026-05-06 09:28:26.128 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2807333]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:33201 (Press CTRL+C to quit)
+2026-05-06 09:28:26.810 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 21 pages in this batch | 21 pages total | task#1 [2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式]
+2026-05-06 09:28:30.097 | INFO     | mineru.utils.engine_utils:get_vlm_engine:34 - Using vllm-async-engine as the inference engine for VLM.
+2026-05-06 09:28:37.278 | INFO     | mineru.backend.vlm.utils:enable_custom_logits_processors:56 - compute_capability: 8.0 >= 8.0 and vllm version: 0.11.2 >= 0.10.1, enable custom_logits_processors
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m The image processor of type `Qwen2VLImageProcessor` is now loaded as a fast processor by default, even if the model checkpoint was saved with a slow processor. This is a breaking change and may produce slightly different outputs. To continue using the slow processor, instantiate this class with `use_fast=False`. Note that this behavior will be extended to all models in a future release.
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m /home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/tvm_ffi/_optional_torch_c_dlpack.py:181: UserWarning: Failed to JIT torch c dlpack extension, EnvTensorAllocator will not be enabled.
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m We recommend installing via `pip install torch-c-dlpack-ext`
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m   warnings.warn(
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m 
+Loading safetensors checkpoint shards:   0% Completed | 0/1 [00:00<?, ?it/s]
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m 
+Loading safetensors checkpoint shards: 100% Completed | 1/1 [00:01<00:00,  1.30s/it]
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m 
+Loading safetensors checkpoint shards: 100% Completed | 1/1 [00:01<00:00,  1.30s/it]
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m 
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m 
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):   0%|          | 0/35 [00:00<?, ?it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):   9%|▊         | 3/35 [00:00<00:01, 28.06it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  17%|█▋        | 6/35 [00:00<00:01, 27.77it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  26%|██▌       | 9/35 [00:00<00:00, 28.46it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  34%|███▍      | 12/35 [00:00<00:00, 28.85it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  43%|████▎     | 15/35 [00:00<00:00, 29.05it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  51%|█████▏    | 18/35 [00:00<00:00, 28.99it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  60%|██████    | 21/35 [00:00<00:00, 29.01it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  69%|██████▊   | 24/35 [00:00<00:00, 29.00it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  77%|███████▋  | 27/35 [00:00<00:00, 28.90it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  86%|████████▌ | 30/35 [00:01<00:00, 25.88it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  94%|█████████▍| 33/35 [00:01<00:00, 26.54it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE): 100%|██████████| 35/35 [00:01<00:00, 27.87it/s]
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m 
+Capturing CUDA graphs (decode, FULL):   0%|          | 0/19 [00:00<?, ?it/s]
+Capturing CUDA graphs (decode, FULL):  16%|█▌        | 3/19 [00:00<00:00, 27.90it/s]
+Capturing CUDA graphs (decode, FULL):  32%|███▏      | 6/19 [00:00<00:00, 28.19it/s]
+Capturing CUDA graphs (decode, FULL):  47%|████▋     | 9/19 [00:00<00:00, 27.94it/s]
+Capturing CUDA graphs (decode, FULL):  63%|██████▎   | 12/19 [00:00<00:00, 28.01it/s]
+Capturing CUDA graphs (decode, FULL):  79%|███████▉  | 15/19 [00:00<00:00, 27.86it/s]
+Capturing CUDA graphs (decode, FULL):  95%|█████████▍| 18/19 [00:00<00:00, 28.14it/s]
+Capturing CUDA graphs (decode, FULL): 100%|██████████| 19/19 [00:00<00:00, 28.18it/s]
+2026-05-06 09:29:28.586 | INFO     | mineru.backend.vlm.vlm_analyze:get_model:251 - get vllm-async-engine predictor cost: 53.87s
+2026-05-06 09:29:29.289 | INFO     | mineru.backend.hybrid.hybrid_analyze:aio_doc_analyze:706 - Hybrid processing-window run. page_count=21, window_size=64, total_windows=1
+2026-05-06 09:29:29.329 | INFO     | mineru.backend.hybrid.hybrid_analyze:get_batch_ratio:515 - hybrid batch ratio (auto, vram=79GB): 16
+2026-05-06 09:29:36.026 | INFO     | mineru.backend.hybrid.hybrid_analyze:aio_doc_analyze:727 - Hybrid processing window 1/1: pages 1-21/21 (21 pages)
+
+Two Step Extraction:   0%|          | 0/21 [00:00<?, ?it/s]The image processor of type `Qwen2VLImageProcessor` is now loaded as a fast processor by default, even if the model checkpoint was saved with a slow processor. This is a breaking change and may produce slightly different outputs. To continue using the slow processor, instantiate this class with `use_fast=False`. Note that this behavior will be extended to all models in a future release.
+
+Two Step Extraction:   5%|▍         | 1/21 [00:11<03:55, 11.79s/it]
+Two Step Extraction:  14%|█▍        | 3/21 [00:12<00:56,  3.16s/it]
+Two Step Extraction:  24%|██▍       | 5/21 [00:12<00:28,  1.77s/it]
+Two Step Extraction:  29%|██▊       | 6/21 [00:13<00:20,  1.38s/it]
+Two Step Extraction:  48%|████▊     | 10/21 [00:13<00:06,  1.74it/s]
+Two Step Extraction:  90%|█████████ | 19/21 [00:14<00:00,  3.47it/s]
+Two Step Extraction:  95%|█████████▌| 20/21 [00:15<00:00,  3.13it/s]
+Two Step Extraction: 100%|██████████| 21/21 [00:15<00:00,  2.84it/s]
+Two Step Extraction: 100%|██████████| 21/21 [00:15<00:00,  1.31it/s]
+
+Layout Predict:   0%|          | 0/21 [00:00<?, ?it/s]
+Layout Predict:  38%|███▊      | 8/21 [00:03<00:05,  2.33it/s]
+Layout Predict:  76%|███████▌  | 16/21 [00:03<00:01,  4.62it/s]
+Layout Predict: 100%|██████████| 21/21 [00:04<00:00,  6.05it/s]
+Layout Predict: 100%|██████████| 21/21 [00:04<00:00,  4.87it/s]
+
+OCR-det:   0%|          | 0/18 [00:00<?, ?it/s]
+OCR-det:   6%|▌         | 1/18 [00:00<00:02,  8.36it/s]
+OCR-det:  22%|██▏       | 4/18 [00:00<00:00, 18.79it/s]
+OCR-det:  44%|████▍     | 8/18 [00:00<00:00, 26.26it/s]
+OCR-det:  67%|██████▋   | 12/18 [00:00<00:00, 30.76it/s]
+OCR-det:  89%|████████▉ | 16/18 [00:00<00:00, 32.52it/s]
+OCR-det: 100%|██████████| 18/18 [00:00<00:00, 28.84it/s]
+
+Processing pages:   0%|          | 0/21 [00:00<?, ?it/s]
+Processing pages:  10%|▉         | 2/21 [00:00<00:01, 12.95it/s]
+Processing pages:  19%|█▉        | 4/21 [00:00<00:01, 12.10it/s]
+Processing pages:  29%|██▊       | 6/21 [00:00<00:01, 11.95it/s]
+Processing pages:  38%|███▊      | 8/21 [00:00<00:01, 11.49it/s]
+Processing pages:  48%|████▊     | 10/21 [00:00<00:00, 11.45it/s]
+Processing pages:  57%|█████▋    | 12/21 [00:01<00:00, 11.45it/s]
+Processing pages:  67%|██████▋   | 14/21 [00:01<00:00, 11.87it/s]
+Processing pages:  76%|███████▌  | 16/21 [00:02<00:01,  4.63it/s]
+Processing pages:  86%|████████▌ | 18/21 [00:02<00:00,  5.71it/s]
+Processing pages:  95%|█████████▌| 20/21 [00:02<00:00,  7.29it/s]
+Processing pages: 100%|██████████| 21/21 [00:02<00:00,  8.35it/s]
+
+OCR-rec Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+OCR-rec Predict: 100%|██████████| 1/1 [00:00<00:00, 41.34it/s]
+2026-05-06 09:30:08.832 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 21/21 pages | 1 of 1 batch finished | task#1 [2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式]
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2807333]
+
+2026-05-06 09:30:33.164 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:35521
+2026-05-06 09:30:37.967 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2807999]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:35521 (Press CTRL+C to quit)
+2026-05-06 09:30:38.205 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 21 pages in this batch | 21 pages total | task#1 [2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告]
+2026-05-06 09:30:42.772 | INFO     | mineru.utils.engine_utils:get_vlm_engine:34 - Using vllm-async-engine as the inference engine for VLM.
+2026-05-06 09:30:54.130 | INFO     | mineru.backend.vlm.utils:enable_custom_logits_processors:56 - compute_capability: 8.0 >= 8.0 and vllm version: 0.11.2 >= 0.10.1, enable custom_logits_processors
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m The image processor of type `Qwen2VLImageProcessor` is now loaded as a fast processor by default, even if the model checkpoint was saved with a slow processor. This is a breaking change and may produce slightly different outputs. To continue using the slow processor, instantiate this class with `use_fast=False`. Note that this behavior will be extended to all models in a future release.
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m /home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/tvm_ffi/_optional_torch_c_dlpack.py:181: UserWarning: Failed to JIT torch c dlpack extension, EnvTensorAllocator will not be enabled.
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m We recommend installing via `pip install torch-c-dlpack-ext`
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m   warnings.warn(
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m 
+Loading safetensors checkpoint shards:   0% Completed | 0/1 [00:00<?, ?it/s]
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m 
+Loading safetensors checkpoint shards: 100% Completed | 1/1 [00:01<00:00,  1.24s/it]
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m 
+Loading safetensors checkpoint shards: 100% Completed | 1/1 [00:01<00:00,  1.24s/it]
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m 
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m 
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):   0%|          | 0/35 [00:00<?, ?it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):   9%|▊         | 3/35 [00:00<00:01, 25.11it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  17%|█▋        | 6/35 [00:00<00:01, 23.86it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  26%|██▌       | 9/35 [00:00<00:01, 24.12it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  34%|███▍      | 12/35 [00:00<00:00, 24.42it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  43%|████▎     | 15/35 [00:00<00:00, 24.80it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  51%|█████▏    | 18/35 [00:00<00:00, 24.69it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  60%|██████    | 21/35 [00:00<00:00, 24.27it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  69%|██████▊   | 24/35 [00:00<00:00, 24.39it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  77%|███████▋  | 27/35 [00:01<00:00, 24.28it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  86%|████████▌ | 30/35 [00:01<00:00, 20.79it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  94%|█████████▍| 33/35 [00:01<00:00, 20.45it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE): 100%|██████████| 35/35 [00:01<00:00, 22.76it/s]
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m 
+Capturing CUDA graphs (decode, FULL):   0%|          | 0/19 [00:00<?, ?it/s]
+Capturing CUDA graphs (decode, FULL):  16%|█▌        | 3/19 [00:00<00:00, 25.96it/s]
+Capturing CUDA graphs (decode, FULL):  32%|███▏      | 6/19 [00:00<00:00, 25.77it/s]
+Capturing CUDA graphs (decode, FULL):  47%|████▋     | 9/19 [00:00<00:00, 25.59it/s]
+Capturing CUDA graphs (decode, FULL):  63%|██████▎   | 12/19 [00:00<00:00, 26.01it/s]
+Capturing CUDA graphs (decode, FULL):  79%|███████▉  | 15/19 [00:00<00:00, 25.92it/s]
+Capturing CUDA graphs (decode, FULL):  95%|█████████▍| 18/19 [00:00<00:00, 25.97it/s]
+Capturing CUDA graphs (decode, FULL): 100%|██████████| 19/19 [00:00<00:00, 26.02it/s]
+2026-05-06 09:31:46.814 | INFO     | mineru.backend.vlm.vlm_analyze:get_model:251 - get vllm-async-engine predictor cost: 55.99s
+2026-05-06 09:31:47.588 | INFO     | mineru.backend.hybrid.hybrid_analyze:aio_doc_analyze:706 - Hybrid processing-window run. page_count=21, window_size=64, total_windows=1
+2026-05-06 09:31:47.632 | INFO     | mineru.backend.hybrid.hybrid_analyze:get_batch_ratio:515 - hybrid batch ratio (auto, vram=79GB): 16
+2026-05-06 09:31:56.328 | INFO     | mineru.backend.hybrid.hybrid_analyze:aio_doc_analyze:727 - Hybrid processing window 1/1: pages 1-21/21 (21 pages)
+
+Two Step Extraction:   0%|          | 0/21 [00:00<?, ?it/s]The image processor of type `Qwen2VLImageProcessor` is now loaded as a fast processor by default, even if the model checkpoint was saved with a slow processor. This is a breaking change and may produce slightly different outputs. To continue using the slow processor, instantiate this class with `use_fast=False`. Note that this behavior will be extended to all models in a future release.
+
+Two Step Extraction:   5%|▍         | 1/21 [00:12<04:17, 12.86s/it]
+Two Step Extraction:  14%|█▍        | 3/21 [00:13<01:01,  3.43s/it]
+Two Step Extraction:  24%|██▍       | 5/21 [00:14<00:31,  1.97s/it]
+Two Step Extraction:  29%|██▊       | 6/21 [00:14<00:22,  1.49s/it]
+Two Step Extraction:  33%|███▎      | 7/21 [00:14<00:15,  1.11s/it]
+Two Step Extraction:  62%|██████▏   | 13/21 [00:15<00:03,  2.08it/s]
+Two Step Extraction:  95%|█████████▌| 20/21 [00:16<00:00,  3.68it/s]
+Two Step Extraction: 100%|██████████| 21/21 [00:17<00:00,  2.94it/s]
+Two Step Extraction: 100%|██████████| 21/21 [00:17<00:00,  1.20it/s]
+
+Layout Predict:   0%|          | 0/21 [00:00<?, ?it/s]
+Layout Predict:  38%|███▊      | 8/21 [00:03<00:04,  2.61it/s]
+Layout Predict:  76%|███████▌  | 16/21 [00:03<00:00,  5.24it/s]
+Layout Predict: 100%|██████████| 21/21 [00:03<00:00,  6.82it/s]
+Layout Predict: 100%|██████████| 21/21 [00:03<00:00,  5.48it/s]
+
+OCR-det:   0%|          | 0/21 [00:00<?, ?it/s]
+OCR-det:   5%|▍         | 1/21 [00:00<00:02,  8.62it/s]
+OCR-det:  24%|██▍       | 5/21 [00:00<00:00, 25.56it/s]
+OCR-det:  43%|████▎     | 9/21 [00:00<00:00, 31.00it/s]
+OCR-det:  62%|██████▏   | 13/21 [00:00<00:00, 32.78it/s]
+OCR-det:  81%|████████  | 17/21 [00:00<00:00, 33.76it/s]
+OCR-det: 100%|██████████| 21/21 [00:00<00:00, 33.82it/s]
+OCR-det: 100%|██████████| 21/21 [00:00<00:00, 31.38it/s]
+
+Processing pages:   0%|          | 0/21 [00:00<?, ?it/s]
+Processing pages:  10%|▉         | 2/21 [00:00<00:01, 13.47it/s]
+Processing pages:  19%|█▉        | 4/21 [00:00<00:01, 12.45it/s]
+Processing pages:  29%|██▊       | 6/21 [00:00<00:01, 12.29it/s]
+Processing pages:  38%|███▊      | 8/21 [00:00<00:01, 11.92it/s]
+Processing pages:  48%|████▊     | 10/21 [00:00<00:00, 12.09it/s]
+Processing pages:  57%|█████▋    | 12/21 [00:00<00:00, 12.25it/s]
+Processing pages:  67%|██████▋   | 14/21 [00:01<00:00, 12.53it/s]
+Processing pages:  76%|███████▌  | 16/21 [00:01<00:00,  5.97it/s]
+Processing pages:  86%|████████▌ | 18/21 [00:02<00:00,  7.11it/s]
+Processing pages: 100%|██████████| 21/21 [00:02<00:00,  9.85it/s]
+Processing pages: 100%|██████████| 21/21 [00:02<00:00,  9.76it/s]
+
+OCR-rec Predict:   0%|          | 0/5 [00:00<?, ?it/s]
+OCR-rec Predict: 100%|██████████| 5/5 [00:00<00:00, 56.57it/s]
+2026-05-06 09:32:29.094 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 21/21 pages | 1 of 1 batch finished | task#1 [2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告]
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2807999]
+

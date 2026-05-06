@@ -1,0 +1,72 @@
+{
+  "format": "docreview-pdf-intake-flow-v1",
+  "generated_at": "2026-05-01T07:03:18.860853+00:00",
+  "source": "C:\\Users\\Administrator\\Documents\\New project\\DHF -梳理版\\11-设计确认\\16-实验报告\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式.pdf",
+  "source_sha256": "9a03663937b911c51ddd85720c94d0afbcfa6bf2d96921a7f949e151fd7f822a",
+  "run_root": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030",
+  "probe_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\probe.json",
+  "classification_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\classification.json",
+  "classification_ms": 0,
+  "classification": {
+    "pdf_type": "drawing",
+    "route": "mineru",
+    "template": "drawing",
+    "reason": "Route override applied after classification: Probe router detected many vector drawings/rectangles; visual layout is material.",
+    "must_preserve": [
+      "drawings",
+      "title blocks",
+      "layout objects"
+    ],
+    "risk": [
+      "probe cannot name the drawing type without visual supplement"
+    ],
+    "confidence": "medium",
+    "classifier": "probe",
+    "needs_vlm_supplement": false
+  },
+  "route_result": {
+    "route": "mineru",
+    "command": "C:\\Users\\Administrator\\.docreview-local-state\\mineru-runtime\\Scripts\\mineru.exe",
+    "backend": "pipeline",
+    "output_dir": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru",
+    "exit_code": 0,
+    "elapsed_ms": 168043,
+    "stdout_tail": "Start MinerU FastAPI Service: http://127.0.0.1:54593\nAPI documentation: http://127.0.0.1:54593/docs\n",
+    "stderr_tail": "-det ch:  26%|██▋       | 5/19 [00:00<00:01,  9.15it/s]\nOCR-det ch:  37%|███▋      | 7/19 [00:00<00:01,  9.84it/s]\nOCR-det ch:  47%|████▋     | 9/19 [00:00<00:00, 11.88it/s]\nOCR-det ch:  58%|█████▊    | 11/19 [00:01<00:00, 13.43it/s]\nOCR-det ch:  74%|███████▎  | 14/19 [00:01<00:00, 15.73it/s]\nOCR-det ch:  89%|████████▉ | 17/19 [00:01<00:00, 18.10it/s]\nOCR-det ch: 100%|██████████| 19/19 [00:01<00:00, 18.27it/s]\nOCR-det ch: 100%|██████████| 19/19 [00:01<00:00, 12.75it/s]\n\nSeal Predict:   0%|          | 0/1 [00:00<?, ?it/s]\n\nFetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]\u001b[A\nFetching 1 files: 100%|██████████| 1/1 [00:00<?, ?it/s]\n\n\nFetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]\u001b[A\nFetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 1018.53it/s]\n\nSeal Predict: 100%|██████████| 1/1 [00:01<00:00,  1.59s/it]\nSeal Predict: 100%|██████████| 1/1 [00:01<00:00,  1.59s/it]\n\nProcessing pages:   0%|          | 0/21 [00:00<?, ?it/s]\nProcessing pages:  10%|▉         | 2/21 [00:00<00:01, 14.89it/s]\nProcessing pages:  19%|█▉        | 4/21 [00:00<00:01, 14.56it/s]\nProcessing pages:  29%|██▊       | 6/21 [00:00<00:01, 14.88it/s]\nProcessing pages:  38%|███▊      | 8/21 [00:00<00:00, 13.99it/s]\nProcessing pages:  48%|████▊     | 10/21 [00:00<00:00, 14.37it/s]\nProcessing pages:  57%|█████▋    | 12/21 [00:00<00:00, 14.94it/s]\nProcessing pages:  67%|██████▋   | 14/21 [00:00<00:00, 15.60it/s]\nProcessing pages:  81%|████████  | 17/21 [00:01<00:00, 16.74it/s]\nProcessing pages:  90%|█████████ | 19/21 [00:01<00:00, 16.86it/s]\n\nOCR-rec Predict:   0%|          | 0/7 [00:00<?, ?it/s]\u001b[A\n\nOCR-rec Predict:  86%|████████▌ | 6/7 [00:00<00:00, 10.42it/s]\u001b[A\nOCR-rec Predict: 100%|██████████| 7/7 [00:00<00:00, 10.68it/s]\n\nProcessing pages: 100%|██████████| 21/21 [00:02<00:00,  9.09it/s]\n2026-05-01 15:03:07.861 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 21/21 pages | 1 of 1 batch finished | task#1 [2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式]\n",
+    "output_files": [
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式.md",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式_content_list.json",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式_content_list_v2.json",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式_layout.pdf",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式_middle.json",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式_model.json",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式_origin.pdf",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式_span.pdf",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\007ce6945afd1a48691cacd6e87e9dbe9eb1e051dd642e6231dfb6bd448f850f.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\0b8a4ef9885fa60cad74a85e374e9e6389fcf71c7aecbe20a4ce47d6c288b2fe.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\158c705e1b85536fd05364ae8c44976640fe1ba326d04eec1699579aea937071.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\235a3ec19b06dddf57ea875e46fd5ee8295b3aaf307ee6eebe51213700825d00.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\25ffab3d64ea004907883137eb7347c0ab1262aa65b68bfe923f69872e701d10.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\36b34eb91b730f2f1236360ed32a918bc88c24afe79b9e95e8daac91094d9b33.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\41baf9ce8ca53a96bfd88490d28b6d2603f429d175a1b9d2ef559285f05a3b36.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\45fd915fd5512051eb5e7e0e7c5b35a338b02e41c414d29c3416a941e50c684f.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\5e75488a98936f1853a50b9a68a8a21c50d8b881fb878a8fae911416218eba77.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\5ff0bf5e2e61cec943d241cb973f1f03815865fa2a870b2f88c98a83a89a8010.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\6ab752d940c824f1431f5de38b62c72b954aaea5c1fa02c2d13e946b897096ec.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\6cfd9f775f30fb1f11363d57c32c6814b642a4400b6a8e98786ee3a7c07fe042.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\77c8c87587ca2f25d019133b9d1146e802e27a14514f65dd1e2ecc2f7f57a505.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\8098f4ae53b292b5df0dcf61af8f9c2a144014f58526f781cfab18ba0ac47a8f.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\87680810de06d3638ad3d7c1155fe87ae21512081a4374210c50a8c6388fa216.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\8ed1bfa18e909e477e3334b059c360f251f5f03857a91cfd5049a960b7989938.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\8fa47dfba8d841f44a23aec26ac2b6f1a4a8dc144e9a5d60ec63146572226cf2.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\93a52ea7fdaec2ccc68dcb88f03fb183761e7b979f2a40d6b5f430c3979e29db.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\952ebfc6f5d322334aa70d3cd24f3686054af0c9669ef4bf49ea3ad2a5075693.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\b0f16518527745051b940051832bbb94603f57c2d7c370d2eeb2e18f697a72cc.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\bd7a3bd1a5386a8b8741d461d7bc14d569e1701034ab64510c0d0433b804d3f3.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\c1a7fea4e9285a352b1c808bad463ca3757982593a94e1e256e9cfc7d6e82ca0.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\d1c2e1c6ff236e6af72dcc20c736353b28600b66525aaec22b8521c5ef4b7a7c.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\2025-02-12-ETX202303-07-078-03-PT9L--2-56-报告-正式-20260501T150030\\mineru\\2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式\\auto\\images\\ee767c913954f524c44049c804f5af53fd032f5800da7163a9fbb9d17a36d903.jpg"
+    ]
+  },
+  "elapsed_ms": 168262
+}

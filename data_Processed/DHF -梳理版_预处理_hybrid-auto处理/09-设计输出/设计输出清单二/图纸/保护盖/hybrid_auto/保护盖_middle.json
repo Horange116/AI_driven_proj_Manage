@@ -1,0 +1,838 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "bbox": [
+                        803,
+                        17,
+                        834,
+                        26
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                803,
+                                17,
+                                834,
+                                26
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        803,
+                                        17,
+                                        834,
+                                        26
+                                    ],
+                                    "type": "text",
+                                    "content": "⑧ 尺寸序号"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        194,
+                        70,
+                        745,
+                        381
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                194,
+                                70,
+                                745,
+                                381
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        194,
+                                        70,
+                                        745,
+                                        381
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                194,
+                                                70,
+                                                745,
+                                                381
+                                            ],
+                                            "type": "image",
+                                            "image_path": "0017736cf8c6c4ebd6b5372219265cbdf954384d7f33845bbe40b5b0e42198bd.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "sub_images": [
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.016,
+                                0.119,
+                                0.276,
+                                0.386
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.557,
+                                0.003,
+                                0.751,
+                                0.383
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.004,
+                                0.566,
+                                0.341,
+                                1.0
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.574,
+                                0.605,
+                                1.0,
+                                0.916
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        42,
+                        412,
+                        74,
+                        421
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                42,
+                                412,
+                                74,
+                                421
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        412,
+                                        74,
+                                        421
+                                    ],
+                                    "type": "text",
+                                    "content": "产品技术要求："
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        50,
+                        423,
+                        277,
+                        481
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 12,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                50,
+                                423,
+                                145,
+                                432
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        423,
+                                        145,
+                                        432
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                423,
+                                                145,
+                                                432
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 带编号为重要尺寸, 需要IQC测量;"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                433,
+                                277,
+                                451
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        433,
+                                        277,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                433,
+                                                277,
+                                                451
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 材质为PC(半透明)；产品外观良好、无拉伤，变形，批锋，熔接痕，气纹，顶白，缺胶，缩水等不良现象；"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                452,
+                                211,
+                                471
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        452,
+                                        211,
+                                        471
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                452,
+                                                211,
+                                                471
+                                            ],
+                                            "type": "text",
+                                            "content": "3. 须试装产品，并能顺利装入产品。未标注尺寸以样板为准；品质部检验结构时，请以结构签板和组装（实配）为准"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                472,
+                                107,
+                                481
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        472,
+                                        107,
+                                        481
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                472,
+                                                107,
+                                                481
+                                            ],
+                                            "type": "text",
+                                            "content": "4. 产品符合ROHS 2.0"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "merge_prev": false
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        0,
+                        523,
+                        840,
+                        594
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                523,
+                                840,
+                                594
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        523,
+                                        840,
+                                        594
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                523,
+                                                840,
+                                                594
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>6</td><td></td><td></td><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>PC</td><td>Model NO.</td><td colspan=\"2\">T-Z1</td></tr><tr><td>5</td><td></td><td></td><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">保护盖</td></tr><tr><td>4</td><td></td><td></td><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>2:1</td><td>Drawing NO.</td><td colspan=\"2\">T-Z1-P08</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "745a530548de722f88d41aa5c62ef711931e471e3dc8e546f74ff6f227a1740d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        767,
+                        450,
+                        840,
+                        523
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                767,
+                                450,
+                                840,
+                                523
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        767,
+                                        450,
+                                        840,
+                                        523
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                767,
+                                                450,
+                                                840,
+                                                523
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">DTM\\LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt; 5</td><td><eq>\\pm 0.03</eq></td><td><eq>\\pm 0.1</eq></td><td><eq>\\pm 0.15</eq></td></tr><tr><td>&gt; 5~15</td><td><eq>\\pm 0.05</eq></td><td><eq>\\pm 0.1</eq></td><td><eq>\\pm 0.15</eq></td></tr><tr><td>&gt; 15~50</td><td><eq>\\pm 0.05</eq></td><td><eq>\\pm 0.1</eq></td><td><eq>\\pm 0.2</eq></td></tr><tr><td>&gt; 50~100</td><td><eq>\\pm 0.08</eq></td><td><eq>\\pm 0.2</eq></td><td><eq>\\pm 0.3</eq></td></tr><tr><td>&gt;100</td><td><eq>\\pm 0.1\\%</eq></td><td><eq>\\pm 0.2\\%</eq></td><td><eq>\\pm 0.3\\%</eq></td></tr><tr><td>ANGUL-R</td><td><eq>\\pm 0.1^{\\circ}</eq></td><td><eq>\\pm 0.5^{\\circ}</eq></td><td><eq>\\pm 0.5^{\\circ}</eq></td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\">B</td></tr></table>",
+                                            "image_path": "6bafa95d62842b1054367ae21ceb1c935ba13da92509e8afa47fe07158fcdf3e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        0,
+                        0,
+                        840,
+                        16
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                0,
+                                840,
+                                16
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        840,
+                                        16
+                                    ],
+                                    "type": "text",
+                                    "content": "A B C D E F G H"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "page_size": [
+                841,
+                595
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "bbox": [
+                        803,
+                        17,
+                        834,
+                        26
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                803,
+                                17,
+                                834,
+                                26
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        803,
+                                        17,
+                                        834,
+                                        26
+                                    ],
+                                    "type": "text",
+                                    "content": "⑧ 尺寸序号"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        194,
+                        70,
+                        745,
+                        381
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                194,
+                                70,
+                                745,
+                                381
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        194,
+                                        70,
+                                        745,
+                                        381
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                194,
+                                                70,
+                                                745,
+                                                381
+                                            ],
+                                            "type": "image",
+                                            "image_path": "0017736cf8c6c4ebd6b5372219265cbdf954384d7f33845bbe40b5b0e42198bd.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "sub_images": [
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.016,
+                                0.119,
+                                0.276,
+                                0.386
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.557,
+                                0.003,
+                                0.751,
+                                0.383
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.004,
+                                0.566,
+                                0.341,
+                                1.0
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.574,
+                                0.605,
+                                1.0,
+                                0.916
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        42,
+                        412,
+                        74,
+                        421
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                42,
+                                412,
+                                74,
+                                421
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        412,
+                                        74,
+                                        421
+                                    ],
+                                    "type": "text",
+                                    "content": "产品技术要求："
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        50,
+                        423,
+                        277,
+                        481
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 12,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                50,
+                                423,
+                                145,
+                                432
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        423,
+                                        145,
+                                        432
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                423,
+                                                145,
+                                                432
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 带编号为重要尺寸, 需要IQC测量;"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                433,
+                                277,
+                                451
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        433,
+                                        277,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                433,
+                                                277,
+                                                451
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 材质为PC(半透明)；产品外观良好、无拉伤，变形，批锋，熔接痕，气纹，顶白，缺胶，缩水等不良现象；"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                452,
+                                211,
+                                471
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        452,
+                                        211,
+                                        471
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                452,
+                                                211,
+                                                471
+                                            ],
+                                            "type": "text",
+                                            "content": "3. 须试装产品，并能顺利装入产品。未标注尺寸以样板为准；品质部检验结构时，请以结构签板和组装（实配）为准"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                472,
+                                107,
+                                481
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        472,
+                                        107,
+                                        481
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                472,
+                                                107,
+                                                481
+                                            ],
+                                            "type": "text",
+                                            "content": "4. 产品符合ROHS 2.0"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "merge_prev": false
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        0,
+                        523,
+                        840,
+                        594
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                523,
+                                840,
+                                594
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        523,
+                                        840,
+                                        594
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                523,
+                                                840,
+                                                594
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>6</td><td></td><td></td><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>PC</td><td>Model NO.</td><td colspan=\"2\">T-Z1</td></tr><tr><td>5</td><td></td><td></td><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">保护盖</td></tr><tr><td>4</td><td></td><td></td><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>2:1</td><td>Drawing NO.</td><td colspan=\"2\">T-Z1-P08</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "745a530548de722f88d41aa5c62ef711931e471e3dc8e546f74ff6f227a1740d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        767,
+                        450,
+                        840,
+                        523
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                767,
+                                450,
+                                840,
+                                523
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        767,
+                                        450,
+                                        840,
+                                        523
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                767,
+                                                450,
+                                                840,
+                                                523
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">DTM\\LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt; 5</td><td><eq>\\pm 0.03</eq></td><td><eq>\\pm 0.1</eq></td><td><eq>\\pm 0.15</eq></td></tr><tr><td>&gt; 5~15</td><td><eq>\\pm 0.05</eq></td><td><eq>\\pm 0.1</eq></td><td><eq>\\pm 0.15</eq></td></tr><tr><td>&gt; 15~50</td><td><eq>\\pm 0.05</eq></td><td><eq>\\pm 0.1</eq></td><td><eq>\\pm 0.2</eq></td></tr><tr><td>&gt; 50~100</td><td><eq>\\pm 0.08</eq></td><td><eq>\\pm 0.2</eq></td><td><eq>\\pm 0.3</eq></td></tr><tr><td>&gt;100</td><td><eq>\\pm 0.1\\%</eq></td><td><eq>\\pm 0.2\\%</eq></td><td><eq>\\pm 0.3\\%</eq></td></tr><tr><td>ANGUL-R</td><td><eq>\\pm 0.1^{\\circ}</eq></td><td><eq>\\pm 0.5^{\\circ}</eq></td><td><eq>\\pm 0.5^{\\circ}</eq></td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\">B</td></tr></table>",
+                                            "image_path": "6bafa95d62842b1054367ae21ceb1c935ba13da92509e8afa47fe07158fcdf3e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "3.1.6"
+}

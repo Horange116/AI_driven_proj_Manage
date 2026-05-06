@@ -1,0 +1,2725 @@
+[
+    {
+        "type": "text",
+        "text": "最终报告",
+        "text_level": 1,
+        "bbox": [
+            372,
+            290,
+            615,
+            325
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "报告编号：SDWH-M201905262-3",
+        "text_level": 1,
+        "bbox": [
+            322,
+            334,
+            666,
+            353
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "红外耳温计",
+        "text_level": 1,
+        "bbox": [
+            384,
+            425,
+            605,
+            459
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "皮肤致敏试验",
+        "text_level": 1,
+        "bbox": [
+            362,
+            475,
+            629,
+            510
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "参照 GB/T 16886.10-2017",
+        "bbox": [
+            365,
+            519,
+            625,
+            538
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "豚鼠最大剂量试验",
+        "bbox": [
+            401,
+            541,
+            590,
+            559
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "芝麻油浸提 ",
+        "bbox": [
+            437,
+            562,
+            555,
+            581
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "委托单位：天津九安医疗电子股份有限公司",
+        "bbox": [
+            145,
+            705,
+            860,
+            728
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "地址：天津市南开区雅安道金平路3号",
+        "bbox": [
+            147,
+            749,
+            860,
+            771
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "MA ",
+        "bbox": [
+            72,
+            78,
+            253,
+            163
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "180015144061 ",
+        "bbox": [
+            73,
+            166,
+            246,
+            182
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "ilac-MRA ",
+        "bbox": [
+            421,
+            76,
+            573,
+            186
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "CNAS ",
+        "bbox": [
+            588,
+            78,
+            765,
+            176
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "中国认可",
+        "bbox": [
+            780,
+            84,
+            857,
+            100
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "国际互认",
+        "bbox": [
+            781,
+            100,
+            857,
+            116
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "检测 ",
+        "bbox": [
+            781,
+            117,
+            820,
+            133
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "TESTING ",
+        "bbox": [
+            781,
+            135,
+            865,
+            148
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "CNAS L2954 ",
+        "bbox": [
+            781,
+            150,
+            894,
+            163
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "The image provided is a QR code. It does not contain any text, mathematical formulas, tables, or figures that can be processed according to the OCR instructions. Therefore, no textual content can be extracted from this image. ",
+        "bbox": [
+            83,
+            874,
+            194,
+            954
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "苏州大学卫生与环境技术研究所",
+        "bbox": [
+            209,
+            875,
+            541,
+            894
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "地址：中国江苏苏州工业园区仁爱路199号",
+        "bbox": [
+            209,
+            900,
+            545,
+            915
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "网址：www.sudatest.com ",
+        "bbox": [
+            211,
+            920,
+            395,
+            933
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "直线：+86 512 65880038",
+        "bbox": [
+            211,
+            935,
+            404,
+            950
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "邮编：215123",
+        "bbox": [
+            570,
+            900,
+            677,
+            913
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "电子邮箱：med@sudatest.com",
+        "bbox": [
+            570,
+            916,
+            796,
+            932
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "免费电话：400 107 8828",
+        "bbox": [
+            570,
+            934,
+            756,
+            948
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目录",
+        "text_level": 1,
+        "bbox": [
+            464,
+            91,
+            526,
+            116
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "检测报告说明 ....3",
+        "text_level": 1,
+        "bbox": [
+            145,
+            147,
+            843,
+            165
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "日期确认 4",
+        "text_level": 1,
+        "bbox": [
+            147,
+            169,
+            843,
+            186
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "报告摘要 5 ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            188,
+            843,
+            206
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "检测报告正文....6 ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            209,
+            843,
+            226
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 目的 ....6",
+        "text_level": 1,
+        "bbox": [
+            145,
+            230,
+            843,
+            247
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 参考标准....6",
+        "text_level": 1,
+        "bbox": [
+            145,
+            250,
+            843,
+            266
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 执行规范....6 ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            270,
+            843,
+            286
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4 试验和对照样品确定....6 ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            290,
+            843,
+            306
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "4.1 试验样品....6 ",
+            "4.2 对照样品 6"
+        ],
+        "bbox": [
+            179,
+            309,
+            843,
+            342
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "4.2.1 阴性对照样品 ..... 6",
+            "4.2.2 阳性对照样品 ..... 7"
+        ],
+        "bbox": [
+            214,
+            344,
+            843,
+            374
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5 仪器和试剂 ....7",
+        "text_level": 1,
+        "bbox": [
+            145,
+            377,
+            843,
+            394
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "5.1 仪器设备....7",
+            "5.2 试剂....7 "
+        ],
+        "bbox": [
+            179,
+            397,
+            843,
+            429
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6 试验系统鉴别 ....7",
+        "text_level": 1,
+        "bbox": [
+            145,
+            433,
+            843,
+            448
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7 饲养和护理 .... 7 ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            453,
+            843,
+            469
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "8 试验系统和给药途径确认 ....8 ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            473,
+            843,
+            489
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "9 试验设计 ....8",
+        "text_level": 1,
+        "bbox": [
+            145,
+            492,
+            843,
+            509
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "9.1 浸提液制备 8 ",
+        "bbox": [
+            179,
+            511,
+            843,
+            526
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "9.1.1 样品前处理 8",
+            "9.1.2 样品浸提 8 "
+        ],
+        "bbox": [
+            214,
+            529,
+            843,
+            559
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "9.2 试验步骤.....8 ",
+        "bbox": [
+            179,
+            562,
+            843,
+            577
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "9.2.1 动物准备与分组 8",
+            "9.2.2 皮内诱导阶段 I....8",
+            "9.2.3 局部诱导阶段 II 9",
+            "9.2.4 激发阶段....9 "
+        ],
+        "bbox": [
+            214,
+            579,
+            843,
+            642
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "9.3 结果观察....9 ",
+            "9.4 结果评价....9 "
+        ],
+        "bbox": [
+            179,
+            646,
+            843,
+            676
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "10 试验结果 .... 10 ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            680,
+            843,
+            695
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "11 结论 .... 10 ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            700,
+            843,
+            716
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "12 记录存储 .... 10 ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            720,
+            843,
+            736
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "13 保密协议 .... 10",
+        "text_level": 1,
+        "bbox": [
+            145,
+            739,
+            843,
+            756
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "14 试验偏离声明 ..... 10",
+        "text_level": 1,
+        "bbox": [
+            145,
+            760,
+            843,
+            775
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "附录一 试验数据 …… 11",
+        "text_level": 1,
+        "bbox": [
+            145,
+            779,
+            843,
+            795
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "附录二 试验样品照片....13",
+        "text_level": 1,
+        "bbox": [
+            145,
+            799,
+            843,
+            815
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "附录三 客户提供的资料....14",
+        "text_level": 1,
+        "bbox": [
+            145,
+            819,
+            843,
+            836
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "苏州大学卫生与环境技术研究所",
+        "bbox": [
+            144,
+            49,
+            394,
+            62
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "报告编号：SDWH-M201905262-3",
+        "bbox": [
+            585,
+            49,
+            843,
+            64
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "第2页 共14页",
+        "bbox": [
+            429,
+            935,
+            560,
+            950
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "检测报告说明",
+        "text_level": 1,
+        "bbox": [
+            401,
+            91,
+            588,
+            116
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "一、对本报告有异议者，请于收到报告之日起十五天内提出复核申请。 ",
+            "二、检测报告涂改或无检验检测专用章无效。",
+            "三、检测报告无编制人、审核人及检测报告签发人签字无效。",
+            "四、送样委托检验，本检验检测机构仅对来样负责。",
+            "五、未经本检验检测机构同意，不得部分复制本报告。"
+        ],
+        "bbox": [
+            182,
+            157,
+            798,
+            287
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "苏州大学卫生与环境技术研究所",
+        "bbox": [
+            144,
+            48,
+            394,
+            62
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "报告编号：SDWH-M201905262-3",
+        "bbox": [
+            585,
+            49,
+            845,
+            64
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "第3页共14页",
+        "bbox": [
+            429,
+            932,
+            558,
+            947
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/50b24e56a621f313715dd80108cfc5567c71b1416d4c135ccd24fdc998c36879.jpg",
+        "table_caption": [
+            "日期确认"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>接样日期</td><td>2019-12-04</td></tr><tr><td>试验计划书生效日期</td><td>2019-12-06</td></tr><tr><td>试验操作开始日期</td><td>2019-12-06</td></tr><tr><td>试验操作结束日期</td><td>2020-01-02</td></tr><tr><td>报告完成日期</td><td>2020-01-15</td></tr></table>",
+        "bbox": [
+            145,
+            153,
+            845,
+            293
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "编制：王焕衡 2020.01.15 ",
+        "bbox": [
+            310,
+            682,
+            852,
+            710
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a237d672b4e73ebcd90ec92f010c23791d49a350cc8dca5056514576d176857.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "审核： 张成雄\n试验负责人\n签发： 史丽洁\n授权签字人\n日期\n2020-01-15\n日期\n检验检测专用章\n(2)",
+        "sub_type": "text_image",
+        "bbox": [
+            313,
+            738,
+            889,
+            872
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "苏州大学卫生与环境技术研究所",
+        "bbox": [
+            555,
+            884,
+            843,
+            903
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "苏州大学卫生与环境技术研究所",
+        "bbox": [
+            142,
+            49,
+            392,
+            62
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "报告编号：SDWH-M201905262-3",
+        "bbox": [
+            583,
+            47,
+            842,
+            62
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "第4页共14页",
+        "bbox": [
+            436,
+            929,
+            568,
+            945
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "报告摘要 ",
+        "text_level": 1,
+        "bbox": [
+            429,
+            91,
+            557,
+            116
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1 试验样品",
+        "text_level": 1,
+        "bbox": [
+            142,
+            131,
+            276,
+            152
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fc2061472f885dfd0da6dfe8303cc318e3e28b21fde046e8772270d143029ca2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>样品名称</td><td>红外耳温计</td></tr><tr><td>制造商</td><td>柯顿(天津)电子医疗器械有限公司</td></tr><tr><td>地址</td><td>天津自贸试验区(空港经济区)航宇路26号</td></tr><tr><td>型号</td><td>PT5</td></tr><tr><td>批号</td><td>未提供</td></tr></table>",
+        "bbox": [
+            142,
+            159,
+            843,
+            266
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 主要参考标准",
+        "text_level": 1,
+        "bbox": [
+            140,
+            279,
+            325,
+            299
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "GB/T 16886.10-2017 医疗器械生物学评价 第 10 部分：刺激与皮肤致敏试验",
+        "bbox": [
+            174,
+            308,
+            765,
+            324
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 试验方法",
+        "text_level": 1,
+        "bbox": [
+            140,
+            339,
+            278,
+            358
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "依据 GB/T 16886.10-2017 医疗器械的生物学评价 第 10 部分：刺激与皮肤致敏试验，采用豚鼠最大剂量试验，评价样品潜在的皮肤致敏反应。",
+        "bbox": [
+            140,
+            366,
+            830,
+            397
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验计划书编号：SDWH-PROTOCOL-M201905262-3。",
+        "bbox": [
+            176,
+            400,
+            598,
+            415
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结论",
+        "text_level": 1,
+        "bbox": [
+            140,
+            429,
+            229,
+            448
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在本次试验条件下，样品红外耳温计的浸提液在豚鼠皮肤未发现皮肤致敏反应，致敏阳性率为0%，未见对豚鼠引起皮肤致敏反应的证据。",
+        "bbox": [
+            140,
+            458,
+            843,
+            490
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "苏州大学卫生与环境技术研究所",
+        "bbox": [
+            142,
+            48,
+            392,
+            62
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "报告编号：SDWH-M201905262-3",
+        "bbox": [
+            583,
+            49,
+            842,
+            64
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "第5页共14页",
+        "bbox": [
+            427,
+            931,
+            557,
+            947
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "检测报告正文",
+        "text_level": 1,
+        "bbox": [
+            399,
+            91,
+            588,
+            117
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1 目的",
+        "text_level": 1,
+        "bbox": [
+            145,
+            135,
+            231,
+            154
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用豚鼠最大剂量试验，评价样品的皮肤致敏反应。该试验系统用豚鼠来检测表面接触引起的接触性致敏反应，并类推到人类，但试验结果并不代表样品真正的致敏危险性。",
+        "bbox": [
+            144,
+            160,
+            845,
+            194
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2 参考标准",
+        "text_level": 1,
+        "bbox": [
+            145,
+            210,
+            280,
+            230
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "GB/T 16886.10-2017 医疗器械生物学评价 第 10 部分：刺激与皮肤致敏试验",
+        "bbox": [
+            179,
+            236,
+            766,
+            252
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "GB/T 16886.12-2017 医疗器械生物学评价 第 12 部分：样品制备与参照材料",
+        "bbox": [
+            181,
+            252,
+            766,
+            268
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "GB/T 16886.2-2011 医疗器械生物学评价 第 2 部分：动物福利要求",
+        "bbox": [
+            181,
+            269,
+            696,
+            283
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 执行规范 ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            301,
+            281,
+            321
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ISO/IEC 17025:2005 检测和校准实验室能力的通用要求（CNAS—CL01《检测和校准实验室能力认可准则》）中国合格评定国家认可委员会 实验室认可 注册号：CNAS L2954。",
+        "bbox": [
+            145,
+            327,
+            847,
+            359
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "RB/T 214—2017《检验检测机构资质认定能力评价 检验检测机构通用要求》中国国家认证认可监督管理委员会 检验检测机构资质认定 证书编号：CMA 180015144061。",
+        "bbox": [
+            145,
+            359,
+            847,
+            391
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 试验和对照样品确定",
+        "text_level": 1,
+        "bbox": [
+            145,
+            409,
+            399,
+            428
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/cccfc3e14b3b6d0da9f2515232054746e03c09422f966adfbad25955ed184d77.jpg",
+        "table_caption": [
+            "4.1 试验样品"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>样品名称</td><td>红外耳温计</td></tr><tr><td>制造商</td><td>柯顿(天津)电子医疗器械有限公司</td></tr><tr><td>制造商地址</td><td>天津自贸试验区(空港经济区)航宇路26号</td></tr><tr><td>来样原始状态</td><td>未灭菌</td></tr><tr><td>CAS编号</td><td>未提供</td></tr><tr><td>型号</td><td>PT5</td></tr><tr><td>规格</td><td>未提供</td></tr><tr><td>批号</td><td>未提供</td></tr><tr><td>样品材料</td><td>ABS,TPU,PMMA,PP</td></tr><tr><td>包装材质</td><td>塑料袋</td></tr><tr><td>性状</td><td>固体</td></tr><tr><td>颜色</td><td>白色,灰色,透明</td></tr><tr><td>密度</td><td>未提供</td></tr><tr><td>稳定性</td><td>未提供</td></tr><tr><td>溶解度</td><td>不溶于水</td></tr><tr><td>保存条件</td><td>室温</td></tr><tr><td>预期临床用途</td><td>体温测量</td></tr></table>",
+        "bbox": [
+            152,
+            466,
+            867,
+            745
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "试验样品信息是由样品委托单位提供。",
+        "bbox": [
+            187,
+            758,
+            481,
+            774
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2 对照样品",
+        "text_level": 1,
+        "bbox": [
+            152,
+            790,
+            268,
+            808
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 阴性对照样品",
+        "text_level": 1,
+        "bbox": [
+            187,
+            815,
+            338,
+            832
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "样品名称：芝麻油（SO）",
+        "bbox": [
+            187,
+            836,
+            382,
+            850
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "制造商：吉安市青原区绿源天然香料油提炼厂 ",
+        "bbox": [
+            189,
+            851,
+            543,
+            866
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "规格：5kg",
+        "bbox": [
+            189,
+            869,
+            273,
+            884
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "批号：20190108",
+        "bbox": [
+            189,
+            885,
+            317,
+            899
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "苏州大学卫生与环境技术研究所",
+        "bbox": [
+            142,
+            49,
+            392,
+            64
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "报告编号：SDWH-M201905262-3",
+        "bbox": [
+            583,
+            48,
+            842,
+            62
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "第6页 共14页",
+        "bbox": [
+            441,
+            932,
+            570,
+            947
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "性状：油状液体",
+        "bbox": [
+            176,
+            84,
+            303,
+            99
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "颜色：淡黄色",
+        "bbox": [
+            177,
+            100,
+            286,
+            115
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "保存条件：室温",
+        "bbox": [
+            177,
+            116,
+            303,
+            131
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2.2 阳性对照样品",
+        "text_level": 1,
+        "bbox": [
+            177,
+            138,
+            328,
+            156
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "样品名称：2,4-二硝基氯苯（DNCB）",
+        "bbox": [
+            176,
+            160,
+            459,
+            175
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "制造商：成都艾科达化学试剂有限公司",
+        "bbox": [
+            177,
+            176,
+            479,
+            191
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "规格：100g",
+        "bbox": [
+            177,
+            193,
+            271,
+            207
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "批号：201904101",
+        "bbox": [
+            177,
+            209,
+            312,
+            223
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "诱导浓度：0.5%",
+        "bbox": [
+            179,
+            225,
+            307,
+            239
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "激发浓度：0.1%",
+        "bbox": [
+            179,
+            241,
+            307,
+            255
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "溶剂：芝麻油 ",
+        "bbox": [
+            179,
+            257,
+            286,
+            271
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "配制日期：2019-12-02",
+        "bbox": [
+            179,
+            273,
+            352,
+            288
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "性状：液体",
+        "bbox": [
+            179,
+            290,
+            271,
+            305
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "颜色：浅黄色",
+        "bbox": [
+            179,
+            306,
+            286,
+            321
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "保存条件：室温",
+        "bbox": [
+            179,
+            321,
+            305,
+            337
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 仪器和试剂",
+        "text_level": 1,
+        "bbox": [
+            142,
+            352,
+            303,
+            372
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.1 仪器设备",
+        "text_level": 1,
+        "bbox": [
+            142,
+            388,
+            260,
+            406
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/20e149668c6e850b1edcc678b8e940221ad6e48ce8c4493d8cc5b8be92a908dc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>仪器名称</td><td>仪器编号</td><td>校正有效期</td></tr><tr><td>卧式大容量恒温振荡器</td><td>SDWH897</td><td>2020-05-04</td></tr><tr><td>立式压力蒸汽灭菌器</td><td>SDWH2097</td><td>2020-04-16</td></tr><tr><td>钢直尺</td><td>SDWH463</td><td>2020-07-29</td></tr><tr><td>电子秤</td><td>SDWH442</td><td>2020-05-04</td></tr></table>",
+        "bbox": [
+            145,
+            410,
+            862,
+            497
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.2 试剂",
+        "text_level": 1,
+        "bbox": [
+            144,
+            511,
+            221,
+            529
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/1c7f1d8ca11af3c374e076ee12914bcfef5688b7f6345513583b8d642dfcab64.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>试剂名称</td><td>供应商</td><td>批号</td></tr><tr><td>弗氏完全佐剂</td><td>SIGMA</td><td>SLBX3240</td></tr><tr><td>十二烷基硫酸钠</td><td>国药集团化学试剂有限公司</td><td>20181210</td></tr></table>",
+        "bbox": [
+            145,
+            534,
+            862,
+            589
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6 试验系统鉴别",
+        "text_level": 1,
+        "bbox": [
+            144,
+            603,
+            328,
+            624
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "种属：哈特兰豚鼠（天竺鼠）",
+        "bbox": [
+            179,
+            631,
+            407,
+            647
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "数量：15（试验组 10 只、对照组 5 只）",
+        "bbox": [
+            179,
+            648,
+            484,
+            663
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "性别：不限定",
+        "bbox": [
+            181,
+            663,
+            291,
+            679
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "试验初体重：300～500g",
+        "bbox": [
+            181,
+            681,
+            372,
+            695
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "健康状况：健康未使用过的动物",
+        "bbox": [
+            181,
+            695,
+            432,
+            711
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "饲养：豚鼠按组饲养在笼子内，做好标识编号、试验代号、试验开始日期等信息",
+        "bbox": [
+            181,
+            712,
+            800,
+            726
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "动物鉴别：染色标记",
+        "bbox": [
+            181,
+            729,
+            345,
+            743
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "笼子：塑料笼子",
+        "bbox": [
+            182,
+            744,
+            308,
+            758
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "适应期：在实验环境下7天",
+        "bbox": [
+            181,
+            760,
+            397,
+            775
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7 饲养和护理",
+        "text_level": 1,
+        "bbox": [
+            145,
+            790,
+            307,
+            809
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "动物来源：苏州高新区镇湖实验动物科技有限公司 SCXK（苏）2015-0007",
+        "bbox": [
+            181,
+            819,
+            755,
+            834
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "垫料：玉米芯垫料，苏州双狮实验动物饲料科技有限公司",
+        "bbox": [
+            181,
+            836,
+            627,
+            851
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "饲料：实验豚鼠全价颗粒饲料，苏州高新区镇湖实验动物科技有限公司",
+        "bbox": [
+            181,
+            852,
+            731,
+            866
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "水：自来水（符合 GB 5749-2006 卫生标准）",
+        "bbox": [
+            182,
+            869,
+            523,
+            884
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "室温：18\\~26℃",
+        "bbox": [
+            184,
+            885,
+            310,
+            899
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "苏州大学卫生与环境技术研究所",
+        "bbox": [
+            142,
+            49,
+            392,
+            64
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "报告编号：SDWH-M201905262-3",
+        "bbox": [
+            583,
+            49,
+            842,
+            62
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "第7页共14页",
+        "bbox": [
+            432,
+            931,
+            563,
+            946
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "相对湿度：30%\\~70%",
+        "bbox": [
+            176,
+            83,
+            352,
+            97
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "光照：每天需要 12h 光照，全光谱日光灯",
+        "bbox": [
+            176,
+            99,
+            496,
+            114
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "人员：检测人员有相应检测资质",
+        "bbox": [
+            176,
+            115,
+            427,
+            130
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "选择：选择健康未使用过的动物",
+        "bbox": [
+            176,
+            131,
+            427,
+            146
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "食物、水、垫料中无干扰试验数据污染物存在",
+        "bbox": [
+            177,
+            148,
+            533,
+            163
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8 试验系统和给药途径确认 ",
+        "text_level": 1,
+        "bbox": [
+            140,
+            179,
+            441,
+            199
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "白色豚鼠历史上曾用于致敏研究（Magnusson 和 Kligman，1970）。在该类试验研究中，豚鼠被认为是最敏感的动物模型。该试验采用 2,4-二硝基氯苯（DNCB）作为豚鼠致敏物已经在苏州大学卫生与环境技术研究所得到试验证实（表 1 和表 2）。",
+        "bbox": [
+            140,
+            207,
+            843,
+            255
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "试验样品通过浸提液（用一种与试验系统相容的载体浸提）与试验系统接触，被认为是最佳给药途径。",
+        "bbox": [
+            140,
+            256,
+            842,
+            288
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "9 试验设计",
+        "text_level": 1,
+        "bbox": [
+            140,
+            302,
+            275,
+            321
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "9.1 浸提液制备 ",
+        "text_level": 1,
+        "bbox": [
+            140,
+            338,
+            278,
+            355
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "9.1.1 样品前处理",
+        "text_level": 1,
+        "bbox": [
+            174,
+            363,
+            308,
+            378
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "无需前处理程序。",
+        "bbox": [
+            176,
+            384,
+            312,
+            399
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "9.1.2 样品浸提 ",
+        "text_level": 1,
+        "bbox": [
+            174,
+            407,
+            291,
+            422
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "无菌条件下取样，等数量取图中所有组件（激发阶段取样去掉塑料件料把），混合浸提。（见附录二图片），使用委托方提供的样品总表面积为 $222.684 \\, cm^{2}$ ，并按 $3 \\, cm^{2} : 1 \\, mL$ 浸提比例（样品：浸提介质）在密闭的惰性容器内震荡浸提。浸提介质为芝麻油。",
+        "bbox": [
+            140,
+            426,
+            843,
+            473
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/569e9c63e1ab5410eb16da17988509541944745bfc5ccdaaf7a74ddade14d0b1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\">试验阶段</td><td rowspan=\"2\">实际取样</td><td colspan=\"3\">浸提过程</td><td rowspan=\"2\">最终浸提液</td></tr><tr><td>浸提比例</td><td>芝麻油体积</td><td>浸提条件</td></tr><tr><td>皮内诱导阶段I</td><td>表面积222.684 $cm^2$ </td><td>3 $cm^2$ :1mL</td><td>74.2 mL</td><td>37°C, 72h</td><td>澄清</td></tr><tr><td>局部诱导阶段II</td><td>表面积222.684 $cm^2$ </td><td>3 $cm^2$ :1mL</td><td>74.2 mL</td><td>37°C, 72h</td><td>澄清</td></tr><tr><td>激发阶段</td><td>表面积222.684 $cm^2$ </td><td>3 $cm^2$ :1mL</td><td>74.2 mL</td><td>37°C, 72h</td><td>澄清</td></tr></table>",
+        "bbox": [
+            142,
+            488,
+            860,
+            657
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "浸提前后浸提液状态未发生改变。浸提完成后 $4^{\\circ}$ C 保存，24h 内用于测试。浸提液 pH 值未经调整，未经过滤、离心、稀释等处理。不加供试品，同条件制备对照液。",
+        "bbox": [
+            140,
+            659,
+            842,
+            693
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "9.2 试验步骤 ",
+        "text_level": 1,
+        "bbox": [
+            140,
+            707,
+            258,
+            724
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "9.2.1 动物准备与分组",
+        "text_level": 1,
+        "bbox": [
+            174,
+            731,
+            345,
+            745
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在试验首日, 将对 15 只豚鼠进行称重和染色, 并用电动剃刀除去动物背部区域的毛发。分组如下:",
+        "bbox": [
+            140,
+            750,
+            832,
+            781
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ffd2e776d402681aaae99b8a8eba88864965fb6e148b125f73c0d28b62829a38.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>分组</td><td>动物数量</td><td>动物性别</td></tr><tr><td>试验组</td><td>10</td><td>不限定</td></tr><tr><td>阴性对照组</td><td>5</td><td>不限定</td></tr></table>",
+        "bbox": [
+            142,
+            795,
+            840,
+            862
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "9.2.2 皮内诱导阶段 I",
+        "text_level": 1,
+        "bbox": [
+            174,
+            866,
+            338,
+            882
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "按图 1 所示（A、B 和 C），在每只动物去毛的肩胛骨内侧部位成对皮内注射 0.1mL。",
+        "bbox": [
+            174,
+            887,
+            820,
+            902
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "苏州大学卫生与环境技术研究所",
+        "bbox": [
+            142,
+            48,
+            392,
+            62
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "报告编号：SDWH-M201905262-3",
+        "bbox": [
+            583,
+            49,
+            842,
+            64
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "第8页共14页",
+        "bbox": [
+            424,
+            929,
+            555,
+            946
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "aside_text",
+        "text": "[手写签名] ",
+        "bbox": [
+            976,
+            576,
+            998,
+            707
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "部位 A：注射弗氏完全佐剂与选定的溶剂以 50:50（V/V）比例混合配制成的稳定性乳化剂。",
+        "bbox": [
+            144,
+            84,
+            847,
+            112
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "部位 B: 试验组动物注射试验样品（未经稀释的浸提液）；对照组动物仅注射相应溶剂。",
+        "bbox": [
+            179,
+            115,
+            835,
+            131
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "部位 C：试验组动物按部位 B 中采用的浸提液浓度，以 50:50（V/V）的比例与弗氏完全佐剂与溶剂配制成的乳化剂混合后进行皮内注射；对照组动物注射溶剂与佐剂和溶剂配制成的乳化剂。",
+        "bbox": [
+            142,
+            131,
+            847,
+            179
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/63c2cca3980d21afe00a3632edc0fee141bd097b910b9f57476135797e847178.jpg",
+        "image_caption": [
+            "图 1 皮内注射点部位"
+        ],
+        "image_footnote": [],
+        "content": "```mermaid\ngraph LR\n    A[\"0.1mL 皮内注射\"] --> B[\"A\"]\n    A --> C[\"B\"]\n    A --> D[\"C\"]\n    B --> E[\"A\"]\n    B --> F[\"B\"]\n    C --> G[\"C\"]\n    H[\"0.1mL 皮内注射点\"] --> I[\"A\"]\n    H --> J[\"B\"]\n    H --> K[\"C\"]\n    L[\"去毛的肩胛骨内侧部位\"] --> M[\"尾部\"]\n```",
+        "sub_type": "flowchart",
+        "bbox": [
+            256,
+            185,
+            743,
+            309
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "9.2.3 局部诱导阶段Ⅱ ",
+        "text_level": 1,
+        "bbox": [
+            179,
+            336,
+            347,
+            352
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "按注射部位 B 的最大浓度未产生刺激反应，在局部敷贴应用前（24±2）h，试验区用10%十二烷基硫酸钠（溶剂：蒸馏水，配制日期：2019-09-30）进行预处理，按摩导入皮肤。",
+        "bbox": [
+            144,
+            357,
+            847,
+            389
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "皮内注射后 7d，将约 $8cm^{2}$ 大小的吸收性纱布块用 0.5mL 供试品浸提液浸透后局部贴敷于每个动物的肩胛骨内侧部位，覆盖诱导注射点。用封闭式包扎带固定样品，并于 $(48\\pm2)$ h 后除去包扎带和样品。",
+        "bbox": [
+            142,
+            390,
+            847,
+            435
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对照组动物使用对照液同法操作。",
+        "bbox": [
+            179,
+            437,
+            437,
+            452
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "9.2.4 激发阶段",
+        "text_level": 1,
+        "bbox": [
+            179,
+            460,
+            296,
+            475
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "于局部诱导后 $14 \\pm 1d$ ，用试验样品对全部试验组动物和对照组动物进行激发。用 0.5mL 供试品浸提液和对照液浸透后的 $2.5cm \\times 2.5cm$ 大小吸收性纱布块分别局部贴敷于诱导阶段未试验部位，用封闭式包扎带固定，并于 $(24 \\pm 2)h$ 后除去包扎带和贴敷片。",
+        "bbox": [
+            142,
+            480,
+            847,
+            529
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "9.3 结果观察 ",
+        "text_level": 1,
+        "bbox": [
+            142,
+            543,
+            261,
+            560
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "除去样品后（24±2）h 和（48±2）h，分别观察供试品组和对照组动物激发部位皮肤情况，在全光谱光线下观察皮肤反应。按下表 Magnusson 和 Kligman 分级标准对每一激发部位和每一观察时间皮肤红斑和水肿反应进行描述并分级。",
+        "bbox": [
+            142,
+            568,
+            847,
+            616
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b2503008c95e64ac5b1887d6e996044305bc9ef4449045aa4f517785458c1d0.jpg",
+        "table_caption": [
+            "Magnusson 和 Kligman 分级"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>贴敷试验反应</td><td>等级</td></tr><tr><td>无明显改变</td><td>0</td></tr><tr><td>散发性或斑点状红斑</td><td>1</td></tr><tr><td>中度融合性红斑</td><td>2</td></tr><tr><td>重度红斑和水肿</td><td>3</td></tr></table>",
+        "bbox": [
+            145,
+            647,
+            862,
+            749
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "9.4 结果评价 ",
+        "text_level": 1,
+        "bbox": [
+            142,
+            762,
+            261,
+            780
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "按 Magnusson 和 Kligman 分级标准，如果对照组动物等级小于 1，而试验组中等级大于或等于 1 时一般提示致敏。",
+        "bbox": [
+            142,
+            788,
+            845,
+            820
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "如对照组动物等级大于或等于 1 时，试验组动物反应超过对照组中最严重的反应则认为致敏。如为疑似反应，推荐进行再激发以确认首次激发结果。",
+        "bbox": [
+            142,
+            821,
+            845,
+            853
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "试验结果显示为试验和对照动物中的阳性激发结果的发生率。",
+        "bbox": [
+            177,
+            853,
+            649,
+            869
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "苏州大学卫生与环境技术研究所",
+        "bbox": [
+            147,
+            48,
+            395,
+            62
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "报告编号：SDWH-M201905262-3",
+        "bbox": [
+            587,
+            49,
+            847,
+            64
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "第9页 共14页",
+        "bbox": [
+            429,
+            931,
+            558,
+            947
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "10 试验结果",
+        "text_level": 1,
+        "bbox": [
+            142,
+            84,
+            278,
+            104
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "激发后皮肤反应结果列于表 3，样品红外耳温计的浸提液在豚鼠皮肤未发现皮肤致敏反应，致敏阳性率为 0%。",
+        "bbox": [
+            140,
+            111,
+            843,
+            144
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "阳性对照组的致敏阳性率为 100%，见表 1。",
+        "bbox": [
+            176,
+            146,
+            511,
+            161
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "豚鼠临床观察和体重变化列于表 4。",
+        "bbox": [
+            176,
+            162,
+            449,
+            176
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "11 结论",
+        "text_level": 1,
+        "bbox": [
+            142,
+            193,
+            231,
+            212
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在本试验条件下，样品红外耳温计的浸提液未见对豚鼠引起皮肤致敏反应的证据。",
+        "bbox": [
+            176,
+            219,
+            805,
+            235
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "12 记录存储 ",
+        "text_level": 1,
+        "bbox": [
+            142,
+            252,
+            280,
+            271
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "所有与本次试验有关的原始数据和记录都被保存在指定的 SDWH 档案文件中。",
+        "bbox": [
+            177,
+            277,
+            778,
+            294
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "13 保密协议",
+        "text_level": 1,
+        "bbox": [
+            142,
+            311,
+            280,
+            330
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "签订检测委托合同即认为双方接受保密协议。",
+        "bbox": [
+            177,
+            338,
+            528,
+            353
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "14 试验偏离声明",
+        "text_level": 1,
+        "bbox": [
+            142,
+            370,
+            328,
+            389
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本次试验严格按照计划书执行，未发生影响实验数据有效性的偏离。",
+        "bbox": [
+            177,
+            396,
+            703,
+            413
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "苏州大学卫生与环境技术研究所",
+        "bbox": [
+            142,
+            49,
+            392,
+            62
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "报告编号：SDWH-M201905262-3",
+        "bbox": [
+            583,
+            47,
+            842,
+            61
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "第10页共14页",
+        "bbox": [
+            431,
+            931,
+            573,
+            947
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "附录一 试验数据",
+        "text_level": 1,
+        "bbox": [
+            370,
+            83,
+            617,
+            109
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/c02d76b9c0de6c9200348e2871c081b85025e0190bc517b1b954ff0bf8c91c62.jpg",
+        "table_caption": [
+            "表 1 阳性对照致敏皮肤反应"
+        ],
+        "table_footnote": [
+            "注：阳性对照引用 SDWH-M201905116-2（完成日期：2019-12-26）"
+        ],
+        "table_body": "<table><tr><td rowspan=\"2\">分组</td><td rowspan=\"2\">动物编号</td><td colspan=\"2\">阶段II局部敷贴应用前(24±2)h</td><td colspan=\"2\">激发斑贴移去后(24±2)h</td><td colspan=\"2\">激发斑贴移去后(48±2)h</td><td rowspan=\"2\">激发后阳性发生率</td></tr><tr><td>左</td><td>右</td><td>试验部位</td><td>对照部位</td><td>试验部位</td><td>对照部位</td></tr><tr><td rowspan=\"5\">阳性对照组</td><td>1</td><td>2</td><td>3</td><td>2</td><td>0</td><td>2</td><td>0</td><td rowspan=\"5\">100%</td></tr><tr><td>2</td><td>2</td><td>2</td><td>2</td><td>0</td><td>2</td><td>0</td></tr><tr><td>3</td><td>2</td><td>2</td><td>1</td><td>0</td><td>2</td><td>0</td></tr><tr><td>4</td><td>3</td><td>2</td><td>2</td><td>0</td><td>3</td><td>0</td></tr><tr><td>5</td><td>3</td><td>3</td><td>3</td><td>0</td><td>3</td><td>0</td></tr><tr><td rowspan=\"5\">阴性对照组</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td rowspan=\"5\">-</td></tr><tr><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>9</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>10</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr></table>",
+        "bbox": [
+            145,
+            138,
+            862,
+            356
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/e0c3b65994d3bcce651b4ecd0e1d2eeece1e37626556dca43cc575cbd6748fbf.jpg",
+        "table_caption": [
+            "表 2 阳性对照豚鼠临床观察和体重变化"
+        ],
+        "table_footnote": [
+            "注：阳性对照引用 SDWH-M201905116-2（完成日期：2019-12-26）"
+        ],
+        "table_body": "<table><tr><td rowspan=\"2\">分组</td><td rowspan=\"2\">动物编号</td><td colspan=\"2\">体重(g)</td><td rowspan=\"2\">皮肤反应外的临床表现</td></tr><tr><td>初体重</td><td>终体重</td></tr><tr><td rowspan=\"5\">阳性对照组</td><td>1</td><td>340</td><td>415</td><td>正常</td></tr><tr><td>2</td><td>308</td><td>367</td><td>正常</td></tr><tr><td>3</td><td>316</td><td>383</td><td>正常</td></tr><tr><td>4</td><td>314</td><td>386</td><td>正常</td></tr><tr><td>5</td><td>308</td><td>369</td><td>正常</td></tr><tr><td rowspan=\"5\">阴性对照组</td><td>6</td><td>310</td><td>373</td><td>正常</td></tr><tr><td>7</td><td>345</td><td>425</td><td>正常</td></tr><tr><td>8</td><td>313</td><td>382</td><td>正常</td></tr><tr><td>9</td><td>337</td><td>416</td><td>正常</td></tr><tr><td>10</td><td>309</td><td>371</td><td>正常</td></tr></table>",
+        "bbox": [
+            145,
+            458,
+            862,
+            657
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "苏州大学卫生与环境技术研究所",
+        "bbox": [
+            142,
+            47,
+            392,
+            62
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "报告编号：SDWH-M201905262-3",
+        "bbox": [
+            583,
+            47,
+            842,
+            62
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "第11页共14页",
+        "bbox": [
+            427,
+            929,
+            565,
+            945
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/2f22ad419adf8ee97a2ead491154e197bba485ed463242873a1d536b60251d4e.jpg",
+        "table_caption": [
+            "表 3 豚鼠致敏皮肤反应"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\">分组</td><td rowspan=\"2\">动物编号</td><td colspan=\"2\">阶段II局部敷贴应用前(24±2)h</td><td colspan=\"2\">激发斑贴移去后(24±2)h</td><td colspan=\"2\">激发斑贴移去后(48±2)h</td><td rowspan=\"2\">激发后阳性发生率</td></tr><tr><td>左</td><td>右</td><td>试验部位</td><td>对照部位</td><td>试验部位</td><td>对照部位</td></tr><tr><td rowspan=\"10\">试验组</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td rowspan=\"10\">0%</td></tr><tr><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>9</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>10</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td rowspan=\"5\">阴性对照组</td><td>11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td rowspan=\"5\">-</td></tr><tr><td>12</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>13</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>14</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>15</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr></table>",
+        "bbox": [
+            145,
+            98,
+            867,
+            389
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8b63047b031aaf792342f89940b938b94e33a0fcdd728ed35453fda0ff352e9.jpg",
+        "table_caption": [
+            "表 4 豚鼠临床观察和体重变化"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\">分组</td><td rowspan=\"2\">动物编号</td><td colspan=\"2\">体重(g)</td><td rowspan=\"2\">皮肤反应外的临床表现</td></tr><tr><td>初体重</td><td>终体重</td></tr><tr><td rowspan=\"10\">试验组</td><td>1</td><td>353</td><td>439</td><td>正常</td></tr><tr><td>2</td><td>315</td><td>382</td><td>正常</td></tr><tr><td>3</td><td>327</td><td>400</td><td>正常</td></tr><tr><td>4</td><td>328</td><td>402</td><td>正常</td></tr><tr><td>5</td><td>326</td><td>399</td><td>正常</td></tr><tr><td>6</td><td>310</td><td>375</td><td>正常</td></tr><tr><td>7</td><td>304</td><td>366</td><td>正常</td></tr><tr><td>8</td><td>356</td><td>444</td><td>正常</td></tr><tr><td>9</td><td>351</td><td>436</td><td>正常</td></tr><tr><td>10</td><td>301</td><td>361</td><td>正常</td></tr><tr><td rowspan=\"5\">阴性对照组</td><td>11</td><td>305</td><td>367</td><td>正常</td></tr><tr><td>12</td><td>352</td><td>438</td><td>正常</td></tr><tr><td>13</td><td>334</td><td>411</td><td>正常</td></tr><tr><td>14</td><td>316</td><td>384</td><td>正常</td></tr><tr><td>15</td><td>329</td><td>403</td><td>正常</td></tr></table>",
+        "bbox": [
+            149,
+            473,
+            869,
+            752
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "苏州大学卫生与环境技术研究所",
+        "bbox": [
+            145,
+            49,
+            394,
+            64
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "报告编号：SDWH-M201905262-3",
+        "bbox": [
+            585,
+            48,
+            843,
+            62
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "第12页共14页",
+        "bbox": [
+            432,
+            929,
+            573,
+            945
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "附录二 试验样品照片",
+        "text_level": 1,
+        "bbox": [
+            340,
+            84,
+            647,
+            109
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8b27f257711041af23203c2075a1593e38e2e4f6b4d453bc9d5c27e7f09ed8f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Disassembled white plastic electronic device components laid out on a surface, with a ruler for scale (no text or symbols visible)",
+        "sub_type": "natural_image",
+        "bbox": [
+            145,
+            123,
+            845,
+            469
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "苏州大学卫生与环境技术研究所",
+        "bbox": [
+            145,
+            48,
+            394,
+            62
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "报告编号：SDWH-M201905262-3",
+        "bbox": [
+            585,
+            49,
+            845,
+            62
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "第 13 页 共 14 页",
+        "bbox": [
+            422,
+            929,
+            563,
+            945
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "附录三 客户提供的资料",
+        "text_level": 1,
+        "bbox": [
+            325,
+            84,
+            664,
+            109
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1 工艺流程",
+        "text_level": 1,
+        "bbox": [
+            145,
+            125,
+            280,
+            146
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "未提供。",
+        "bbox": [
+            181,
+            153,
+            244,
+            169
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2 其他信息",
+        "text_level": 1,
+        "bbox": [
+            145,
+            184,
+            278,
+            203
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "未提供。",
+        "bbox": [
+            181,
+            213,
+            243,
+            228
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "以下空白",
+        "bbox": [
+            459,
+            258,
+            531,
+            273
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/0931ebf2aa1cd920f4e00aa131006ed9004521ec0631d6203168f89ee6ce0952.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            919,
+            583,
+            971,
+            694
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "苏州大学卫生与环境技术研究所",
+        "bbox": [
+            144,
+            48,
+            394,
+            62
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "报告编号：SDWH-M201905262-3",
+        "bbox": [
+            585,
+            48,
+            845,
+            62
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "第 14 页 共 14 页",
+        "bbox": [
+            427,
+            929,
+            567,
+            945
+        ],
+        "page_idx": 13
+    }
+]

@@ -1,0 +1,47 @@
+{
+  "format": "docreview-pdf-intake-flow-v1",
+  "generated_at": "2026-05-01T05:26:47.572390+00:00",
+  "source": "C:\\Users\\Administrator\\Documents\\New project\\DHF -梳理版\\09-设计输出\\设计输出清单二\\设计输出清单二\\图纸\\T-Z1-下盖-v1.0-20241104.pdf",
+  "source_sha256": "0f80c7f11b21078bc8e8ceaf21759ca7a2c45c7dc457a3648867d6fcb719ba4f",
+  "run_root": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\T-Z1-下盖-v1-0-20241104-20260501T132537",
+  "probe_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\T-Z1-下盖-v1-0-20241104-20260501T132537\\probe.json",
+  "classification_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\T-Z1-下盖-v1-0-20241104-20260501T132537\\classification.json",
+  "classification_ms": 0,
+  "classification": {
+    "pdf_type": "gantt",
+    "route": "vlm",
+    "template": "gantt",
+    "reason": "Probe router detected dense rows plus many vector drawings, consistent with timeline/Gantt or complex layout.",
+    "must_preserve": [
+      "row clusters",
+      "vector bars",
+      "lines",
+      "rectangles"
+    ],
+    "risk": [
+      "visual semantics require VLM"
+    ],
+    "confidence": "high",
+    "classifier": "probe",
+    "needs_vlm_supplement": false
+  },
+  "route_result": {
+    "route": "vlm",
+    "page_count": 1,
+    "processed_pages": 1,
+    "page_results": [
+      {
+        "page": 1,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\T-Z1-下盖-v1-0-20241104-20260501T132537\\pages\\page-001.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\T-Z1-下盖-v1-0-20241104-20260501T132537\\page-001-vlm.md",
+        "elapsed_ms": 69936,
+        "chars": 5738,
+        "required_sections_present": true
+      }
+    ],
+    "combined_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\T-Z1-下盖-v1-0-20241104-20260501T132537\\combined-visual-transcript.md",
+    "all_required_sections_present": true,
+    "elapsed_ms": 70086
+  },
+  "elapsed_ms": 70355
+}

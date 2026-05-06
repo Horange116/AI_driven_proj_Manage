@@ -1,0 +1,21 @@
+Started at: Wed 06 May 2026 04:36:38 AM CST
+Host: node42
+CUDA_VISIBLE_DEVICES=4
+MinerU hybrid batch started: 2026-05-06T04:36:38
+PROJECT_ROOT: /home/s2025244189/s2025244265/AI_driven_proj_Manage
+MINERU_MODEL_SOURCE: modelscope
+Selected datasets: DHF, DMR
+
+[DHF] input : /home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理
+[DHF] output: /home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理
+[DHF] files : 203
+[SKIP] DHF 1/203: 01 立项批准书E0/客户需求书(封面)E0.docx
+[SKIP] DHF 2/203: 01 立项批准书E0/客户需求书E0.xlsx
+[SKIP] DHF 3/203: 01 立项批准书E0/客户需求评审单E0.docx
+[SKIP] DHF 4/203: 01 立项批准书E0/立项批准书E0.docx
+[SKIP] DHF 5/203: 02 开发计划E0/设计开发计划(封面)E0.docx
+[SKIP] DHF 6/203: 02 开发计划E0/设计开发计划表E0.xlsx
+[SKIP] DHF 7/203: 02 开发计划E0/设计开发计划评审表E0.docx
+[SKIP] DHF 8/203: 02 开发计划E0/项目组成员名单E0.docx
+[RUN ] DHF 9/203: 02 开发计划E0/项目进度表.pdf
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/02 开发计划E0/项目进度表.pdf' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/02 开发计划E0' -b hybrid-auto-engine -m auto -l ch

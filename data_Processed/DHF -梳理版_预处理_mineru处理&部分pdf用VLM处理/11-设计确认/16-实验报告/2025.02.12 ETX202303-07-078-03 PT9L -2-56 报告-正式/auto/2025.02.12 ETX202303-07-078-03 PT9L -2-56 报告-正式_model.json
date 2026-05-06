@@ -1,0 +1,1828 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9021,
+                "bbox": [
+                    174,
+                    136,
+                    599,
+                    171
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9897,
+                "bbox": [
+                    174,
+                    216,
+                    1477,
+                    1301
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=2>TEST REPORTISO80601-2-56Medical electrical equipmentPart2-56: Particular requirements for basic safety and essential performance of clinicalthermometers for body temperature measurement</td></tr><tr><td rowspan=1 colspan=1>Date ofiss</td><td rowspan=1 colspan=1>2024-09-30</td></tr><tr><td rowspan=1 colspan=1>Standard..</td><td rowspan=1 colspan=1>ENISO80601-2-56:2017/A1:2020/ISO 80601-2-56:2017+A1:2018</td></tr><tr><td rowspan=1 colspan=1>Procedure deviation..</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Non-standard test method...</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Type of test object.</td><td rowspan=1 colspan=1>Infrared No-Touch Forehead Thermometer</td></tr><tr><td rowspan=1 colspan=1>Trademark..</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Model/type reference.</td><td rowspan=1 colspan=1>PT9L</td></tr><tr><td rowspan=1 colspan=1>Report No</td><td rowspan=1 colspan=1>ETX202303-07-078-03</td></tr><tr><td rowspan=1 colspan=1>Testing period.</td><td rowspan=1 colspan=1>2024.07.09-2024.09.07</td></tr><tr><td rowspan=1 colspan=1>Manufacturer..</td><td rowspan=1 colspan=1>ANDONHEALTHCO., LTD.</td></tr><tr><td rowspan=1 colspan=1>Address.</td><td rowspan=1 colspan=1>No.3 JinPing Street, YaAn Road, Nankai District, Tianjin, China</td></tr><tr><td rowspan=1 colspan=1>Test laboratory.Address...</td><td rowspan=1 colspan=1>Tianxu(Tianjin)Testing Technology Service Co.,LTD101, First floor, Building L,No.3 JinPing Street,Ya An Road,Nankai District,Tianjin,China</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8637,
+                "bbox": [
+                    378,
+                    1607,
+                    1061,
+                    1687
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8095,
+                "bbox": [
+                    365,
+                    1692,
+                    1076,
+                    1767
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 20,
+                "label": "seal",
+                "score": 0.9791,
+                "bbox": [
+                    1045,
+                    1462,
+                    1367,
+                    1780
+                ],
+                "index": 5,
+                "text": [
+                    "天旭（天津）检测技术服务有限公司"
+                ]
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    176,
+                    136,
+                    597,
+                    171
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    359,
+                    1598,
+                    749,
+                    1697
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    1045,
+                    1604,
+                    1065,
+                    1657
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    767,
+                    1626,
+                    944,
+                    1689
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    988,
+                    1638,
+                    1068,
+                    1686
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    360,
+                    1678,
+                    1100,
+                    1788
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1653,
+            "height": 2337
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9327,
+                "bbox": [
+                    147,
+                    115,
+                    584,
+                    152
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9855,
+                "bbox": [
+                    161,
+                    238,
+                    1519,
+                    2048
+                ],
+                "index": 2,
+                "html": "<table><tr><td colspan=\"2\">GENERAL INFORMATION</td></tr><tr><td colspan=\"2\">Test item particulars (see also Clause 6):</td></tr><tr><td>Classification of installation and use Device type (component/sub-assembly/ equipment/</td><td>Hand-held ME equipment</td></tr><tr><td>system) …</td><td>Equipment</td></tr><tr><td> Intended use (Including type of patient, application</td><td>The Infrared No-Touch Forehead</td></tr><tr><td>location)..</td><td>Thermometer is intended for the</td></tr><tr><td></td><td>intermittent measurement of body</td></tr><tr><td></td><td>temperature from the forehead skin</td></tr><tr><td></td><td>surface on people of all ages. It can be</td></tr><tr><td></td><td>used by consumers in the household</td></tr><tr><td></td><td>environment and by healthcare</td></tr><tr><td></td><td>providers.</td></tr><tr><td></td><td></td></tr><tr><td>Mode of operation . Supply connection .</td><td>Continuous</td></tr><tr><td>Accessories and detachable parts included</td><td>internally powered</td></tr><tr><td>Other options include .</td><td>N/A NIA</td></tr><tr><td>Possible test case verdicts:</td><td></td></tr><tr><td>- test case does not apply to the test object</td><td>NIA</td></tr><tr><td>- test object does meet the requirement .</td><td>Pass (P)</td></tr><tr><td>- test object was not evaluated for the requirement..</td><td>NE</td></tr><tr><td colspan=\"2\">Abbreviations used in the report:</td></tr><tr><td colspan=\"2\">General remarks:</td></tr><tr><td colspan=\"2\">&quot;(see Attachment #)&quot; refers to additional information appended to the report.</td></tr><tr><td colspan=\"2\">&quot;(see appended table)&quot; refers to a table appended to the report.</td></tr><tr><td colspan=\"2\">The tests results presented in this report relate only to the object tested.</td></tr><tr><td colspan=\"2\">This report shall not be reproduced except in full without the written approval of the testing laboratory.</td></tr><tr><td colspan=\"2\">List of test equipment must be kept on file and available for review.</td></tr><tr><td colspan=\"2\">This Test Report Form is intended for the investigation of clinical thermometers for body temperature</td></tr><tr><td colspan=\"2\">measurement in accordance with EN ISO 80601-2-56:2017/A1:2020/SO 80601-2-56:2017+A1:2018. It can</td></tr><tr><td colspan=\"2\">only be used together with IEC 60601-1:2005.</td></tr><tr><td colspan=\"2\">Additional test data and/or information provided in the attachments to this report.</td></tr><tr><td colspan=\"2\">Throughout this report a comma/ ć point is used as the decimal separator.</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    116,
+                    583,
+                    148
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9348,
+                "bbox": [
+                    147,
+                    115,
+                    584,
+                    152
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9415,
+                "bbox": [
+                    185,
+                    214,
+                    582,
+                    257
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9732,
+                "bbox": [
+                    184,
+                    267,
+                    1515,
+                    401
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9458,
+                "bbox": [
+                    182,
+                    445,
+                    820,
+                    490
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9241,
+                "bbox": [
+                    184,
+                    505,
+                    1513,
+                    551
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9278,
+                "bbox": [
+                    185,
+                    556,
+                    773,
+                    600
+                ],
+                "index": 6
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9375,
+                "bbox": [
+                    184,
+                    606,
+                    1245,
+                    649
+                ],
+                "index": 7
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9394,
+                "bbox": [
+                    184,
+                    656,
+                    1511,
+                    699
+                ],
+                "index": 8
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9353,
+                "bbox": [
+                    184,
+                    705,
+                    1166,
+                    749
+                ],
+                "index": 9
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.944,
+                "bbox": [
+                    185,
+                    756,
+                    1315,
+                    800
+                ],
+                "index": 10
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9407,
+                "bbox": [
+                    185,
+                    807,
+                    755,
+                    849
+                ],
+                "index": 11
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9325,
+                "bbox": [
+                    174,
+                    886,
+                    352,
+                    924
+                ],
+                "index": 12
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9485,
+                "bbox": [
+                    166,
+                    950,
+                    1403,
+                    992
+                ],
+                "index": 13
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9448,
+                "bbox": [
+                    174,
+                    1017,
+                    444,
+                    1056
+                ],
+                "index": 14
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9503,
+                "bbox": [
+                    171,
+                    1081,
+                    1052,
+                    1122
+                ],
+                "index": 15
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9459,
+                "bbox": [
+                    170,
+                    1130,
+                    1465,
+                    1173
+                ],
+                "index": 16
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9475,
+                "bbox": [
+                    173,
+                    1201,
+                    534,
+                    1243
+                ],
+                "index": 17
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9448,
+                "bbox": [
+                    183,
+                    1263,
+                    1272,
+                    1305
+                ],
+                "index": 18
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9713,
+                "bbox": [
+                    184,
+                    1313,
+                    1458,
+                    1402
+                ],
+                "index": 19
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9508,
+                "bbox": [
+                    184,
+                    1412,
+                    1189,
+                    1455
+                ],
+                "index": 20
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9483,
+                "bbox": [
+                    185,
+                    1462,
+                    1339,
+                    1506
+                ],
+                "index": 21
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9459,
+                "bbox": [
+                    183,
+                    1513,
+                    774,
+                    1554
+                ],
+                "index": 22
+            },
+            {
+                "cls_id": 17,
+                "label": "paragraph_title",
+                "score": 0.9433,
+                "bbox": [
+                    177,
+                    1570,
+                    474,
+                    1611
+                ],
+                "index": 23
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9682,
+                "bbox": [
+                    163,
+                    1624,
+                    1513,
+                    1709
+                ],
+                "index": 24
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.5255,
+                "bbox": [
+                    262,
+                    1766,
+                    792,
+                    1976
+                ],
+                "index": 25
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    116,
+                    583,
+                    148
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    188,
+                    217,
+                    579,
+                    252
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    174,
+                    1199,
+                    532,
+                    1243
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    189,
+                    268,
+                    1512,
+                    310
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    188,
+                    308,
+                    1516,
+                    355
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    191,
+                    356,
+                    845,
+                    396
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    183,
+                    442,
+                    820,
+                    488
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    511,
+                    1511,
+                    543
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    188,
+                    657,
+                    1511,
+                    699
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    167,
+                    1623,
+                    1516,
+                    1665
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    159,
+                    1667,
+                    648,
+                    1709
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    190,
+                    557,
+                    767,
+                    597
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    808,
+                    751,
+                    846
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    1513,
+                    770,
+                    1553
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    606,
+                    1241,
+                    647
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    1262,
+                    1269,
+                    1307
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    186,
+                    699,
+                    1162,
+                    750
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    194,
+                    758,
+                    1311,
+                    796
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    192,
+                    1463,
+                    1338,
+                    1505
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    174,
+                    885,
+                    352,
+                    924
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    166,
+                    950,
+                    1403,
+                    992
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    175,
+                    1018,
+                    443,
+                    1056
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    175,
+                    1082,
+                    1049,
+                    1119
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    173,
+                    1128,
+                    1462,
+                    1170
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    1311,
+                    1461,
+                    1354
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    185,
+                    1362,
+                    284,
+                    1407
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    184,
+                    1408,
+                    1185,
+                    1456
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    179,
+                    1569,
+                    475,
+                    1613
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    289,
+                    1766,
+                    791,
+                    1889
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    253,
+                    1831,
+                    816,
+                    2008
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    271,
+                    1835,
+                    533,
+                    1870
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    312,
+                    1861,
+                    484,
+                    1887
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    309,
+                    1902,
+                    481,
+                    1933
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    308,
+                    1922,
+                    425,
+                    1950
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    307,
+                    1945,
+                    372,
+                    1972
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    272,
+                    1946,
+                    310,
+                    1967
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    264,
+                    1768,
+                    683,
+                    1799
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    271,
+                    1814,
+                    666,
+                    1847
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8267,
+                "bbox": [
+                    148,
+                    115,
+                    584,
+                    151
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9898,
+                "bbox": [
+                    160,
+                    197,
+                    1523,
+                    2122
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=4>EN ISO 80601-2-56:2017/A1:2020/ISO 80601-2-56:2017+A1:2018</td></tr><tr><td rowspan=1 colspan=1>Clause</td><td rowspan=1 colspan=1>Requirement + Test</td><td rowspan=1 colspan=1>Result - Remark</td><td rowspan=1 colspan=1>Verdict</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td rowspan=1 colspan=1>201.4</td><td rowspan=1 colspan=2>GENERAL REQUIREMENTS</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.4.2</td><td rowspan=1 colspan=1>RISK MANAGEMENT PROCESS for MEEQUIPMENT or ME SYSTEMS</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.4.2.101</td><td rowspan=1 colspan=2>Additional requirements for RISK MANAGEMENT PROCESS for ME EQUIPMENT orME SYSTEMS</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>The RisKS of changing environmental conditionsfor the CLINICAL THERMOMETER are considered inRISK MANAGEMENT PROCESS</td><td rowspan=1 colspan=1>See RISK MANAGEMENTPROCESS PROVIDED BY thelmanufacture</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Guidance regarding the RESIDUAL RISKS isprovided in the instruction for use</td><td rowspan=1 colspan=1>Refer to Operation Guide.</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.4.3</td><td rowspan=1 colspan=2>ESSENTIAL PERFORMANCE</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.4.3.101</td><td rowspan=1 colspan=1>Additional requirements for ESSENTIALPERFORMANCE</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>At least one of the following functions is identifiedas ESSENTIAL PERFORMANCE in RISKMANAGEMENT FILE:</td><td rowspan=1 colspan=1>See RISK MANAGEMENTFILE</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1> accuracy of the CLINICAL THERMOMETER ,</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>- generation of a TECHNICAL ALARM CONDITION,</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>- not providing an OUTPUT TEMPERATURE, or</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.5</td><td rowspan=1 colspan=1>General requirements for testing of ME EQUlPMENT</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>IEC 60601-1:2005, Clause 5 applies.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NA</td></tr><tr><td rowspan=1 colspan=1>201.6</td><td rowspan=1 colspan=1>Classification of ME EQUIPMENT and ME SYSTEMS</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NA</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>IEC 60601-1:2005, Clause 6 applies</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>201.7</td><td rowspan=1 colspan=2>ME EQUIPMENT IDENTIFICATION, MARKING AND DOCUMENTS</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>IEC 60601-1:2005+A1:2012, Clause 7 applies, except as follows:</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.7.2.1</td><td rowspan=1 colspan=2>Minimum requirements for marking on ME EQUIPMENT and interchangeable parts</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=2>201.7.2.1.10| Additional requirements for minimum requirements for marking on ME EQUIPMENTand interchangeable parts, marking of the packaging</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>The packaging of the CLINICAL THERMOMETERand PROBE is marked as following:</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>a) MEASURING SITE and REFERENCE BODYSITE</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>b) mode of operation of the CLINICALTHERMOMETER ; and</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    116,
+                    583,
+                    148
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7971,
+                "bbox": [
+                    147,
+                    115,
+                    584,
+                    151
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9903,
+                "bbox": [
+                    159,
+                    196,
+                    1523,
+                    1880
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>— the contents of the packaging</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>c) appropriate symbol from IS0 15223-1:2016 usedfor sterile packaging (See Table 201.D.2.101, symbols3-8)..</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>d) Symbol 5.1.4 of ISO 15233-1:2016 used forCLINICAL THERMOMETER or PROBE withexpiration date (see Table 201.D.2.101, symbol 2) .</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>e) Packaging marked with special storage and/orhandling instructions.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>For a specific MODEL OR TYPE REFERENCE, theindication of single use shall be consistent.</td><td rowspan=1 colspan=1>No single use:</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.7.2.2</td><td rowspan=1 colspan=2>Marking on the outside of ME EQUIPMENT or ME EQUIPMENT parts</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.7.2.101</td><td rowspan=1 colspan=2>Additional requirements for marking on the outside of ME EQUIPMENT or MEEQUIPMENT parts</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>The following markings provided on the CLINICALTHERMOMETER are CLEARLY LEGIBLE:</td><td rowspan=1 colspan=1>See Copy of marking plate</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>a) symbol “C&quot; or “&quot;F&quot; marked adjacent to theOUTPUT TEMPERATURE or indicated at thedisplay :</td><td rowspan=1 colspan=1>Indicated at the display</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>—if switching between units is possible, therespective displayed unit is indicated</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>b) the intended MEASURING SITE is marked</td><td rowspan=1 colspan=1>See Copy of marking plate</td><td rowspan=1 colspan=1>NA</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>c) if necessary to maintain ESSENTIALPERFORMANCE, it is indicated to use a newPROBE</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>201.7.4.3</td><td rowspan=1 colspan=2>Unit of measure</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=2>201.7.4.3.10| Additional requirements for unit of measure</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>OUTPUT TEMPERATURE expressed in degreesCelsius. C or dearees Fahrenheit. °F</td><td rowspan=1 colspan=1>Expressed optionally in *C or °F</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Unit of measure clearly indicated.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.7.9</td><td rowspan=1 colspan=1>ACCOMPANYING DOCUMENT</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    116,
+                    583,
+                    148
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8525,
+                "bbox": [
+                    147,
+                    115,
+                    584,
+                    151
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9907,
+                "bbox": [
+                    159,
+                    197,
+                    1522,
+                    2008
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>— the ACCOMPANYING DOCUMENT containsname or trade name and address of--the MANUFACTURER, and--where the manufacturer does not have anaddress within the locale, an authorizedrepresentative within the locale,to which the RESPONSIBLE ORGANIZATIONcan refer .</td><td rowspan=1 colspan=1>See chapter &quot;Warranty&quot; of usermanual</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.7.9.2</td><td rowspan=1 colspan=2>Additional requirements for instructions for use</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=2>201.7.9.2.10 Instructions for use</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>a) a summary of the USE SPECIFICATION asdetermined for IEC 62366-1:2015;</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>b) MEASURING SITE and REFERENCE BODY ofCLINICAL THERMOMETER specified</td><td rowspan=1 colspan=1>See chapter &quot;Intended use&quot; ofuser manual</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>c) recommended minimum measuring time andminimum time between measurements for eachintended MEASURING SITE, ifapplicable</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>d) RATED OUTPUT RANGE for each intendedREFERENCE BODY SITEspecified .</td><td rowspan=1 colspan=1>See chapter &quot;SafetyPrecaution&quot; ofuser manual</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>e) the LABORATORY ACCURACY in the RATEDOUTPUT RANGE and, if equipped, theLABORATORY</td><td rowspan=1 colspan=1>See chapter &quot;Productperformance&quot; ofuser manual</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>f) for CLINICAL THERMOMETERS for use withPROBE COVER:</td><td rowspan=1 colspan=1>No PROBE COVER used</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1) instruction how to apply PROBE COVER</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2) information about the behaviour of the CLINICALTHERMOMETER when used without PROBECOVER</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>g) mode of operation of the CLINICALTHERMOMETER (DIRECT MODE or ADJUSTEDMODE).</td><td rowspan=1 colspan=1>See chapter &quot;Productspecifications&quot; of user manual</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>h) instructions for selection and replacement ofINTERNAL ELECTRICAL POWER SOURCES, ifapplicable</td><td rowspan=1 colspan=1>See chapter &quot;Setup andoperating procedures&quot; inuser manual</td><td rowspan=1 colspan=1>P</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    116,
+                    583,
+                    148
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8022,
+                "bbox": [
+                    147,
+                    115,
+                    584,
+                    152
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9904,
+                "bbox": [
+                    159,
+                    196,
+                    1523,
+                    2127
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>i) Instructions provided on nature of maintenanceand/or calibration needed to ensure proper functionand its frequency</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>j) information about disposal of the clinicalthermometer and its components .</td><td rowspan=1 colspan=1>See chapter“Maintenance&quot;in user manual</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>k) if the CLINICAL THERMOMETER and/or itscomponents are intended for single use only,information on characteristics and technical factorsthat could pose a RIsK is provided in instructionsfor use</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>201.7.9.101</td><td rowspan=1 colspan=1>The ACCOMPANYING DOCUMENT includes adescription of the correction method to deriveunadjusted temperatures from OUTPUTTEMPERATURE measured in the ADJUSTEDMODE, except when the CLINICALTHERMOMETER is equipped with a TEST MODEor DIRECT MODE</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.8</td><td rowspan=1 colspan=2>Protection against electrical HAZARDS from ME EQUIPMENT</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>IEC 60601-1:2005+A1:2012, Clause 8 applies</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.9</td><td rowspan=1 colspan=2>Protection against mechanical HAZARDS of ME EQUIPMENT and ME SYSTEMS</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>IEC 60601-1:2005+A1:2012, Clause 9 applies</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.10</td><td rowspan=1 colspan=2>Protection against unwanted and excessive radiation HAZARDS</td><td rowspan=1 colspan=1>NA</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>IEC 60601-1:2005+A1:2012, Clause 10 applies</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NIA</td></tr><tr><td rowspan=1 colspan=1>201.11</td><td rowspan=1 colspan=2>Protection against excessive temperatures and other HAZARDS</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>IEC 60601-1:2005+A1:2012, Clause 11 appliesexcept as follows:</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.11.6.6</td><td rowspan=1 colspan=1>Cleaning and disinfection of ME EQUIPMENT andME SYSTEM</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=3 colspan=1></td><td rowspan=1 colspan=1>The surfaces of the CLINICAL THERMOMETER,PROBE and ACCESSORIES that can becomecontaminated with body fluids during NORMALCONDITION or SINGLE FAULT CONDITION shallbe designed to allow for cleaning and disinfection orcleaning and sterilization (additional requirementsarc found in IEC 60601-1:2005+A1:2012, 11.6.7and IEC 60601-1-11:2015, Clause B).</td><td rowspan=1 colspan=1>See“Caution&quot; of theOperation Guide.</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>The CLINICAL THERMOMETER may bedismantled during the decontamination PROCESS,</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>ACCESSORIES not intended for re-use areexempfrom this requirement.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/A</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    116,
+                    583,
+                    148
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 6,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8578,
+                "bbox": [
+                    147,
+                    115,
+                    584,
+                    151
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9908,
+                "bbox": [
+                    159,
+                    198,
+                    1522,
+                    2079
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>CLINICAL THERMOMETER and PROBEENCLOSURES shall be designed to allow forsurface cleaning and disinfection to reduce toacceptable levels the RISK of infection ofOPERATORS, bystanders, or the PATiENT</td><td rowspan=1 colspan=1>See“Caution”of theOperation Guide.</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Instructions for processing and REPROCESSINGthe CLINICAL THERMOMETER, PROBE andACC:ESSORIES shall comply with ISO17664:2004 and IS0 14937:2009 and shall bedisclosed in the instructions for use.</td><td rowspan=1 colspan=1>See“Caution”of theOperation Guide.</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Check compliance by inspection of the RISKMANAGEMENT FILE. When compliance with thisdocument could be affected by the cleaning or thedisinfecting of the CLINICAL TIlERMOMETER,PROBE or its parts or ACCESSORIES, clean anddisinfect them 100 times in accordance with themethods indicated in the instruction for use,including any cooling or drying period. After thesePROCEDURES, confirm that BASIC SAFETY andESSENTIAL PERFORMANCE are maintained.Confirm that the MANUFACTURER has evaluatedthe effects of multiple PROCESS cycles and theeffectiveness of those cycles.</td><td rowspan=1 colspan=1>See appended Table201.11.6.6</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.11.7</td><td rowspan=1 colspan=1>Biocompatibility of ME EQUIPMENT and ME</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/E</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>The ACCESSIBLE PARTS of a CUNICALTHERMOMETER, PROBE, its parts orACCESSORiES that contain phthalateswhich are classified as carcinogenic, mutagenic ortoxic to reproduction shall be marked as containingphthalates on the device itself or on the packaging.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>If the INTENDED USE of a CLINICALTHERMOMETER, PROBE, its parts orACCESSORES includes treatment of children ortreatment of pregnant or nursing women, a specificjustification for the use of these phthalates shalt beincluded in the RISK MANAGEMENT FILE. Theinstructions for use of a CUNICALTHERMOMETER, PROBE, its parts orACCESSORIES that contain such phthalates shallcontain information on RESIDUAL RISKS for thesePATiENT groups and, if applicable, on appropriateprecautionary measures.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/E</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    116,
+                    583,
+                    148
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 7,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8721,
+                "bbox": [
+                    147,
+                    115,
+                    584,
+                    151
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9904,
+                "bbox": [
+                    159,
+                    197,
+                    1523,
+                    2097
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Check compliance by inspection of the instructionsfor use and inspection of the information providedby the MANUFACTURER for identification of thepresence of substances which are carcinogenic,mutagenic or toxic to reproduction and justificationfor their use.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1>201.12</td><td rowspan=1 colspan=2>ACCURACY OF CONTROLS AND INSTRUMENTS AND PROTECTION AGAINSTHAZARDOUS OUTPUTS</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.12.1</td><td rowspan=1 colspan=2>Accuracy of controls and instruments</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.12.1.101</td><td rowspan=1 colspan=2>Additional requirements for accuracy of controls and instruments</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>If the CLINICAL THERMOMETER cannot indicate atemperature within the LABORATORY ACCURACY,it</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>— either it provides a TECHNICAL ALARMCONDITION</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>- or i does not provide an OUTPUTTEMPERATURE;</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Minimum RATED OUTPUT RANGE of theCLINICAL THERMOMETER is from<eq>3 4 ^ { \\circ } \\mathsf { C }</eq>to<eq>4 2 ^ { \\circ } \\mathsf { C } .</eq></td><td rowspan=1 colspan=1>32.0℃ to 42.9℃</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.12.2</td><td rowspan=1 colspan=2>USABILITY</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.12.2.101</td><td rowspan=1 colspan=2>Additional requirements for USABILITY</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>CLINICAL THERMOMETERS intended for homehealthcare use require the display of OUTPUTTEMPERATURE of at least 4mm or the value isoptically magnified to this height. This is indicated inUSABILITY ENGINEERING PROCESS.</td><td rowspan=1 colspan=1>10mm</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>CLINICAL THERMOMETERS with a segmentedindication display perform a functional test of allsegments after activation</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>201.13</td><td rowspan=1 colspan=2>HAZARDOUS SITUATIONS and fault conditions</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>IEC 60601-1 :2005+A 1 :2012, Clause 13 applies.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.14</td><td rowspan=1 colspan=2>201.14 PROGRAMMABLE ELECTRICAL MEDICAL SYSTEMS (PEMS)</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>IEC 60601-1:2005+A1:2012. Clause 14 applies.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.15</td><td rowspan=1 colspan=2>201.15 Construction of ME EQUIPMENT</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>IEC 6060 1-1 :2005+A 1:20 12, Clause 15 applies.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.16</td><td rowspan=1 colspan=2>ME SYSTEMS</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    116,
+                    583,
+                    148
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 8,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8304,
+                "bbox": [
+                    147,
+                    115,
+                    584,
+                    151
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9903,
+                "bbox": [
+                    159,
+                    197,
+                    1522,
+                    2106
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>IEC 60601-1 :2005+A1:2012, Clause 16 applies.</td><td rowspan=1 colspan=1>Not ME systems</td><td rowspan=1 colspan=1>NA</td></tr><tr><td rowspan=1 colspan=1>201.17</td><td rowspan=1 colspan=2>Electromagnetic compatibility of ME EQUIPMENT and ME SYSTEMS</td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>IEC 60601-1:2005, Clause 17 applies.</td><td rowspan=1 colspan=1>Not evaluate in this report</td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1>201.101</td><td rowspan=1 colspan=2>LABORATY PERFORMANCE REQUIREMENTS</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>201.101.1</td><td rowspan=1 colspan=2>General test requirements</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Laboratory performance is assessed in DIRECTMODE or in TEST MODE under the sameconditions</td><td rowspan=1 colspan=1>In test mode</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Alternatively correction method is used to deriveunadjusted temperatures from OUTPUTTEMPERATURE in accordance with theACCOMPANYING DOCUMENT</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>If the CLINICAL THERMOMETER is intended foruse with a PROBE COVER as indicated in theinstructions for use, a new PROBE COVER is usedfor each OUTPUT TEMPERATURE measurement</td><td rowspan=1 colspan=1>No PROBE COVER used</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>201.101.2</td><td rowspan=1 colspan=2>LABORATORY ACCURACY</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>The LABORATORY ACCURACY within the RATEDOUTPUT RANGE in NORMAL USE shall be within±0,3℃</td><td rowspan=1 colspan=1>0,3℃</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>The LABORATORY ACCURACY, within the RATEDEXTENDED OUTPUT RANGE in NORMAL USE,shall be within 0,4°C unless CLINICALTHERMOMETER indicates that the measuredtemperature is outside of the RATED OUTPUTRANGE.</td><td rowspan=1 colspan=1>0,3℃</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>If the PROBE is separable from the CLINICALTHERMOMETER, they may be tested separately</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Calculated equation for CLINICALTHERMOMETER …</td><td rowspan=1 colspan=1>See Appended Table201.101.2</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.101.3</td><td rowspan=1 colspan=2>Time response for a continuous CLINICAL THERMOMETER</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>The transient response for a DIRECT MODECLINICAL THERMOMETER that is not anADJUSTED MODE CLINICAL THERMOMETERshall be characterized and disclosed in theinstructions for use.</td><td rowspan=1 colspan=1>Not a DIRECT MODECLINICAL THERMOMETER</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Transient time lower than recommended minimummeasuring time indicated in ACCOMPANYINGDOCUMENT.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/A</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    116,
+                    583,
+                    148
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 9,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7222,
+                "bbox": [
+                    147,
+                    115,
+                    584,
+                    152
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9903,
+                "bbox": [
+                    158,
+                    197,
+                    1523,
+                    2107
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1>201.102</td><td rowspan=1 colspan=2>CLINICAL ACCURACY VALIDATION</td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1>201.102.1</td><td rowspan=1 colspan=2>Method</td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>ADJUSTED MODE CLINICAL THERMOMETERare VALIDATED for CLINICAL ACCURACY in eachADJUSTED MODE in accordance with ISO14155-1:2003 and ISO 14155-2:2003.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>The results of CLINICAL ACCURACY VALIDATIONis disclosed in the ACCOMPANYING DOCUMENT.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>If the CLINICAL THERMOMETER is intended foruse with a PROBE COVER as indicated in theinstructions for use, a new PROBE COVER is usedfor each OUTPUT TEMPERATURE measurement.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Requirements of clauses 201.102.2, 201.102.3,201.102.4 and 201.102.5 are fulfiled.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>CLINICAL ACCURACY validated.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1>201.102.2</td><td rowspan=1 colspan=1>Human subject population requirements</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Total number of febrile subjects not less than30 % and not greater than 50 % of all subjects inthe selected age group .</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>CLINICAL ACCURACY VALIDATION carried out onall age groups indicated in the instructions for use.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Number of subjects in each age group issufficiently large to minimize the effect of randomcomponents of measurement error (minimum ofall roups is 105; minimum in age group is 35;minimum 15 subjects in A1 or A2 if subgroup A isnot excluded ).</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>- age group A1 (0-3 months)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>— age group A2 (3-12 months)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>— age group B (&gt;1 and &lt;5 years)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>- age group C (&gt;5 years)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1>201.102.3</td><td rowspan=1 colspan=1>Calculated CLINICAL BIAS for the OPERATINGMODE being evaluated (∆cb)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1>201.102.4</td><td rowspan=1 colspan=1>Calculated LIMITS OF AGREEMENT (LA)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1>201.102.5</td><td rowspan=1 colspan=1>Calculated CLINICAL REPEATABILITY for particularOPERATING MODE (σr)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    116,
+                    583,
+                    148
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 10,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8099,
+                "bbox": [
+                    147,
+                    115,
+                    584,
+                    151
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9906,
+                "bbox": [
+                    159,
+                    197,
+                    1523,
+                    2035
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>An ADJUSTED MODE CLINICAL THERMOMETERthat makes continuous estimates of theREFERENCE BODY SITE temperature is exemptfrom the requirements of this subclause</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/E</td></tr><tr><td rowspan=1 colspan=1>201.103</td><td rowspan=1 colspan=2>PROBES, PROBE CABLE EXTENDERS AND PROBE COVERS</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.103.1</td><td rowspan=1 colspan=2>General</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>PROBES, PROBE CABLE EXTENDERS andPROBE COVERS comply with the requirements ofthis particular standard</td><td rowspan=1 colspan=1>No such parts used</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>MANUFACTURERS of PROBES, PROBE CABLEEXTENDERS and PROBE COVERS conduct teststo ensure that all CLINICAL THERMOMETERspecifications are met with each MODEL OR TYPEREFERENCE of CLINICAL THERMOMETER withwhich they are intended to be used</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>AIl CLINICAL THERMOMETERS with whichcompatibility to the PROBES, PROBE CABLEEXTENDERS and PROBE COVERS is claimed arelisted in the ACCOMPANYING UMENT</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>It is the responsibiity of the MANUFACTURER of aPROBE, PROBE CABLE EXTENDER and PROBECOVER, including a REPROCESSED PROBE,PROBE CABLE EXTENDER and PROBE COVER,to have their PROCESSES VALIDATED to ensurethat any new or REPROCESSED product complieswith the requirements of this particular standard</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>201.103.2</td><td rowspan=1 colspan=2>Labelling</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>At least one MODEL OR TYPE REFERENCE ofCLINICAL THERMOMETER is included in theACCOMPANYING DOCUMENT provided with eachPROBE, PROBE CABLE EXTENDER and PROBECOVER, compliant with 201.103.1</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>The following statements can be found in theACCOMPANYING DOCUMENT of each PROBE,PROBE CABLE EXTENDER and PROBE COVER:</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>a) Designed for use with specific thermometer ormonitoring equipment;</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    116,
+                    583,
+                    148
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 11,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8756,
+                "bbox": [
+                    147,
+                    115,
+                    584,
+                    152
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9907,
+                "bbox": [
+                    159,
+                    197,
+                    1523,
+                    1949
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>b) The OPERATOR is responsible for checking thecompatibility of the thermometer or monitoringequipment, PROBE, PROBE CABLE EXTENDERAND PROBE COVER before use; and</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>c) Incompatible components can result indeqraded performance.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>202</td><td rowspan=1 colspan=2>Electromagnetic disturbances - Requirements and tests</td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>IEC 60601-1-2:2014 applies except as follows:</td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1>202.4.3.1</td><td rowspan=1 colspan=1>Configurations</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Amendment (add after the last dash of 4.3.1):--if applicable, attachment of ACCESSORiES asnecessary to achieve the BASIC SAFETY andESSENTIAL PERFORMANCE of the CLINICALTHERMOMETER;</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1>202.5.2.2.1</td><td rowspan=1 colspan=1>Requirements applicable to all ME Equipment andME systems</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Amendment [add note to list element b]:INOTE: the requirements of this document are notconsidered deviations or allowances</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1>202.8.1.101</td><td rowspan=1 colspan=1>Additional general requirements</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>The following degradations, if assiciated with BASICSAFETY or ESSENTIAL PERFORMANCE, shall notbe allowed:</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>--component failures</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>--changes in programmable parameters or settings</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>--reset to default settings</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>--change of operating mode</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>--change in LABORATORY ACCURACY at anypoint in the RATED OUTPUT RANGE and in theRATED EXTENDED OUTPUT RANGE greater thanpermitted in 201.101.2 without the generation ofeither a TECHNICAL ALARM CONDITION or anindication of abnormal operation.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    116,
+                    583,
+                    148
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 12,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8819,
+                "bbox": [
+                    147,
+                    115,
+                    584,
+                    152
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9905,
+                "bbox": [
+                    159,
+                    198,
+                    1523,
+                    2133
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>The CLINICAL THERMOMETER may exhibittemporary degradation of performance (e.g.deviation from the performance indicated in theinstructions for use dUring IMMUNiTY testing),which does not require OPERATOR interventionand that does not affect BASIC SAFETY orESSENTIAL PERFORMANCE.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>In the event of disruption during IMMUNITY tests.the CLINICAL THERMOMETER shall recover fromany disruption within 30 s</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1>206</td><td rowspan=1 colspan=1>Usability</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>EC 60601-1-6:2010+A1:2013 applies except asfollows:For a CLINICAL THERMOMETER, the followingshall be considered PRIMARY OPERATINGFUNCTIONS;</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>a) observing the OUTPUT TEMPERATURE;</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>b) properly positioning CLINICAL THERMOMETERr PROBE at the MEASURING SITE;</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>c) starting the CLINICAL THERMOMETER frompower off;</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>|d) turning of the CLINICAL THERMOMETER;</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>e) performing a basic pre-use functional check of theCLINICALTHERMOMETER.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>The folloWing functions, if available, also shall beConsidered PRIMARY OPERATING FUNCTIONS:</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>f) performing a basic pre-use functional check of theALARM SIGNALS;</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>g) configuring the ACCESSORIES includingconnection of the detachable parts to the CLINICALTHERMOMETER;</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>h) REPROCESSING the ACCESSORIES;</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>[i) setting the OPERATOR-adjustable controls:</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>--switching between MEASURING SITES;--setting CLINICAL THERMOMETER controlparameters;--setting ALARM LIMITS;--inactivating ALARM SIGNALS</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>NE</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    116,
+                    583,
+                    148
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 13,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7793,
+                "bbox": [
+                    147,
+                    115,
+                    584,
+                    151
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9906,
+                "bbox": [
+                    159,
+                    195,
+                    1524,
+                    1749
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=1>208</td><td rowspan=1 colspan=1>General requirements, tests and guidance for alarmsystems in medical electrical equipment and medicalelectrical systems</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>|EC 60601-1-8:2006+A 1:2012 applies except asfollows:</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>208.6.1.2</td><td rowspan=1 colspan=1>Determination of ALARM CONDITIONS andassignment of priority</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Amendment (add prior to the compliancecheck):A CLINICAL THERMOMETER need not have aPHYSIOLOGICAL ALARM CONDITION.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>211</td><td rowspan=1 colspan=1>Requirements for medical electrical equipment andmedical electrical systems used in the homehealthcare environment</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>IEC 60601-1-11 : 2015 applies except as follows:</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>211.4.2.3.1</td><td rowspan=1 colspan=1>Continuous operating conditions</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Amendment (replace the first dash with):- a temperature range of at least +15 °C to +40 C;</td><td rowspan=1 colspan=1>See electrical safety reportETX202303-07-003-04</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>211.10.1.1</td><td rowspan=1 colspan=1>General requirements for mechanical strength</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>The tests of IEC 60601-1-11:2015, Clause 10 and IEC 60601-1 :2005+A1:2012, 15.3 shall be performedon the same sample of the CLINICALTHERMOMETER after the cleaning and disinfectionPROCEDURES of</td><td rowspan=1 colspan=1>See appended Table211.10.1.1</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>212</td><td rowspan=1 colspan=1>Requirements for medical electrical equipment andmedical electrical systems intended for use in theemergency medical services environment</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>|EC 60601-1-12:2014 applies except as follows:</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>212.10.1.1</td><td rowspan=1 colspan=1>General requirements for mechanical strength</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Amendment (add as the first paragraph):</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/A</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    116,
+                    583,
+                    148
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 14,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.7437,
+                "bbox": [
+                    147,
+                    116,
+                    584,
+                    151
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.99,
+                "bbox": [
+                    161,
+                    194,
+                    1521,
+                    769
+                ],
+                "index": 2,
+                "html": "<table><tr><td></td><td>The tests of IEC 60601-1-12:2014, Clause 10 and |EC 60601-1:2005+Al:2012, 15.3 shall be performed on the same sample of the CLINICAL THERMOMETER after the cleaning and disinfection PROCEOURES of 201.11.6.6 of this document have been performed unless there arc no cleaning and disinfection PROf.EDURES specified in the instructions for use. If more than one PROf.EDURE is specified in the Iinstructions for use, each PROCEDURE shall be so tested. A separate sample of the f.UNICAL THERMOMETER</td><td></td><td>N/A</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    116,
+                    583,
+                    151
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 15,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8925,
+                "bbox": [
+                    147,
+                    116,
+                    584,
+                    151
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.6143,
+                "bbox": [
+                    175,
+                    214,
+                    423,
+                    254
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9908,
+                "bbox": [
+                    160,
+                    260,
+                    1524,
+                    1999
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>201.101.2</td><td rowspan=1 colspan=6>TABLE: Laboratory accuracy</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=4>Rated output range (°C)</td><td rowspan=1 colspan=2>32.0C to 42.9℃</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=4>RATED EXTENDED OUTPUT RANGE (°C)</td><td rowspan=1 colspan=2>NA</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=4>Ambient conditions of CLINICAL THERMOMETER (°C1 %rH).</td><td rowspan=1 colspan=2>10°℃ to 40°℃,15%-95%</td><td rowspan=1 colspan=1>--</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=4>Total uncertainty of REFERENCE TEMPERATURESOURCE (C)</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>Combinationof ambient</td><td rowspan=1 colspan=1>TRTS (℃)</td><td rowspan=1 colspan=2>TTUT (C)</td><td rowspan=1 colspan=1>TRCT (C)</td><td rowspan=1 colspan=1>Equation (℃)</td></tr><tr><td rowspan=5 colspan=1>Midpoint ofRATEDOUTPUTRANGE</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>25℃,55%RH</td><td rowspan=1 colspan=1>37.0</td><td rowspan=1 colspan=2>36.8</td><td rowspan=1 colspan=1>36.90</td><td rowspan=1 colspan=1>-0.1</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>39.5℃,90%RH</td><td rowspan=1 colspan=1>37.0</td><td rowspan=1 colspan=2>37.2</td><td rowspan=1 colspan=1>37.11</td><td rowspan=1 colspan=1>0.1</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10.5℃,90%RH</td><td rowspan=1 colspan=1>37.0</td><td rowspan=1 colspan=2>37.0</td><td rowspan=1 colspan=1>36.96</td><td rowspan=1 colspan=1>0.0</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>39.5℃,20%RH</td><td rowspan=1 colspan=1>37.0</td><td rowspan=1 colspan=2>36.9</td><td rowspan=1 colspan=1>36.90</td><td rowspan=1 colspan=1>0.0</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>10.5℃,20%RH</td><td rowspan=1 colspan=1>37.0</td><td rowspan=1 colspan=2>36.9</td><td rowspan=1 colspan=1>36.90</td><td rowspan=1 colspan=1>0.0</td></tr><tr><td rowspan=2 colspan=1>Upper limit of</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>25℃,55%RH</td><td rowspan=1 colspan=1>42.0</td><td rowspan=1 colspan=2>41.8</td><td rowspan=1 colspan=1>41.88</td><td rowspan=1 colspan=1>-0.1</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>39.5℃,90%RH</td><td rowspan=1 colspan=1>42.0</td><td rowspan=1 colspan=2>42.0</td><td rowspan=1 colspan=1>42.04</td><td rowspan=1 colspan=1>-0.0</td></tr><tr><td rowspan=3 colspan=1>RATEDOUTPUTRANGE</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10.5℃C,90%RH</td><td rowspan=1 colspan=1>42.0</td><td rowspan=1 colspan=2>42.0</td><td rowspan=1 colspan=1>41.95</td><td rowspan=1 colspan=1>0.1</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>39.5℃,20%RH</td><td rowspan=1 colspan=1>42.0</td><td rowspan=1 colspan=2>41.8</td><td rowspan=1 colspan=1>41.86</td><td rowspan=1 colspan=1>-0.1</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>10.5℃,20%RH</td><td rowspan=1 colspan=1>42.0</td><td rowspan=1 colspan=2>41.8</td><td rowspan=1 colspan=1>41.95</td><td rowspan=1 colspan=1>-0.2</td></tr><tr><td rowspan=5 colspan=1>lower limit ofRATEDOUTPUTRANGE</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>25℃,55%RH</td><td rowspan=1 colspan=1>33.0</td><td rowspan=1 colspan=2>32.9</td><td rowspan=1 colspan=1>32.90</td><td rowspan=1 colspan=1>0.0</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>39.5℃,90%RH</td><td rowspan=1 colspan=1>33.0</td><td rowspan=1 colspan=2>32.9</td><td rowspan=1 colspan=1>34.82</td><td rowspan=1 colspan=1>0.1</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10.5℃,90%RH</td><td rowspan=1 colspan=1>33.0</td><td rowspan=1 colspan=2>32.9</td><td rowspan=1 colspan=1>32.88</td><td rowspan=1 colspan=1>0.0</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>39.5℃,20%RH</td><td rowspan=1 colspan=1>33.0</td><td rowspan=1 colspan=2>33.0</td><td rowspan=1 colspan=1>32.91</td><td rowspan=1 colspan=1>0.1</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>10.5℃,20%RH</td><td rowspan=1 colspan=1>33.0</td><td rowspan=1 colspan=2>32.9</td><td rowspan=1 colspan=1>32.89</td><td rowspan=1 colspan=1>0.0</td></tr><tr><td rowspan=5 colspan=1>Upper limit ofRATEDEXTENDEDOUTPUTRANGE</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>25℃,55%RH</td><td rowspan=1 colspan=1>NIA</td><td rowspan=1 colspan=2>NA</td><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>39.5℃,90%RH</td><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=2>N/A</td><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10.5℃,90%RH</td><td rowspan=1 colspan=1>NIA</td><td rowspan=1 colspan=2>N/A</td><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>39.5℃C,20%RH</td><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=2>N/A</td><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>10.5℃,20%RH</td><td rowspan=1 colspan=1>NA</td><td rowspan=1 colspan=2>N/A</td><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=5 colspan=1>lower limit ofRATEDEXTENDEDOUTPUTRANGE</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>25℃,55%RH</td><td rowspan=1 colspan=1>NA</td><td rowspan=1 colspan=2>NA</td><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>39.5℃,90%RH</td><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=2>N/A</td><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10.5℃,90%RH</td><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=2>N/A</td><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>39.5℃,20%RH</td><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=2>N/A</td><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=1>NA</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>10.5℃,20%RH</td><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=2>N/A</td><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=1>N/A</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    116,
+                    583,
+                    151
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    175,
+                    210,
+                    426,
+                    256
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 16,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9251,
+                "bbox": [
+                    148,
+                    115,
+                    583,
+                    151
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.8953,
+                "bbox": [
+                    161,
+                    195,
+                    1520,
+                    795
+                ],
+                "index": 2,
+                "html": "<table><tr><td>Supplementary information:</td></tr><tr><td></td></tr><tr><td>1) Combination of upper and lower limits of environmental temperature and humidity ranges:</td></tr><tr><td>1. Midpoint of humidity and ambient temperature</td></tr><tr><td>2. Upper limit of humidity + upper limit of ambient temperature</td></tr><tr><td>3. Upper limit of humidity + lower limit of ambient temperature</td></tr><tr><td>4. Lower limit of humidity + upper limit of ambient temperature</td></tr><tr><td>5. Lower limit of humidity + lower limit of ambient temperature</td></tr><tr><td>TRTS – Measured temperature of REFERENCE TEMPERATURE SOURCE</td></tr><tr><td>TTUT – Measured temperature of CLINICAL THERMOMETER under test</td></tr><tr><td>TRCT – Measured temperature of REFERENCE CLINICAL THERMOMETER</td></tr><tr><td>Note: reference temperature source and reference clinical thermometer are same one thermometer</td></tr></table>"
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9892,
+                "bbox": [
+                    160,
+                    880,
+                    1521,
+                    1678
+                ],
+                "index": 3,
+                "html": "<table><tr><td rowspan=1 colspan=1>201.11.6.6</td><td rowspan=1 colspan=2>RM RESULTS TABLE:Cleaning and disinfection of ME EQUIPMENT and ME SYSTEM</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>Clause ofISO 14971</td><td rowspan=1 colspan=1>Document Ref. in RMF (DocumentNo. &amp; paragraph)</td><td rowspan=1 colspan=1>Result - Remarks</td><td rowspan=1 colspan=1>Verdict</td></tr><tr><td rowspan=1 colspan=1>4.2</td><td rowspan=1 colspan=1>Risk Management Report ( fileNo.: PT9C-FXGB01 V1.0)</td><td rowspan=1 colspan=1>Intended use and identification ofcharacteristics related to cleaning analyzedand recorded</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>4.3</td><td rowspan=1 colspan=1>Risk Management Report ( fileNo.: PT9C-FXGB01 V1.0 )</td><td rowspan=1 colspan=1>Hazard analysis recorded</td><td rowspan=1 colspan=1>△</td></tr><tr><td rowspan=1 colspan=1>4.4</td><td rowspan=1 colspan=1>Risk Management Report (fileNo.: PT9C-FXGB01 V1.0)</td><td rowspan=1 colspan=1>Risk estimation recorded</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>Risk Management Report (fileNo.: PT9C-FXGB01 V1.0)</td><td rowspan=1 colspan=1>Risk evaluation recorded</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>6.4</td><td rowspan=1 colspan=1>Risk Management Report (fileNo.: PT9C-FXGB01 V1.0)</td><td rowspan=1 colspan=1>Residual risk evaluated.</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=4>Supplementary information:</td></tr></table>"
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9894,
+                "bbox": [
+                    159,
+                    1721,
+                    1517,
+                    2114
+                ],
+                "index": 4,
+                "html": "<table><tr><td rowspan=1 colspan=1>201.11.6.6</td><td rowspan=1 colspan=2>TABLE:Cleaning and disinfection of ME EQUIPMENT and ME SYSTEM</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>ClauseNo.</td><td rowspan=1 colspan=1>Characteristics of the Marking Label tested:</td><td rowspan=1 colspan=1>Results observed</td><td rowspan=1 colspan=1>Remarks(Yes/No)</td></tr><tr><td rowspan=1 colspan=1>201.12.1.101</td><td rowspan=1 colspan=1>When the CLINICAL THERMOMETER is not capableof indicating a temperature within the LABORATORVACCURACV, it shall provide a TECHNICAL ALARM</td><td rowspan=1 colspan=1>The CLINICALTHERMOMETER show“LOW POWERREMINDER&quot;symbol when low</td><td rowspan=1 colspan=1>Y</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    116,
+                    583,
+                    148
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 17,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.623,
+                "bbox": [
+                    147,
+                    116,
+                    584,
+                    151
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9908,
+                "bbox": [
+                    159,
+                    196,
+                    1517,
+                    1252
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>CONDITION or it shall not provide anOUTPUTTEMPERATURE</td><td rowspan=1 colspan=1>voltage of the internalelectrical power source</td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>The CLINICALTHERMOMETER show “- --F&quot;or“--C&quot;Whenoutput temperature outside therated extended output range</td></tr><tr><td rowspan=1 colspan=1>211.10.1.1</td><td rowspan=1 colspan=2>TABLE:General requirements for mechanical strength</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>ClauseNo.</td><td rowspan=1 colspan=1>Characteristics of the Marking Label tested:</td><td rowspan=1 colspan=1>Results observed</td><td rowspan=1 colspan=1>Remarks(Yes/No)</td></tr><tr><td rowspan=2 colspan=1>201.12.1.101</td><td rowspan=2 colspan=1>When the CLINICAL THERMOMETER is not capableof indicating a temperature within the LABORATORVACCURACV, it shallprovide a TECHNICAL ALARMCONDITION or it shall not provide anOUTPUTTEMPERATURE</td><td rowspan=1 colspan=1>The CLINICALTHERMOMETER show“LOW POWERREMINDER&quot;symbol when lowvoltage of the internalelectrical power source</td><td rowspan=2 colspan=1>Y</td></tr><tr><td rowspan=1 colspan=1>The CLINICALTHERMOMETER show“- --F &quot;or“- --C&quot;Whenoutput temperature outside therated extended output range</td></tr></table>"
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    116,
+                    583,
+                    151
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 18,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.879,
+                "bbox": [
+                    147,
+                    116,
+                    584,
+                    150
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.6356,
+                "bbox": [
+                    565,
+                    203,
+                    1070,
+                    240
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8533,
+                "bbox": [
+                    333,
+                    297,
+                    1334,
+                    1052
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.8228,
+                "bbox": [
+                    333,
+                    1079,
+                    1334,
+                    1832
+                ],
+                "index": 4
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    116,
+                    583,
+                    151
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    568,
+                    204,
+                    1069,
+                    239
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 19,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.6731,
+                "bbox": [
+                    147,
+                    116,
+                    584,
+                    151
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.7794,
+                "bbox": [
+                    134,
+                    198,
+                    1518,
+                    896
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 7,
+                "label": "figure_title",
+                "score": 0.729,
+                "bbox": [
+                    664,
+                    953,
+                    965,
+                    987
+                ],
+                "index": 3
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    150,
+                    116,
+                    583,
+                    151
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    665,
+                    949,
+                    965,
+                    990
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 20,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]

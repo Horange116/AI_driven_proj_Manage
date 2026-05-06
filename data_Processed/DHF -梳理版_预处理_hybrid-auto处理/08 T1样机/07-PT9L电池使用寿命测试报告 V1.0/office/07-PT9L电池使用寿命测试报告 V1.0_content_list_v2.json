@@ -1,0 +1,335 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PT9L电池使用寿命测试报告 V1.0",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "测试日期："
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "测试环境：温度22℃；湿度55%"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "实验目的：测试新电池在PT9L上的测量次数"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "测试对象： PT9L整机一台"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "测试使用电池：两节七号干电池（3V/1000mAh）；"
+                    }
+                ]
+            },
+            "anchor": "OLE_LINK1"
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "样机阶段：T1样机."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "实验方法："
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "动态功耗："
+                    }
+                ]
+            }
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "ordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "1.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "被测试PT9L使用两节七号干电池供电，串入万用表电流档，记录万用表实际测量值；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "2.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "模拟一次用户测量过程，从按键唤醒到自动进入待机，重复几轮，取平均值。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "静态功耗："
+                    }
+                ]
+            }
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "ordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "1.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "被测试PT9L使用两节七号干电池供电，串入万用表电流档，记录万用表实际测量值。"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "2.",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "模拟一次用户测量过程，从按键唤醒到自动进入待机后，开始测量，重复几轮，取平均值。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "实验数据："
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td></td><td><p>编号</p></td><td><p>测量值</p></td><td><p>平均值</p></td></tr><tr><td rowspan=\"3\"><p>动态功耗</p></td><td><p>1</p></td><td><p>12.1mA</p></td><td rowspan=\"3\"><p>12.7mA</p></td></tr><tr><td><p>2</p></td><td><p>12.8mA</p></td></tr><tr><td><p>3</p></td><td><p>13.2mA</p></td></tr><tr><td rowspan=\"3\"><p>静态功耗</p></td><td><p>1</p></td><td><p>8.4uA</p></td><td rowspan=\"3\"><p>8.1uA</p></td></tr><tr><td><p>2</p></td><td><p>8.2uA</p></td></tr><tr><td><p>3</p></td><td><p>7.8uA</p></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "连续工作时间：1000mAh*0.6/12.7mA=47.24h。满足设计输入的要求。"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "待机时间：1000mAh*1000*0.6/8.1uA/24/30=102.88月。满足设计输入要求。"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "实验结论："
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "此测试方法是模拟人体测试，通过测试不同状态的功耗推算出连续工作时间和待机时间，满足设计输入的要求。"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "编    制"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(硬件工程师)",
+                        "style": [
+                            "italic"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "："
+                    },
+                    {
+                        "type": "text",
+                        "content": "                  年   月   日",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "审    核"
+                    },
+                    {
+                        "type": "text",
+                        "content": "(硬件主管)",
+                        "style": [
+                            "italic"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "："
+                    },
+                    {
+                        "type": "text",
+                        "content": "                     年   月   日",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号："
+                    },
+                    {
+                        "type": "text",
+                        "content": "PT9L-BLTR01 V1.0                                    ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "PT9L电池使用寿命测试报告"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "第 1页 共1 页"
+                    }
+                ]
+            }
+        }
+    ]
+]

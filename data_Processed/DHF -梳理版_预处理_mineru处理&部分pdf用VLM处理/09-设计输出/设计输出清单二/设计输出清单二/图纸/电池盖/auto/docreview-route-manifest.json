@@ -1,0 +1,46 @@
+{
+  "format": "docreview-pdf-intake-flow-v1",
+  "generated_at": "2026-05-01T05:09:17.757905+00:00",
+  "source": "C:\\Users\\Administrator\\Documents\\New project\\DHF -梳理版\\09-设计输出\\设计输出清单二\\设计输出清单二\\图纸\\电池盖.pdf",
+  "source_sha256": "f77c1df3a56f94c12a3c62063fdcd4db6f74064bc9f4b9adeafcedc0e13c0cf6",
+  "run_root": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\电池盖-20260501T130742",
+  "probe_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\电池盖-20260501T130742\\probe.json",
+  "classification_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\电池盖-20260501T130742\\classification.json",
+  "classification_ms": 0,
+  "classification": {
+    "pdf_type": "drawing",
+    "route": "vlm",
+    "template": "drawing",
+    "reason": "Probe router detected many vector drawings/rectangles; visual layout is material.",
+    "must_preserve": [
+      "drawings",
+      "title blocks",
+      "layout objects"
+    ],
+    "risk": [
+      "probe cannot name the drawing type without visual supplement"
+    ],
+    "confidence": "medium",
+    "classifier": "probe",
+    "needs_vlm_supplement": true
+  },
+  "route_result": {
+    "route": "vlm",
+    "page_count": 1,
+    "processed_pages": 1,
+    "page_results": [
+      {
+        "page": 1,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\电池盖-20260501T130742\\pages\\page-001.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\电池盖-20260501T130742\\page-001-vlm.md",
+        "elapsed_ms": 95012,
+        "chars": 5472,
+        "required_sections_present": true
+      }
+    ],
+    "combined_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\电池盖-20260501T130742\\combined-visual-transcript.md",
+    "all_required_sections_present": true,
+    "elapsed_ms": 95145
+  },
+  "elapsed_ms": 95381
+}

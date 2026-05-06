@@ -1,0 +1,119 @@
+[
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.033,
+                0.084,
+                0.044,
+                0.776
+            ],
+            "angle": 0,
+            "content": "1\n2\n3\n4\n5\n6\n7\n8"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.087,
+                0.046,
+                0.913,
+                0.06
+            ],
+            "angle": 0,
+            "content": "A | B | C | D | E | F | G | H"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.908,
+                0.07,
+                0.955,
+                0.087
+            ],
+            "angle": 0,
+            "content": "尺寸序号"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.073,
+                0.085,
+                0.212,
+                0.162
+            ],
+            "angle": 0,
+            "content": "andon"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.084,
+                0.197,
+                0.372,
+                0.452
+            ],
+            "angle": 0,
+            "content": "40mm\n15mm\n(10)201012011001\n比例：1:1\n说明：\n字体：Myriad Pro 6pt\n(10) 批号：201012011001为变量\n（批号依据柯顿规则执行）\n第1-6位：制造令代码\n第7-9位：部件序号\n第10-12位：批次序列号",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "chart",
+            "bbox": [
+                0.408,
+                0.382,
+                0.914,
+                0.706
+            ],
+            "angle": 0,
+            "content": "| Size (mm) | Label         |\n| --------- | ------------- |\n| 40        | 40mm          |\n| 15        | (10)201012011001 |",
+            "sub_type": "bar"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.067,
+                0.709,
+                0.233,
+                0.736
+            ],
+            "angle": 0,
+            "content": "本件要求通过RoHS测试",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.069,
+                0.746,
+                0.253,
+                0.77
+            ],
+            "angle": 0,
+            "content": "说明：80g不干胶铜版纸 覆膜",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.068,
+                0.787,
+                0.18,
+                0.814
+            ],
+            "angle": 0,
+            "content": "印刷颜色: 单黑",
+            "merge_prev": false
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.032,
+                0.848,
+                0.967,
+                0.964
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>3</td><td></td><td></td><td>K04080002148</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT1</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td>±0.3</td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">条码标签</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT1-F07</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td><img src=\"data:image/jpeg;base64,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\"/></td><td>Edition</td><td>V1.0</td></tr></table>"
+        }
+    ]
+]

@@ -1,0 +1,1096 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Risk Management Plan",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "(V1.0)",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Product Model:"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " PT9L",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Project Number: "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "30000078",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Product  name: "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "   Infrared Forehead Thermometer\t",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Drafted by",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "(Regulation Engineer)",
+                                    "style": [
+                                        "italic"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "               ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "\tDate:"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "                ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Reviewed by",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "(Certification Engineer)",
+                                    "style": [
+                                        "italic"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "               ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "Date:"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "                ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Approved by",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "(Product Line Manager‌)",
+                                    "style": [
+                                        "italic"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "                 ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "Date:"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "                ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "DN：PT9L-FXJH01 V1.0                                      Risk Management Plan"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p><strong>No.</strong></p></td><td><p><strong>Version Date </strong></p></td><td><p><strong>Version Description</strong></p></td><td><p><strong>Version</strong></p></td><td><p><strong>Drafter</strong></p></td><td><p><strong>Approver</strong></p></td></tr><tr><td><p>1</p></td><td><p>2024.1.11</p></td><td><p>Originated</p></td><td><p>V1.0</p></td><td><p>Wang Dilong</p></td><td><p>Hou Guangwei</p></td></tr><tr><td><p><a></a></p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Version History",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "DN：PT9L-FXJH01 V1.0                                      Risk Management Plan"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Contents",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "index",
+                    "ilevel": 0,
+                    "blocks": [
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "1. Arrangement of Risk Management Activities\t2"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "anchor": "_Toc1029"
+                        },
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "2. Risk Management Group\t4"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "anchor": "_Toc12905"
+                        },
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "3. Risk Acceptance Criteria\t5"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "anchor": "_Toc29305"
+                        },
+                        {
+                            "type": "index",
+                            "ilevel": 1,
+                            "blocks": [
+                                {
+                                    "type": "text",
+                                    "lines": [
+                                        {
+                                            "spans": [
+                                                {
+                                                    "type": "text",
+                                                    "content": "3.1 Severity of A Hazard\t5"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "anchor": "_Toc25220"
+                                },
+                                {
+                                    "type": "text",
+                                    "lines": [
+                                        {
+                                            "spans": [
+                                                {
+                                                    "type": "text",
+                                                    "content": "3.2 Probability of A Hazard\t5"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "anchor": "_Toc3036"
+                                },
+                                {
+                                    "type": "text",
+                                    "lines": [
+                                        {
+                                            "spans": [
+                                                {
+                                                    "type": "text",
+                                                    "content": "3.3 Risk Acceptance Criteria\t5"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "anchor": "_Toc17625"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "4. Residual Risk Acceptance Criteria\t6"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "anchor": "_Toc22151"
+                        },
+                        {
+                            "type": "index",
+                            "ilevel": 1,
+                            "blocks": [
+                                {
+                                    "type": "text",
+                                    "lines": [
+                                        {
+                                            "spans": [
+                                                {
+                                                    "type": "text",
+                                                    "content": "4.1 For Single Residual Risk\t6"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "anchor": "_Toc6267"
+                                },
+                                {
+                                    "type": "text",
+                                    "lines": [
+                                        {
+                                            "spans": [
+                                                {
+                                                    "type": "text",
+                                                    "content": "4.2 For Overall Residual Risk\t6"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "anchor": "_Toc9946"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "5. Risk Control Measures Verification Criteria\t7"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "anchor": "_Toc4989"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "DN：PT9L-FXJH01 V1.0                                      Risk Management Plan"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Arrangement of Risk Management Activities",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "anchor": "_Toc1029",
+                    "is_numbered_style": true,
+                    "level": 1,
+                    "section_number": "1."
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "The risk management process will be conducted in accordance with standard ISO 14971:2019, EN ISO 14971:2019 and EN ISO 14971:2019/A11:2021. The risk management plan for the whole life-cycle of the medical device as shown in the table below:"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p><strong>Phase</strong></p></td><td><p><strong>Main Job Descriptions</strong></p></td><td><p><strong>Responsibilities and Authorities</strong></p></td><td><p><strong>Requirements on Risk Management Activity  Review</strong></p></td><td><p><strong>Output Document</strong></p></td></tr><tr><td><p><strong>Initial development </strong></p></td><td><ol><li>Document intended use and reasonably foreseeable misuse of the medical device</li><li>Identify characteristics related to safety; </li><li>Identify hazards and hazardous situations;</li><li>Estimate the risk(s) of each hazardous situation; </li><li>Risk evaluation.</li><li>Draft the risk control measures plan.</li></ol></td><td><ol><li>Project manager shall organize the implement of activities in this phase;</li><li>Members of risk management shall be in charge of the job content review.</li></ol></td><td><p>Project manager shall daft the “risk assessment report ” and organize the review of “risk assessment report”. </p></td><td><ol><li>Report of risk assessment  </li></ol></td></tr><tr><td><p><strong>Prototype phase</strong></p><p><strong>(Design verification)</strong></p></td><td><ol><li>Verify the implementation and effectiveness of risk control measures plan; </li><li>Assess the residual risk. </li><li>Make benefit-risk analysis</li><li>Evaluate whether there is any risks arising from risk control measures</li><li>Review completeness of risk control</li></ol></td><td><ol><li>Project manager shall organize the implement of activities in this phase;</li><li>Members of risk management shall be in charge of job content review. </li></ol></td><td><p>Project manager shall draft “report of risk control measures verification and residual risk assessment”, and organize review of the report;</p><p>Members of risk management shall review the risk management activities in the former phase.</p></td><td><ol><li>Report of verification of risk control measure and residual risk evaluation</li></ol></td></tr><tr><td><p><strong>Design validation </strong></p></td><td><ol><li>Overall residual risk evaluation</li><li>Form the risk management report.</li></ol></td><td><ol><li>Project manager shall organize the implement of activities in this phase; </li><li>Members of risk management shall be in charge of job content review </li></ol></td><td><p>Members of risk management shall review the risk management activities in former phase.</p></td><td><ol><li>Report  of risk management </li></ol></td></tr><tr><td><p><strong>Design change</strong></p></td><td><ol><li>Identify hazards and hazardous situations related to design change.</li><li>Evaluate risk(s) in hazardous situation which result from design change. </li><li>Assess risk(s) in design change. </li><li>Draft the plan of risk control measures for design change. </li><li>Verify the implement of plan on risk control measures after design change. </li><li>Assess residual risk, benefit-risk analysis and any new risks after design change. </li><li>Overall residual risk evaluation after design change</li></ol></td><td><ol><li>Project manager shall organize the implement of activities in this phase. </li><li>Members of risk management shall be in charge of job content review </li></ol></td><td><p>Project manager shall draft “report of risk management in design change”, and organize the review of this report.</p></td><td><ol><li>Record of risk evaluation (when there is no new risk)</li><li>Report of verification of risk control measure and residual risk evaluation in design change</li><li>Report of Risk Management in design change</li></ol></td></tr><tr><td><p><strong>Production and post-</strong></p><p><strong>production activities</strong></p></td><td><ol><li>Collect information concerning production and post-production; </li><li>Members of risk management assess if there are hazards or hazardous situation that not be identified before, and if the risk(s) result from hazardous situation become not acceptable; whether the overall residual risk is still acceptable （the criterion see section 4.2）in relation to the benefits of the intended use; and whether the generally acknowledged state of the art has changed</li><li>Members of risk management analyze and assess the risk(s) and make risk control plan and actions to the medical devices if necessary;</li><li>Track the implement of risk control measures. </li></ol></td><td><p>Refer to section 4.11.1 for “Collection of production and post-production activities” in Risk Management Control Regulation (QI-7.3-22)</p></td><td><p>Related person and department shall organize members of risk management to start managing the risk after receiving information. </p></td><td><p>Report of Post-market Risk Management </p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Risk Management Group",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3,
+                    "anchor": "_Toc12905",
+                    "is_numbered_style": true,
+                    "level": 1,
+                    "section_number": "2."
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "The specific personnel may vary from different projects, but the risk assessment team generally includes the following members:"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p><strong>Member</strong></p></td><td><p><strong>Specialty</strong></p></td></tr><tr><td><p>Chief engineer</p></td><td><p>Mechano-electronic related specialities, more than three years work experience. </p></td></tr><tr><td><p>Product manager</p></td><td><p>Mechano-electronic related specialities, more than three years design experience. </p></td></tr><tr><td><p>Project manager</p></td><td><p>Mechano-electronic related specialities, more than one year design experience. </p></td></tr><tr><td><p>Hardware design <a></a>director</p></td><td><p>Mechano-electronic related specialities, more than one year design experience. </p></td></tr><tr><td><p>Software design <a></a>director</p></td><td><p>Mechano-electronic related specialities, more than one year design experience. </p></td></tr><tr><td><p>Mechanical design director</p></td><td><p>Mechano-electronic related specialities, more than one year design experience. </p></td></tr><tr><td><p><a></a>Hardware design personnel</p></td><td><p>Mechano-electronic related specialities, more than one year design experience </p></td></tr><tr><td><p><a></a>Software design personnel</p></td><td><p><a></a>Mechano-electronic related specialities, more than one year design experience. </p></td></tr><tr><td><p><a></a>Mechanical design personnel</p></td><td><p>Mechano-electronic related specialities, more than one year design experience. </p></td></tr><tr><td><p>Process design personnel</p></td><td><p>Electrics or mechanics or other related engineering specialities, more than one year design experience. </p></td></tr><tr><td><p>Quality management personnel  </p></td><td><p>Electrics or mechanics or other related engineering specialities, more than one year design experience.</p></td></tr><tr><td><p>Sales personnel </p></td><td><p>No special requirement. Familiar with handling of customer complaints process</p></td></tr><tr><td><p>Certification personnel </p></td><td><p>Biomedicine or mechano-electronic or other related specialities, more than two years work experience. </p></td></tr><tr><td><p>Personnel with medical background </p></td><td><p>Biology or clinical medicine or other medical related spcialities, more than three years clinical experience. </p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Risk Acceptance Criteria",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "anchor": "_Toc29305",
+                    "is_numbered_style": true,
+                    "level": 1,
+                    "section_number": "3."
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "3.1 Severity of A Hazard",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "anchor": "_Toc25220",
+                    "is_numbered_style": false,
+                    "level": 2
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"3\"><p><strong>Severity Classification</strong></p></td></tr><tr><td><p><strong>Common terms</strong></p></td><td><p><strong>Class S</strong></p></td><td><p><strong>Possible description</strong></p></td></tr><tr><td><p>Catastrophic</p></td><td><p>5</p></td><td><p>Result in patient death</p></td></tr><tr><td><p>Critical</p></td><td><p>4</p></td><td><p>Result in permanent impairment or life-threatening injury</p></td></tr><tr><td><p>Serious</p></td><td><p>3</p></td><td><p>Result in injury or impairment requiring  professional medical intervention</p></td></tr><tr><td><p>Minor</p></td><td><p>2</p></td><td><p>Result in temporary injury or impairment not requiring professional medical intervention</p></td></tr><tr><td><p>Negligible</p></td><td><p>1</p></td><td><p>Inconvenience or temporary discomfort</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "3.2 Probability of A Hazard",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "anchor": "_Toc3036",
+                    "is_numbered_style": false,
+                    "level": 2
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"3\"><p><strong>Semiquantitative</strong> <strong>Probability Classification</strong></p></td></tr><tr><td><p><strong>Common terms</strong></p></td><td><p><strong>Class P</strong></p></td><td><p><strong>Probability range</strong></p></td></tr><tr><td><p>Frequent</p></td><td><p>6</p></td><td><p>≥10<sup>-3</sup></p></td></tr><tr><td><p>Probable</p></td><td><p>5</p></td><td><p>&lt;10<sup>-3 </sup>≥10<sup>-4</sup></p></td></tr><tr><td><p>Occasional</p></td><td><p>4</p></td><td><p>&lt;10<sup>-4 </sup>≥10<sup>-5</sup></p></td></tr><tr><td><p>Remote</p></td><td><p>3</p></td><td><p>&lt;10<sup>-5 </sup>≥10<sup>-6</sup></p></td></tr><tr><td><p>Improbable</p></td><td><p>2</p></td><td><p>&lt;10<sup>-6</sup>≥10<sup>-8</sup></p></td></tr><tr><td><p>Few</p></td><td><p>1</p></td><td><p>&lt;10<sup>-8</sup></p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "3.3 Risk Acceptance Criteria ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "anchor": "_Toc17625",
+                    "is_numbered_style": false,
+                    "level": 2
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td></td><td><p>1 Negligible  </p></td><td><p>2 Minor       </p></td><td><p>3 Serious    </p></td><td><p>4 Critical    </p></td><td><p>5 Catastrophic</p></td></tr><tr><td><p>6 Frequent</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>5 Probable</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>4 Occasional</p></td><td></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>3 Remote</p></td><td></td><td></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>2 Improbable</p></td><td></td><td></td><td></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>1 Few</p></td><td></td><td></td><td></td><td><p> </p></td><td><p> </p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "image",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "image",
+                                            "image_path": "b28809f559e6724ace39e470ed1826a6efbcb8343a70f434f3afacf2baab8b40.png"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "image",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "image",
+                                            "image_path": "282640f2306dede8d6919b4313a46fd3cb7a32087fe26e51e76cd2acc0b18dcc.png"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Not acceptable: Unacceptable risk. Risk control measures are required."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Acceptable: Insignificant/negligible risk. No risk control measures are required."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "The manufacturer shall reduce the risk as far as possible,so we use one or more of the following risk control options in the priority order listed:"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "(a) eliminate or reduce risks as far as possible through safe design and manufacture;"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "(b) where appropriate, take adequate protection measures, including alarms if necessary, in relation to risks that cannot be eliminated; and"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "(c) provide information for safety (warnings/precautions/contra-indications) and, where appropriate, training to users."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 20
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Residual Risk Acceptance Criteria",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 21,
+                    "anchor": "_Toc22151",
+                    "is_numbered_style": true,
+                    "level": 1,
+                    "section_number": "4."
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "4.1 For Single Residual Risk",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 22,
+                    "anchor": "_Toc6267",
+                    "is_numbered_style": false,
+                    "level": 2
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "When a risk falls in the “Not acceptable” area, the risk control measures must be taken. After taking measures, the risk became a residual risk, and if this residual risk still falls in the “Not acceptable” area by the Criteria in “3.3 Risk Acceptance Criteria”, the risk-benefit analysis must be taken. And this residual risk will be acceptable when there are reasonable reasons to support the benefits outweigh the risks."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "4.2 For Overall Residual Risk",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 24,
+                    "anchor": "_Toc9946",
+                    "is_numbered_style": false,
+                    "level": 2
+                },
+                {
+                    "type": "list",
+                    "attribute": "ordered",
+                    "ilevel": 0,
+                    "blocks": [
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "The benefits related to the intended use of the medical device are weighed against the overall residual risk. Benefits can be described by their magnitude or extent, the probability of experiencing the benefit within the intended patient populations, and the duration and frequency of the benefit. The evaluation may take into account knowledge of the intended medical indication, the generally acknowledged state of the art in technology and medicine, and the availability of alternative medical devices or treatments."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "Visual representations of the residual risks can be useful. Each individual residual risk can be shown in a risk matrix as shown in section 3.3. If more than 1/2 of the risks are in the higher severity regions or in the higher probability regions of the risk matrix, or clusters of risks are borderline, then the distribution of the risks can indicate that the overall residual risk might not be acceptable, even if each individual risk has been judged acceptable."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "Overall risk-benefit analysis:when the benefits outweigh the overall residual risks,the overall residual risks are acceptable."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "If the overall residual risks are acceptable after evaluation, then the significant residual risks shall be notified to the users and involve the information in the accompanying documents."
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 25
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "If the overall residual risks are not acceptable after evaluation, then additional risk control measures shall be taken, or the modification to the medical devices may be required."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 26
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Risk Control Measures Verification Criteria",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 27,
+                    "anchor": "_Toc4989",
+                    "is_numbered_style": true,
+                    "level": 1,
+                    "section_number": "5."
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "We verify the risk control measures of the initial risks and the residual risks in accordance with the document Verification in "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "Design and Development Control Procedure",
+                                    "style": [
+                                        "italic"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 28
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "DN：PT9L-FXJH01 V1.0                                      Risk Management Plan"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 29
+                }
+            ],
+            "page_idx": 3
+        }
+    ],
+    "_backend": "office",
+    "_version_name": "3.1.6"
+}

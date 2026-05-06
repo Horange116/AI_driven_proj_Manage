@@ -1,0 +1,120 @@
+[
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.014,
+                0.062,
+                0.026,
+                0.78
+            ],
+            "angle": 0,
+            "content": "1\n2\n3\n4\n5\n6\n7\n8"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.072,
+                0.023,
+                0.93,
+                0.038
+            ],
+            "angle": 0,
+            "content": "A | B | C | D | E | F | G | H"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.042,
+                0.048,
+                0.117,
+                0.092
+            ],
+            "angle": 0,
+            "content": "andon"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.903,
+                0.049,
+                0.969,
+                0.07
+            ],
+            "angle": 0,
+            "content": "X 尺寸序号",
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.376,
+                0.141,
+                0.746,
+                0.755
+            ],
+            "angle": 0,
+            "content": "iHealth\nINCLUDES\niHealth® PT9L\nInfrared No-Touch Forehead Thermometer\n159mm\n36mm\n58.5mm\niHealth\n3-in-1 Measurement Mode\nDynamic Measurement Mode\nColor Coded Fever Alert\n40 Temperature Memories\nPT9L-CBZP01 V2.0\niHealth PT9L\nInfrared No-Touch Forehead Thermometer\nModel: PT9L\nMeasurement Distance: ±1.18in(3cm)\nReference Body Site: Oral\nPower Source: DC 2 x 1.5V== SIZE AAA batteries\nMeasurement Range: 89.6°F-109.2°F (32°C-42.9°C)\nMeasurement Precision: ±0.4°F/0.2°C within 95°F-107.6°F\n(35°C-42°C), and ±0.5°F/0.3°C for other temperature ranges.\nResolution: 0.1°F/0.1°C\nClinical Reproducibility: Within ±0.5°F/0.3°C\nOperating Conditions: Temperature: 50°F-104°F(10°C-40°C)\nHumidity: 15-95%RH, non-condensing\nAtmospheric Pressure: 70kPa-106kPa\nTransportation and Storage Conditions:\nTemperature: -4°F-131°F (-20°C-55°C);\nHumidity: 15-95%RH, non-condensing;\nAtmospheric Pressure: 70kPa-106kPa\nManufactured for:\nUSA:\niHealth Labs, Inc. www.ihealthlabs.com\n880 W Maude Ave, Sunnyvale, CA 94085 USA +1-855-816-7705\nEurope:\niHealthLabs Europe SAS www.ihealthlabs.eu\n36 Rue de Ponthieu, 75008, Paris, France\nEC REP iHealthLabs Europe SAS www.ihealthlabs.eu\n36 Rue de Ponthieu, 75008, Paris, France\nANDON HEALTH CO., LTD.\nNo. 3 Jumping Street, Yuan Road, Nankai District,\nTianjin 300190, China.\niHealth is a trademark of iHealth Labs, Inc., registered in the U.S.\nand other countries.\n©2024 iHealth Labs, Inc.\nAll rights reserved.\nMade in China",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.053,
+                0.674,
+                0.232,
+                0.703
+            ],
+            "angle": 0,
+            "content": "本件要求通过RoHS测试",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.053,
+                0.713,
+                0.271,
+                0.742
+            ],
+            "angle": 0,
+            "content": "说明：材质为：350g白卡，覆哑膜",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.053,
+                0.752,
+                0.301,
+                0.776
+            ],
+            "angle": 0,
+            "content": "尺寸：58.5X36X159mm，公差：±1mm",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.054,
+                0.788,
+                0.457,
+                0.815
+            ],
+            "angle": 0,
+            "content": "印刷颜色：4色+2专色印刷:PANTONE 1655C +PANTONE Cool Gray 11C",
+            "merge_prev": false
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.015,
+                0.854,
+                0.986,
+                0.976
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>3</td><td></td><td></td><td>K04020002139</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">彩包装</td></tr><tr><td>1</td><td>更改版本号</td><td>2024.09.24</td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-CBZP01 V2.0</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V2.0</td></tr></table>"
+        }
+    ]
+]

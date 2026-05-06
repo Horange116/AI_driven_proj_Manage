@@ -1,0 +1,16 @@
+[
+    [
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">目标代码输出确认单</text>"
+        },
+        {
+            "type": "text",
+            "content": "编号：PT9L-MBSC01 V1.0                   表号：QR-7.3-11-01/E0"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td colspan=\"2\"><p>产品类型</p></td><td colspan=\"3\"><p>红外体温计</p></td></tr><tr><td colspan=\"2\"><p>目标代码文件名</p></td><td colspan=\"3\"><p>PT-HT2762-V0029-1.0.0.MTP</p></td></tr><tr><td colspan=\"2\"><p>目标代码文件长度</p></td><td colspan=\"3\"><p>33,201 字节</p></td></tr><tr><td colspan=\"2\"><p>目标代码校验和</p></td><td colspan=\"3\"><p>5133H</p></td></tr><tr><td colspan=\"2\"><p>源代码文件名</p></td><td colspan=\"3\"><p>PT-HT2762-V0029-1.0.0</p></td></tr><tr><td><p>适用MCU型号</p></td><td colspan=\"2\"><p><strong>BH67F2762</strong></p></td><td><p>物料编码</p></td><td><p>K011000006140590054</p></td></tr><tr><td><p>产品负责人签字</p></td><td colspan=\"2\"></td><td><p>部门主管签字</p></td><td></td></tr><tr><td></td><td colspan=\"2\"></td><td><p>接收人签字</p></td><td></td></tr><tr><td colspan=\"5\"><p>备注：</p><p>     适用机型：PT9L</p></td></tr></table>"
+        }
+    ]
+]

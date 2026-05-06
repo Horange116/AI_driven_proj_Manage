@@ -1,0 +1,377 @@
+Started at: Wed 06 May 2026 09:22:55 AM CST
+Host: node42
+CUDA_VISIBLE_DEVICES=4
+MinerU hybrid batch started: 2026-05-06T09:22:56
+PROJECT_ROOT: /home/s2025244189/s2025244265/AI_driven_proj_Manage
+MINERU_MODEL_SOURCE: local
+Selected datasets: DHF, DMR
+
+[DHF] input : /home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理
+[DHF] output: /home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理
+[DHF] files : 203
+[SKIP] DHF 1/203: 01 立项批准书E0/客户需求书(封面)E0.docx
+[SKIP] DHF 2/203: 01 立项批准书E0/客户需求书E0.xlsx
+[SKIP] DHF 3/203: 01 立项批准书E0/客户需求评审单E0.docx
+[SKIP] DHF 4/203: 01 立项批准书E0/立项批准书E0.docx
+[SKIP] DHF 5/203: 02 开发计划E0/设计开发计划(封面)E0.docx
+[SKIP] DHF 6/203: 02 开发计划E0/设计开发计划表E0.xlsx
+[SKIP] DHF 7/203: 02 开发计划E0/设计开发计划评审表E0.docx
+[SKIP] DHF 8/203: 02 开发计划E0/项目组成员名单E0.docx
+[SKIP] DHF 9/203: 02 开发计划E0/项目进度表.pdf
+[SKIP] DHF 10/203: 03 风险/PT9L--Attachment 7 01 Risk Management Plan PT9L-FXJH01 V1.0.docx
+[SKIP] DHF 11/203: 03 风险/PT9L--Attachment 7 02 Risk Assessment Report PT9L-FXPJ01 V1.0.docx
+[SKIP] DHF 12/203: 04 设计输入E0/设计评审计划表-设计输入E0.docx
+[SKIP] DHF 13/203: 04 设计输入E0/设计输入(封面)E0.docx
+[SKIP] DHF 14/203: 04 设计输入E0/设计输入汇总表E0.xlsx
+[SKIP] DHF 15/203: 04 设计输入E0/设计输入评审检查表.xlsx
+[SKIP] DHF 16/203: 04 设计输入E0/设计输入评审记录.docx
+[SKIP] DHF 17/203: 05 结构方案阶段及图样E0/结构图样阶段E0/结构图样评审检查表E0.xlsx
+[SKIP] DHF 18/203: 05 结构方案阶段及图样E0/结构图样阶段E0/设计评审计划表E0.docx
+[SKIP] DHF 19/203: 05 结构方案阶段及图样E0/结构图样阶段E0/设计评审记录E0.docx
+[SKIP] DHF 20/203: 05 结构方案阶段及图样E0/结构设计方案E0.docx
+[SKIP] DHF 21/203: 05 结构方案阶段及图样E0/结构设计方案评审检查表.xlsx
+[SKIP] DHF 22/203: 05 结构方案阶段及图样E0/设计评审计划表-方案评审E0.docx
+[SKIP] DHF 23/203: 05 结构方案阶段及图样E0/设计评审记录E0.docx
+[SKIP] DHF 24/203: 06 硬件方案阶段及图样E0/硬件图样阶段E0/硬件图样评审检查表E0.xlsx
+[SKIP] DHF 25/203: 06 硬件方案阶段及图样E0/硬件图样阶段E0/设计评审计划表E0.docx
+[SKIP] DHF 26/203: 06 硬件方案阶段及图样E0/硬件图样阶段E0/设计评审记录E0.docx
+[SKIP] DHF 27/203: 06 硬件方案阶段及图样E0/硬件设计方案E0.docx
+[SKIP] DHF 28/203: 06 硬件方案阶段及图样E0/硬件设计方案评审检查表E0.xlsx
+[SKIP] DHF 29/203: 06 硬件方案阶段及图样E0/设计评审计划表E0.docx
+[SKIP] DHF 30/203: 06 硬件方案阶段及图样E0/设计评审记录E0.docx
+[SKIP] DHF 31/203: 07 软件方案阶段及图样E0/质量策划E0/设计评审计划表-方案评审E0.docx
+[SKIP] DHF 32/203: 07 软件方案阶段及图样E0/质量策划E0/设计评审记录E0.docx
+[SKIP] DHF 33/203: 07 软件方案阶段及图样E0/质量策划E0/质量策划E0.docx
+[SKIP] DHF 34/203: 07 软件方案阶段及图样E0/质量策划E0/软件质量策划评审检查表E0.xlsx
+[SKIP] DHF 35/203: 07 软件方案阶段及图样E0/软件图样E0/设计评审计划表-图样评审E0.docx
+[SKIP] DHF 36/203: 07 软件方案阶段及图样E0/软件图样E0/设计评审记录E0.docx
+[SKIP] DHF 37/203: 07 软件方案阶段及图样E0/软件图样E0/软件图样E0.docx
+[SKIP] DHF 38/203: 07 软件方案阶段及图样E0/软件图样E0/软件图样评审检查表E0.xlsx
+[SKIP] DHF 39/203: 07 软件方案阶段及图样E0/软件方案E0/设计评审计划表-方案评审E0.docx
+[SKIP] DHF 40/203: 07 软件方案阶段及图样E0/软件方案E0/设计评审记录E0.docx
+[SKIP] DHF 41/203: 07 软件方案阶段及图样E0/软件方案E0/软件方案设计E0.docx
+[SKIP] DHF 42/203: 07 软件方案阶段及图样E0/软件方案E0/软件设计方案评审检查表E0.xlsx
+[SKIP] DHF 43/203: 07 软件方案阶段及图样E0/软件需求E0/设计评审计划表-方案评审E0.docx
+[SKIP] DHF 44/203: 07 软件方案阶段及图样E0/软件需求E0/设计评审记录E0.docx
+[SKIP] DHF 45/203: 07 软件方案阶段及图样E0/软件需求E0/软件需求规格E0.docx
+[SKIP] DHF 46/203: 07 软件方案阶段及图样E0/软件需求E0/软件需求规格书评审检查表E0.xlsx
+[SKIP] DHF 47/203: 08 T1样机/01-DFMEA E0/包装类FMEA E0.xlsx
+[SKIP] DHF 48/203: 08 T1样机/01-DFMEA E0/潜在设计失效模式及后果分析（设计FMEA）封面E0.docx
+[SKIP] DHF 49/203: 08 T1样机/01-DFMEA E0/硬件类 FMEA E0.xlsx
+[SKIP] DHF 50/203: 08 T1样机/01-DFMEA E0/结构类FMEA  E0.xlsx
+[SKIP] DHF 51/203: 08 T1样机/02-软件构建和编码E0.docx
+[SKIP] DHF 52/203: 08 T1样机/03-PT9L红外体温计产品检验标准 V1.0.docx
+[SKIP] DHF 53/203: 08 T1样机/04-设计验证计划E0/设计验证计划(封面)E0.docx
+[SKIP] DHF 54/203: 08 T1样机/04-设计验证计划E0/设计验证计划-功能规格部分E0.xlsx
+[SKIP] DHF 55/203: 08 T1样机/04-设计验证计划E0/设计验证计划-性能规格部分E0.xlsx
+[SKIP] DHF 56/203: 08 T1样机/04-设计验证计划E0/设计验证计划-组件规格部分E0.xlsx
+[SKIP] DHF 57/203: 08 T1样机/04-设计验证计划E0/设计验证计划-通用要求和法规部分E0.xlsx
+[SKIP] DHF 58/203: 08 T1样机/05-软件测试计划及测试记录E0/PT9L-记录测试.xlsx
+[SKIP] DHF 59/203: 08 T1样机/05-软件测试计划及测试记录E0/子程序测试记录-封皮E0.docx
+[SKIP] DHF 60/203: 08 T1样机/05-软件测试计划及测试记录E0/子程序测试记录E0.docx
+[SKIP] DHF 61/203: 08 T1样机/05-软件测试计划及测试记录E0/软件测试计划E0.docx
+[SKIP] DHF 62/203: 08 T1样机/05-软件测试计划及测试记录E0/软件系统测试记录 E0.docx
+[SKIP] DHF 63/203: 08 T1样机/05-软件测试计划及测试记录E0/软件系统测试记录－封面E0.docx
+[SKIP] DHF 64/203: 08 T1样机/06-包装原稿&设计稿/K040200021397620814-图纸-PT9L-CBZP01+V3.1.pdf
+[SKIP] DHF 65/203: 08 T1样机/06-包装原稿&设计稿/K040700022027620814-图纸-PT9L-SMSP01+V1.0.pdf
+[SKIP] DHF 66/203: 08 T1样机/06-包装原稿&设计稿/PT9L-operation guide（原稿）.docx
+[SKIP] DHF 67/203: 08 T1样机/07-PT9L电池使用寿命测试报告 V1.0.docx
+[SKIP] DHF 68/203: 08 T1样机/08-PT9L整机寿命测试报告.docx
+[SKIP] DHF 69/203: 08 T1样机/08-PT9L整机寿命测试数据-共55页 一定要双面打印！！！.xlsx
+[SKIP] DHF 70/203: 08 T1样机/09-PT9L红外体温计检测报告 V1.0-附件-性能测试数据.xlsx
+[SKIP] DHF 71/203: 08 T1样机/09-PT9L红外体温计检测报告 V1.0.docx
+[SKIP] DHF 72/203: 08 T1样机/10-PT9L标签审核表.xlsx
+[SKIP] DHF 73/203: 08 T1样机/11-运输试验评估报告/冷热循环.pdf
+[SKIP] DHF 74/203: 08 T1样机/11-运输试验评估报告/抗压测试.pdf
+[SKIP] DHF 75/203: 08 T1样机/11-运输试验评估报告/模拟运输.pdf
+[SKIP] DHF 76/203: 08 T1样机/11-运输试验评估报告/跌落.pdf
+[SKIP] DHF 77/203: 08 T1样机/11-运输试验评估报告/运输试验评估报告.docx
+[SKIP] DHF 78/203: 08 T1样机/12-生物相容性/PT9L生物相容性评估报告.docx
+[SKIP] DHF 79/203: 08 T1样机/12-生物相容性/同PT5生物相容性报告/PT5-生物相容性-皮肤刺激1-SDWH-M201905262-4.pdf
+[SKIP] DHF 80/203: 08 T1样机/12-生物相容性/同PT5生物相容性报告/PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5.pdf
+[SKIP] DHF 81/203: 08 T1样机/12-生物相容性/同PT5生物相容性报告/PT5-生物相容性-皮肤致敏1-SDWH-M201905262-2.pdf
+[SKIP] DHF 82/203: 08 T1样机/12-生物相容性/同PT5生物相容性报告/PT5-生物相容性-皮肤致敏2-SDWH-M201905262-3.pdf
+[SKIP] DHF 83/203: 08 T1样机/12-生物相容性/同PT5生物相容性报告/PT5-生物相容性-细胞毒性-SDWH-M201905262-1.pdf
+[SKIP] DHF 84/203: 08 T1样机/13-设计验证报告E0/设计验证报告-功能和组件部分E0.xlsx
+[SKIP] DHF 85/203: 08 T1样机/13-设计验证报告E0/设计验证报告-性能规格部分E0.xlsx
+[SKIP] DHF 86/203: 08 T1样机/13-设计验证报告E0/设计验证报告-通用要求部分E0.xlsx
+[SKIP] DHF 87/203: 08 T1样机/13-设计验证报告E0/设计验证报告封皮-T1阶段 E0.docx
+[SKIP] DHF 88/203: 08 T1样机/14 T1样机评审/T1样机设计评审记录E0.docx
+[SKIP] DHF 89/203: 08 T1样机/14 T1样机评审/T1样机评审检查表E0.xlsx
+[SKIP] DHF 90/203: 08 T1样机/14 T1样机评审/设计评审计划表-T1样机E0.docx
+[SKIP] DHF 91/203: 08 T1样机/15-BOM/包装类组件清单PT9L-PBOM V1.0.xlsx
+[SKIP] DHF 92/203: 08 T1样机/15-BOM/总装类组件清单PT9L-ABOM01 V1.0.xlsx
+[SKIP] DHF 93/203: 08 T1样机/15-BOM/机芯类组件清单PT9L-EBOM01 V1.0.xlsx
+[SKIP] DHF 94/203: 09-设计输出/PT9L-设计输出清单一/设计输出清单一/SMT加工说明.docx
+[SKIP] DHF 95/203: 09-设计输出/PT9L-设计输出清单一/设计输出清单一/产品概述.docx
+[SKIP] DHF 96/203: 09-设计输出/PT9L-设计输出清单一/设计输出清单一/产品维修指南.docx
+[SKIP] DHF 97/203: 09-设计输出/PT9L-设计输出清单一/设计输出清单一/产品缺陷定义V1.0.docx
+[SKIP] DHF 98/203: 09-设计输出/PT9L-设计输出清单一/设计输出清单一/图纸/PT9L-HFMP01 V1.0-带原理图.pdf
+[SKIP] DHF 99/203: 09-设计输出/PT9L-设计输出清单一/设计输出清单一/工作原理.docx
+[SKIP] DHF 100/203: 09-设计输出/PT9L-设计输出清单一/设计输出清单一/工艺说明-PT9L.xlsx
+[SKIP] DHF 101/203: 09-设计输出/PT9L-设计输出清单一/设计输出清单一/工艺说明首页.docx
+[SKIP] DHF 102/203: 09-设计输出/PT9L-设计输出清单一/设计输出清单一/工装操作说明 V1.0-PT9L.docx
+[SKIP] DHF 103/203: 09-设计输出/PT9L-设计输出清单一/设计输出清单一/机芯类组件清单PT9L-EBOM01 V1.0.xlsx
+[SKIP] DHF 104/203: 09-设计输出/PT9L-设计输出清单一/设计输出清单一/目标代码输出确认单.docx
+[SKIP] DHF 105/203: 09-设计输出/PT9L-设计输出清单一/设计输出清单一/设计原理.docx
+[SKIP] DHF 106/203: 09-设计输出/PT9L-设计输出清单一/设计输出清单一/设计输出清单一.xlsx
+[SKIP] DHF 107/203: 09-设计输出/设计输出清单二/37ed31b4835c1e57463e2ca2628ef51.jpg
+[SKIP] DHF 108/203: 09-设计输出/设计输出清单二/37ed31b4835c1e57463e2ca2628ef51.xlsx
+[SKIP] DHF 109/203: 09-设计输出/设计输出清单二/PT9L包装BOM.xlsx
+[RUN ] DHF 110/203: 09-设计输出/设计输出清单二/包装/K040100014357620814-图纸-PT9L-F01+V1.0.pdf
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/09-设计输出/设计输出清单二/包装/K040100014357620814-图纸-PT9L-F01+V1.0.pdf' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/09-设计输出/设计输出清单二/包装' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:41327
+API documentation: http://127.0.0.1:41327/docs
+INFO 05-06 09:24:27 [model.py:631] Resolved architecture: Qwen2VLForConditionalGeneration
+INFO 05-06 09:24:27 [model.py:1745] Using max model len 8192
+INFO 05-06 09:24:30 [scheduler.py:216] Chunked prefill is enabled with max_num_batched_tokens=2048.
+WARNING 05-06 09:24:35 [system_utils.py:103] We must use the `spawn` multiprocessing start method. Overriding VLLM_WORKER_MULTIPROC_METHOD to 'spawn'. See https://docs.vllm.ai/en/latest/usage/troubleshooting.html#python-multiprocessing for more information. Reasons: CUDA is initialized
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m INFO 05-06 09:24:47 [core.py:93] Initializing a V1 LLM engine (v0.11.2) with config: model='/home/s2025244189/.cache/modelscope/hub/models/OpenDataLab/MinerU2___5-Pro-2604-1___2B', speculative_config=None, tokenizer='/home/s2025244189/.cache/modelscope/hub/models/OpenDataLab/MinerU2___5-Pro-2604-1___2B', skip_tokenizer_init=False, tokenizer_mode=auto, revision=None, tokenizer_revision=None, trust_remote_code=False, dtype=torch.bfloat16, max_seq_len=8192, download_dir=None, load_format=auto, tensor_parallel_size=1, pipeline_parallel_size=1, data_parallel_size=1, disable_custom_all_reduce=False, quantization=None, enforce_eager=False, kv_cache_dtype=auto, device_config=cuda, structured_outputs_config=StructuredOutputsConfig(backend='auto', disable_fallback=False, disable_any_whitespace=False, disable_additional_properties=False, reasoning_parser='', reasoning_parser_plugin='', enable_in_reasoning=False), observability_config=ObservabilityConfig(show_hidden_metrics_for_version=None, otlp_traces_endpoint=None, collect_detailed_traces=None), seed=0, served_model_name=/home/s2025244189/.cache/modelscope/hub/models/OpenDataLab/MinerU2___5-Pro-2604-1___2B, enable_prefix_caching=True, enable_chunked_prefill=True, pooler_config=None, compilation_config={'level': None, 'mode': <CompilationMode.VLLM_COMPILE: 3>, 'debug_dump_path': None, 'cache_dir': '', 'compile_cache_save_format': 'binary', 'backend': 'inductor', 'custom_ops': ['none'], 'splitting_ops': ['vllm::unified_attention', 'vllm::unified_attention_with_output', 'vllm::unified_mla_attention', 'vllm::unified_mla_attention_with_output', 'vllm::mamba_mixer2', 'vllm::mamba_mixer', 'vllm::short_conv', 'vllm::linear_attention', 'vllm::plamo2_mamba_mixer', 'vllm::gdn_attention_core', 'vllm::kda_attention', 'vllm::sparse_attn_indexer'], 'compile_mm_encoder': False, 'use_inductor': None, 'compile_sizes': [], 'inductor_compile_config': {'enable_auto_functionalized_v2': False, 'combo_kernels': True, 'benchmark_combo_kernel': True}, 'inductor_passes': {}, 'cudagraph_mode': <CUDAGraphMode.FULL_AND_PIECEWISE: (2, 1)>, 'cudagraph_num_of_warmups': 1, 'cudagraph_capture_sizes': [1, 2, 4, 8, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88, 96, 104, 112, 120, 128, 136, 144, 152, 160, 168, 176, 184, 192, 200, 208, 216, 224, 232, 240, 248, 256], 'cudagraph_copy_inputs': False, 'cudagraph_specialize_lora': True, 'use_inductor_graph_partition': False, 'pass_config': {}, 'max_cudagraph_capture_size': 256, 'local_cache_dir': None}
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m INFO 05-06 09:24:56 [parallel_state.py:1208] world_size=1 rank=0 local_rank=0 distributed_init_method=tcp://10.10.111.42:53839 backend=nccl
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m INFO 05-06 09:24:56 [parallel_state.py:1394] rank 0 in world size 1 is assigned as DP rank 0, PP rank 0, TP rank 0, EP rank 0
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m INFO 05-06 09:25:03 [gpu_model_runner.py:3259] Starting to load model /home/s2025244189/.cache/modelscope/hub/models/OpenDataLab/MinerU2___5-Pro-2604-1___2B...
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m INFO 05-06 09:25:05 [cuda.py:418] Valid backends: ['FLASH_ATTN', 'FLASHINFER', 'TRITON_ATTN', 'FLEX_ATTENTION']
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m INFO 05-06 09:25:05 [cuda.py:427] Using FLASH_ATTN backend.
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m INFO 05-06 09:25:07 [default_loader.py:314] Loading weights took 1.39 seconds
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m INFO 05-06 09:25:08 [gpu_model_runner.py:3338] Model loading took 2.1601 GiB memory and 3.183072 seconds
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m INFO 05-06 09:25:08 [gpu_model_runner.py:4088] Encoder cache will be initialized with a budget of 8100 tokens, and profiled with 1 video items of the maximum feature size.
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m INFO 05-06 09:25:24 [backends.py:631] Using cache directory: /home/s2025244189/.cache/vllm/torch_compile_cache/0785dbb6cf/rank_0_0/backbone for vLLM's torch.compile
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m INFO 05-06 09:25:24 [backends.py:647] Dynamo bytecode transform time: 11.51 s
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m INFO 05-06 09:25:29 [backends.py:210] Directly load the compiled graph(s) for dynamic shape from the cache, took 4.631 s
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m INFO 05-06 09:25:30 [monitor.py:34] torch.compile takes 16.14 s in total
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m INFO 05-06 09:25:31 [gpu_worker.py:359] Available KV cache memory: 35.80 GiB
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m INFO 05-06 09:25:32 [kv_cache_utils.py:1229] GPU KV cache size: 3,128,352 tokens
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m INFO 05-06 09:25:32 [kv_cache_utils.py:1234] Maximum concurrency for 8,192 tokens per request: 381.88x
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m INFO 05-06 09:25:36 [gpu_model_runner.py:4244] Graph capturing finished in 4 secs, took 1.19 GiB
+[1;36m(EngineCore_DP0 pid=2806265)[0;0m INFO 05-06 09:25:36 [core.py:250] init engine (profile, create kv cache, warmup model) took 28.70 seconds
+WARNING 05-06 09:25:45 [async_llm.py:288] Processor has been moved under OpenAIServing and will be removed from AsyncLLM in v0.13.
+
+[DONE] DHF 110/203: 09-设计输出/设计输出清单二/包装/K040100014357620814-图纸-PT9L-F01+V1.0.pdf
+[SKIP] DHF 111/203: 09-设计输出/设计输出清单二/包装/K040200021397620814-图纸-PT9L-CBZP01+V1.0.pdf
+[SKIP] DHF 112/203: 09-设计输出/设计输出清单二/包装/K040200021397620814-图纸-PT9L-CBZP01+V2.0.pdf
+[SKIP] DHF 113/203: 09-设计输出/设计输出清单二/包装/K040500002717620814-图纸-PT9L-F04+V1.0.pdf
+[SKIP] DHF 114/203: 09-设计输出/设计输出清单二/包装/K040700022027620814-图纸-PT9L-SMSP01+V1.0 (1).pdf
+[SKIP] DHF 115/203: 09-设计输出/设计输出清单二/包装/K040700022027620814-图纸-PT9L-SMSP01+V1.0.pdf
+[SKIP] DHF 116/203: 09-设计输出/设计输出清单二/包装/K040800021467620814-图纸-PT1-F05+V1.0.pdf
+[SKIP] DHF 117/203: 09-设计输出/设计输出清单二/包装/K040800021487620814-图纸-PT1-F07+V1.0(1).pdf
+[SKIP] DHF 118/203: 09-设计输出/设计输出清单二/包装/K040800021487620814-图纸-PT1-F07+V1.0.pdf
+[SKIP] DHF 119/203: 09-设计输出/设计输出清单二/包装/K040800025021030093-图纸-PT9L-F02+V1.0(1).pdf
+[SKIP] DHF 120/203: 09-设计输出/设计输出清单二/包装/K040800025021030093-图纸-PT9L-F02+V1.0.pdf
+[SKIP] DHF 121/203: 09-设计输出/设计输出清单二/包装/K040800025031030093-图纸-PT9L-F03+V1.0(1).pdf
+[SKIP] DHF 122/203: 09-设计输出/设计输出清单二/包装/K040800025031030093-图纸-PT9L-F03+V1.0.pdf
+[SKIP] DHF 123/203: 09-设计输出/设计输出清单二/包装/KF-931D-F01.png
+[SKIP] DHF 124/203: 09-设计输出/设计输出清单二/包装/T040800073941030093-PT3-F21.pdf
+[SKIP] DHF 125/203: 09-设计输出/设计输出清单二/包装/外箱条码标签-PT1-F07 V1.0.pdf
+[RUN ] DHF 126/203: 09-设计输出/设计输出清单二/图纸/75CEE0-Model.pdf
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/09-设计输出/设计输出清单二/图纸/75CEE0-Model.pdf' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/09-设计输出/设计输出清单二/图纸' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:35715
+API documentation: http://127.0.0.1:35715/docs
+INFO 05-06 09:26:55 [model.py:631] Resolved architecture: Qwen2VLForConditionalGeneration
+INFO 05-06 09:26:55 [model.py:1745] Using max model len 8192
+INFO 05-06 09:26:55 [scheduler.py:216] Chunked prefill is enabled with max_num_batched_tokens=2048.
+WARNING 05-06 09:26:58 [system_utils.py:103] We must use the `spawn` multiprocessing start method. Overriding VLLM_WORKER_MULTIPROC_METHOD to 'spawn'. See https://docs.vllm.ai/en/latest/usage/troubleshooting.html#python-multiprocessing for more information. Reasons: CUDA is initialized
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m INFO 05-06 09:27:09 [core.py:93] Initializing a V1 LLM engine (v0.11.2) with config: model='/home/s2025244189/.cache/modelscope/hub/models/OpenDataLab/MinerU2___5-Pro-2604-1___2B', speculative_config=None, tokenizer='/home/s2025244189/.cache/modelscope/hub/models/OpenDataLab/MinerU2___5-Pro-2604-1___2B', skip_tokenizer_init=False, tokenizer_mode=auto, revision=None, tokenizer_revision=None, trust_remote_code=False, dtype=torch.bfloat16, max_seq_len=8192, download_dir=None, load_format=auto, tensor_parallel_size=1, pipeline_parallel_size=1, data_parallel_size=1, disable_custom_all_reduce=False, quantization=None, enforce_eager=False, kv_cache_dtype=auto, device_config=cuda, structured_outputs_config=StructuredOutputsConfig(backend='auto', disable_fallback=False, disable_any_whitespace=False, disable_additional_properties=False, reasoning_parser='', reasoning_parser_plugin='', enable_in_reasoning=False), observability_config=ObservabilityConfig(show_hidden_metrics_for_version=None, otlp_traces_endpoint=None, collect_detailed_traces=None), seed=0, served_model_name=/home/s2025244189/.cache/modelscope/hub/models/OpenDataLab/MinerU2___5-Pro-2604-1___2B, enable_prefix_caching=True, enable_chunked_prefill=True, pooler_config=None, compilation_config={'level': None, 'mode': <CompilationMode.VLLM_COMPILE: 3>, 'debug_dump_path': None, 'cache_dir': '', 'compile_cache_save_format': 'binary', 'backend': 'inductor', 'custom_ops': ['none'], 'splitting_ops': ['vllm::unified_attention', 'vllm::unified_attention_with_output', 'vllm::unified_mla_attention', 'vllm::unified_mla_attention_with_output', 'vllm::mamba_mixer2', 'vllm::mamba_mixer', 'vllm::short_conv', 'vllm::linear_attention', 'vllm::plamo2_mamba_mixer', 'vllm::gdn_attention_core', 'vllm::kda_attention', 'vllm::sparse_attn_indexer'], 'compile_mm_encoder': False, 'use_inductor': None, 'compile_sizes': [], 'inductor_compile_config': {'enable_auto_functionalized_v2': False, 'combo_kernels': True, 'benchmark_combo_kernel': True}, 'inductor_passes': {}, 'cudagraph_mode': <CUDAGraphMode.FULL_AND_PIECEWISE: (2, 1)>, 'cudagraph_num_of_warmups': 1, 'cudagraph_capture_sizes': [1, 2, 4, 8, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88, 96, 104, 112, 120, 128, 136, 144, 152, 160, 168, 176, 184, 192, 200, 208, 216, 224, 232, 240, 248, 256], 'cudagraph_copy_inputs': False, 'cudagraph_specialize_lora': True, 'use_inductor_graph_partition': False, 'pass_config': {}, 'max_cudagraph_capture_size': 256, 'local_cache_dir': None}
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m INFO 05-06 09:27:15 [parallel_state.py:1208] world_size=1 rank=0 local_rank=0 distributed_init_method=tcp://10.10.111.42:57899 backend=nccl
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m INFO 05-06 09:27:15 [parallel_state.py:1394] rank 0 in world size 1 is assigned as DP rank 0, PP rank 0, TP rank 0, EP rank 0
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m INFO 05-06 09:27:21 [gpu_model_runner.py:3259] Starting to load model /home/s2025244189/.cache/modelscope/hub/models/OpenDataLab/MinerU2___5-Pro-2604-1___2B...
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m INFO 05-06 09:27:22 [cuda.py:418] Valid backends: ['FLASH_ATTN', 'FLASHINFER', 'TRITON_ATTN', 'FLEX_ATTENTION']
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m INFO 05-06 09:27:22 [cuda.py:427] Using FLASH_ATTN backend.
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m INFO 05-06 09:27:23 [default_loader.py:314] Loading weights took 1.48 seconds
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m INFO 05-06 09:27:24 [gpu_model_runner.py:3338] Model loading took 2.1601 GiB memory and 2.207683 seconds
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m INFO 05-06 09:27:25 [gpu_model_runner.py:4088] Encoder cache will be initialized with a budget of 8100 tokens, and profiled with 1 video items of the maximum feature size.
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m INFO 05-06 09:27:36 [backends.py:631] Using cache directory: /home/s2025244189/.cache/vllm/torch_compile_cache/0785dbb6cf/rank_0_0/backbone for vLLM's torch.compile
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m INFO 05-06 09:27:36 [backends.py:647] Dynamo bytecode transform time: 7.00 s
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m INFO 05-06 09:27:40 [backends.py:210] Directly load the compiled graph(s) for dynamic shape from the cache, took 3.893 s
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m INFO 05-06 09:27:41 [monitor.py:34] torch.compile takes 10.90 s in total
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m INFO 05-06 09:27:42 [gpu_worker.py:359] Available KV cache memory: 35.80 GiB
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m INFO 05-06 09:27:42 [kv_cache_utils.py:1229] GPU KV cache size: 3,128,352 tokens
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m INFO 05-06 09:27:42 [kv_cache_utils.py:1234] Maximum concurrency for 8,192 tokens per request: 381.88x
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m INFO 05-06 09:27:46 [gpu_model_runner.py:4244] Graph capturing finished in 3 secs, took 1.19 GiB
+[1;36m(EngineCore_DP0 pid=2806934)[0;0m INFO 05-06 09:27:46 [core.py:250] init engine (profile, create kv cache, warmup model) took 21.32 seconds
+WARNING 05-06 09:27:53 [async_llm.py:288] Processor has been moved under OpenAIServing and will be removed from AsyncLLM in v0.13.
+
+[DONE] DHF 126/203: 09-设计输出/设计输出清单二/图纸/75CEE0-Model.pdf
+[SKIP] DHF 127/203: 09-设计输出/设计输出清单二/图纸/FDIR-V14_散热器压块_REV01_0714.pdf
+[SKIP] DHF 128/203: 09-设计输出/设计输出清单二/图纸/PT3_双联弹簧_REV01.pdf
+[SKIP] DHF 129/203: 09-设计输出/设计输出清单二/图纸/PT9L-外观图-v1.0-20240627.pdf
+[SKIP] DHF 130/203: 09-设计输出/设计输出清单二/图纸/PT9L-总装图-v1.0-20240627.pdf
+[SKIP] DHF 131/203: 09-设计输出/设计输出清单二/图纸/PT9L-斑马条-v2.0-20240524.pdf
+[SKIP] DHF 132/203: 09-设计输出/设计输出清单二/图纸/PT9L-液晶-20240627.pdf
+[SKIP] DHF 133/203: 09-设计输出/设计输出清单二/图纸/PT9L.pdf
+[SKIP] DHF 134/203: 09-设计输出/设计输出清单二/图纸/T-Z1-上盖-v3.0-20240627.pdf
+[SKIP] DHF 135/203: 09-设计输出/设计输出清单二/图纸/T-Z1-下盖-v2.0-20240627.pdf
+[SKIP] DHF 136/203: 09-设计输出/设计输出清单二/图纸/T-Z1-按键-v3.0-20240627.pdf
+[SKIP] DHF 137/203: 09-设计输出/设计输出清单二/图纸/主板.pdf
+[SKIP] DHF 138/203: 09-设计输出/设计输出清单二/图纸/传感器PCB.pdf
+[SKIP] DHF 139/203: 09-设计输出/设计输出清单二/图纸/保护盖.pdf
+[SKIP] DHF 140/203: 09-设计输出/设计输出清单二/图纸/导光板.pdf
+[SKIP] DHF 141/203: 09-设计输出/设计输出清单二/图纸/开关帽.pdf
+[SKIP] DHF 142/203: 09-设计输出/设计输出清单二/图纸/探头20210727.pdf
+[SKIP] DHF 143/203: 09-设计输出/设计输出清单二/图纸/支撑垫.pdf
+[SKIP] DHF 144/203: 09-设计输出/设计输出清单二/图纸/支架.pdf
+[SKIP] DHF 145/203: 09-设计输出/设计输出清单二/图纸/正极弹簧PT5-M02.pdf
+[SKIP] DHF 146/203: 09-设计输出/设计输出清单二/图纸/电池盖.pdf
+[SKIP] DHF 147/203: 09-设计输出/设计输出清单二/图纸/负极弹簧PT5-M03.pdf
+[SKIP] DHF 148/203: 09-设计输出/设计输出清单二/图纸/透镜.pdf
+[SKIP] DHF 149/203: 09-设计输出/设计输出清单二/工艺说明-PT9L.xlsx
+[SKIP] DHF 150/203: 09-设计输出/设计输出清单二/总装类组件清单PT9L-ABOM01 V1.0.xlsx
+[SKIP] DHF 151/203: 09-设计输出/设计输出清单二/早期图纸/上盖20210727.pdf
+[SKIP] DHF 152/203: 09-设计输出/设计输出清单二/早期图纸/下盖-总-20211102.pdf
+[SKIP] DHF 153/203: 09-设计输出/设计输出清单二/早期图纸/下盖20210727.pdf
+[SKIP] DHF 154/203: 09-设计输出/设计输出清单二/早期图纸/主板PCB 20211027.pdf
+[SKIP] DHF 155/203: 09-设计输出/设计输出清单二/早期图纸/导光板20210727.pdf
+[SKIP] DHF 156/203: 09-设计输出/设计输出清单二/早期图纸/导光板20211027.pdf
+[SKIP] DHF 157/203: 09-设计输出/设计输出清单二/早期图纸/开关帽20210727.pdf
+[SKIP] DHF 158/203: 09-设计输出/设计输出清单二/早期图纸/探头20210727.pdf
+[SKIP] DHF 159/203: 09-设计输出/设计输出清单二/早期图纸/支撑垫20211102.pdf
+[SKIP] DHF 160/203: 09-设计输出/设计输出清单二/早期图纸/支撑垫20211104.pdf
+[SKIP] DHF 161/203: 09-设计输出/设计输出清单二/早期图纸/支撑垫20220425.pdf
+[SKIP] DHF 162/203: 09-设计输出/设计输出清单二/早期图纸/支撑垫20220427.pdf
+[SKIP] DHF 163/203: 09-设计输出/设计输出清单二/早期图纸/支架20210727.pdf
+[SKIP] DHF 164/203: 09-设计输出/设计输出清单二/早期图纸/液晶-打样-20210917.pdf
+[SKIP] DHF 165/203: 09-设计输出/设计输出清单二/早期图纸/液晶20210727.pdf
+[SKIP] DHF 166/203: 09-设计输出/设计输出清单二/早期图纸/电池盖20210727.pdf
+[SKIP] DHF 167/203: 09-设计输出/设计输出清单二/早期图纸/透镜20210727.pdf
+[SKIP] DHF 168/203: 09-设计输出/设计输出清单二/装配说明V1.0-PT9L.xlsx
+[SKIP] DHF 169/203: 09-设计输出/设计输出清单二/设计输出清单二E0.xlsx
+[SKIP] DHF 170/203: 10-试产文件/试产总结报告.docx
+[SKIP] DHF 171/203: 10-试产文件/试产申请单.docx
+[SKIP] DHF 172/203: 11-设计确认/01-用户测试/PT9L 用户测试记录.docx
+[SKIP] DHF 173/203: 11-设计确认/01-用户测试/PT9L 用户现场测试报告.docx
+[SKIP] DHF 174/203: 11-设计确认/01-用户测试/PT9L 用户现场测试计划.docx
+[SKIP] DHF 175/203: 11-设计确认/02-Clinical study report.docx
+[SKIP] DHF 176/203: 11-设计确认/03-软件确认报告.docx
+[SKIP] DHF 177/203: 11-设计确认/04-PT9L Checklist of （ EN 60601-1-62010+A12015+A22021) PT2L（美亚）-UETR01 V1.0.docx
+[SKIP] DHF 178/203: 11-设计确认/05-PT9L Checklist of IEC 62366-1 2021.docx
+[SKIP] DHF 179/203: 11-设计确认/06-PT9L usability engineering file.docx
+[SKIP] DHF 180/203: 11-设计确认/07-可追溯性分析报告.docx
+[SKIP] DHF 181/203: 11-设计确认/08-软件配置清单.xlsx
+[SKIP] DHF 182/203: 11-设计确认/09-剩余风险评估和风险管理报告/PT9L--Attachment 7 03 Verification of risk control measure and residual risk evaluation report PT9L-FXYS01  V1.0.docx
+[SKIP] DHF 183/203: 11-设计确认/09-剩余风险评估和风险管理报告/PT9L--Attachment 7 04 Risk Management Report PT9L-FXGB01  V1.0.docx
+[SKIP] DHF 184/203: 11-设计确认/10-设计验证报告-设计确认阶段/设计验证报告-通用要求和法规部分.xlsx
+[SKIP] DHF 185/203: 11-设计确认/10-设计验证报告-设计确认阶段/设计验证报告封皮-设计确认阶段.docx
+[SKIP] DHF 186/203: 11-设计确认/11-设计确认计划/设计确认计划.xlsx
+[SKIP] DHF 187/203: 11-设计确认/11-设计确认计划/设计确认计划封皮.docx
+[SKIP] DHF 188/203: 11-设计确认/12-设计确认计划评审表E0.docx
+[SKIP] DHF 189/203: 11-设计确认/13-设计确认报告/设计确认报告E0.xlsx
+[SKIP] DHF 190/203: 11-设计确认/13-设计确认报告/设计确认报告封皮E0.docx
+[SKIP] DHF 191/203: 11-设计确认/14-设计评审计划表-设计确认E0.docx
+[SKIP] DHF 192/203: 11-设计确认/15-设计确认评审记录.xlsx
+[SKIP] DHF 193/203: 11-设计确认/16-实验报告/2024-08-15 TX202303-07-078-01 PT9L EMC  型式试验报告英文.pdf
+[SKIP] DHF 194/203: 11-设计确认/16-实验报告/2025.02.12 ETX202303-07-078-02 PT9L 安规报告-正式.pdf
+[RUN ] DHF 195/203: 11-设计确认/16-实验报告/2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式.pdf
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/11-设计确认/16-实验报告/2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式.pdf' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/11-设计确认/16-实验报告' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:33201
+API documentation: http://127.0.0.1:33201/docs
+INFO 05-06 09:28:37 [model.py:631] Resolved architecture: Qwen2VLForConditionalGeneration
+INFO 05-06 09:28:37 [model.py:1745] Using max model len 8192
+INFO 05-06 09:28:37 [scheduler.py:216] Chunked prefill is enabled with max_num_batched_tokens=2048.
+WARNING 05-06 09:28:39 [system_utils.py:103] We must use the `spawn` multiprocessing start method. Overriding VLLM_WORKER_MULTIPROC_METHOD to 'spawn'. See https://docs.vllm.ai/en/latest/usage/troubleshooting.html#python-multiprocessing for more information. Reasons: CUDA is initialized
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m INFO 05-06 09:28:50 [core.py:93] Initializing a V1 LLM engine (v0.11.2) with config: model='/home/s2025244189/.cache/modelscope/hub/models/OpenDataLab/MinerU2___5-Pro-2604-1___2B', speculative_config=None, tokenizer='/home/s2025244189/.cache/modelscope/hub/models/OpenDataLab/MinerU2___5-Pro-2604-1___2B', skip_tokenizer_init=False, tokenizer_mode=auto, revision=None, tokenizer_revision=None, trust_remote_code=False, dtype=torch.bfloat16, max_seq_len=8192, download_dir=None, load_format=auto, tensor_parallel_size=1, pipeline_parallel_size=1, data_parallel_size=1, disable_custom_all_reduce=False, quantization=None, enforce_eager=False, kv_cache_dtype=auto, device_config=cuda, structured_outputs_config=StructuredOutputsConfig(backend='auto', disable_fallback=False, disable_any_whitespace=False, disable_additional_properties=False, reasoning_parser='', reasoning_parser_plugin='', enable_in_reasoning=False), observability_config=ObservabilityConfig(show_hidden_metrics_for_version=None, otlp_traces_endpoint=None, collect_detailed_traces=None), seed=0, served_model_name=/home/s2025244189/.cache/modelscope/hub/models/OpenDataLab/MinerU2___5-Pro-2604-1___2B, enable_prefix_caching=True, enable_chunked_prefill=True, pooler_config=None, compilation_config={'level': None, 'mode': <CompilationMode.VLLM_COMPILE: 3>, 'debug_dump_path': None, 'cache_dir': '', 'compile_cache_save_format': 'binary', 'backend': 'inductor', 'custom_ops': ['none'], 'splitting_ops': ['vllm::unified_attention', 'vllm::unified_attention_with_output', 'vllm::unified_mla_attention', 'vllm::unified_mla_attention_with_output', 'vllm::mamba_mixer2', 'vllm::mamba_mixer', 'vllm::short_conv', 'vllm::linear_attention', 'vllm::plamo2_mamba_mixer', 'vllm::gdn_attention_core', 'vllm::kda_attention', 'vllm::sparse_attn_indexer'], 'compile_mm_encoder': False, 'use_inductor': None, 'compile_sizes': [], 'inductor_compile_config': {'enable_auto_functionalized_v2': False, 'combo_kernels': True, 'benchmark_combo_kernel': True}, 'inductor_passes': {}, 'cudagraph_mode': <CUDAGraphMode.FULL_AND_PIECEWISE: (2, 1)>, 'cudagraph_num_of_warmups': 1, 'cudagraph_capture_sizes': [1, 2, 4, 8, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88, 96, 104, 112, 120, 128, 136, 144, 152, 160, 168, 176, 184, 192, 200, 208, 216, 224, 232, 240, 248, 256], 'cudagraph_copy_inputs': False, 'cudagraph_specialize_lora': True, 'use_inductor_graph_partition': False, 'pass_config': {}, 'max_cudagraph_capture_size': 256, 'local_cache_dir': None}
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m INFO 05-06 09:28:57 [parallel_state.py:1208] world_size=1 rank=0 local_rank=0 distributed_init_method=tcp://10.10.111.42:59407 backend=nccl
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m INFO 05-06 09:28:57 [parallel_state.py:1394] rank 0 in world size 1 is assigned as DP rank 0, PP rank 0, TP rank 0, EP rank 0
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m INFO 05-06 09:29:03 [gpu_model_runner.py:3259] Starting to load model /home/s2025244189/.cache/modelscope/hub/models/OpenDataLab/MinerU2___5-Pro-2604-1___2B...
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m INFO 05-06 09:29:04 [cuda.py:418] Valid backends: ['FLASH_ATTN', 'FLASHINFER', 'TRITON_ATTN', 'FLEX_ATTENTION']
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m INFO 05-06 09:29:04 [cuda.py:427] Using FLASH_ATTN backend.
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m INFO 05-06 09:29:06 [default_loader.py:314] Loading weights took 1.39 seconds
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m INFO 05-06 09:29:07 [gpu_model_runner.py:3338] Model loading took 2.1601 GiB memory and 1.933849 seconds
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m INFO 05-06 09:29:07 [gpu_model_runner.py:4088] Encoder cache will be initialized with a budget of 8100 tokens, and profiled with 1 video items of the maximum feature size.
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m INFO 05-06 09:29:17 [backends.py:631] Using cache directory: /home/s2025244189/.cache/vllm/torch_compile_cache/0785dbb6cf/rank_0_0/backbone for vLLM's torch.compile
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m INFO 05-06 09:29:17 [backends.py:647] Dynamo bytecode transform time: 6.75 s
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m INFO 05-06 09:29:21 [backends.py:210] Directly load the compiled graph(s) for dynamic shape from the cache, took 3.540 s
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m INFO 05-06 09:29:22 [monitor.py:34] torch.compile takes 10.29 s in total
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m INFO 05-06 09:29:23 [gpu_worker.py:359] Available KV cache memory: 35.80 GiB
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m INFO 05-06 09:29:23 [kv_cache_utils.py:1229] GPU KV cache size: 3,128,352 tokens
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m INFO 05-06 09:29:23 [kv_cache_utils.py:1234] Maximum concurrency for 8,192 tokens per request: 381.88x
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m INFO 05-06 09:29:26 [gpu_model_runner.py:4244] Graph capturing finished in 3 secs, took 1.19 GiB
+[1;36m(EngineCore_DP0 pid=2807447)[0;0m INFO 05-06 09:29:26 [core.py:250] init engine (profile, create kv cache, warmup model) took 19.71 seconds
+WARNING 05-06 09:29:36 [async_llm.py:288] Processor has been moved under OpenAIServing and will be removed from AsyncLLM in v0.13.
+
+[DONE] DHF 195/203: 11-设计确认/16-实验报告/2025.02.12 ETX202303-07-078-03 PT9L -2-56 报告-正式.pdf
+[SKIP] DHF 196/203: 11-设计确认/16-实验报告/2025.02.12 ETX202303-07-078-04 PT9L 1965报告-正式.pdf
+[SKIP] DHF 197/203: 11-设计确认/16-实验报告/2025.02.12 ETX202303-07-078-05 PT9L 老化报告-正式.pdf
+[RUN ] DHF 198/203: 11-设计确认/16-实验报告/2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告.pdf
+       conda run -n mineru mineru -p '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/11-设计确认/16-实验报告/2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告.pdf' -o '/home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/11-设计确认/16-实验报告' -b hybrid-auto-engine -m auto -l ch
+Start MinerU FastAPI Service: http://127.0.0.1:35521
+API documentation: http://127.0.0.1:35521/docs
+INFO 05-06 09:30:54 [model.py:631] Resolved architecture: Qwen2VLForConditionalGeneration
+INFO 05-06 09:30:54 [model.py:1745] Using max model len 8192
+INFO 05-06 09:30:54 [scheduler.py:216] Chunked prefill is enabled with max_num_batched_tokens=2048.
+WARNING 05-06 09:30:56 [system_utils.py:103] We must use the `spawn` multiprocessing start method. Overriding VLLM_WORKER_MULTIPROC_METHOD to 'spawn'. See https://docs.vllm.ai/en/latest/usage/troubleshooting.html#python-multiprocessing for more information. Reasons: CUDA is initialized
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m INFO 05-06 09:31:07 [core.py:93] Initializing a V1 LLM engine (v0.11.2) with config: model='/home/s2025244189/.cache/modelscope/hub/models/OpenDataLab/MinerU2___5-Pro-2604-1___2B', speculative_config=None, tokenizer='/home/s2025244189/.cache/modelscope/hub/models/OpenDataLab/MinerU2___5-Pro-2604-1___2B', skip_tokenizer_init=False, tokenizer_mode=auto, revision=None, tokenizer_revision=None, trust_remote_code=False, dtype=torch.bfloat16, max_seq_len=8192, download_dir=None, load_format=auto, tensor_parallel_size=1, pipeline_parallel_size=1, data_parallel_size=1, disable_custom_all_reduce=False, quantization=None, enforce_eager=False, kv_cache_dtype=auto, device_config=cuda, structured_outputs_config=StructuredOutputsConfig(backend='auto', disable_fallback=False, disable_any_whitespace=False, disable_additional_properties=False, reasoning_parser='', reasoning_parser_plugin='', enable_in_reasoning=False), observability_config=ObservabilityConfig(show_hidden_metrics_for_version=None, otlp_traces_endpoint=None, collect_detailed_traces=None), seed=0, served_model_name=/home/s2025244189/.cache/modelscope/hub/models/OpenDataLab/MinerU2___5-Pro-2604-1___2B, enable_prefix_caching=True, enable_chunked_prefill=True, pooler_config=None, compilation_config={'level': None, 'mode': <CompilationMode.VLLM_COMPILE: 3>, 'debug_dump_path': None, 'cache_dir': '', 'compile_cache_save_format': 'binary', 'backend': 'inductor', 'custom_ops': ['none'], 'splitting_ops': ['vllm::unified_attention', 'vllm::unified_attention_with_output', 'vllm::unified_mla_attention', 'vllm::unified_mla_attention_with_output', 'vllm::mamba_mixer2', 'vllm::mamba_mixer', 'vllm::short_conv', 'vllm::linear_attention', 'vllm::plamo2_mamba_mixer', 'vllm::gdn_attention_core', 'vllm::kda_attention', 'vllm::sparse_attn_indexer'], 'compile_mm_encoder': False, 'use_inductor': None, 'compile_sizes': [], 'inductor_compile_config': {'enable_auto_functionalized_v2': False, 'combo_kernels': True, 'benchmark_combo_kernel': True}, 'inductor_passes': {}, 'cudagraph_mode': <CUDAGraphMode.FULL_AND_PIECEWISE: (2, 1)>, 'cudagraph_num_of_warmups': 1, 'cudagraph_capture_sizes': [1, 2, 4, 8, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88, 96, 104, 112, 120, 128, 136, 144, 152, 160, 168, 176, 184, 192, 200, 208, 216, 224, 232, 240, 248, 256], 'cudagraph_copy_inputs': False, 'cudagraph_specialize_lora': True, 'use_inductor_graph_partition': False, 'pass_config': {}, 'max_cudagraph_capture_size': 256, 'local_cache_dir': None}
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m INFO 05-06 09:31:13 [parallel_state.py:1208] world_size=1 rank=0 local_rank=0 distributed_init_method=tcp://10.10.111.42:45341 backend=nccl
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[Gloo] Rank 0 is connected to 0 peer ranks. Expected number of connected peer ranks is : 0
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m INFO 05-06 09:31:13 [parallel_state.py:1394] rank 0 in world size 1 is assigned as DP rank 0, PP rank 0, TP rank 0, EP rank 0
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m INFO 05-06 09:31:18 [gpu_model_runner.py:3259] Starting to load model /home/s2025244189/.cache/modelscope/hub/models/OpenDataLab/MinerU2___5-Pro-2604-1___2B...
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m INFO 05-06 09:31:19 [cuda.py:418] Valid backends: ['FLASH_ATTN', 'FLASHINFER', 'TRITON_ATTN', 'FLEX_ATTENTION']
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m INFO 05-06 09:31:19 [cuda.py:427] Using FLASH_ATTN backend.
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m INFO 05-06 09:31:21 [default_loader.py:314] Loading weights took 1.31 seconds
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m INFO 05-06 09:31:22 [gpu_model_runner.py:3338] Model loading took 2.1601 GiB memory and 2.075282 seconds
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m INFO 05-06 09:31:22 [gpu_model_runner.py:4088] Encoder cache will be initialized with a budget of 8100 tokens, and profiled with 1 video items of the maximum feature size.
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m INFO 05-06 09:31:34 [backends.py:631] Using cache directory: /home/s2025244189/.cache/vllm/torch_compile_cache/0785dbb6cf/rank_0_0/backbone for vLLM's torch.compile
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m INFO 05-06 09:31:34 [backends.py:647] Dynamo bytecode transform time: 7.93 s
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m INFO 05-06 09:31:38 [backends.py:210] Directly load the compiled graph(s) for dynamic shape from the cache, took 3.927 s
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m INFO 05-06 09:31:39 [monitor.py:34] torch.compile takes 11.86 s in total
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m INFO 05-06 09:31:40 [gpu_worker.py:359] Available KV cache memory: 35.80 GiB
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m INFO 05-06 09:31:41 [kv_cache_utils.py:1229] GPU KV cache size: 3,128,352 tokens
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m INFO 05-06 09:31:41 [kv_cache_utils.py:1234] Maximum concurrency for 8,192 tokens per request: 381.88x
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m INFO 05-06 09:31:44 [gpu_model_runner.py:4244] Graph capturing finished in 4 secs, took 1.19 GiB
+[1;36m(EngineCore_DP0 pid=2808112)[0;0m INFO 05-06 09:31:44 [core.py:250] init engine (profile, create kv cache, warmup model) took 22.62 seconds
+WARNING 05-06 09:31:56 [async_llm.py:288] Processor has been moved under OpenAIServing and will be removed from AsyncLLM in v0.13.
+
+[DONE] DHF 198/203: 11-设计确认/16-实验报告/2025.05.29 ETX202303-07-078-03R1-PT9L-红外体温计-正式报告.pdf
+[SKIP] DHF 199/203: 11-设计确认/16-实验报告/Analysis and Evaluation Report o...Touch Forehead Thermometer（PT9L） (1).docx
+[SKIP] DHF 200/203: 11-设计确认/16-实验报告/Annex I--ETX202303-07-078-05 Test Report（PT9L） (2).pdf
+[SKIP] DHF 201/203: 11-设计确认/16-实验报告/Annex II --Infrared No-Touch For...er performance test report（PT9L）.docx
+[SKIP] DHF 202/203: 12-上市批准书/上市批准书E1.docx
+[SKIP] DHF 203/203: PT9L-DHF清单.xlsx
+
+[DMR] input : /home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DMR-全-20260421_预处理
+[DMR] output: /home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DMR-全-20260421_预处理_hybrid-auto处理
+[DMR] files : 18
+[SKIP] DMR 1/18: PT9L 主记录明细.xlsx
+[SKIP] DMR 2/18: PT9L 操作作业指导书（标准）-插件探头1.0.xlsx
+[SKIP] DMR 3/18: PT9L 操作作业指导书（标准）-插件机芯1.0.xlsx
+[SKIP] DMR 4/18: PT9L 操作作业指导书（标准）-邦定机芯1.0.xlsx
+[SKIP] DMR 5/18: PT9L 检验作业指导书（标准）-插件探头1.0.docx
+[SKIP] DMR 6/18: PT9L 检验作业指导书（标准）-插件机芯1.0.docx
+[SKIP] DMR 7/18: PT9L 检验作业指导书（标准）-邦定机芯1.0.docx
+[SKIP] DMR 8/18: PT9L主机操作作业指导书 （标准）-主机 1.0.pdf
+[SKIP] DMR 9/18: PT9L主机操作作业指导书 （标准）-主机 1.0.xlsx
+[SKIP] DMR 10/18: PT9L出货检验作业指导（标准）成品1.0.xlsx
+[SKIP] DMR 11/18: PT9L出货检验规范.xlsx
+[SKIP] DMR 12/18: PT9L失效模式及后果分析（过程FMEA）1.0.xlsx
+[SKIP] DMR 13/18: PT9L工序控制大纲.xlsx
+[SKIP] DMR 14/18: PT9L操作作业指导书（标准）-下盖总成.xlsx
+[SKIP] DMR 15/18: PT9L操作作业指导书（标准）-丝印-1.0.xlsx
+[SKIP] DMR 16/18: PT9L检验作业指导书（标准）-主机1.0.xlsx
+[SKIP] DMR 17/18: PT9L组件清单1.0.xlsx
+[SKIP] DMR 18/18: 美国iHealth PT9L作业指导书白色- 包装.xlsx
+
+MinerU hybrid batch finished: 2026-05-06T09:32:42
+Successful or skipped files: 221
+Failed files: 0
+Finished at: Wed 06 May 2026 09:32:42 AM CST

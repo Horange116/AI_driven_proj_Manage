@@ -1,0 +1,279 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "⑧ 尺寸序号"
+                    }
+                ]
+            },
+            "bbox": [
+                954,
+                28,
+                991,
+                43
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0823bedc7d54d595a9ed7b62b0d5086be9288c483473930ac0f9c23a6ec39bc7.jpg"
+                },
+                "content": "1±0.05\n2.96±0.05\n⑤\n④\n1.5±0.05\n0.8\n0.3±0.05\n1.2±0.05",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SECTION A-A "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                187,
+                78,
+                483,
+                225
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/90769e2d4af0f43be891162e0ab94dd043662603489ccb7abd6682ddc13055e4.jpg"
+                },
+                "content": "Line drawing of a computer mouse with a handle and spout (no text or symbols)",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "natural_image",
+            "bbox": [
+                583,
+                92,
+                720,
+                307
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c0159f0a79fe05bd395721250b0e69b23fe19f7350388bf16ccb33e6b36b9b18.jpg"
+                },
+                "content": "1.5\n3.4±0.05",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                120,
+                376,
+                186,
+                586
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ac2d57785cf33b8239f4621efbe3fdb4728122f6a580e98c23611525ab058534.jpg"
+                },
+                "content": "B\n7.3\nA\n4\nA\nB",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                227,
+                332,
+                481,
+                596
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3c1cba8f6d88202b876ef53484f48c2802d439fda495f36d7d610b622bbb3211.jpg"
+                },
+                "content": "",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "SECTION B-B "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                535,
+                319,
+                582,
+                524
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/78ecd635b2036ecbf70cee6bd729160ca8dacf3c37056f15fd6ed379e3e64d70.jpg"
+                },
+                "content": "4.5\n②33±0.1",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                655,
+                400,
+                875,
+                524
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/745254f89dc234bf5e696b6e3319f3fa7931915af3b7648fa697a1178ba6ea23.jpg"
+                },
+                "content": "① 63.5±0.1\n68.5\n7±0.05\n③",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                256,
+                615,
+                473,
+                776
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "产品技术要求："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                565,
+                695,
+                605,
+                707
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 带编号为重要尺寸, 需要IQC测量;"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 材质为ABS（白色）；产品外观良好、无拉伤，变形，批锋，熔接痕，气纹，顶白，缺胶，缩水等不良现象；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. 须试装产品，并能顺利装入产品。未标注尺寸以样板为准；品质部检验结构时，请以结构签板和组装（实配）为准"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. 产品符合ROHS 2.0 "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                573,
+                710,
+                843,
+                808
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/9934778a014ca1ea3d61253c896e952ec0ec7c5f06cc2179b33faabe3bd0d7c0.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">DTM\\LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt; 5</td><td> $\\pm 0.03$ </td><td> $\\pm 0.1$ </td><td> $\\pm 0.15$ </td></tr><tr><td>&gt; 5~15</td><td> $\\pm 0.05$ </td><td> $\\pm 0.1$ </td><td> $\\pm 0.15$ </td></tr><tr><td>&gt; 15~50</td><td> $\\pm 0.05$ </td><td> $\\pm 0.1$ </td><td> $\\pm 0.2$ </td></tr><tr><td>&gt; 50~100</td><td> $\\pm 0.08$ </td><td> $\\pm 0.2$ </td><td> $\\pm 0.3$ </td></tr><tr><td> $\\geqslant 100$ </td><td> $\\pm 0.1\\%$ </td><td> $\\pm 0.2\\%$ </td><td> $\\pm 0.3\\%$ </td></tr><tr><td>ANGUL-R</td><td> $\\pm 0.1^*$ </td><td> $\\pm 0.5^*$ </td><td> $\\pm 0.5^*$ </td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\">B</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                912,
+                756,
+                998,
+                880
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1115a517c1e3f65e5653520afe738492a6c7be608456c07b0a5379c66afff353.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>6</td><td></td><td></td><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>ABS</td><td>Model NO.</td><td colspan=\"2\">T-Z1</td></tr><tr><td>5</td><td></td><td></td><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">电池盖</td></tr><tr><td>4</td><td></td><td></td><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">T-Z1-P04</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                0,
+                880,
+                998,
+                998
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "A B C D E F G H "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                0,
+                998,
+                26
+            ]
+        }
+    ]
+]

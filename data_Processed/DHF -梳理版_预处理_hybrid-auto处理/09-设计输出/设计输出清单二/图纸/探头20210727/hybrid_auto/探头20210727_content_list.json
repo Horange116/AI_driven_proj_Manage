@@ -1,0 +1,169 @@
+[
+    {
+        "type": "text",
+        "text": "⑧ 尺寸序号",
+        "bbox": [
+            935,
+            31,
+            989,
+            53
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "andon ",
+        "bbox": [
+            23,
+            36,
+            101,
+            82
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d18b3fe14cf51e0379d691d97d06b6d4ed5ea27ad337d8a39268cd7897910de6.jpg",
+        "image_caption": [
+            "SECTION A-A "
+        ],
+        "image_footnote": [],
+        "content": "0.8\n9.58±0.05\n①\n19.14±0.05",
+        "sub_type": "text_image",
+        "bbox": [
+            178,
+            302,
+            306,
+            561
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e471267db83dd1fc3b74b6f1e9faa784be4baa9cd4a21fc5ba9c40861e42e38.jpg",
+        "image_caption": [
+            "A "
+        ],
+        "image_footnote": [],
+        "content": "φ6.8±0.05\n3.65±0.05\n1±0.05",
+        "sub_type": "text_image",
+        "bbox": [
+            434,
+            307,
+            649,
+            610
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/655561e82eb0f69e6a4d75f48981179bd44bcf12477a8001e828b0b77883fd31.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Pure geometric diagram of concentric and overlapping rings without any text or symbols",
+        "sub_type": "natural_image",
+        "bbox": [
+            659,
+            55,
+            781,
+            243
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/9726cd0e565a1c91965995f5d99299632ae379df059097c4c23ee8bf09e65ab4.jpg",
+        "image_caption": [
+            "A "
+        ],
+        "image_footnote": [],
+        "content": "② 3.86±0.05\n0.9",
+        "sub_type": "text_image",
+        "bbox": [
+            725,
+            273,
+            848,
+            635
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "产品技术要求：",
+        "text_level": 1,
+        "bbox": [
+            60,
+            643,
+            116,
+            663
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. 带编号为重要尺寸, 需要IQC测量;",
+            "2. 材质为TPU（灰色）；产品外观良好、无拉伤，变形，批锋，熔接痕，气纹，顶白，缺胶，缩水等不良现象；",
+            "3. 须试装产品，并能顺利装入产品。未标注尺寸以样板为准；品质部检验结构时，请以结构签板和组装（实配）为准",
+            "4. 产品符合ROHS 2.0 "
+        ],
+        "bbox": [
+            74,
+            667,
+            462,
+            806
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/95f41e3b63baccbac6d5f1f1998c4cf4138d64f9d6d78623ee1dcb1757be7699.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\">DTM\\LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt; 5</td><td>±0.03</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 5~15</td><td>±0.05</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 15~50</td><td>±0.05</td><td>±0.1</td><td>±0.2</td></tr><tr><td>&gt; 50~100</td><td>±0.08</td><td>±0.2</td><td>±0.3</td></tr><tr><td>&gt;100</td><td>±0.1%</td><td>±0.2%</td><td>±0.3%</td></tr><tr><td>ANGULAR</td><td>±0.1°</td><td>±0.5°</td><td>±0.5°</td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\">B</td></tr></table>",
+        "bbox": [
+            873,
+            690,
+            998,
+            868
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/161077e492da845a9a7691c5ca9a52f3113dd5250b5ae588a687fcd0751d13dc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>TPU</td><td>Model NO.</td><td colspan=\"2\">T-Z1</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">探头</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>2:1</td><td>Drawing NO.</td><td colspan=\"2\">T-Z1-P03</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+        "bbox": [
+            0,
+            868,
+            998,
+            998
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "A B C D E F G H ",
+        "bbox": [
+            0,
+            0,
+            998,
+            26
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "1\n2\n3\n4\n5\n6\n7\n8\nN ",
+        "bbox": [
+            0,
+            28,
+            13,
+            998
+        ],
+        "page_idx": 0
+    }
+]

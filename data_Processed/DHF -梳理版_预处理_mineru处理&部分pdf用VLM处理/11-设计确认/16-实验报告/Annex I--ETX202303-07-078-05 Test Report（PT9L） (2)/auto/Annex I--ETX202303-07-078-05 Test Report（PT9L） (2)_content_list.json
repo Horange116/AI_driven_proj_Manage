@@ -1,0 +1,175 @@
+[
+    {
+        "type": "table",
+        "img_path": "images/18c8742c58ab5856561f993a7f1e46092b002b226beeba66d31d8d0592571547.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=2>TEST REPORTIEC 60068-2-78:2012: Damp heat , steady state</td></tr><tr><td rowspan=1 colspan=1>Date of issue.</td><td rowspan=1 colspan=1>2024-07-12</td></tr><tr><td rowspan=1 colspan=1>Standard..</td><td rowspan=1 colspan=1>IEC 60068-2-78:2012: Damp heat , steady state</td></tr><tr><td rowspan=1 colspan=1>Procedure deviation.</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Non-standard test method..</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Type of test object.</td><td rowspan=1 colspan=1>Infrared No-Touch Forehead Thermometer</td></tr><tr><td rowspan=1 colspan=1>Trademark..</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Model/type reference.</td><td rowspan=1 colspan=1>PT9L</td></tr><tr><td rowspan=1 colspan=1>Report No</td><td rowspan=1 colspan=1>ETX202303-07-078-05</td></tr><tr><td rowspan=1 colspan=1>Testing period..</td><td rowspan=1 colspan=1>2024.07.10-2024.07.11</td></tr><tr><td rowspan=1 colspan=1>Manufacturer.</td><td rowspan=1 colspan=1>ANDON HEALTH CO., LTD.</td></tr><tr><td rowspan=1 colspan=1>Address.</td><td rowspan=1 colspan=1>No.3 JinPing Street, YaAn Road, Nankai District, Tianjin, China</td></tr><tr><td rowspan=1 colspan=1>Test laboratory.Address..</td><td rowspan=1 colspan=1>Tianxu(Tianjin)Testing Technology Service Co., LTD101, First floor, Building L,No.3 JinPing Street, Ya An Road,Nankai District, Tianjin,China</td></tr></table>",
+        "bbox": [
+            87,
+            83,
+            899,
+            543
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            205,
+            587,
+            369,
+            688
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Complied by: （Kang Yanli） Date：",
+        "bbox": [
+            213,
+            687,
+            793,
+            709
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Reviewed by: （Guan Qingxiang） Date：",
+        "bbox": [
+            208,
+            725,
+            796,
+            745
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Report No.: ETX202303-07-078-05",
+        "bbox": [
+            87,
+            48,
+            352,
+            64
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/680a1eb98820287ac85e289079a2f8ee5b43d3550e2aa1a7ebacee3529e72039.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Clause</td><td>Requirement + Test</td><td>Result - Remark</td><td>Verdict</td></tr><tr><td colspan=\"4\"></td></tr><tr><td>Damp heat test</td><td colspan=\"2\">The sample is in normal working condition and put into the programmable constant temperature and humidity test chamber. The temperature and humidity of the test box are adjusted to 40 ° C and 95% RH. After the temperature and humidity are stable, it is maintained for 14.8 hours.</td><td>/</td></tr></table>",
+        "bbox": [
+            95,
+            101,
+            919,
+            243
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            620,
+            268,
+            818,
+            413
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            394,
+            428,
+            593,
+            571
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            171,
+            586,
+            369,
+            730
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Report No.: ETX202303-07-078-05",
+        "bbox": [
+            89,
+            48,
+            352,
+            64
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "2 / 3",
+        "bbox": [
+            482,
+            928,
+            515,
+            941
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb41f4273881e40adc4ff8e863af03692eaf2b290fb82c0c8e51d64032a6433d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            80,
+            126,
+            915,
+            613
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Report No.: ETX202303-07-078-05",
+        "bbox": [
+            87,
+            48,
+            352,
+            64
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "ATTACHMENT FILE 1 photos of the EUT",
+        "bbox": [
+            346,
+            86,
+            652,
+            102
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "3 / 3",
+        "bbox": [
+            480,
+            928,
+            515,
+            941
+        ],
+        "page_idx": 2
+    }
+]

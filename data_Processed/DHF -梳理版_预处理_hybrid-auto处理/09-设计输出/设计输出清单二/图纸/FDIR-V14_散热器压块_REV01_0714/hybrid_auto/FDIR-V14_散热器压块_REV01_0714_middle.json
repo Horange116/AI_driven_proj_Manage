@@ -1,0 +1,995 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        553,
+                        7,
+                        832,
+                        44
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                553,
+                                7,
+                                832,
+                                44
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        553,
+                                        7,
+                                        832,
+                                        44
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                553,
+                                                7,
+                                                832,
+                                                44
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>REV.</td><td>ZONE</td><td>NOTES</td><td>DRAWN</td><td>DATE</td><td>CHKD&amp;APP.</td><td>DATE</td></tr><tr><td>I.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+                                            "image_path": "3dc969577b1e9576ccd51c4feb8acef2a5a4577146e0f3178d8e0c3cfcc395f5.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        136,
+                        62,
+                        726,
+                        417
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                136,
+                                62,
+                                726,
+                                417
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        136,
+                                        62,
+                                        726,
+                                        417
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                136,
+                                                62,
+                                                726,
+                                                417
+                                            ],
+                                            "type": "image",
+                                            "content": "A\n12.95±0.05\n10.74\n9.24\n8.24\nØ11.58⁺⁰°³此处为配合尺寸\nØ58⁺⁰°⁴\n②\nØ3.6\n截面 A-A\n1.5±0.1此深度尺寸免检 以实配为准\n能装能拆,能过2M跌落\n④\nØ8.48⁺⁰°⁰²\n③",
+                                            "image_path": "1d357c5cc0308dab3be806530cfda6c9723a90caad49e3e8a9b70c642fd9d50d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "sub_type": "text_image"
+                },
+                {
+                    "bbox": [
+                        19,
+                        479,
+                        29,
+                        492
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                479,
+                                31,
+                                494
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        479,
+                                        31,
+                                        494
+                                    ],
+                                    "type": "text",
+                                    "content": "注",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        20,
+                        495,
+                        269,
+                        578
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 7,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                21,
+                                495,
+                                174,
+                                509
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        19,
+                                        495,
+                                        175,
+                                        511
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                19,
+                                                495,
+                                                175,
+                                                511
+                                            ],
+                                            "type": "text",
+                                            "content": "1：材质为黄铜，表面光",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                20,
+                                512,
+                                227,
+                                528
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 4,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        511,
+                                        229,
+                                        528
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                18,
+                                                511,
+                                                229,
+                                                528
+                                            ],
+                                            "type": "text",
+                                            "content": "2：未注尺寸请以电子档为准,未",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                20,
+                                530,
+                                269,
+                                544
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 5,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        19,
+                                        529,
+                                        271,
+                                        545
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                19,
+                                                529,
+                                                271,
+                                                545
+                                            ],
+                                            "type": "text",
+                                            "content": "3: 带编号尺寸为重点检测尺寸!但4号尺",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                20,
+                                546,
+                                210,
+                                578
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        19,
+                                        546,
+                                        211,
+                                        561
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                19,
+                                                546,
+                                                211,
+                                                561
+                                            ],
+                                            "type": "text",
+                                            "content": "4：3、4号尺寸需与散热金属",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        35,
+                                        562,
+                                        94,
+                                        580
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                35,
+                                                562,
+                                                94,
+                                                580
+                                            ],
+                                            "type": "text",
+                                            "content": "能过2M跌",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "merge_prev": false
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        296,
+                        478,
+                        355,
+                        512
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                290,
+                                473,
+                                361,
+                                518
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        290,
+                                        473,
+                                        361,
+                                        518
+                                    ],
+                                    "type": "text",
+                                    "content": "机密",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        379,
+                        484,
+                        434,
+                        495
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                376,
+                                481,
+                                436,
+                                498
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        481,
+                                        436,
+                                        498
+                                    ],
+                                    "type": "text",
+                                    "content": "(2017.07.14",
+                                    "score": 0.943
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        385,
+                        500,
+                        428,
+                        512
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                382,
+                                500,
+                                431,
+                                514
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        382,
+                                        500,
+                                        431,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": "iHealth",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        457,
+                        461,
+                        831,
+                        586
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                457,
+                                461,
+                                831,
+                                586
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        457,
+                                        461,
+                                        831,
+                                        586
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                457,
+                                                461,
+                                                831,
+                                                586
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">LEVELOTM</td><td colspan=\"3\">GENERAL TOLERANCE</td><td rowspan=\"2\">PART NAME(零件名称)散热器压块</td><td rowspan=\"4\" colspan=\"4\">Famidoc</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt;5</td><td>±0.03</td><td>±0.1</td><td>±0.15</td><td rowspan=\"2\">MAT&#x27;L(材料)黄铜</td></tr><tr><td>&gt;5~15</td><td>±0.05</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt;15-50</td><td>±0.05</td><td>±0.1</td><td>±0.2</td><td rowspan=\"2\">PRODUCTION NAME体温计</td><td rowspan=\"2\">PRODUCTION NO FDIR-VI4</td><td rowspan=\"3\">DRAWING(设计)</td><td rowspan=\"3\">DATE.(日期)</td><td rowspan=\"3\">2017628</td></tr><tr><td>&gt;50-100</td><td>±0.08</td><td>±0.2</td><td>±0.3</td></tr><tr><td>&gt;100</td><td>±0.1%</td><td>±0.2%</td><td>±0.3%</td><td rowspan=\"2\">FILE NUMBER文件编号</td><td rowspan=\"2\"></td></tr><tr><td>ANGULAR</td><td>±0.1°</td><td>±0.5°</td><td>±0.5°</td><td rowspan=\"3\">AUDITING(审核)</td><td rowspan=\"3\">DATE.(日期)</td><td rowspan=\"3\"></td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\" colspan=\"2\">表单编号 QR-12-118</td></tr><tr><td colspan=\"2\">B</td></tr><tr><td>SCALE&lt;比例&gt;</td><td>UNITS&lt;单位&gt;</td><td>REV.&lt;版本&gt;</td><td>SHEET&lt;页数&gt;</td><td rowspan=\"2\" colspan=\"2\">版次 VI.0</td><td rowspan=\"2\">CONFIRM(批准)</td><td rowspan=\"2\">DATE.(日期)</td><td rowspan=\"2\"></td></tr><tr><td></td><td>MM</td><td></td><td>I off</td></tr></table>",
+                                            "image_path": "f8c658377e281d788e6b1c29bb40d700e0500f0d2fad7e15b2bfb922cb9dec59.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        41,
+                        586,
+                        793,
+                        592
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                586,
+                                793,
+                                592
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        586,
+                                        793,
+                                        592
+                                    ],
+                                    "type": "text",
+                                    "content": "1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        831,
+                        42,
+                        840,
+                        592
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                831,
+                                42,
+                                840,
+                                592
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        831,
+                                        42,
+                                        840,
+                                        592
+                                    ],
+                                    "type": "text",
+                                    "content": "A\nB\nC\nD\nE\nF\nG\nH\nA 4"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                }
+            ],
+            "page_size": [
+                841,
+                595
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        553,
+                        7,
+                        832,
+                        44
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                553,
+                                7,
+                                832,
+                                44
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        553,
+                                        7,
+                                        832,
+                                        44
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                553,
+                                                7,
+                                                832,
+                                                44
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>REV.</td><td>ZONE</td><td>NOTES</td><td>DRAWN</td><td>DATE</td><td>CHKD&amp;APP.</td><td>DATE</td></tr><tr><td>I.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+                                            "image_path": "3dc969577b1e9576ccd51c4feb8acef2a5a4577146e0f3178d8e0c3cfcc395f5.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        136,
+                        62,
+                        726,
+                        417
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                136,
+                                62,
+                                726,
+                                417
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        136,
+                                        62,
+                                        726,
+                                        417
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                136,
+                                                62,
+                                                726,
+                                                417
+                                            ],
+                                            "type": "image",
+                                            "content": "A\n12.95±0.05\n10.74\n9.24\n8.24\nØ11.58⁺⁰°³此处为配合尺寸\nØ58⁺⁰°⁴\n②\nØ3.6\n截面 A-A\n1.5±0.1此深度尺寸免检 以实配为准\n能装能拆,能过2M跌落\n④\nØ8.48⁺⁰°⁰²\n③",
+                                            "image_path": "1d357c5cc0308dab3be806530cfda6c9723a90caad49e3e8a9b70c642fd9d50d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "sub_type": "text_image"
+                },
+                {
+                    "bbox": [
+                        19,
+                        479,
+                        29,
+                        492
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                479,
+                                31,
+                                494
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        479,
+                                        31,
+                                        494
+                                    ],
+                                    "type": "text",
+                                    "content": "注",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        20,
+                        495,
+                        269,
+                        578
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 7,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                21,
+                                495,
+                                174,
+                                509
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        19,
+                                        495,
+                                        175,
+                                        511
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                19,
+                                                495,
+                                                175,
+                                                511
+                                            ],
+                                            "type": "text",
+                                            "content": "1：材质为黄铜，表面光",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                20,
+                                512,
+                                227,
+                                528
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 4,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        511,
+                                        229,
+                                        528
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                18,
+                                                511,
+                                                229,
+                                                528
+                                            ],
+                                            "type": "text",
+                                            "content": "2：未注尺寸请以电子档为准,未",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                20,
+                                530,
+                                269,
+                                544
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 5,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        19,
+                                        529,
+                                        271,
+                                        545
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                19,
+                                                529,
+                                                271,
+                                                545
+                                            ],
+                                            "type": "text",
+                                            "content": "3: 带编号尺寸为重点检测尺寸!但4号尺",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                20,
+                                546,
+                                210,
+                                578
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "index": 6,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        19,
+                                        546,
+                                        211,
+                                        561
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                19,
+                                                546,
+                                                211,
+                                                561
+                                            ],
+                                            "type": "text",
+                                            "content": "4：3、4号尺寸需与散热金属",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        35,
+                                        562,
+                                        94,
+                                        580
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                35,
+                                                562,
+                                                94,
+                                                580
+                                            ],
+                                            "type": "text",
+                                            "content": "能过2M跌",
+                                            "score": 1.0
+                                        }
+                                    ]
+                                }
+                            ],
+                            "merge_prev": false
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "bbox": [
+                        296,
+                        478,
+                        355,
+                        512
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                290,
+                                473,
+                                361,
+                                518
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        290,
+                                        473,
+                                        361,
+                                        518
+                                    ],
+                                    "type": "text",
+                                    "content": "机密",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        379,
+                        484,
+                        434,
+                        495
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                376,
+                                481,
+                                436,
+                                498
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        481,
+                                        436,
+                                        498
+                                    ],
+                                    "type": "text",
+                                    "content": "(2017.07.14",
+                                    "score": 0.943
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        385,
+                        500,
+                        428,
+                        512
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                382,
+                                500,
+                                431,
+                                514
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        382,
+                                        500,
+                                        431,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": "iHealth",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        457,
+                        461,
+                        831,
+                        586
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                457,
+                                461,
+                                831,
+                                586
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        457,
+                                        461,
+                                        831,
+                                        586
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                457,
+                                                461,
+                                                831,
+                                                586
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">LEVELOTM</td><td colspan=\"3\">GENERAL TOLERANCE</td><td rowspan=\"2\">PART NAME(零件名称)散热器压块</td><td rowspan=\"4\" colspan=\"4\">Famidoc</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt;5</td><td>±0.03</td><td>±0.1</td><td>±0.15</td><td rowspan=\"2\">MAT&#x27;L(材料)黄铜</td></tr><tr><td>&gt;5~15</td><td>±0.05</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt;15-50</td><td>±0.05</td><td>±0.1</td><td>±0.2</td><td rowspan=\"2\">PRODUCTION NAME体温计</td><td rowspan=\"2\">PRODUCTION NO FDIR-VI4</td><td rowspan=\"3\">DRAWING(设计)</td><td rowspan=\"3\">DATE.(日期)</td><td rowspan=\"3\">2017628</td></tr><tr><td>&gt;50-100</td><td>±0.08</td><td>±0.2</td><td>±0.3</td></tr><tr><td>&gt;100</td><td>±0.1%</td><td>±0.2%</td><td>±0.3%</td><td rowspan=\"2\">FILE NUMBER文件编号</td><td rowspan=\"2\"></td></tr><tr><td>ANGULAR</td><td>±0.1°</td><td>±0.5°</td><td>±0.5°</td><td rowspan=\"3\">AUDITING(审核)</td><td rowspan=\"3\">DATE.(日期)</td><td rowspan=\"3\"></td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\" colspan=\"2\">表单编号 QR-12-118</td></tr><tr><td colspan=\"2\">B</td></tr><tr><td>SCALE&lt;比例&gt;</td><td>UNITS&lt;单位&gt;</td><td>REV.&lt;版本&gt;</td><td>SHEET&lt;页数&gt;</td><td rowspan=\"2\" colspan=\"2\">版次 VI.0</td><td rowspan=\"2\">CONFIRM(批准)</td><td rowspan=\"2\">DATE.(日期)</td><td rowspan=\"2\"></td></tr><tr><td></td><td>MM</td><td></td><td>I off</td></tr></table>",
+                                            "image_path": "f8c658377e281d788e6b1c29bb40d700e0500f0d2fad7e15b2bfb922cb9dec59.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "3.1.6"
+}

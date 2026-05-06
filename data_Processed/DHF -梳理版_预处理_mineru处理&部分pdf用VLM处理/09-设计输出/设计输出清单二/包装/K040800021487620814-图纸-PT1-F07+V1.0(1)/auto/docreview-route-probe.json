@@ -1,0 +1,48 @@
+{
+  "format": "docreview-pdf-layout-probe-v1",
+  "source_name": "K040800021487620814-图纸-PT1-F07+V1.0(1).pdf",
+  "content_hash": "3b883e142cc9337b31640c5b382bbaaac29912508d06dac4f920e9642735fb9a",
+  "page_count": 1,
+  "engine": "pymupdf",
+  "capabilities": {
+    "text_blocks": true,
+    "word_coordinates": true,
+    "row_clustering": true,
+    "vector_drawings": true,
+    "tables": false,
+    "ocr": false,
+    "semantic_table_reconstruction": false
+  },
+  "limits": [
+    "Rows are geometric text clusters, not verified semantic tables.",
+    "Vector drawings are counted but not converted into Gantt/task bars.",
+    "Scanned-image OCR is not enabled.",
+    "PDF W1 output is text/layout-audit evidence, not semantic Gantt reconstruction."
+  ],
+  "totals": {
+    "text_block_count": 0,
+    "word_count": 0,
+    "row_count": 0,
+    "table_like_row_count": 0,
+    "drawing_path_count": 434,
+    "drawing_item_count": 7655,
+    "line_item_count": 3396,
+    "rectangle_item_count": 102
+  },
+  "pages": [
+    {
+      "page_index": 1,
+      "width": 841.89,
+      "height": 595.28,
+      "text_block_count": 0,
+      "word_count": 0,
+      "row_count": 0,
+      "table_like_row_count": 0,
+      "drawing_path_count": 434,
+      "drawing_item_count": 7655,
+      "line_item_count": 3396,
+      "rectangle_item_count": 102,
+      "rows": []
+    }
+  ]
+}

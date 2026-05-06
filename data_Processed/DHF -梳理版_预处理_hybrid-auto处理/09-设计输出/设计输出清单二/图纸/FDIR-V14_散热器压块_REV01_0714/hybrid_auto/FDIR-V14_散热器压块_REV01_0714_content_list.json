@@ -1,0 +1,128 @@
+[
+    {
+        "type": "table",
+        "img_path": "images/3dc969577b1e9576ccd51c4feb8acef2a5a4577146e0f3178d8e0c3cfcc395f5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>REV.</td><td>ZONE</td><td>NOTES</td><td>DRAWN</td><td>DATE</td><td>CHKD&amp;APP.</td><td>DATE</td></tr><tr><td>I.</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            657,
+            11,
+            989,
+            73
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d357c5cc0308dab3be806530cfda6c9723a90caad49e3e8a9b70c642fd9d50d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "A\n12.95±0.05\n10.74\n9.24\n8.24\nØ11.58⁺⁰°³此处为配合尺寸\nØ58⁺⁰°⁴\n②\nØ3.6\n截面 A-A\n1.5±0.1此深度尺寸免检 以实配为准\n能装能拆,能过2M跌落\n④\nØ8.48⁺⁰°⁰²\n③",
+        "sub_type": "text_image",
+        "bbox": [
+            161,
+            104,
+            863,
+            700
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "注 ",
+        "bbox": [
+            22,
+            805,
+            34,
+            826
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1：材质为黄铜，表面光",
+            "2：未注尺寸请以电子档为准,未",
+            "3: 带编号尺寸为重点检测尺寸!但4号尺 ",
+            "4：3、4号尺寸需与散热金属 能过2M跌 "
+        ],
+        "bbox": [
+            23,
+            831,
+            319,
+            971
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "机密",
+        "bbox": [
+            351,
+            803,
+            422,
+            860
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(2017.07.14 ",
+        "bbox": [
+            450,
+            813,
+            516,
+            831
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "iHealth ",
+        "bbox": [
+            457,
+            840,
+            508,
+            860
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8c658377e281d788e6b1c29bb40d700e0500f0d2fad7e15b2bfb922cb9dec59.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\">LEVELOTM</td><td colspan=\"3\">GENERAL TOLERANCE</td><td rowspan=\"2\">PART NAME(零件名称)散热器压块</td><td rowspan=\"4\" colspan=\"4\">Famidoc</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt;5</td><td>±0.03</td><td>±0.1</td><td>±0.15</td><td rowspan=\"2\">MAT&#x27;L(材料)黄铜</td></tr><tr><td>&gt;5~15</td><td>±0.05</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt;15-50</td><td>±0.05</td><td>±0.1</td><td>±0.2</td><td rowspan=\"2\">PRODUCTION NAME体温计</td><td rowspan=\"2\">PRODUCTION NO FDIR-VI4</td><td rowspan=\"3\">DRAWING(设计)</td><td rowspan=\"3\">DATE.(日期)</td><td rowspan=\"3\">2017628</td></tr><tr><td>&gt;50-100</td><td>±0.08</td><td>±0.2</td><td>±0.3</td></tr><tr><td>&gt;100</td><td>±0.1%</td><td>±0.2%</td><td>±0.3%</td><td rowspan=\"2\">FILE NUMBER文件编号</td><td rowspan=\"2\"></td></tr><tr><td>ANGULAR</td><td>±0.1°</td><td>±0.5°</td><td>±0.5°</td><td rowspan=\"3\">AUDITING(审核)</td><td rowspan=\"3\">DATE.(日期)</td><td rowspan=\"3\"></td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\" colspan=\"2\">表单编号 QR-12-118</td></tr><tr><td colspan=\"2\">B</td></tr><tr><td>SCALE&lt;比例&gt;</td><td>UNITS&lt;单位&gt;</td><td>REV.&lt;版本&gt;</td><td>SHEET&lt;页数&gt;</td><td rowspan=\"2\" colspan=\"2\">版次 VI.0</td><td rowspan=\"2\">CONFIRM(批准)</td><td rowspan=\"2\">DATE.(日期)</td><td rowspan=\"2\"></td></tr><tr><td></td><td>MM</td><td></td><td>I off</td></tr></table>",
+        "bbox": [
+            543,
+            774,
+            988,
+            984
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 ",
+        "bbox": [
+            48,
+            984,
+            942,
+            994
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "A\nB\nC\nD\nE\nF\nG\nH\nA 4 ",
+        "bbox": [
+            988,
+            70,
+            998,
+            994
+        ],
+        "page_idx": 0
+    }
+]

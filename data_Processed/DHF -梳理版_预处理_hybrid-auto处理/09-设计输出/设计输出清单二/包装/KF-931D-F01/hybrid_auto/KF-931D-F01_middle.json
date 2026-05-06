@@ -1,0 +1,1283 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "bbox": [
+                        376,
+                        16,
+                        397,
+                        22
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                376,
+                                16,
+                                397,
+                                22
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        16,
+                                        397,
+                                        22
+                                    ],
+                                    "type": "text",
+                                    "content": "⑧ 尺寸序号"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        94,
+                        29,
+                        204,
+                        79
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                17,
+                                19,
+                                48,
+                                32
+                            ],
+                            "type": "image_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        19,
+                                        48,
+                                        32
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                17,
+                                                19,
+                                                48,
+                                                32
+                                            ],
+                                            "type": "text",
+                                            "content": "andon"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                29,
+                                204,
+                                79
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        29,
+                                        204,
+                                        79
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                94,
+                                                29,
+                                                204,
+                                                79
+                                            ],
+                                            "type": "image",
+                                            "content": "Isometric line drawing of a multi-story building facade with slatted windows (no text or symbols)",
+                                            "image_path": "2d6ea6d0b1faba6d8e274f04413918413db37d33ded25ed6c60197ba44e402a7.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "sub_type": "natural_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        53,
+                        102,
+                        88,
+                        178
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                53,
+                                102,
+                                88,
+                                178
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        102,
+                                        88,
+                                        178
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                53,
+                                                102,
+                                                88,
+                                                178
+                                            ],
+                                            "type": "image",
+                                            "content": "③710.0(Min.)\n④160.0(Max.)",
+                                            "image_path": "b2bcb7f13bb25e2c5cf72a4cd0eddcc1891c1d1574de1b6c71874689e9656aee.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 5,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        123,
+                        88,
+                        226,
+                        180
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                123,
+                                88,
+                                226,
+                                180
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        123,
+                                        88,
+                                        226,
+                                        180
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                123,
+                                                88,
+                                                226,
+                                                180
+                                            ],
+                                            "type": "image",
+                                            "content": "①1200.028\nØ1000.00",
+                                            "image_path": "3291b1a2a8806c467461b437b67713174d0aa8c64d10395f461063b079034100.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        256,
+                        44,
+                        392,
+                        197
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                256,
+                                44,
+                                392,
+                                197
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        256,
+                                        44,
+                                        392,
+                                        197
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                256,
+                                                44,
+                                                392,
+                                                197
+                                            ],
+                                            "type": "image",
+                                            "content": "Diagram showing four labeled components of a mechanical or architectural structure, including slats, cubes, and a panel.",
+                                            "image_path": "56b14684f442942a53f6ce4810934a47a3f4afaab7062dfce164707bb4574174.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7,
+                    "sub_type": "text_image"
+                },
+                {
+                    "bbox": [
+                        52,
+                        215,
+                        73,
+                        222
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                215,
+                                73,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        215,
+                                        73,
+                                        222
+                                    ],
+                                    "type": "text",
+                                    "content": "技术要求"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        25,
+                        224,
+                        152,
+                        257
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 15,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                25,
+                                224,
+                                84,
+                                229
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        224,
+                                        84,
+                                        229
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                25,
+                                                224,
+                                                84,
+                                                229
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 底铺板支承面积不小于 0.42m²"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                25,
+                                229,
+                                94,
+                                234
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        229,
+                                        94,
+                                        234
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                25,
+                                                229,
+                                                94,
+                                                234
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 托盘两对角线长度之差不大于 15.6"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                25,
+                                235,
+                                124,
+                                240
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        235,
+                                        124,
+                                        240
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                25,
+                                                235,
+                                                124,
+                                                240
+                                            ],
+                                            "type": "text",
+                                            "content": "3. 平面度：顶铺板偏离预定水平面垂直偏差不大于 7.0"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                25,
+                                240,
+                                73,
+                                245
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        240,
+                                        73,
+                                        245
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                25,
+                                                240,
+                                                73,
+                                                245
+                                            ],
+                                            "type": "text",
+                                            "content": "4. 托盘动载不小于 1000kg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                25,
+                                246,
+                                124,
+                                251
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        246,
+                                        124,
+                                        251
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                25,
+                                                246,
+                                                124,
+                                                251
+                                            ],
+                                            "type": "text",
+                                            "content": "5. 若构件使用钉紧固，要求钉端头、钉尖不得伸出构件"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                25,
+                                251,
+                                152,
+                                257
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        251,
+                                        152,
+                                        257
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                25,
+                                                251,
+                                                152,
+                                                257
+                                            ],
+                                            "type": "text",
+                                            "content": "6. 托盘要求通过《联运通用平托盘试验方法》（GB/T 4996-1996）测试"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14,
+                            "merge_prev": false
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        316,
+                        222,
+                        403,
+                        260
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                316,
+                                222,
+                                403,
+                                260
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        316,
+                                        222,
+                                        403,
+                                        260
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                316,
+                                                222,
+                                                403,
+                                                260
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>4</td><td>底铺板</td><td>胶合板</td><td></td></tr><tr><td>3</td><td>垫块</td><td>刨花板</td><td></td></tr><tr><td>2</td><td>纵梁板</td><td>胶合板</td><td></td></tr><tr><td>1</td><td>顶铺板</td><td>胶合板</td><td></td></tr><tr><td>序号</td><td>构件名称</td><td>材料</td><td>备注</td></tr></table>",
+                                            "image_path": "d0e7638df84781bc7c4f2552f97a0ad45a0ead985c5a77331ad00909f942c9fd.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        7,
+                        260,
+                        404,
+                        296
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                7,
+                                260,
+                                404,
+                                296
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        7,
+                                        260,
+                                        404,
+                                        296
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                7,
+                                                260,
+                                                404,
+                                                296
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">KD-931D</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td>20/07/5</td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">托盘</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td>20/7/5</td><td>.XX</td><td></td><td>Scale</td><td>1:20</td><td>Drawing NO.</td><td colspan=\"2\">KD-931D-F01</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td>2/5</td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "08a1a1a657940df3541838aa03b72f5306354819cc20f16913ecb3f19eb22a9e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 17
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        7,
+                        21,
+                        12,
+                        237
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                7,
+                                21,
+                                12,
+                                237
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        7,
+                                        21,
+                                        12,
+                                        237
+                                    ],
+                                    "type": "text",
+                                    "content": "1\n2\n3\n4\n5\n6\n7\n8"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        30,
+                        10,
+                        379,
+                        15
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                30,
+                                10,
+                                379,
+                                15
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        10,
+                                        379,
+                                        15
+                                    ],
+                                    "type": "text",
+                                    "content": "A | B | C | D | E | F | G | H"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                418,
+                309
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "bbox": [
+                        376,
+                        16,
+                        397,
+                        22
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                376,
+                                16,
+                                397,
+                                22
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        16,
+                                        397,
+                                        22
+                                    ],
+                                    "type": "text",
+                                    "content": "⑧ 尺寸序号"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        94,
+                        29,
+                        204,
+                        79
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                17,
+                                19,
+                                48,
+                                32
+                            ],
+                            "type": "image_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        19,
+                                        48,
+                                        32
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                17,
+                                                19,
+                                                48,
+                                                32
+                                            ],
+                                            "type": "text",
+                                            "content": "andon"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                29,
+                                204,
+                                79
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        29,
+                                        204,
+                                        79
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                94,
+                                                29,
+                                                204,
+                                                79
+                                            ],
+                                            "type": "image",
+                                            "content": "Isometric line drawing of a multi-story building facade with slatted windows (no text or symbols)",
+                                            "image_path": "2d6ea6d0b1faba6d8e274f04413918413db37d33ded25ed6c60197ba44e402a7.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "sub_type": "natural_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        53,
+                        102,
+                        88,
+                        178
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                53,
+                                102,
+                                88,
+                                178
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        102,
+                                        88,
+                                        178
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                53,
+                                                102,
+                                                88,
+                                                178
+                                            ],
+                                            "type": "image",
+                                            "content": "③710.0(Min.)\n④160.0(Max.)",
+                                            "image_path": "b2bcb7f13bb25e2c5cf72a4cd0eddcc1891c1d1574de1b6c71874689e9656aee.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 5,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        123,
+                        88,
+                        226,
+                        180
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                123,
+                                88,
+                                226,
+                                180
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        123,
+                                        88,
+                                        226,
+                                        180
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                123,
+                                                88,
+                                                226,
+                                                180
+                                            ],
+                                            "type": "image",
+                                            "content": "①1200.028\nØ1000.00",
+                                            "image_path": "3291b1a2a8806c467461b437b67713174d0aa8c64d10395f461063b079034100.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        256,
+                        44,
+                        392,
+                        197
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                256,
+                                44,
+                                392,
+                                197
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        256,
+                                        44,
+                                        392,
+                                        197
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                256,
+                                                44,
+                                                392,
+                                                197
+                                            ],
+                                            "type": "image",
+                                            "content": "Diagram showing four labeled components of a mechanical or architectural structure, including slats, cubes, and a panel.",
+                                            "image_path": "56b14684f442942a53f6ce4810934a47a3f4afaab7062dfce164707bb4574174.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7,
+                    "sub_type": "text_image"
+                },
+                {
+                    "bbox": [
+                        52,
+                        215,
+                        73,
+                        222
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                215,
+                                73,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        215,
+                                        73,
+                                        222
+                                    ],
+                                    "type": "text",
+                                    "content": "技术要求"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        25,
+                        224,
+                        152,
+                        257
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 15,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                25,
+                                224,
+                                84,
+                                229
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        224,
+                                        84,
+                                        229
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                25,
+                                                224,
+                                                84,
+                                                229
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 底铺板支承面积不小于 0.42m²"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                25,
+                                229,
+                                94,
+                                234
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        229,
+                                        94,
+                                        234
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                25,
+                                                229,
+                                                94,
+                                                234
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 托盘两对角线长度之差不大于 15.6"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                25,
+                                235,
+                                124,
+                                240
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        235,
+                                        124,
+                                        240
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                25,
+                                                235,
+                                                124,
+                                                240
+                                            ],
+                                            "type": "text",
+                                            "content": "3. 平面度：顶铺板偏离预定水平面垂直偏差不大于 7.0"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                25,
+                                240,
+                                73,
+                                245
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        240,
+                                        73,
+                                        245
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                25,
+                                                240,
+                                                73,
+                                                245
+                                            ],
+                                            "type": "text",
+                                            "content": "4. 托盘动载不小于 1000kg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                25,
+                                246,
+                                124,
+                                251
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        246,
+                                        124,
+                                        251
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                25,
+                                                246,
+                                                124,
+                                                251
+                                            ],
+                                            "type": "text",
+                                            "content": "5. 若构件使用钉紧固，要求钉端头、钉尖不得伸出构件"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                25,
+                                251,
+                                152,
+                                257
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        25,
+                                        251,
+                                        152,
+                                        257
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                25,
+                                                251,
+                                                152,
+                                                257
+                                            ],
+                                            "type": "text",
+                                            "content": "6. 托盘要求通过《联运通用平托盘试验方法》（GB/T 4996-1996）测试"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14,
+                            "merge_prev": false
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        316,
+                        222,
+                        403,
+                        260
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                316,
+                                222,
+                                403,
+                                260
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        316,
+                                        222,
+                                        403,
+                                        260
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                316,
+                                                222,
+                                                403,
+                                                260
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>4</td><td>底铺板</td><td>胶合板</td><td></td></tr><tr><td>3</td><td>垫块</td><td>刨花板</td><td></td></tr><tr><td>2</td><td>纵梁板</td><td>胶合板</td><td></td></tr><tr><td>1</td><td>顶铺板</td><td>胶合板</td><td></td></tr><tr><td>序号</td><td>构件名称</td><td>材料</td><td>备注</td></tr></table>",
+                                            "image_path": "d0e7638df84781bc7c4f2552f97a0ad45a0ead985c5a77331ad00909f942c9fd.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        7,
+                        260,
+                        404,
+                        296
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                7,
+                                260,
+                                404,
+                                296
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        7,
+                                        260,
+                                        404,
+                                        296
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                7,
+                                                260,
+                                                404,
+                                                296
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">KD-931D</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td>20/07/5</td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">托盘</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td>20/7/5</td><td>.XX</td><td></td><td>Scale</td><td>1:20</td><td>Drawing NO.</td><td colspan=\"2\">KD-931D-F01</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td>2/5</td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "08a1a1a657940df3541838aa03b72f5306354819cc20f16913ecb3f19eb22a9e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 17
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "3.1.6"
+}

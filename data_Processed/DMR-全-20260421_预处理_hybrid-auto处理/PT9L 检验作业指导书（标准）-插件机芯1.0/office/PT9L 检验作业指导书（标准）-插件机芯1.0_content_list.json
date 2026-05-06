@@ -1,0 +1,13 @@
+[
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><tr><td colspan=\"2\"><p><strong>检验项目</strong></p></td><td><p><strong>检验用具</strong></p></td><td><p><strong>检验方法</strong></p></td><td><p><strong>合格标准</strong></p></td><td><p><strong>缺陷等级</strong></p></td></tr><tr><td><p>插件机芯（首件+抽检）</p></td><td><p>焊点检验</p></td><td><p>目测</p></td><td><img src=\"images/ac7369517194ffdf6cc3f8fd5f8c20beaa2eaba051f2fe1ed86ed12b645cb607.png\"/><img src=\"images/09f6de6dbbf5c1febe4b99d5a8daf80cd41305ce0a36b607e395baf79ea40a37.png\"/></td><td><ol><li>镀锡点共3个（详细位置：1、2、3）焊点饱满，镀锡位置正确；</li><li>焊点不可出现拉尖、连焊、虚焊、漏焊现象；</li><li>焊点周边的元器件不可有损伤、缺件或连焊现象；</li><li>正负极簧紧贴PCB，不可歪斜。</li><li>蜂鸣器紧贴PCB，且方向一致。</li></ol></td><td><p>MA</p></td></tr></table>",
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "**PT9L检验作业指导书（标准）**    Type             Section Page          Ver.No           Date               Prepared           Checked          Approved 部件名称               页码               版本           生效期                准备              审核              批准 插件机芯                \t                     1.0            2024.6.20",
+        "page_idx": 0
+    }
+]

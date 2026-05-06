@@ -1,0 +1,506 @@
+[
+    {
+        "type": "text",
+        "text": "报告日期：2017.06.27",
+        "bbox": [
+            100,
+            103,
+            321,
+            122
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Test Report ",
+        "bbox": [
+            411,
+            103,
+            566,
+            124
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Report No:2017062725 ",
+        "bbox": [
+            665,
+            104,
+            900,
+            123
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "送检公司：东莞市上合旺盈印刷有限公司营业七部付汉清",
+        "bbox": [
+            231,
+            155,
+            741,
+            173
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "送检公司地址：东莞市东城区主山振兴路329号旺盈工业园",
+        "bbox": [
+            231,
+            183,
+            749,
+            200
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以下测试样品是由申请者提供及确认：红外体温计",
+        "bbox": [
+            231,
+            211,
+            678,
+            229
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "样品编号 :NA",
+        "bbox": [
+            231,
+            258,
+            468,
+            274
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "批号 :NA",
+        "bbox": [
+            231,
+            284,
+            468,
+            300
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "订单/工程单号 :NA",
+        "bbox": [
+            231,
+            309,
+            468,
+            326
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "供应商 : NA ",
+        "bbox": [
+            231,
+            335,
+            478,
+            351
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "送检数量 :1箱",
+        "bbox": [
+            231,
+            361,
+            477,
+            378
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "客户名称/代码 :A1939",
+        "bbox": [
+            231,
+            387,
+            497,
+            403
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "样品接收日期 :2017.06.27",
+        "bbox": [
+            231,
+            412,
+            547,
+            429
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "测试周期 :2017.06.27-2017.06.27 ",
+        "bbox": [
+            231,
+            437,
+            658,
+            454
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "测试方法 :请参见下一页",
+        "bbox": [
+            231,
+            463,
+            568,
+            480
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/387c04131b719f7f9c71588f4f4f0430749977928128bf9379a187a98165f022.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">测试要求</td><td rowspan=\"2\">结果</td></tr><tr><td colspan=\"2\">参考标准</td><td>测试项目</td></tr><tr><td>1</td><td>客户要求</td><td>模拟运输</td><td>供参考</td></tr></table>",
+        "bbox": [
+            134,
+            535,
+            868,
+            623
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "更多测试细节请参考以下页面",
+        "bbox": [
+            379,
+            640,
+            668,
+            659
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\* ",
+        "bbox": [
+            60,
+            661,
+            934,
+            673
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "旺盈彩盒纸品有限公司实验室授权以下人员测试并签核本报告",
+        "bbox": [
+            176,
+            684,
+            816,
+            705
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "测试：杨汝圭 ",
+        "bbox": [
+            221,
+            764,
+            374,
+            784
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/171849ffdd29af726c4e81e7f5931a738de42ff5b9fc06f21ab615f6178f4427.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Box Plot Paper Co., Ltd.\n审核:宋刚\n物理实验室",
+        "sub_type": "text_image",
+        "bbox": [
+            631,
+            734,
+            808,
+            812
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "voion® 旺盈彩盒 ",
+        "bbox": [
+            65,
+            21,
+            235,
+            80
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "旺盈彩盒纸品有限公司",
+        "bbox": [
+            344,
+            19,
+            650,
+            45
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "GLORY COLOUR BOXES& PAPER LIMITED ",
+        "bbox": [
+            263,
+            57,
+            732,
+            74
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "东莞市上合旺盈印刷有限公司旺盈实验室",
+        "bbox": [
+            90,
+            967,
+            396,
+            982
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "Page 1 of 2 ",
+        "bbox": [
+            445,
+            966,
+            549,
+            982
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "地址：东莞市东城区主山振兴路329#",
+        "bbox": [
+            631,
+            967,
+            905,
+            982
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "报告日期：2017.06.27",
+        "bbox": [
+            100,
+            103,
+            321,
+            122
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Test Report ",
+        "bbox": [
+            411,
+            103,
+            566,
+            124
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Report No:2017062725 ",
+        "bbox": [
+            665,
+            104,
+            900,
+            123
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/045eb1f2e6a3ead2afe8c4fd148f99823d9a5335f8bc979ec5a9911a45fe4c99.jpg",
+        "table_caption": [
+            "1、模拟运输测试："
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"2\">测试条件</td><td>重量</td><td>备注</td></tr><tr><td>环境</td><td>25±5°C;65±15%RH</td><td rowspan=\"3\">NA</td><td rowspan=\"3\">/</td></tr><tr><td>频率</td><td>200cycles</td></tr><tr><td>时间</td><td>3个面每个面测试1小时。</td></tr></table>",
+        "bbox": [
+            134,
+            203,
+            868,
+            316
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "判定标准：测试后包装表面无擦花、掉色现象，产品无破损现象。",
+        "bbox": [
+            134,
+            335,
+            709,
+            351
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "样品数量: 1箱 ",
+        "bbox": [
+            136,
+            376,
+            268,
+            393
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "结果描述：按照标准测试后箱内样品出现磨花现象，测试结果仅供参考。",
+        "bbox": [
+            136,
+            403,
+            769,
+            426
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "测试图片:",
+        "bbox": [
+            136,
+            439,
+            221,
+            455
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/124dbe1638adc0d7f092b7f03753d1b9e95f7cab121faab5273a43b8d488749e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Open cardboard box containing a grid of white rectangular blocks (no visible text or symbols)",
+        "sub_type": "natural_image",
+        "bbox": [
+            166,
+            461,
+            494,
+            639
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/70a6bb123b172ac4b0d57addb066a25d5286888a6d3c56c4c6b2003b7c4d0d4a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "磨亮",
+        "sub_type": "text_image",
+        "bbox": [
+            509,
+            462,
+            833,
+            637
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*报告结束\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\* ",
+        "bbox": [
+            77,
+            667,
+            919,
+            682
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "voion® 旺盈彩盒 ",
+        "bbox": [
+            65,
+            21,
+            235,
+            80
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "旺盈彩盒纸品有限公司",
+        "bbox": [
+            344,
+            19,
+            650,
+            43
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "GLORY COLOUR BOXES& PAPER LIMITED ",
+        "bbox": [
+            263,
+            57,
+            732,
+            74
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "东莞市上合旺盈印刷有限公司旺盈实验室",
+        "bbox": [
+            89,
+            967,
+            396,
+            982
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "Page 2 of 2 ",
+        "bbox": [
+            445,
+            966,
+            549,
+            982
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "地址：东莞市东城区主山振兴路329#",
+        "bbox": [
+            631,
+            967,
+            905,
+            982
+        ],
+        "page_idx": 1
+    }
+]

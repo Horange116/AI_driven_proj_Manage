@@ -1,0 +1,176 @@
+[
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.0,
+                0.0,
+                0.999,
+                0.03
+            ],
+            "angle": 0,
+            "content": "A B C D E F G H"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.936,
+                0.035,
+                0.99,
+                0.054
+            ],
+            "angle": 0,
+            "content": "⑧ 尺寸序号",
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.149,
+                0.219,
+                0.406,
+                0.441
+            ],
+            "angle": 0,
+            "content": "①\n32.7±0.1\nC4.42\n13.15\n2.2 8.9\n②\n22±0.1",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.269,
+                0.478,
+                0.313,
+                0.507
+            ],
+            "angle": 0,
+            "content": "导光板"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.095,
+                0.516,
+                0.346,
+                0.714
+            ],
+            "angle": 0,
+            "content": "0.1(反射膜)\n2.7±0.1(导光板)\n带膜厚度2.9±0.1\n③\n0.1(透射膜)",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.582,
+                0.148,
+                0.781,
+                0.358
+            ],
+            "angle": 0,
+            "content": "32.7±0.1\nC4.42\n8.9\n22±0.1\n2.2",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.647,
+                0.372,
+                0.688,
+                0.4
+            ],
+            "angle": 0,
+            "content": "反射膜"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.509,
+                0.486,
+                0.781,
+                0.711
+            ],
+            "angle": 0,
+            "content": "32.7±0.1\nC4.42\n22±0.1\n黑色区域\n3.7",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.647,
+                0.73,
+                0.688,
+                0.758
+            ],
+            "angle": 0,
+            "content": "透射膜"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.084,
+                0.743,
+                0.179,
+                0.776
+            ],
+            "angle": 0,
+            "content": "技术要求："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.084,
+                0.781,
+                0.397,
+                0.816
+            ],
+            "angle": 0,
+            "content": "1. 带编号为重要尺寸,需要IQC测量;",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.084,
+                0.819,
+                0.261,
+                0.852
+            ],
+            "angle": 0,
+            "content": "2.产品符合rohs 2.0",
+            "merge_prev": false
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.084,
+                0.781,
+                0.397,
+                0.852
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.0,
+                0.869,
+                0.999,
+                0.993
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>PMMA</td><td>Model NO.</td><td colspan=\"2\">T-Z1</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">导光板</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">T-Z1-P10</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.875,
+                0.691,
+                0.999,
+                0.869
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"2\">DTM\\LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt; 5</td><td>±0.03</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 5~15</td><td>±0.05</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 15~50</td><td>±0.05</td><td>±0.1</td><td>±0.2</td></tr><tr><td>&gt; 50~100</td><td>±0.08</td><td>±0.2</td><td>±0.3</td></tr><tr><td>&gt;100</td><td>±0.1%</td><td>±0.2%</td><td>±0.3%</td></tr><tr><td>ANGULAR</td><td>±0.1°</td><td>±0.5°</td><td>±0.5°</td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\">B</td></tr></table>"
+        }
+    ]
+]

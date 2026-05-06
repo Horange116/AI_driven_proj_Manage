@@ -1,0 +1,48 @@
+{
+  "format": "docreview-pdf-layout-probe-v1",
+  "source_name": "K040100014357620814-图纸-PT9L-F01+V1.0.pdf",
+  "content_hash": "c7c9b2e5bbc4c4b8409af09175095177fe02713ffb186f0e89c3aceae9f86038",
+  "page_count": 1,
+  "engine": "pymupdf",
+  "capabilities": {
+    "text_blocks": true,
+    "word_coordinates": true,
+    "row_clustering": true,
+    "vector_drawings": true,
+    "tables": false,
+    "ocr": false,
+    "semantic_table_reconstruction": false
+  },
+  "limits": [
+    "Rows are geometric text clusters, not verified semantic tables.",
+    "Vector drawings are counted but not converted into Gantt/task bars.",
+    "Scanned-image OCR is not enabled.",
+    "PDF W1 output is text/layout-audit evidence, not semantic Gantt reconstruction."
+  ],
+  "totals": {
+    "text_block_count": 0,
+    "word_count": 0,
+    "row_count": 0,
+    "table_like_row_count": 0,
+    "drawing_path_count": 1683,
+    "drawing_item_count": 21246,
+    "line_item_count": 9981,
+    "rectangle_item_count": 352
+  },
+  "pages": [
+    {
+      "page_index": 1,
+      "width": 6051.54,
+      "height": 4211.22,
+      "text_block_count": 0,
+      "word_count": 0,
+      "row_count": 0,
+      "table_like_row_count": 0,
+      "drawing_path_count": 1683,
+      "drawing_item_count": 21246,
+      "line_item_count": 9981,
+      "rectangle_item_count": 352,
+      "rows": []
+    }
+  ]
+}

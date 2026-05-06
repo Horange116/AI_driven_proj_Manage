@@ -1,0 +1,184 @@
+[
+    {
+        "type": "table",
+        "img_path": "images/120d3257079345d685f60099a4c9395871b5aedc5eaebe12c71a809fd3067b0f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>6</td><td></td><td>3</td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>ABS</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>5</td><td></td><td>2</td><td></td><td>Design</td><td></td><td></td><td>X</td><td></td><td>Part name</td><td>上盖</td></tr><tr><td>4</td><td></td><td>1</td><td>初版制作</td><td>2021.07.15</td><td>Checkkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td></tr></table>",
+        "bbox": [
+            0,
+            0,
+            117,
+            998
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d19ce27eaeb2c12a8f649381193926e346f3e4222b63b9bf4a4ce4d034840e5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "130.1±0.1\n①\n②\n134±0.2\n26.5\n19\n34.1±0.05\n5\n15\nφ9,9±0.05\nφ13,9±0.05\n196±0.2\n1000层中丝用，包号：PANTONE COOL GRAY GU\n清晰不能歪斜，位置准确，规格详见A1文件",
+        "sub_type": "text_image",
+        "bbox": [
+            137,
+            117,
+            352,
+            689
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/89cd16e5cd0655cebefa625ea3615a5fcd2b68093c5848d9969f61ed6e44be47.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "SECTION A-A\n30±0.05\n34.9±0.05\n11.2\n21\n3.2\n4.4±0.05\n4.4±0.05\n4.4±0.05\n①\n②\n③\n④\n⑤\n⑥\n11.5±0.05",
+        "sub_type": "text_image",
+        "bbox": [
+            359,
+            117,
+            547,
+            579
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1c52465fac258b467e766b6d80c3e206c10770015cdb9cc04d596ed6cb0db4f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "A\n2-φ17\n38.7\n34.9\n22.2±0.05\n25±0.05\n21.5\n26.7\nφ12\nφ11\nφ10\n2-φ15\n2-φ17\n7.5\nB\nC",
+        "sub_type": "text_image",
+        "bbox": [
+            608,
+            156,
+            954,
+            562
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e6c1325d8b3f104fad5b44c51b2f1914fa59bdce92ff01a4bae5fcba325528c.jpg",
+        "image_caption": [
+            "ECTION B "
+        ],
+        "image_footnote": [],
+        "content": "Technical cross-sectional diagram of a mechanical assembly (no visible text or labels)",
+        "sub_type": "natural_image",
+        "bbox": [
+            702,
+            632,
+            872,
+            700
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b7079d60b9abe84a222254697de5412ad4d635ab5ab1bf3ddd924da5d9301a0.jpg",
+        "image_caption": [
+            "ECTION C "
+        ],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            729,
+            780,
+            884,
+            831
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/e974b95cf0b441d69e9e87f153cb5cf23109fc62bb88abe828c27746f7d6ac5f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Technical line drawing of two elongated electronic components with internal circuitry (no text or symbols)",
+        "sub_type": "natural_image",
+        "bbox": [
+            268,
+            813,
+            532,
+            967
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/41d7c9c98d3942a383ae3d01fdb99b317ad58bd2c483c5cbaf593e064c7cea8d.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "1.带编号为重要尺寸，需要IQC测量；2.材质为ABS（白色）；产品外观良好、无拉伤，变形，批锋，熔接痕，气纹，顶白，缺胶，缩水等不良现象；3.须试装产品，并能顺利装入产品.未标注尺寸以样板为准；品质部检验结构时，请以结构签板和组装（实配）为准4.产品符合ROHS2.0"
+        ],
+        "content": "DETAIL D\nSCALE 5:1\n0.8±0.03\n1.2±0.03",
+        "sub_type": "text_image",
+        "bbox": [
+            440,
+            692,
+            687,
+            812
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/f0e22063ab24fc2d11d696f3ff5fb5b06f8b1b10b093789b949fdba2a3c82342.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\">LEVEL</td><td colspan=\"4\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td><td></td></tr><tr><td>DTM</td><td>A</td><td>B</td><td>C</td><td></td></tr><tr><td>DTM</td><td>&gt;5-15</td><td>≤0.05</td><td>≤0.1</td><td>≤0.15</td></tr><tr><td>&gt;5-50</td><td>≤0.05</td><td>≤0.1</td><td>≤0.2</td><td>≤0.3</td></tr><tr><td>&gt;50~100</td><td>≤0.08</td><td>≤0.2</td><td>≤0.3</td><td></td></tr><tr><td>&gt;100</td><td>≤0.1%</td><td>≤0.2%</td><td>≤0.3%</td><td></td></tr><tr><td>AGLWR</td><td>≤0.1%</td><td>≤0.2%</td><td>≤0.3%</td><td></td></tr><tr><td colspan=\"5\">SELECT LEVEL</td></tr></table>",
+        "bbox": [
+            117,
+            912,
+            240,
+            996
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "8\n7\n6\n5\n4\n3\n2\n1 ",
+        "bbox": [
+            119,
+            0,
+            998,
+            13
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "尺寸序 ",
+        "bbox": [
+            954,
+            954,
+            966,
+            992
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "H | G | F | E | F | G | H ",
+        "bbox": [
+            971,
+            0,
+            998,
+            998
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "aopup ",
+        "bbox": [
+            934,
+            22,
+            964,
+            74
+        ],
+        "page_idx": 0
+    }
+]

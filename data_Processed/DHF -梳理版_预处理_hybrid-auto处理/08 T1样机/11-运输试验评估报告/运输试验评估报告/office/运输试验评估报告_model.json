@@ -1,0 +1,44 @@
+[
+    [
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">运输试验评估报告</text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">产品型号：PT9L         项目编号：30000078             产品/项目名称：红外体温计</text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">1.评估目的：</text>"
+        },
+        {
+            "type": "text",
+            "content": "评估包装对产品在运输过程中整机性能的影响。"
+        },
+        {
+            "type": "text",
+            "content": "运输试验测试结果符合标准："
+        },
+        {
+            "type": "text",
+            "content": "INTERNATIONAL SAFE TRANSIT ASSOCIATION. ISTA 2 Series, Integrity—Plus test procedures."
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">2.评估内容：</text>"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>条目</strong></p></td><td><p><strong>对比机型描述</strong></p></td><td><p><strong>评估机型描述</strong></p></td><td><p><strong>对比结果描述</strong></p></td></tr><tr><td><p>1</p></td><td><p>彩包装材质</p></td><td><p>350g白卡纸防刮花哑膜</p></td><td><p>350g白卡纸覆亚膜</p></td><td><p>相同</p></td></tr><tr><td><p>2</p></td><td><p>彩包装开合方式</p></td><td><p>上下摇盖</p></td><td><p>上下摇盖</p></td><td><p>相同</p></td></tr><tr><td><p>3</p></td><td><p>彩包装连接方式</p></td><td><p>粘合剂连接</p></td><td><p>粘合剂连接</p></td><td><p>相同</p></td></tr><tr><td><p>4</p></td><td><p>彩包装尺寸</p></td><td><p>65mm×43mm×170.5mm</p></td><td><p>159 mm×36 mm×58.5 mm</p></td><td><p>相似</p></td></tr><tr><td><p>5</p></td><td><p>彩包装内容物</p><p>/总重</p></td><td><p>主机、说明书、电池、快速指南、售后服务卡</p></td><td><p>主机、电池、说明书/总重114g</p></td><td><p>相似</p></td></tr><tr><td><p>11</p></td><td><p>外箱材质</p></td><td><p>180g牛皮面纸+110g(B)楞+70g芯纸+110g(C)楞+130g牛皮里纸</p></td><td><p>190g牛皮面纸+170g(A)楞+80g芯纸+130g(B)楞+200g牛皮里纸</p></td><td><p>相似</p></td></tr><tr><td><p>12</p></td><td><p>外箱开合方式</p></td><td><p>上下摇盖</p></td><td><p>上下摇盖</p></td><td><p>相同</p></td></tr><tr><td><p>13</p></td><td><p>外箱连接方式</p></td><td><p>粘合剂连接</p></td><td><p>粘合剂连接</p></td><td><p>相同</p></td></tr><tr><td><p>14</p></td><td><p>外箱尺寸(内径)</p></td><td><p>334mm×334mm×197mm</p></td><td><p>322.5 mm×231 mm×352 mm</p></td><td><p>相似</p></td></tr><tr><td><p>15</p></td><td><p>装箱数量(N台/外箱)</p></td><td><p>24PCS</p></td><td><p>60 PCS</p></td><td><p>相似</p></td></tr><tr><td><p>16</p></td><td><p>净重</p></td><td><p>3.6kg</p></td><td><p>6.4kg</p></td><td><p>相似</p></td></tr><tr><td><p>17</p></td><td><p>总重量</p></td><td><p>4.2kg</p></td><td><p>7.1kg</p></td><td><p>相似</p></td></tr><tr><td><p>18</p></td><td><p>其它</p></td><td><p>NA</p></td><td><p>NA</p></td><td><p>NA</p></td></tr><tr><td rowspan=\"2\"><p><strong>评 估 结 论</strong></p></td><td colspan=\"4\"><p>根据“ PT3 运输试验报告”评估：</p><p>对比结果说明： 两机型相比较，彩包装、外箱材质、开合方式、连接方式均相同、两机型相比较彩包装、外箱尺寸、重量、材质均相似，故评估该包装对本产品在运输过程中整机的安全和性能无影响，评估合格。                                      </p><p>☑<strong>合格  </strong>□<strong>不合格</strong><em>说明：</em> <strong> </strong></p><p>□<strong>包装形式不同项差别较大，不能评估运输过程对整机安全和性能的影响，需进行运输试验</strong></p></td></tr><tr><td colspan=\"4\"><p><strong>评估</strong><em>(专业工程师)</em><strong>：</strong> <strong>审核</strong><em>(专业主管)</em><strong>：</strong> <strong>批准</strong><em>(技术负责人)</em><strong>：</strong>             .           </p><p><strong> </strong>    年  月  日                        年  月  日                          年  月  日</p></td></tr></table>"
+        },
+        {
+            "type": "header",
+            "content": "文件编号：<text style=\"underline\"> PT9L-YSPG01 </text> V1.0                                     运输试验评估报告"
+        },
+        {
+            "type": "footer",
+            "content": "第 1 页 / 共 1 页                                                           "
+        }
+    ]
+]

@@ -1,0 +1,152 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "项目组成员名单"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td colspan=\"3\"><p><strong>产品型号：PT9L</strong></p></td><td colspan=\"2\"><p><strong>产品/项目名称：红外体温计</strong></p></td></tr><tr><td colspan=\"3\"><p><strong>项目编号：30000078</strong></p></td><td colspan=\"2\"><p><strong>项目负责人：侯广伟</strong></p></td></tr><tr><td><p><strong>序号</strong></p></td><td><p><strong>姓名</strong></p></td><td><p><strong>部门</strong></p></td><td><p><strong>职务</strong></p></td><td><p><strong>部门主管审核</strong></p></td></tr><tr><td><p>1</p></td><td><p>侯广伟</p></td><td><p>智能产品部</p></td><td><p>技术负责人/软件主管/硬件主管/结构主管</p></td><td><p>      年  月  日</p></td></tr><tr><td><p>2</p></td><td><p>王迪</p></td><td><p>智能产品部</p></td><td><p>软件工程师</p></td><td><p>      年  月  日</p></td></tr><tr><td><p>3</p></td><td><p>万龙</p></td><td><p>智能产品部</p></td><td><p>硬件工程师</p></td><td><p>      年  月  日</p></td></tr><tr><td><p>4</p></td><td><p>刘钊</p></td><td><p>智能产品部</p></td><td><p>结构工程师</p></td><td><p>      年  月  日</p></td></tr><tr><td><p>5</p></td><td><p>刘昊</p></td><td><p>智能产品部</p></td><td><p>资源开发工程师</p></td><td><p>      年  月  日</p></td></tr><tr><td><p>6</p></td><td><p>赵一平</p></td><td><p>智能产品部</p></td><td><p>客户代表</p></td><td><p>      年  月  日</p></td></tr><tr><td><p>7</p></td><td><p>王迪龙</p></td><td><p>智能产品部</p></td><td><p>项目负责人</p></td><td><p>      年  月  日</p></td></tr><tr><td><p>8</p></td><td><p>孟兆君</p></td><td><p>柯顿</p></td><td><p>导入工程师</p></td><td><p>      年  月  日</p></td></tr><tr><td><p>9</p></td><td><p>王艳红</p></td><td><p>认证检测中心</p></td><td><p>认证工程师</p></td><td><p>      年  月  日</p></td></tr><tr><td><p>10</p></td><td></td><td></td><td></td><td></td></tr><tr><td><p>11</p></td><td></td><td></td><td></td><td></td></tr><tr><td><p>12</p></td><td></td><td></td><td></td><td></td></tr><tr><td><p>13</p></td><td></td><td></td><td></td><td></td></tr><tr><td><p>14</p></td><td></td><td></td><td></td><td></td></tr><tr><td><p>15</p></td><td></td><td></td><td></td><td></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "备注",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "：以上成员为主责人员。"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "拟制",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "（项目负责人）",
+                        "style": [
+                            "italic"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "：",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "                      ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "批准",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "（技术负责人）",
+                        "style": [
+                            "italic"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "：",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "                  ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "          年    月    日                              年    月    日",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号："
+                    },
+                    {
+                        "type": "text",
+                        "content": " PT9L -CYMD01",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": " V1.0    项目组成员名单    表号：QR-7.3-03/E0"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "第 1 页 / 共 1 页                                        "
+                    }
+                ]
+            }
+        }
+    ]
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "type": "table",
+        "img_path": "images/1c45fdde430f8dc275468df4c5835bb8432049d8db88befbdb0cdc8d9bcad559.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>3</td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>TPU</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>2</td><td>Design</td><td></td><td></td><td>X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td></tr><tr><td>1</td><td>初版制作</td><td></td><td></td><td>XX</td><td></td><td>Scale</td><td>2:1</td><td>Drawing NO.</td></tr><tr><td>No.</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>X°</td><td></td><td>Unit5</td><td>mm</td></tr></table>",
+        "bbox": [
+            0,
+            0,
+            129,
+            998
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "uōpūn ",
+        "text_level": 1,
+        "bbox": [
+            915,
+            23,
+            961,
+            101
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/23e5dca1de1489879155ef039fd98bbc18f0e07ae2d6ffa9380f803c8cc5657d.jpg",
+        "image_caption": [
+            "SECTION A-A "
+        ],
+        "image_footnote": [],
+        "content": "①\n19.14±0.05\n9.58±0.05\n8'0",
+        "sub_type": "text_image",
+        "bbox": [
+            436,
+            180,
+            694,
+            305
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/03269bea36e80ac280ac97ca0a95f9697ac43531c3d913fbee27f03fe6513998.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "1±0.05\n3.65±0.05\nφ68±0.05",
+        "sub_type": "text_image",
+        "bbox": [
+            307,
+            435,
+            759,
+            646
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/545723d7fd9ef7fc03af96d7dab8a678f0fdfdcd2f05ff1ff3d382fcd20163cc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "0.9\n3.86±0.05\n②",
+        "sub_type": "text_image",
+        "bbox": [
+            359,
+            725,
+            724,
+            847
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f66aee44d7acc54f64fcb3064f5b9dcf2567fe0a4ff62267b67487c7ab388a8.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "4.产品符合ROHS 2.0\n4. 试装产品，并能顺利装入产品，未标注尺寸以样板为准；\n3. 试装产品，并能顺利装入产品，未标注尺寸以样板为准；"
+        ],
+        "content": "Pure technical line drawing of a mechanical ring or washer (no text or symbols)",
+        "sub_type": "natural_image",
+        "bbox": [
+            754,
+            659,
+            942,
+            780
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/5b11be99595b787e8843eab967b1838b0dbe517cde38fff83b6b5aa26c1d1b22.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\">LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>DIM</td><td>5</td><td>$ \\pm0.03 $</td><td>$ \\pm0.1 $</td></tr><tr><td>&lt; 5~5</td><td>$ \\pm0.05 $</td><td>$ \\pm0.1 $</td><td>$ \\pm0.15 $</td></tr><tr><td>&gt; 15~50</td><td>$ \\pm0.05 $</td><td>$ \\pm0.1 $</td><td>$ \\pm0.2 $</td></tr><tr><td>&lt; 50~100</td><td>$ \\pm0.08 $</td><td>$ \\pm0.2 $</td><td>$ \\pm0.3 $</td></tr><tr><td>&gt;100</td><td>$ \\pm0.1\\% $</td><td>$ \\pm0.2\\% $</td><td>$ \\pm0.3\\% $</td></tr><tr><td>ANGUL4R</td><td>$ \\pm0.1\\circ $</td><td>$ \\pm0.5\\circ $</td><td>$ \\pm0.5\\circ $</td></tr><tr><td colspan=\"4\">SELECTT LEVEL</td></tr></table>",
+        "bbox": [
+            129,
+            873,
+            305,
+            994
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "8\n7\n6\n5\n4\n3\n2\n1 ",
+        "bbox": [
+            129,
+            0,
+            998,
+            13
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "$⑧$ 才序号",
+        "bbox": [
+            946,
+            936,
+            964,
+            988
+        ],
+        "page_idx": 0
+    }
+]

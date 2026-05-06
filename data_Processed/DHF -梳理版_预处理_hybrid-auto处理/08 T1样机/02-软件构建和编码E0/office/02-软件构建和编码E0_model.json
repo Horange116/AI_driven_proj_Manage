@@ -1,0 +1,118 @@
+[
+    [
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">软件构建与编码</text>"
+        },
+        {
+            "type": "text",
+            "content": "V1.0"
+        },
+        {
+            "type": "text",
+            "content": "产 品 型 号：<text style=\"underline\">       PT9L      </text>"
+        },
+        {
+            "type": "text",
+            "content": "项 目 编 号：<text style=\"underline\">  30000078    </text>"
+        },
+        {
+            "type": "text",
+            "content": "产品/项目名称：<text style=\"underline\">    红外体温计     </text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">编    制</text><text style=\"italic\">（软件工程师）</text><text style=\"underline\">                        年   月   日</text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">审    核</text><text style=\"italic\">（软 件主 管）</text><text style=\"underline\">                        年   月   日</text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">历史版本记录</text>"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>更改日期</strong></p></td><td><p><strong>版本描述</strong></p></td><td><p><strong>版本</strong></p></td><td><p><strong>更改人</strong></p></td><td><p><strong>审核人</strong></p></td></tr><tr><td><p>01</p></td><td><p>2024.2.27</p></td><td><p>起草</p></td><td><p>V1.0</p></td><td><p>王迪</p></td><td><p>侯广伟</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+        },
+        {
+            "type": "header",
+            "content": "文件编号：<text style=\"underline\">PT9L-RJGJ01 </text> V1.0                           软件构建与编码                           "
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "attribute": "ordered",
+            "content": [
+                {
+                    "type": "text",
+                    "content": "概述"
+                }
+            ],
+            "ilevel": 0
+        },
+        {
+            "type": "text",
+            "content": "软件工程师根据软件设计方案和软件流程图进行软件的构建和编码工作，构建程序框架，编写子程序并形成功能模块，调试、测试，全通过后输出软件代码和相关文件，并汇总设计需求、设计方案、子程序、以及测试方面追溯表。"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>项目</strong></p></td><td><p><strong>具体内容</strong></p></td><td><p><strong>备注</strong></p></td></tr><tr><td><p><strong>1</strong></p></td><td><p><strong>机型</strong></p></td><td><p><strong>PT9L</strong></p></td><td></td></tr><tr><td><p><strong>2</strong></p></td><td><p><strong>负责人</strong></p></td><td><p><strong>王迪</strong></p></td><td></td></tr><tr><td><p><strong>3</strong></p></td><td><p><strong>主控芯片</strong></p></td><td><p><strong>simBH67F2762</strong></p></td><td></td></tr><tr><td><p><strong>4</strong></p></td><td><p><strong>开发环境</strong></p></td><td><p><strong>HT-IDE3000 V8.04</strong></p></td><td></td></tr><tr><td><p><strong>5</strong></p></td><td><p><strong>开发工具</strong></p></td><td><p><strong>e-link仿真器</strong></p></td><td></td></tr><tr><td><p><strong>6</strong></p></td><td><p><strong>软件开发和测试环境维护</strong></p></td><td><p><strong>1、是否使用测试程序（HT_TEST）确认软件开发和测试环境正常运行？</strong></p><p><strong>是 🗹      否🞎</strong></p><p><strong>2、软件开发和测试环境是否有更新？</strong></p><p><strong>是🗹，并使用测试程序（HT_TEST）再次确认软件开发和测试环境正常运行      </strong></p><p><strong>否🞎</strong></p></td><td></td></tr><tr><td><p><strong>7</strong></p></td><td><p><strong>编程语言</strong></p></td><td><p><strong>C语言</strong></p></td><td></td></tr><tr><td><p><strong>8</strong></p></td><td><p><strong>输出文件</strong></p></td><td><p><strong>软件代码：PT-HT2762-V0029-1.0.0</strong></p><p><strong>目标代码：PT-HT2762-V0029-1.0.0.MTP</strong></p></td><td></td></tr></table>"
+        },
+        {
+            "type": "header",
+            "content": "文件编号：<text style=\"underline\">PT9L-RJGJ01 </text> V1.0                           软件构建与编码                           "
+        },
+        {
+            "type": "footer",
+            "content": "第1页/共4页"
+        }
+    ],
+    [
+        {
+            "type": "list",
+            "attribute": "ordered",
+            "content": [
+                {
+                    "type": "text",
+                    "content": "<text style=\"bold\">源代码的可追溯性分析（ Traceability analysis）</text>"
+                }
+            ],
+            "ilevel": 0
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p>序号.</p></td><td><p>软件需求功能</p></td><td><p>软件需求描述</p></td><td><p>软件设计方法</p></td><td><p>有关子程序</p></td><td><p>测试方法</p></td></tr><tr><td><p>1</p></td><td><p>初始化功能</p></td><td><ol><li>在上电后或者关机态，按按键，体温计能开机并打开LCD显示；</li><li>MCU系统功能初始化，配置相关模块和功能设置；</li></ol></td><td><p>1.首次上电或被唤醒后，初始化全局变量、IO、时钟，LCD </p><p>2. MCU系统功能初始化，配置相关模块和功能设置,读取EEPROM存储信息</p></td><td><p>Void </p><p>vUserGPIOInit (void)</p></td><td><p>S.O</p></td></tr><tr><td><p>2</p></td><td><p>关机功能</p></td><td><ol><li>测量结束后不管是否测量成功，如果没有按键按下，机器会在15秒后自动关机；</li><li>测量模式设置界面设置完成后，没有按键按下，机器会在3秒后自动关机；</li></ol></td><td><p>1.当完成测量后，启动定时器计时，当达15秒后关闭外设，同时单片机进入低功耗状态；期间如果有测量动作则重新计时</p><p>2. 模式设置界面，设置完成后，没有按键按下，机器会在3秒后自动关机</p></td><td><p>void </p><p>vUserGPIODeinit (void) </p></td><td><p>S</p></td></tr><tr><td><p>3</p></td><td><p>LCD显示功能</p></td><td><p>LCD显示包括测量结果的数字显示，℃图标，℉图标，电池图标，静音图标，体温图标，物温图标</p></td><td><ol><li>首次上电后，LCD全屏显示3秒；</li><li>测量完成后，LCD显示测量温度结果，单位，电量，等信息</li><li>结合测试结果给出发烧提示，用背光颜色区分</li></ol></td><td><p>Fun_LcdDisplay(&amp;SDK_LCD_TEMP)</p></td><td><p>S.O.C.I</p></td></tr><tr><td><p>4</p></td><td><p>蜂鸣器提示功能</p></td><td><p>在测试完成，设置完成，以及按键操作时应该有蜂鸣器提示音，同时提示音也可以随时关闭</p></td><td><ol><li>在首次上电时，蜂鸣器长鸣；</li><li>LCD显示测量结果时，成功长鸣，发烧连续四次短鸣；</li><li>模式设置界面，选择时短鸣，确认后长鸣</li></ol></td><td><p>BeepWork(uint8_t mode)</p></td><td><p>S.O.C.I</p></td></tr><tr><td><p>5</p></td><td><p>低电压检测功能</p></td><td><p>低电提示分两阶段，当电量低于第一阶段时，能够保证设备至少能测量20次，当电量低于第二阶段时，设备关机</p></td><td><ol><li>如果电源电压 2.5V – 2.7V时，LCD能提示低电压并保存低电状态，直至下次重新上电后再检测；</li><li>如果电源电压小于2.5V时，LCD提示超低电压后关机，一直保存此状态，直至下次重新上电后再检测；</li></ol></td><td><p>Uint16_t GetBatValue ()</p></td><td><p>S.O.C.I</p></td></tr><tr><td><p>6</p></td><td><p>测量模式设置功能</p></td><td><p>通过设置按键选择婴儿体温，成人体温，物温模式</p></td><td><p>1.在开机状态下，短按设置按键，切换测量模式</p><p>2.按下测量按键，保存当前模式，并完成一次测量；</p><p>3.选择完成后，15s没有操作，进入关机状态；</p></td><td><p>Fun_UserMeasureModeSet</p></td><td><p>S.O.C.I</p></td></tr><tr><td><p>7</p></td><td><p>单位切换功能</p></td><td><p>通过按键切换摄氏度和华氏度单位</p></td><td><p>长按测量按键8秒后，出现单位图标闪烁，短按测量按键切换单位，选好后长按2秒，图标停止闪烁，3秒后关机；如果进入设置后无按键操作，15秒关机</p></td><td><p>Fun_UserMeasureUnitSet</p></td><td><p>S.O.C</p></td></tr><tr><td><p>8</p></td><td><p>测量功能</p></td><td><p>1.短按测量按键，1秒内完成测量，测量结束后蜂鸣器提示，且LCD显示测量结果；</p><p>2.深度测量，长按按键2秒后完成测量，测量结束后蜂鸣器提示，且LCD显示测量结果；</p></td><td><p>单片机检测到按键按下后，单片机读取ADC采集数据, 在深度测量模式下，单片机连续读取ADC采集数据，直到测量时间结束，通过计算得出温度值，在屏幕显示结果，并且蜂鸣器提示 </p></td><td><p>uint16_t GetExNTC_Temp()</p><p>uint16_t UserArithCompute(uint16_t envirT,uint16_t ntcT)</p></td><td><p>S.O.C.I</p></td></tr><tr><td><p>9</p></td><td><p>错误检测功能</p></td><td><ol><li>工作环境温度超出范围给出错误提示；</li><li>测量结果超出量程，给出提示</li></ol></td><td><p>1.当环境温度超出10~40℃，LCD闪烁显示“Err”</p><p>2.测温大于42.9℃，或小于32℃提示”---℃”，不显示结果</p></td><td><p>Fun_LcdDisplay </p></td><td><p>S.O.C.I</p></td></tr><tr><td><p>10</p></td><td><p>记忆功能</p></td><td><p>能够存储40条测量数据，并支持查看</p></td><td><p>1.每次测量成功，把数据保存到EEPROM,同时也保存测量模式等信息</p><p>2.长按设置按键3秒进入记忆查看模式，且只能查看之前测量模式下对应的记忆数据，如果想查看其他模式记忆，需要退出记忆后切换测量模式再查看</p><p>3.关机状态下，同时长按测量键和设置键8秒，可清空记忆</p></td><td><p>uint8_t UserEEpromRead(uint8_t u8addr)</p><p>void vUserEEpromWrite(uint8_t u8addr, uint8_t u8data)</p></td><td><p>S.O.C.I</p></td></tr></table>"
+        },
+        {
+            "type": "text",
+            "content": "测试方法缩写说明："
+        },
+        {
+            "type": "text",
+            "content": "S：模拟软件单步执行，观察程序执行的结果"
+        },
+        {
+            "type": "text",
+            "content": "C：输入不同值，确认软件的输出是否和人工计算的一致"
+        },
+        {
+            "type": "text",
+            "content": "O：执行软件，观察硬件的响应"
+        },
+        {
+            "type": "text",
+            "content": "I：改变硬件的输入，确认软件的响应"
+        },
+        {
+            "type": "header",
+            "content": "文件编号：<text style=\"underline\">PT9L-RJGJ01 </text> V1.0                                                                                         软件构建与编码                           "
+        },
+        {
+            "type": "footer",
+            "content": "第1页/共4页"
+        }
+    ]
+]

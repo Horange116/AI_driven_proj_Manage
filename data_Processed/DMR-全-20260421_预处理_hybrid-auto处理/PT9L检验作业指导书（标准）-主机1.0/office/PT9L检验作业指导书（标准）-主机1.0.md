@@ -1,0 +1,319 @@
+<table>
+  <tr>
+    <th colspan="7"><p>受控表号：KQR-7.5.1-03-38/A0<br><img src="images/71400d75cbbb25f9184bd6857a02125340163c2dcf3d5a609f695ccef4bfaf7a.png"/></p></th>
+  </tr>
+  <tr>
+    <td colspan="7"><p>PT9L检验作业指导书（标准）</p></td>
+  </tr>
+  <tr>
+    <td colspan="7"><p>编号：QI-PT9L-DY01</p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td><p>Ver.No.</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p>页码</p></td>
+    <td><p>版本</p></td>
+    <td><p>生效日期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>主机</p></td>
+    <td><p>1/1</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>检验项目</p></td>
+    <td><p>检验用具</p></td>
+    <td colspan="4"><p>检验方法</p></td>
+    <td><p>合格标准</p></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>常温标定
+（首件+巡检）</p></td>
+    <td rowspan="3"><p>恒温室（环境温度23±2℃,湿度30-70%）
+
+2节7号电池
+
+高精度低温恒温槽（B067XXXXXX）水槽内水位上线不得超过水槽内刻度尺“0”的刻度位，下限不得低于“1”的刻度位）
+（温度需事先调整到30±0.02℃、45±0.02℃并每两小时校准一次）
+
+水银温度计（B04KXXXXXX）</p></td>
+    <td rowspan="3" colspan="2"><p>机器标定前必须在25±1℃恒温室内静置时间≥2小时
+
+1、上电后，LCD显示“CB3”后显示全显，然后显示数值，数值标准范围：25±1℃，才可进行后序操作（如超过标准范围，须关机取下电池静置2小时后再次标定）一秒后显示“C30”,然后将体温计对准30度水槽按一下测量键，大约1秒后显示温度（温度值无需关注），校正成功则蜂鸣音响一下，屏幕显示“C45”，此时可进入下一步；若校正不成功则屏幕显示“ER3”；
+
+2、屏幕显示“C45”时，将体温计对准45度水槽按一下测量键，大约1秒后显示温度（温度值无需关注），校正成功则蜂鸣音响一下，屏幕显示“C45”；若校正不成功则屏幕显示“ER3”；
+在屏幕显示“C45”时连续按三次测量键，蜂鸣音响一下，屏幕熄灭，保存成功。</p></td>
+    <td rowspan="3" colspan="2"><p><img src="images/21b5a4cf7f064a8c0f7e650a351e3e2fef0d1a32e47727ed6c65d9d66145f43a.jpg"/><br><img src="images/4621d7677b80ffd0d7cf7c5c758691cb639369905ffa3ee8fadf2d4b2890c042.jpg"/></p></td>
+    <td rowspan="3"><p>1.注意观察各过程液晶显示要正确,不允许有乱码;也不允许有缺段、重影、显示深浅不一致
+
+2.屏幕如检验要求显示且蜂鸣器声音正常</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+![](images/d2634ea056e07ea0b2757171e32bc50ed7984e6cefda7288075b7f48eed3f23f.jpg)
+
+![](images/25dbfa25ef903e04eae09fccf5aa323c3a1fcb49d95749f0e3e0f487bfc67526.jpg)
+
+![](images/2e65a3c2aa014d9dad6ea2a8b80f923f944e598313cf2ac6a3cfbeba02fd3c14.jpg)
+
+![](images/c6559bb17aa790357d71271a457b2427d4ecf4254bb50ecc0ab8ad133f7bae87.jpg)
+
+<table>
+  <tr>
+    <th colspan="7"><p>受控表号：KQR-7.5.1-03-38/A0<br><img src="images/34f2f2f4648a32fe90511328756291a37b9d7756e6e3501c64bd3c6da8f54d94.jpg"/></p></th>
+  </tr>
+  <tr>
+    <td colspan="7"><p>PT9L检验作业指导书（标准）</p></td>
+  </tr>
+  <tr>
+    <td colspan="7"><p>编号：QI-PT9L-DY02</p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td><p>Ver.No.</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p>页码</p></td>
+    <td><p>版本</p></td>
+    <td><p>生效日期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>主机</p></td>
+    <td><p>1/1</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>检验项目</p></td>
+    <td><p>检验用具</p></td>
+    <td colspan="4"><p>检验方法</p></td>
+    <td><p>合格标准</p></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>低温标定37度
+（首件+巡检）</p></td>
+    <td rowspan="3"><p>恒温室（环境温度16±1℃,湿度30-70%）
+
+2节7号电池
+
+高精度低温恒温槽（B067XXXXXX）（水槽内水位上线不得超过水槽内刻度尺“0”的刻度位，下限不得低于“1”的刻度位）
+
+（温度需事先调整到37±0.02℃，42±0.02℃并每两小时校准一次）
+
+水银温度计（B04KXXXXXX）</p></td>
+    <td rowspan="3" colspan="2"><p>机器标定前必须在16±1℃恒温室内静置时间≥2小时
+
+1.上电后，LED显示“CB5”（图1）后显示数值，数值标准范围：16±1，才可进行后序操作（如超过标准范围，须关机取下电池静置2小时后再次标定），一秒后显示“C37”，然后将体温计对准37度水槽按一下测量键，大约1秒后显示温度（温度值无需关注），校正成功屏幕显示“C42”，若校正不成功则屏幕显示“ER4”；
+
+2.屏幕显示“C42”时，将体温计对准42度水槽按一下测量键，大约1秒后显示温度（温度值无需关注），校正成功屏幕显示“PAS”在屏幕显示“PAS”时连续按三次测量键，屏幕熄灭。保存成功；若校正不成功则屏幕显示“ER4”；</p></td>
+    <td rowspan="3" colspan="2"><p><img src="images/8a82d7ec628a88e6e8f37604b096df9e92e82abff44c3fabcce868b331a12c0a.jpg"/><br><img src="images/2e4f5c7b18bcfbadc26b546c842c0de2bc237b1720815e8e47112c2c61ddc669.jpg"/></p></td>
+    <td rowspan="3"><p>屏幕如检验要求显示且蜂鸣器声音正常</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+![](images/c9538e751def399720e76e8be01c4295e36b91677f70d10dea8b8848adc6e37f.jpg)
+
+![](images/5ec757d5adcbea7666a3b37ff5b182668b0371ee78adf22d44814701841e8a05.jpg)
+
+![](images/761a05f4addc2320c415fec1d4046a3188c7f4418baf07186309a9f8935dde13.jpg)
+
+![](images/25dbfa25ef903e04eae09fccf5aa323c3a1fcb49d95749f0e3e0f487bfc67526.jpg)
+
+<table>
+  <tr>
+    <th colspan="7"><p>受控表号：KQR-7.5.1-03-38/A0<br><img src="images/72277bace780bf0d1c22be8a3e92695ca78a7e7146610f5818a7594aacc5da47.png"/></p></th>
+  </tr>
+  <tr>
+    <td colspan="7"><p>PT9L检验作业指导书（标准）</p></td>
+  </tr>
+  <tr>
+    <td colspan="7"><p>编号：QI-PT9L-DY03</p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td><p>Ver.No.</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p>页码</p></td>
+    <td><p>版本</p></td>
+    <td><p>生效日期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>主机</p></td>
+    <td><p>1/1</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>检验项目</p></td>
+    <td><p>检验用具</p></td>
+    <td colspan="4"><p>检验方法</p></td>
+    <td><p>合格标准</p></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>10℃、33℃、37℃、41℃精度测试
+（首件+巡检）</p></td>
+    <td rowspan="3"><p>恒温室（环境温度25±1℃,湿度30-70%）
+
+2节7号电池
+
+高精度低温恒温槽（B067XXXXXX）（水槽内水位上线不得超过水槽内刻度尺“0”的刻度位，下限不得低于“1”的刻度位）
+
+（温度需事先调整到33±0.02℃、37±0.02℃、41±0.02℃并每两小时校准一次）
+
+水银温度计（B04KXXXXXX）</p></td>
+    <td rowspan="3" colspan="2"><p>机器标定前必须在25±1℃恒温室内静置时间≥2小时
+
+1.上电后，LCD显示“CB4”后显示数值，数值标准范围：25±1℃，才可进行后序操作（如超过标准范围，须关机取下电池静置2小时后再次标定“”，一秒后显示“C10”，然后将体温计对准10度水槽按一下测量键，大约1秒后显示温度（温度值无需关注），每显示一次温度值按一次按键，屏幕显示“C33”，此时可进入下一步；若校正不成功则屏幕显示“Er4”；
+
+2.显示“C33”时，将体温计对准33度水槽按一下测量键，大约1秒后显示温度（温度值无需关注），每显示一次温度值按一次按键，屏幕显示“C37”，此时可进入下一步；若校正不成功则屏幕显示“Er4”；
+
+2.显示“C37”时，将体温计对准37度水槽按一下测量键，大约1秒后显示温度（温度值无需关注），每显示一次温度值按一次按键，屏幕显示“C41”，此时可进入下一步；若校正不成功则屏幕显示“Er4”；
+
+3.显示“C41”时，将体温计对准41度水槽按一下测量键，大约1秒后显示温度（温度值无需关注），每显示一次温度值按一次按键，若校正不成功则屏幕显示“Er4”；
+
+4.测试成功41℃后，屏幕显示温度值，每显示一次温度值按一次按键，连续滚动三次，蜂鸣音响一下，屏幕显示“PAS”；
+
+5.在屏幕显示“PAS”时连续按三次测量键，蜂鸣音响一下，屏幕熄灭，保存成功</p></td>
+    <td rowspan="3" colspan="2"><p><img src="images/9d3889b367d24e4122ef0d0129dcbb2f4301fb8b6ef446fdf53516310f0be8fb.jpg"/><br><img src="images/db6e09dff11add6ed2622cffea14bb93100ad1c11ddd512d534216c5bf8fab85.jpg"/></p></td>
+    <td rowspan="3"><p>屏幕如检验要求显示且蜂鸣器声音正常</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+![](images/ee40124358bbb841d6620783df679f873fd52fce869559f4cd7a605c1b87ea6e.jpg)
+
+![](images/8e1a4f681812a4657e1b14aa69c7456a0f9cc3d6b049fb163aa4f731fee8bc96.jpg)
+
+![](images/2e4f5c7b18bcfbadc26b546c842c0de2bc237b1720815e8e47112c2c61ddc669.jpg)
+
+![](images/c9538e751def399720e76e8be01c4295e36b91677f70d10dea8b8848adc6e37f.jpg)
+
+![](images/249e172e1661c5ab9d7ff2c8c4c305e395b9421db0723a15dad38d043b3478c0.jpg)
+
+![](images/9d651421ebca67031ee01e8a1e352fce340fdeeecd40bd67ffce8f32ad322eac.jpg)
+
+![](images/25dbfa25ef903e04eae09fccf5aa323c3a1fcb49d95749f0e3e0f487bfc67526.jpg)
+
+![](images/ff3e22ba3b7be484328d0077a2b0b036628af315a4a0fe439bd41f678030459b.jpg)
+
+<table>
+  <tr>
+    <th colspan="7"><p>受控表号：KQR-7.5.1-03-38/A0<br><img src="images/279a82a2461755eb3edde43b8c728a922c5ad915b57d800c96836d04441840ad.jpg"/></p></th>
+  </tr>
+  <tr>
+    <td colspan="7"><p>PT9L检验作业指导书（标准）</p></td>
+  </tr>
+  <tr>
+    <td colspan="7"><p>编号：QI-PT9L-DY04</p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td><p>Ver.No.</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p>页码</p></td>
+    <td><p>版本</p></td>
+    <td><p>生效日期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>主机</p></td>
+    <td><p>1/1</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>检验项目</p></td>
+    <td><p>检验用具</p></td>
+    <td colspan="4"><p>检验方法</p></td>
+    <td><p>合格标准</p></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>外观检验
+（首件+巡检）</p></td>
+    <td rowspan="3"><p>塞尺B03QXXXXXX</p></td>
+    <td rowspan="3" colspan="2"><p>1. 检查主机各部分丝印内容，丝印效果良好；
+2.用手指轻按按键检查按键手感；
+3.检查机器显示窗口部分；
+4.检查机器上规定的标签；   
+5.检查机器外观配合尺寸
+                                     </p></td>
+    <td rowspan="3" colspan="2"><p><img src="images/723fa27995d999d96753df934bb43bf5b93e15ea7a168ce3bfdc3e1095ad1a21.jpg"/></p></td>
+    <td rowspan="3"><p>1.整机型号、颜色与图纸和客户信息要求一致，表面外漏件规格、颜色与图纸和客户信息要求一致。
+2.按键组合后,按压中间部位,有行程, 能复位,上电后有功能;按压四周任何部位能回弹,不卡(注：检验按键手感须用指腹, 不可用指尖按压)。
+3.检查透镜和开始键是否有划伤、脏污、丝印不清，按键是否有卡死、手感差等不良
+4.检查产品侧面，是否有断差、批峰、缝隙过大等
+5.检查上下壳是否有划伤，脏污，弹簧是否有漏装、装反、装不到位，螺丝是否有漏锁、滑牙、未锁到位等，弹簧装不到位等不良
+6.检查传感器是否有脏污等，如有脏污需用棉签清洁干净，并将产品放于耳边来回摇动2-3次，检查产品内是否有异物，异响等
+7.色差要求：整机相同颜色的色差可接受的灰度等级为4级
+ 
+
+用泡棉或塑料袋把主机套好整齐的排放在盘上</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</table>

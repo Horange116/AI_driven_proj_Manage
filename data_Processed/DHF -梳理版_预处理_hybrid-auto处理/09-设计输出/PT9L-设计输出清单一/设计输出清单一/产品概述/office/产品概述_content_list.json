@@ -1,0 +1,204 @@
+[
+    {
+        "type": "text",
+        "text": "**产 品 概 述**",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PT9L 红外体温计是一款快速测量体温的产品。具有简单易用、测量迅速、数据准确的特点。",
+        "page_idx": 0,
+        "anchor": "OLE_LINK2"
+    },
+    {
+        "type": "text",
+        "text": "**具体技术指标如下**：",
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "list_items": [
+            "- **测量原理：**"
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "采用红外测温传感器采集温度信息。",
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "list_items": [
+            "- **技术方案：**"
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "工艺流程：贴片、焊线、组装。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "操    作：对准眉心按键进行测量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "记    忆：无记忆。",
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "list_items": [
+            "- **工作方式：**"
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "测量额温，显示温度；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "工作状态：测量、显示。",
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "list_items": [
+            "- **固件升级:**"
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "无。",
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "list_items": [
+            "- **功能特点：**"
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "操作简单，测试迅速准确。",
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "list_items": [
+            "- **界面显示：**"
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "显示温度、单位℃/℉、低电显示符号、测量失败提示。",
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "list_items": [
+            "- **电源：**"
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "使用两节AAA电池；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "工作电流最大50mA；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "待机电流小于20uA。",
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "list_items": [
+            "- **测量范围和准确性：**"
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "32.0℃～42.9℃；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "准确性：≥35℃且≤42℃：±0.2℃，其它±0.3℃",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**使用温度：10℃\\~40℃**",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**使用湿度：15-95%RH, non-condensing**",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**使用大气压强：70\\~106kPa**",
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "list_items": [
+            "- **主机外形尺寸、重量：**"
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><tr><td><p> <strong>外形尺寸 (mm)</strong></p></td><td><p><strong>重量（g）</strong></p></td></tr><tr><td><p>130.8x34.8x38</p></td><td><p>约80（包括电池）</p></td></tr></table>",
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "**PT9L-CPGS01 V1.0                                                                   产品概述**           ",
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "第 1 页 共 1 页                  ",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><tr><td><h1>产品概述、工作原理说明、设计原理</h1><h1>V1.0</h1><p>产 品 型 号：      PT9L       </p><p>项 目 编 号：     30000078     </p><p>产品/项目名称：   红外体温计    </p><p><strong>拟  制</strong><em>：</em>                       年   月   日</p><p><strong>审  核</strong><em>：</em>                       年   月   日</p><p><strong>批  准</strong><em>：</em> <strong> </strong>       年   月   日</p></td></tr><tr><td><p>包括文件：</p><p>█ PT9L产品概述 V1.0        文件编号：PT9L-CPGS01 V1.0             </p><p>█ PT9L工作原理说明 V1.0    文件编号：PT9L-GZYL01 V1.0            </p><p>█ PT9L设计原理 V1.0        文件编号：PT9L-SJYL01 V1.0            </p></td></tr></table>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "**历史版本记录**",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>更改日期</strong></p></td><td><p><strong>版本描述</strong></p></td><td><p><strong>版本</strong></p></td><td><p><strong>更改人</strong></p></td><td><p><strong>批准人</strong></p></td></tr><tr><td><p>1</p></td><td><p>2024年4月20日</p></td><td><p>起草</p></td><td><p>V1.0</p></td><td><p>万龙</p></td><td><p>侯广伟</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "产品概述、工作原理说明、设计原理",
+        "page_idx": 1
+    }
+]

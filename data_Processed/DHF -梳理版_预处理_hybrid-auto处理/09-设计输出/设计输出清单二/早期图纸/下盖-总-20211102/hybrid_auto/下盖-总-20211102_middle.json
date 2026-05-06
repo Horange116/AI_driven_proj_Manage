@@ -1,0 +1,543 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        0,
+                        0,
+                        70,
+                        840
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                0,
+                                70,
+                                840
+                            ],
+                            "type": "table_body",
+                            "angle": 270,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        70,
+                                        840
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                0,
+                                                70,
+                                                840
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>6</td><td></td><td>3</td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>ABS</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>5</td><td></td><td>2</td><td></td><td>Design</td><td></td><td></td><td>X</td><td></td><td>Part name</td><td>下盖</td></tr><tr><td>4</td><td></td><td>1</td><td>初版制作</td><td>2021.07.15</td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Td Z1-P11</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td></tr></table>",
+                                            "image_path": "782f986b256e84b5abe734bb57cfdb81f84d13d8f190492b40b3508b1d56c30b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        70,
+                        30,
+                        573,
+                        840
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                70,
+                                30,
+                                573,
+                                840
+                            ],
+                            "type": "image_body",
+                            "angle": 270,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        30,
+                                        573,
+                                        840
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                70,
+                                                30,
+                                                573,
+                                                840
+                                            ],
+                                            "type": "image",
+                                            "image_path": "c360befb17d42e713835c206c3eef481b191f51e460f9dbe0d359225aefef817.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "sub_images": [
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.026,
+                                0.0,
+                                0.31,
+                                0.596
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.402,
+                                0.0,
+                                0.71,
+                                0.601
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.73,
+                                0.0,
+                                1.0,
+                                0.586
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.048,
+                                0.648,
+                                0.258,
+                                0.769
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.423,
+                                0.628,
+                                0.626,
+                                0.732
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.696,
+                                0.635,
+                                0.924,
+                                0.785
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.044,
+                                0.789,
+                                0.258,
+                                0.884
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.294,
+                                0.809,
+                                0.849,
+                                0.968
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        70,
+                        767,
+                        143,
+                        838
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                70,
+                                767,
+                                143,
+                                838
+                            ],
+                            "type": "table_body",
+                            "angle": 270,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        767,
+                                        143,
+                                        838
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                70,
+                                                767,
+                                                143,
+                                                838
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">LEVEL</td><td colspan=\"4\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td><td></td></tr><tr><td>DTM</td><td>A</td><td>B</td><td>C</td><td></td></tr><tr><td>DTM</td><td>&gt;5-15</td><td>≤0.05</td><td>≤0.1</td><td>≤0.15</td></tr><tr><td>&gt;5-50</td><td>≤0.05</td><td>≤0.1</td><td>≤0.2</td><td>≤0.3</td></tr><tr><td>&gt;50~100</td><td>≤0.08</td><td>≤0.2</td><td>≤0.3</td><td></td></tr><tr><td>&gt;100</td><td>≤0.1%</td><td>≤0.2%</td><td>≤0.3%</td><td></td></tr><tr><td>AGLWR</td><td>≤0.1%</td><td>≤0.2%</td><td>≤0.3%</td><td></td></tr><tr><td colspan=\"5\">SELECT LEVEL</td></tr></table>",
+                                            "image_path": "cf0032c0ca9e3e1ffec05b1fd7926a2202b20d2cd49c66829cf1890291a94e2b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        71,
+                        0,
+                        594,
+                        11
+                    ],
+                    "type": "aside_text",
+                    "angle": 270,
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                0,
+                                594,
+                                11
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        0,
+                                        594,
+                                        11
+                                    ],
+                                    "type": "text",
+                                    "content": "8\n7\n6\n5\n4\n3\n2\n1"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        568,
+                        803,
+                        576,
+                        835
+                    ],
+                    "type": "page_number",
+                    "angle": 270,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                568,
+                                803,
+                                577,
+                                836
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        568,
+                                        803,
+                                        577,
+                                        836
+                                    ],
+                                    "type": "text",
+                                    "content": "尺寸序",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        578,
+                        0,
+                        594,
+                        840
+                    ],
+                    "type": "aside_text",
+                    "angle": 270,
+                    "lines": [
+                        {
+                            "bbox": [
+                                578,
+                                0,
+                                594,
+                                840
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        578,
+                                        0,
+                                        594,
+                                        840
+                                    ],
+                                    "type": "text",
+                                    "content": "H | G | F | E | F | G | H"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        0,
+                        0,
+                        70,
+                        840
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                0,
+                                70,
+                                840
+                            ],
+                            "type": "table_body",
+                            "angle": 270,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        70,
+                                        840
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                0,
+                                                70,
+                                                840
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>6</td><td></td><td>3</td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>ABS</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>5</td><td></td><td>2</td><td></td><td>Design</td><td></td><td></td><td>X</td><td></td><td>Part name</td><td>下盖</td></tr><tr><td>4</td><td></td><td>1</td><td>初版制作</td><td>2021.07.15</td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Td Z1-P11</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td></tr></table>",
+                                            "image_path": "782f986b256e84b5abe734bb57cfdb81f84d13d8f190492b40b3508b1d56c30b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        70,
+                        30,
+                        573,
+                        840
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                70,
+                                30,
+                                573,
+                                840
+                            ],
+                            "type": "image_body",
+                            "angle": 270,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        30,
+                                        573,
+                                        840
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                70,
+                                                30,
+                                                573,
+                                                840
+                                            ],
+                                            "type": "image",
+                                            "image_path": "c360befb17d42e713835c206c3eef481b191f51e460f9dbe0d359225aefef817.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "sub_images": [
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.026,
+                                0.0,
+                                0.31,
+                                0.596
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.402,
+                                0.0,
+                                0.71,
+                                0.601
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.73,
+                                0.0,
+                                1.0,
+                                0.586
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.048,
+                                0.648,
+                                0.258,
+                                0.769
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.423,
+                                0.628,
+                                0.626,
+                                0.732
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.696,
+                                0.635,
+                                0.924,
+                                0.785
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.044,
+                                0.789,
+                                0.258,
+                                0.884
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "bbox": [
+                                0.294,
+                                0.809,
+                                0.849,
+                                0.968
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        70,
+                        767,
+                        143,
+                        838
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                70,
+                                767,
+                                143,
+                                838
+                            ],
+                            "type": "table_body",
+                            "angle": 270,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        767,
+                                        143,
+                                        838
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                70,
+                                                767,
+                                                143,
+                                                838
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">LEVEL</td><td colspan=\"4\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td><td></td></tr><tr><td>DTM</td><td>A</td><td>B</td><td>C</td><td></td></tr><tr><td>DTM</td><td>&gt;5-15</td><td>≤0.05</td><td>≤0.1</td><td>≤0.15</td></tr><tr><td>&gt;5-50</td><td>≤0.05</td><td>≤0.1</td><td>≤0.2</td><td>≤0.3</td></tr><tr><td>&gt;50~100</td><td>≤0.08</td><td>≤0.2</td><td>≤0.3</td><td></td></tr><tr><td>&gt;100</td><td>≤0.1%</td><td>≤0.2%</td><td>≤0.3%</td><td></td></tr><tr><td>AGLWR</td><td>≤0.1%</td><td>≤0.2%</td><td>≤0.3%</td><td></td></tr><tr><td colspan=\"5\">SELECT LEVEL</td></tr></table>",
+                                            "image_path": "cf0032c0ca9e3e1ffec05b1fd7926a2202b20d2cd49c66829cf1890291a94e2b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "3.1.6"
+}

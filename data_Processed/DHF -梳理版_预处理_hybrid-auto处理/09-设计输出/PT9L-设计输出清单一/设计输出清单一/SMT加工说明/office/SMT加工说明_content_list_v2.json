@@ -1,0 +1,264 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SMT加工说明--- PT9L V1.0",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PCB板信息：",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1、PCB：PT9L-HFMP01 V1.0拼板；"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2、尺寸：1拼10；拼板尺寸：179.4mm×128mm；"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "板厚：1mm ；喷锡工艺；"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "加工说明： ",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1、按无铅工艺加工"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2、SMT"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1  钢网不开孔："
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>元 件 位 号</strong></p></td><td><p><strong>说 明</strong></p></td></tr><tr><td><p>1</p></td><td><p>LCD</p></td><td><p>外接导电条</p></td></tr><tr><td><p>2</p></td><td><p>BUZZER</p></td><td><p>蜂鸣器焊接处</p></td></tr><tr><td><p>3</p></td><td><p>BAT</p></td><td><p>电池簧焊接处</p></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "加工说明： ",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "依如下温度曲线进行"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/9060b5b33d3de3a338b2f210d21507db944cb3b8d7fcde6bf78a971e4a2a22a9.jpg"
+                },
+                "image_caption": []
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "设 计 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "                   ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "日 期  "
+                    },
+                    {
+                        "type": "text",
+                        "content": "              ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "审 核 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "                   ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "日 期  "
+                    },
+                    {
+                        "type": "text",
+                        "content": "             ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "批 准 "
+                    },
+                    {
+                        "type": "text",
+                        "content": "                   ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "日 期  "
+                    },
+                    {
+                        "type": "text",
+                        "content": "             ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "PT9L-SMTW01 V1.0                                                                "
+                    },
+                    {
+                        "type": "text",
+                        "content": "SMT加工说明                           ",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "第 1 页 共 1 页"
+                    }
+                ]
+            }
+        }
+    ]
+]

@@ -1,0 +1,935 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "bbox": [
+                        284,
+                        193,
+                        732,
+                        378
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                284,
+                                193,
+                                732,
+                                378
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        193,
+                                        732,
+                                        378
+                                    ],
+                                    "type": "text",
+                                    "content": "andon"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        5439,
+                        193,
+                        5839,
+                        286
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                5439,
+                                193,
+                                5839,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        5439,
+                                        193,
+                                        5839,
+                                        286
+                                    ],
+                                    "type": "text",
+                                    "content": "⑧ 尺寸序号"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3,
+                    "merge_prev": false
+                },
+                {
+                    "type": "chart",
+                    "bbox": [
+                        1004,
+                        677,
+                        5318,
+                        3010
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                2765,
+                                357,
+                                3491,
+                                484
+                            ],
+                            "type": "chart_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        2765,
+                                        357,
+                                        3491,
+                                        484
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                2765,
+                                                357,
+                                                3491,
+                                                484
+                                            ],
+                                            "type": "text",
+                                            "content": "外箱尺寸示意图"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                1004,
+                                677,
+                                5318,
+                                3010
+                            ],
+                            "type": "chart_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        1004,
+                                        677,
+                                        5318,
+                                        3010
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                1004,
+                                                677,
+                                                5318,
+                                                3010
+                                            ],
+                                            "type": "chart",
+                                            "content": "",
+                                            "image_path": "f7581bc6de62b80a07cb96c47fe70732ddb49401d4efc11c0b8fe1e7dbabea33.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                3040,
+                                562,
+                                3107
+                            ],
+                            "type": "chart_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        3040,
+                                        562,
+                                        3107
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                3040,
+                                                562,
+                                                3107
+                                            ],
+                                            "type": "text",
+                                            "content": "技术要求："
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                3116,
+                                1772,
+                                3183
+                            ],
+                            "type": "chart_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        3116,
+                                        1772,
+                                        3183
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                3116,
+                                                1772,
+                                                3183
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 标注尺寸为外径尺寸：322.5 X 231 X 352 mm 公差：±5mm"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                3191,
+                                1440,
+                                3259
+                            ],
+                            "type": "chart_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        3191,
+                                        1440,
+                                        3259
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                3191,
+                                                1440,
+                                                3259
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 箱型代号：0201(GB/T 6543-2008)，上下摇盖"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                3267,
+                                2021,
+                                3339
+                            ],
+                            "type": "chart_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        3267,
+                                        2021,
+                                        3339
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                3267,
+                                                2021,
+                                                3339
+                                            ],
+                                            "type": "text",
+                                            "content": "3.材质: 190g牛皮面纸+170g(A)楞+80g芯纸+130g(B)楞+200g牛皮里纸"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                3343,
+                                1319,
+                                3410
+                            ],
+                            "type": "chart_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        3343,
+                                        1319,
+                                        3410
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                3343,
+                                                1319,
+                                                3410
+                                            ],
+                                            "type": "text",
+                                            "content": "4. 箱体连接使用粘合剂, 不得使用金属钉线"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                3419,
+                                750,
+                                3482
+                            ],
+                            "type": "chart_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        3419,
+                                        750,
+                                        3482
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                3419,
+                                                750,
+                                                3482
+                                            ],
+                                            "type": "text",
+                                            "content": "5.印刷颜色为黑色"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                3490,
+                                937,
+                                3558
+                            ],
+                            "type": "chart_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        3490,
+                                        937,
+                                        3558
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                3490,
+                                                937,
+                                                3558
+                                            ],
+                                            "type": "text",
+                                            "content": "6.本件要求通过RoHS测试"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 5,
+                    "sub_type": "other"
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        121,
+                        3621,
+                        5948,
+                        4135
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                121,
+                                3621,
+                                5948,
+                                4135
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        121,
+                                        3621,
+                                        5948,
+                                        4135
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                121,
+                                                3621,
+                                                5948,
+                                                4135
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td></td><td>K04010001435</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">外箱</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-F01</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "3678ca0e9b0945f839e17087e968c7ce82ae8087afedbc6c4305c021a1154d86.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        121,
+                        248,
+                        181,
+                        3309
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                121,
+                                248,
+                                181,
+                                3309
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        121,
+                                        248,
+                                        181,
+                                        3309
+                                    ],
+                                    "type": "text",
+                                    "content": "1\n2\n3\n4\n5\n6\n7\n8"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        459,
+                        80,
+                        5615,
+                        147
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                459,
+                                80,
+                                5615,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        459,
+                                        80,
+                                        5615,
+                                        147
+                                    ],
+                                    "type": "text",
+                                    "content": "A | B | C | D | E | F | G | H"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                6051,
+                4211
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "bbox": [
+                        284,
+                        193,
+                        732,
+                        378
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                284,
+                                193,
+                                732,
+                                378
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        284,
+                                        193,
+                                        732,
+                                        378
+                                    ],
+                                    "type": "text",
+                                    "content": "andon"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        5439,
+                        193,
+                        5839,
+                        286
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                5439,
+                                193,
+                                5839,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        5439,
+                                        193,
+                                        5839,
+                                        286
+                                    ],
+                                    "type": "text",
+                                    "content": "⑧ 尺寸序号"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3,
+                    "merge_prev": false
+                },
+                {
+                    "type": "chart",
+                    "bbox": [
+                        1004,
+                        677,
+                        5318,
+                        3010
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                2765,
+                                357,
+                                3491,
+                                484
+                            ],
+                            "type": "chart_caption",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        2765,
+                                        357,
+                                        3491,
+                                        484
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                2765,
+                                                357,
+                                                3491,
+                                                484
+                                            ],
+                                            "type": "text",
+                                            "content": "外箱尺寸示意图"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                1004,
+                                677,
+                                5318,
+                                3010
+                            ],
+                            "type": "chart_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        1004,
+                                        677,
+                                        5318,
+                                        3010
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                1004,
+                                                677,
+                                                5318,
+                                                3010
+                                            ],
+                                            "type": "chart",
+                                            "content": "",
+                                            "image_path": "f7581bc6de62b80a07cb96c47fe70732ddb49401d4efc11c0b8fe1e7dbabea33.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                3040,
+                                562,
+                                3107
+                            ],
+                            "type": "chart_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        3040,
+                                        562,
+                                        3107
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                3040,
+                                                562,
+                                                3107
+                                            ],
+                                            "type": "text",
+                                            "content": "技术要求："
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                3116,
+                                1772,
+                                3183
+                            ],
+                            "type": "chart_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        3116,
+                                        1772,
+                                        3183
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                3116,
+                                                1772,
+                                                3183
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 标注尺寸为外径尺寸：322.5 X 231 X 352 mm 公差：±5mm"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                3191,
+                                1440,
+                                3259
+                            ],
+                            "type": "chart_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        3191,
+                                        1440,
+                                        3259
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                3191,
+                                                1440,
+                                                3259
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 箱型代号：0201(GB/T 6543-2008)，上下摇盖"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                3267,
+                                2021,
+                                3339
+                            ],
+                            "type": "chart_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        3267,
+                                        2021,
+                                        3339
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                3267,
+                                                2021,
+                                                3339
+                                            ],
+                                            "type": "text",
+                                            "content": "3.材质: 190g牛皮面纸+170g(A)楞+80g芯纸+130g(B)楞+200g牛皮里纸"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                3343,
+                                1319,
+                                3410
+                            ],
+                            "type": "chart_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        3343,
+                                        1319,
+                                        3410
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                3343,
+                                                1319,
+                                                3410
+                                            ],
+                                            "type": "text",
+                                            "content": "4. 箱体连接使用粘合剂, 不得使用金属钉线"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                3419,
+                                750,
+                                3482
+                            ],
+                            "type": "chart_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        3419,
+                                        750,
+                                        3482
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                3419,
+                                                750,
+                                                3482
+                                            ],
+                                            "type": "text",
+                                            "content": "5.印刷颜色为黑色"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                3490,
+                                937,
+                                3558
+                            ],
+                            "type": "chart_footnote",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        3490,
+                                        937,
+                                        3558
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                3490,
+                                                937,
+                                                3558
+                                            ],
+                                            "type": "text",
+                                            "content": "6.本件要求通过RoHS测试"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 5,
+                    "sub_type": "other"
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        121,
+                        3621,
+                        5948,
+                        4135
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                121,
+                                3621,
+                                5948,
+                                4135
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        121,
+                                        3621,
+                                        5948,
+                                        4135
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                121,
+                                                3621,
+                                                5948,
+                                                4135
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td></td><td>K04010001435</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">外箱</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-F01</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "3678ca0e9b0945f839e17087e968c7ce82ae8087afedbc6c4305c021a1154d86.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "3.1.6"
+}

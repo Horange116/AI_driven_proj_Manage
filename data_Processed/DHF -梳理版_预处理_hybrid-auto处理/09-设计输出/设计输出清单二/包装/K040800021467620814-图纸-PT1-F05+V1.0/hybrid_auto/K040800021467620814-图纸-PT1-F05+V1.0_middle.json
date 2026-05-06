@@ -1,0 +1,1853 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "bbox": [
+                        55,
+                        41,
+                        115,
+                        66
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                41,
+                                115,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        41,
+                                        115,
+                                        66
+                                    ],
+                                    "type": "text",
+                                    "content": "andon"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        77,
+                        116,
+                        254,
+                        224
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                77,
+                                116,
+                                254,
+                                224
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        116,
+                                        254,
+                                        224
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                77,
+                                                116,
+                                                254,
+                                                224
+                                            ],
+                                            "type": "image",
+                                            "content": "46.5mm\n19.5mm\niHealth Clinical Digital Thermometer\nModel: PT1 Measurement position: oral Made in China\nPower source: DC=3V, CR1632\nManufactured for iHealth Labs, Inc. www.ihealthlabs.com\n120 San Lucar Ct., Sunnyvale, CA 94086, USA\nAndon Health Co., LTD.\nNo. 3 Jin Ping Street, Ya An Road, Nankai\nDistrict, Tianjin 300190, China.\nLOT 201012011001 IP22\n说明：\n字体：Myriad Pro Bold\n字号：5.5pt\n字体：Myriad Pro 6pt",
+                                            "image_path": "4761a2478fd581ab906b851d6832318758b124fcb8fe6c234a7799255502d1c2.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "sub_type": "text_image"
+                },
+                {
+                    "bbox": [
+                        491,
+                        230,
+                        615,
+                        260
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                491,
+                                230,
+                                615,
+                                260
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        491,
+                                        230,
+                                        615,
+                                        260
+                                    ],
+                                    "type": "text",
+                                    "content": "46.5mm"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        153,
+                        268,
+                        218,
+                        288
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                153,
+                                268,
+                                218,
+                                288
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        153,
+                                        268,
+                                        218,
+                                        288
+                                    ],
+                                    "type": "text",
+                                    "content": "比例 1:1"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        236,
+                        349,
+                        359,
+                        381
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                236,
+                                349,
+                                359,
+                                381
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        236,
+                                        349,
+                                        359,
+                                        381
+                                    ],
+                                    "type": "text",
+                                    "content": "19.5mm"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        51,
+                        430,
+                        159,
+                        443
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                430,
+                                159,
+                                443
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        430,
+                                        159,
+                                        443
+                                    ],
+                                    "type": "text",
+                                    "content": "本件要求通过RoHS测试"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        51,
+                        448,
+                        201,
+                        461
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                448,
+                                201,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        448,
+                                        201,
+                                        461
+                                    ],
+                                    "type": "text",
+                                    "content": "说明：材质为25#透明PET覆哑胶"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        51,
+                        465,
+                        289,
+                        478
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                465,
+                                289,
+                                478
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        465,
+                                        289,
+                                        478
+                                    ],
+                                    "type": "text",
+                                    "content": "印刷颜色：C+M+PANTONE Cool gray 7c 三色印刷"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        439,
+                        305,
+                        713,
+                        325
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                439,
+                                305,
+                                713,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        439,
+                                        305,
+                                        713,
+                                        325
+                                    ],
+                                    "type": "text",
+                                    "content": "iHealth Clinical Digital Thermometer"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        401,
+                        326,
+                        748,
+                        340
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                401,
+                                326,
+                                748,
+                                340
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        401,
+                                        326,
+                                        748,
+                                        340
+                                    ],
+                                    "type": "text",
+                                    "content": "Model: PT1 Measurement position: oral Made in China"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        401,
+                        340,
+                        593,
+                        354
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                401,
+                                340,
+                                593,
+                                354
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        401,
+                                        340,
+                                        593,
+                                        354
+                                    ],
+                                    "type": "text",
+                                    "content": "Power source: DC==3V, CR1632"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        401,
+                        354,
+                        741,
+                        367
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                401,
+                                354,
+                                741,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        401,
+                                        354,
+                                        741,
+                                        367
+                                    ],
+                                    "type": "text",
+                                    "content": "Manufactured for iHealth Labs, Inc. www.ihealthlabs.com"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        401,
+                        368,
+                        664,
+                        382
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                401,
+                                368,
+                                664,
+                                382
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        401,
+                                        368,
+                                        664,
+                                        382
+                                    ],
+                                    "type": "text",
+                                    "content": "120 San Lucar Ct., Sunnyvale, CA 94086, USA"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        401,
+                        385,
+                        423,
+                        410
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                401,
+                                385,
+                                423,
+                                410
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        401,
+                                        385,
+                                        423,
+                                        410
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                401,
+                                                385,
+                                                423,
+                                                410
+                                            ],
+                                            "type": "image",
+                                            "image_path": "24520e711e2caf7444a197f097b25914d46836c21a250d03948a16c41399aa24.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "bbox": [
+                        427,
+                        384,
+                        563,
+                        398
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                427,
+                                384,
+                                563,
+                                398
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        427,
+                                        384,
+                                        563,
+                                        398
+                                    ],
+                                    "type": "text",
+                                    "content": "Andon Health Co., LTD."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        427,
+                        398,
+                        664,
+                        412
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                427,
+                                398,
+                                664,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        427,
+                                        398,
+                                        664,
+                                        412
+                                    ],
+                                    "type": "text",
+                                    "content": "No. 3 Jin Ping Street, Ya An Road, Nankai"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        427,
+                        412,
+                        605,
+                        426
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                427,
+                                412,
+                                605,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        427,
+                                        412,
+                                        605,
+                                        426
+                                    ],
+                                    "type": "text",
+                                    "content": "District, Tianjin 300190, China."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        428,
+                        428,
+                        576,
+                        447
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                428,
+                                428,
+                                576,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        428,
+                                        428,
+                                        576,
+                                        447
+                                    ],
+                                    "type": "text",
+                                    "content": "LOT 201012011001"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        608,
+                        424,
+                        632,
+                        448
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                608,
+                                424,
+                                632,
+                                448
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        608,
+                                        424,
+                                        632,
+                                        448
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                608,
+                                                424,
+                                                632,
+                                                448
+                                            ],
+                                            "type": "image",
+                                            "image_path": "1a7454164ab634889ba2b71f275f46732e331652cf1d65993ea0a397bbdb7fe8.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 20
+                },
+                {
+                    "bbox": [
+                        637,
+                        428,
+                        676,
+                        448
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                637,
+                                428,
+                                676,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        637,
+                                        428,
+                                        676,
+                                        448
+                                    ],
+                                    "type": "text",
+                                    "content": "IP22"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 21,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        677,
+                        384,
+                        708,
+                        407
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                677,
+                                384,
+                                708,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        677,
+                                        384,
+                                        708,
+                                        407
+                                    ],
+                                    "type": "text",
+                                    "content": "FC"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 22,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        709,
+                        369,
+                        755,
+                        418
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                709,
+                                369,
+                                755,
+                                418
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        709,
+                                        369,
+                                        755,
+                                        418
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                709,
+                                                369,
+                                                755,
+                                                418
+                                            ],
+                                            "type": "image",
+                                            "image_path": "f79b986f57224e88377021f5d1c19ddace09b2be94922c4b875cc3d88bae0d21.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        709,
+                        421,
+                        752,
+                        432
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                709,
+                                421,
+                                752,
+                                432
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        709,
+                                        421,
+                                        752,
+                                        432
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                709,
+                                                421,
+                                                752,
+                                                432
+                                            ],
+                                            "type": "image",
+                                            "image_path": "f9d65b3ec058eb3927adcfe3ea6d23312d4e3a84e0731411a4356051816ddbb4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 24
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        26,
+                        496,
+                        810,
+                        565
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                26,
+                                496,
+                                810,
+                                565
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        496,
+                                        810,
+                                        565
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                26,
+                                                496,
+                                                810,
+                                                565
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td></td><td>K04080002146</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT1</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">铭牌</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT1-F05</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td><eq>X^{\\circ}</eq></td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "12adb265f51364527fe24bef2cfee549ef070a73c45585702bc251342161320a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 25
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        26,
+                        42,
+                        36,
+                        454
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                26,
+                                42,
+                                36,
+                                454
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        42,
+                                        36,
+                                        454
+                                    ],
+                                    "type": "text",
+                                    "content": "1\n2\n3\n4\n5\n6\n7\n8"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        70,
+                        20,
+                        766,
+                        29
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                20,
+                                766,
+                                29
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        20,
+                                        766,
+                                        29
+                                    ],
+                                    "type": "text",
+                                    "content": "A | B | C | D | E | F | G | H"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                841,
+                595
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "bbox": [
+                        55,
+                        41,
+                        115,
+                        66
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                41,
+                                115,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        41,
+                                        115,
+                                        66
+                                    ],
+                                    "type": "text",
+                                    "content": "andon"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        77,
+                        116,
+                        254,
+                        224
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                77,
+                                116,
+                                254,
+                                224
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        116,
+                                        254,
+                                        224
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                77,
+                                                116,
+                                                254,
+                                                224
+                                            ],
+                                            "type": "image",
+                                            "content": "46.5mm\n19.5mm\niHealth Clinical Digital Thermometer\nModel: PT1 Measurement position: oral Made in China\nPower source: DC=3V, CR1632\nManufactured for iHealth Labs, Inc. www.ihealthlabs.com\n120 San Lucar Ct., Sunnyvale, CA 94086, USA\nAndon Health Co., LTD.\nNo. 3 Jin Ping Street, Ya An Road, Nankai\nDistrict, Tianjin 300190, China.\nLOT 201012011001 IP22\n说明：\n字体：Myriad Pro Bold\n字号：5.5pt\n字体：Myriad Pro 6pt",
+                                            "image_path": "4761a2478fd581ab906b851d6832318758b124fcb8fe6c234a7799255502d1c2.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "sub_type": "text_image"
+                },
+                {
+                    "bbox": [
+                        491,
+                        230,
+                        615,
+                        260
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                491,
+                                230,
+                                615,
+                                260
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        491,
+                                        230,
+                                        615,
+                                        260
+                                    ],
+                                    "type": "text",
+                                    "content": "46.5mm"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        153,
+                        268,
+                        218,
+                        288
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                153,
+                                268,
+                                218,
+                                288
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        153,
+                                        268,
+                                        218,
+                                        288
+                                    ],
+                                    "type": "text",
+                                    "content": "比例 1:1"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        236,
+                        349,
+                        359,
+                        381
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                236,
+                                349,
+                                359,
+                                381
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        236,
+                                        349,
+                                        359,
+                                        381
+                                    ],
+                                    "type": "text",
+                                    "content": "19.5mm"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        51,
+                        430,
+                        159,
+                        443
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                430,
+                                159,
+                                443
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        430,
+                                        159,
+                                        443
+                                    ],
+                                    "type": "text",
+                                    "content": "本件要求通过RoHS测试"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        51,
+                        448,
+                        201,
+                        461
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                448,
+                                201,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        448,
+                                        201,
+                                        461
+                                    ],
+                                    "type": "text",
+                                    "content": "说明：材质为25#透明PET覆哑胶"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        51,
+                        465,
+                        289,
+                        478
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                465,
+                                289,
+                                478
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        465,
+                                        289,
+                                        478
+                                    ],
+                                    "type": "text",
+                                    "content": "印刷颜色：C+M+PANTONE Cool gray 7c 三色印刷"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        439,
+                        305,
+                        713,
+                        325
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                439,
+                                305,
+                                713,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        439,
+                                        305,
+                                        713,
+                                        325
+                                    ],
+                                    "type": "text",
+                                    "content": "iHealth Clinical Digital Thermometer"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        401,
+                        326,
+                        748,
+                        340
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                401,
+                                326,
+                                748,
+                                340
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        401,
+                                        326,
+                                        748,
+                                        340
+                                    ],
+                                    "type": "text",
+                                    "content": "Model: PT1 Measurement position: oral Made in China"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        401,
+                        340,
+                        593,
+                        354
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                401,
+                                340,
+                                593,
+                                354
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        401,
+                                        340,
+                                        593,
+                                        354
+                                    ],
+                                    "type": "text",
+                                    "content": "Power source: DC==3V, CR1632"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        401,
+                        354,
+                        741,
+                        367
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                401,
+                                354,
+                                741,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        401,
+                                        354,
+                                        741,
+                                        367
+                                    ],
+                                    "type": "text",
+                                    "content": "Manufactured for iHealth Labs, Inc. www.ihealthlabs.com"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        401,
+                        368,
+                        664,
+                        382
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                401,
+                                368,
+                                664,
+                                382
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        401,
+                                        368,
+                                        664,
+                                        382
+                                    ],
+                                    "type": "text",
+                                    "content": "120 San Lucar Ct., Sunnyvale, CA 94086, USA"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        401,
+                        385,
+                        423,
+                        410
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                401,
+                                385,
+                                423,
+                                410
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        401,
+                                        385,
+                                        423,
+                                        410
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                401,
+                                                385,
+                                                423,
+                                                410
+                                            ],
+                                            "type": "image",
+                                            "image_path": "24520e711e2caf7444a197f097b25914d46836c21a250d03948a16c41399aa24.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "bbox": [
+                        427,
+                        384,
+                        563,
+                        398
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                427,
+                                384,
+                                563,
+                                398
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        427,
+                                        384,
+                                        563,
+                                        398
+                                    ],
+                                    "type": "text",
+                                    "content": "Andon Health Co., LTD."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        427,
+                        398,
+                        664,
+                        412
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                427,
+                                398,
+                                664,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        427,
+                                        398,
+                                        664,
+                                        412
+                                    ],
+                                    "type": "text",
+                                    "content": "No. 3 Jin Ping Street, Ya An Road, Nankai"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        427,
+                        412,
+                        605,
+                        426
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                427,
+                                412,
+                                605,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        427,
+                                        412,
+                                        605,
+                                        426
+                                    ],
+                                    "type": "text",
+                                    "content": "District, Tianjin 300190, China."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        428,
+                        428,
+                        576,
+                        447
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                428,
+                                428,
+                                576,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        428,
+                                        428,
+                                        576,
+                                        447
+                                    ],
+                                    "type": "text",
+                                    "content": "LOT 201012011001"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        608,
+                        424,
+                        632,
+                        448
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                608,
+                                424,
+                                632,
+                                448
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        608,
+                                        424,
+                                        632,
+                                        448
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                608,
+                                                424,
+                                                632,
+                                                448
+                                            ],
+                                            "type": "image",
+                                            "image_path": "1a7454164ab634889ba2b71f275f46732e331652cf1d65993ea0a397bbdb7fe8.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 20
+                },
+                {
+                    "bbox": [
+                        637,
+                        428,
+                        676,
+                        448
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                637,
+                                428,
+                                676,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        637,
+                                        428,
+                                        676,
+                                        448
+                                    ],
+                                    "type": "text",
+                                    "content": "IP22"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 21,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        677,
+                        384,
+                        708,
+                        407
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                677,
+                                384,
+                                708,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        677,
+                                        384,
+                                        708,
+                                        407
+                                    ],
+                                    "type": "text",
+                                    "content": "FC"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 22,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        709,
+                        369,
+                        755,
+                        418
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                709,
+                                369,
+                                755,
+                                418
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        709,
+                                        369,
+                                        755,
+                                        418
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                709,
+                                                369,
+                                                755,
+                                                418
+                                            ],
+                                            "type": "image",
+                                            "image_path": "f79b986f57224e88377021f5d1c19ddace09b2be94922c4b875cc3d88bae0d21.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        709,
+                        421,
+                        752,
+                        432
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                709,
+                                421,
+                                752,
+                                432
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        709,
+                                        421,
+                                        752,
+                                        432
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                709,
+                                                421,
+                                                752,
+                                                432
+                                            ],
+                                            "type": "image",
+                                            "image_path": "f9d65b3ec058eb3927adcfe3ea6d23312d4e3a84e0731411a4356051816ddbb4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 24
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        26,
+                        496,
+                        810,
+                        565
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                26,
+                                496,
+                                810,
+                                565
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        26,
+                                        496,
+                                        810,
+                                        565
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                26,
+                                                496,
+                                                810,
+                                                565
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td></td><td>K04080002146</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT1</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">铭牌</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT1-F05</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td><eq>X^{\\circ}</eq></td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "12adb265f51364527fe24bef2cfee549ef070a73c45585702bc251342161320a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 25
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "3.1.6"
+}

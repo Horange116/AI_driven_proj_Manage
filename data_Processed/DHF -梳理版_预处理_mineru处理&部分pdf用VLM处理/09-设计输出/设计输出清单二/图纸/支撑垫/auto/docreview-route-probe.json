@@ -1,0 +1,137 @@
+{
+  "format": "docreview-pdf-layout-probe-v1",
+  "source_name": "支撑垫.pdf",
+  "content_hash": "95aba296b02651ecb4bd54e1742549e850dff4465c165fc364cad196d0aa74fd",
+  "page_count": 1,
+  "engine": "pymupdf",
+  "capabilities": {
+    "text_blocks": true,
+    "word_coordinates": true,
+    "row_clustering": true,
+    "vector_drawings": true,
+    "tables": false,
+    "ocr": false,
+    "semantic_table_reconstruction": false
+  },
+  "limits": [
+    "Rows are geometric text clusters, not verified semantic tables.",
+    "Vector drawings are counted but not converted into Gantt/task bars.",
+    "Scanned-image OCR is not enabled.",
+    "PDF W1 output is text/layout-audit evidence, not semantic Gantt reconstruction."
+  ],
+  "totals": {
+    "text_block_count": 4,
+    "word_count": 8,
+    "row_count": 8,
+    "table_like_row_count": 0,
+    "drawing_path_count": 1733,
+    "drawing_item_count": 27753,
+    "line_item_count": 27664,
+    "rectangle_item_count": 51
+  },
+  "pages": [
+    {
+      "page_index": 1,
+      "width": 841.92,
+      "height": 595.32,
+      "text_block_count": 4,
+      "word_count": 8,
+      "row_count": 8,
+      "table_like_row_count": 0,
+      "drawing_path_count": 1733,
+      "drawing_item_count": 27753,
+      "line_item_count": 27664,
+      "rectangle_item_count": 51,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            7.37,
+            105.11,
+            19.37,
+            114.71
+          ],
+          "word_count": 1,
+          "text": "更"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            7.37,
+            119.01,
+            19.37,
+            128.61
+          ],
+          "word_count": 1,
+          "text": "改"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            7.37,
+            132.91,
+            19.37,
+            142.51
+          ],
+          "word_count": 1,
+          "text": "记"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            7.37,
+            146.64,
+            19.37,
+            156.24
+          ],
+          "word_count": 1,
+          "text": "录"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            7.88,
+            256.2,
+            18.68,
+            290.93
+          ],
+          "word_count": 1,
+          "text": "更改时间"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            60.38,
+            637.07,
+            74.03,
+            669.73
+          ],
+          "word_count": 1,
+          "text": "聚氨酯"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            41.31,
+            779.64,
+            57.66,
+            818.76
+          ],
+          "word_count": 1,
+          "text": "支撑垫"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            563.96,
+            801.6,
+            573.71,
+            832.8
+          ],
+          "word_count": 1,
+          "text": "尺寸序号"
+        }
+      ]
+    }
+  ]
+}

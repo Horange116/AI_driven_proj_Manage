@@ -1,0 +1,311 @@
+[
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.049,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.087,
+                0.083,
+                0.903,
+                0.543
+            ],
+            "angle": 0,
+            "content": "<table><tr><td colspan=\"2\">TEST REPORTIEC 60068-2-78:2012: Damp heat, steady state</td></tr><tr><td>Date of issue......:</td><td>2024-07-12</td></tr><tr><td>Standard......:</td><td>IEC 60068-2-78:2012: Damp heat, steady state</td></tr><tr><td>Procedure deviation......:</td><td>N/A</td></tr><tr><td>Non-standard test method......:</td><td>N/A</td></tr><tr><td>Type of test object......:</td><td>Infrared No-Touch Forehead Thermometer</td></tr><tr><td>Trademark......:</td><td>N/A</td></tr><tr><td>Model/type reference......:</td><td>PT9L</td></tr><tr><td>Report No ......:</td><td>ETX202303-07-078-05</td></tr><tr><td>Testing period......:</td><td>2024.07.10-2024.07.11</td></tr><tr><td>Manufacturer......:</td><td>ANDON HEALTH CO., LTD.</td></tr><tr><td>Address......:</td><td>No.3 JinPing Street, YaAn Road, Nankai District, Tianjin, China</td></tr><tr><td>Test laboratory......Address......</td><td>Tianxu(Tianjin)Testing Technology Service Co.,LTD101, First floor, Building L,No.3 JinPing Street,Ya An Road,Nankai District, Tianjin,China</td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.219,
+                0.69,
+                0.793,
+                0.707
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.212,
+                0.728,
+                0.796,
+                0.744
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.049,
+                0.354,
+                0.064
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.216,
+                0.685,
+                0.332,
+                0.711
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.455,
+                0.688,
+                0.563,
+                0.707
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.598,
+                0.688,
+                0.652,
+                0.707
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.209,
+                0.723,
+                0.326,
+                0.748
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.441,
+                0.723,
+                0.655,
+                0.746
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.09,
+                0.049,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.095,
+                0.102,
+                0.923,
+                0.128
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Clause</td><td>Requirement + Test</td><td>Result - Remark</td><td>Verdict</td></tr></table>"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.095,
+                0.143,
+                0.923,
+                0.248
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>Damp heat test</td><td>The sample is in normal working condition and put into the programmable constant temperature and humidity test chamber. The temperature and humidity of the test box are adjusted to 40 °C and 95% RH. After the temperature and humidity are stable, it is maintained for 14.8 hours.</td><td>/</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.483,
+                0.929,
+                0.515,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.089,
+                0.049,
+                0.354,
+                0.064
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.479,
+                0.927,
+                0.519,
+                0.944
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.089,
+                0.05,
+                0.353,
+                0.064
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.348,
+                0.088,
+                0.651,
+                0.102
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.084,
+                0.128,
+                0.492,
+                0.346
+            ],
+            "angle": 0,
+            "content": "White digital thermometer placed on a wooden surface with a ruler for scale (no text or symbols visible)",
+            "sub_type": "natural_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.505,
+                0.128,
+                0.911,
+                0.346
+            ],
+            "angle": 0,
+            "content": "YP240017\nPT9L\nTXW1603-01-08\n校核 | 检发中 | 校单 | 交运",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.239,
+                0.356,
+                0.769,
+                0.584
+            ],
+            "angle": 0,
+            "content": "iHealth Infrared No-Touch Forehead Thermometer\nModel: PT9L Power source: DC 2 x 1.5V=SIZE AAA batteries\nMeasurement position: Centre of the forehead surface\nManufactured for iHealth Labs, Inc.\nAndon Health Co., LTD.\nNo.3 Jin Ping Street, Ya An Road, Nankai District,\nTianjin 300190, China.\nMade in China\nLETI KE04 IP22",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.348,
+                0.639,
+                0.529,
+                0.654
+            ],
+            "angle": 0,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.484,
+                0.929,
+                0.515,
+                0.941
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.09,
+                0.05,
+                0.354,
+                0.063
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.481,
+                0.927,
+                0.519,
+                0.944
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.349,
+                0.087,
+                0.651,
+                0.102
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.348,
+                0.637,
+                0.53,
+                0.655
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ]
+]

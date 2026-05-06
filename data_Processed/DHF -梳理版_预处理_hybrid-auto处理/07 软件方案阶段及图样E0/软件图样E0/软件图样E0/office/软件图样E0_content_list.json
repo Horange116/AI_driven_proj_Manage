@@ -1,0 +1,178 @@
+[
+    {
+        "type": "text",
+        "text": "**软件流程图**",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**（V1.0）**",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "产 品 型 号：       <u>PT9L</u>       ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "项 目 编 号：  <u>30000078</u>   ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "产品/项目名称：    <u>红外体温计</u>      ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**编    制***（软件工程师）*                        <u>年   月   日</u>",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**审    核***（软 件主 管）*                        <u>年   月   日</u>",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**批    准***（技术负责人）*                        <u>年   月   日</u> ",
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "文件编号： <u>PT9L-RJTY01</u> V1.0                                                 软件流程图",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**历史版本记录**",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>更改日期</strong></p></td><td><p><strong>版本描述</strong></p></td><td><p><strong>版本</strong></p></td><td><p><strong>更改人</strong></p></td><td><p><strong>批准人</strong></p></td></tr><tr><td><p>1</p></td><td><p>2024年02月21日</p></td><td><p>起草</p></td><td><p>V1.0</p></td><td><p>王迪</p></td><td><p>侯广伟</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "文件编号： <u>PT9L-RJTY01</u> V1.0                                             软件流程图",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "软件主流程图",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/497100381aab4983af9175ad2b81dab5c3721efed779a552a0c2269d26bd498e.png",
+        "image_caption": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用户测量",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e757e0e2dc11fbb1062babac63ee44278103fc1d58eb225695dfe60d90b66d7.png",
+        "image_caption": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "符号设置",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/df603594211bf8ea474d95e71ca31c0bd29a04441b31a03724e989cb6e253725.png",
+        "image_caption": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "测量模式设置",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/193c7291be6395c2d281d2166cb1f61307be0eb1d6e30fd4297c37dc5c924866.png",
+        "image_caption": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "记忆模式",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/adcd0d8cf1d40862c82c600506fdb5c97db1f092cc2ffe0650a3011f66f418c3.png",
+        "image_caption": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CB1",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4fa96426c5753c9a348647565cfb4a4fca8c9ce4ade32b6ecf0ec7d90d131f6c.png",
+        "image_caption": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CB2",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/707e2d6ec38a2229b760e2259be8ffda66bf8422bf8430072bd99ba218c6dcb0.png",
+        "image_caption": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CB3",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b35f3aa9efccb7097db75cd73acd3b791f810bf845f47f5774fd41b4f4392a42.png",
+        "image_caption": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CB4",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c85c55837fc0162676f443699e0aa8325d1be4565fab4019da875efdb58ae82b.png",
+        "image_caption": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CB5",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/68ed9191d59ad95fa92f1c9172823fdb2a96061bf4ab57c9ecd87d9b3b1868e0.png",
+        "image_caption": [],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "文件编号： <u>PT9L-RJTY01</u> V1.0                                             软件流程图",
+        "page_idx": 2
+    }
+]

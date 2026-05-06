@@ -1,0 +1,85 @@
+[
+    {
+        "type": "text",
+        "text": "andon ",
+        "bbox": [
+            46,
+            45,
+            120,
+            89
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "⑧ 尺寸序号",
+        "bbox": [
+            898,
+            45,
+            964,
+            67
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "chart",
+        "img_path": "images/f7581bc6de62b80a07cb96c47fe70732ddb49401d4efc11c0b8fe1e7dbabea33.jpg",
+        "content": "",
+        "chart_caption": [
+            "外箱尺寸示意图"
+        ],
+        "chart_footnote": [
+            "技术要求：",
+            "1. 标注尺寸为外径尺寸：322.5 X 231 X 352 mm 公差：±5mm",
+            "2. 箱型代号：0201(GB/T 6543-2008)，上下摇盖",
+            "3.材质: 190g牛皮面纸+170g(A)楞+80g芯纸+130g(B)楞+200g牛皮里纸 ",
+            "4. 箱体连接使用粘合剂, 不得使用金属钉线",
+            "5.印刷颜色为黑色",
+            "6.本件要求通过RoHS测试"
+        ],
+        "sub_type": "other",
+        "bbox": [
+            165,
+            160,
+            878,
+            714
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/3678ca0e9b0945f839e17087e968c7ce82ae8087afedbc6c4305c021a1154d86.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>3</td><td></td><td></td><td>K04010001435</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">外箱</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-F01</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+        "bbox": [
+            19,
+            859,
+            982,
+            981
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "1\n2\n3\n4\n5\n6\n7\n8 ",
+        "bbox": [
+            19,
+            58,
+            29,
+            785
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "A | B | C | D | E | F | G | H ",
+        "bbox": [
+            75,
+            18,
+            927,
+            34
+        ],
+        "page_idx": 0
+    }
+]

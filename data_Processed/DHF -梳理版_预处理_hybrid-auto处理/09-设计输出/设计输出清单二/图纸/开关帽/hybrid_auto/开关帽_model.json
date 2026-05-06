@@ -1,0 +1,243 @@
+[
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.0,
+                0.0,
+                0.999,
+                0.027
+            ],
+            "angle": 0,
+            "content": "A B C D E F G H"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.956,
+                0.03,
+                0.992,
+                0.045
+            ],
+            "angle": 0,
+            "content": "⑧ 尺寸序号",
+            "merge_prev": false
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.0,
+                0.048,
+                0.014,
+                0.824
+            ],
+            "angle": 0,
+            "content": "1\n2\n3\n4\n5\n6\n7\n8"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.046,
+                0.696,
+                0.086,
+                0.709
+            ],
+            "angle": 0,
+            "content": "产品技术要求："
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.059,
+                0.711,
+                0.173,
+                0.727
+            ],
+            "angle": 0,
+            "content": "1. 带编号为重要尺寸, 需要IQC测量;",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.728,
+                0.33,
+                0.759
+            ],
+            "angle": 0,
+            "content": "2. 材质为ABS（白色）；产品外观良好、无拉伤，变形，批锋，熔接痕，气纹，顶白，缺胶，缩水等不良现象；",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.761,
+                0.252,
+                0.793
+            ],
+            "angle": 0,
+            "content": "3. 须试装产品，并能顺利装入产品。未标注尺寸以样板为准；品质部检验结构时，请以结构签板和组装（实配）为准",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.06,
+                0.794,
+                0.128,
+                0.809
+            ],
+            "angle": 0,
+            "content": "4. 产品符合ROHS 2.0",
+            "merge_prev": false
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.059,
+                0.711,
+                0.33,
+                0.809
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.406,
+                0.089,
+                0.611,
+                0.196
+            ],
+            "angle": 0,
+            "content": "③\n7.7±0.05\n2.7\n4\n0.3±0.03",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.716,
+                0.108,
+                0.804,
+                0.21
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.23,
+                0.298,
+                0.34,
+                0.321
+            ],
+            "angle": 0,
+            "content": "SECTION A-A"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.263,
+                0.358,
+                0.307,
+                0.408
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.495,
+                0.253,
+                0.582,
+                0.29
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.458,
+                0.318,
+                0.634,
+                0.477
+            ],
+            "angle": 0,
+            "content": "15\n4\n9.1±0.05\n① 16.8±0.05\n4.1±0.05\n6.1±0.05\n②",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.725,
+                0.358,
+                0.769,
+                0.408
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.495,
+                0.48,
+                0.582,
+                0.515
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.49,
+                0.561,
+                0.58,
+                0.623
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.49,
+                0.666,
+                0.624,
+                0.796
+            ],
+            "angle": 0,
+            "content": "1.6±0.05\n⑤\n1.8±0.05",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.913,
+                0.757,
+                0.998,
+                0.881
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"2\">DTM\\LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt; 5</td><td>±0.03</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 5~15</td><td>±0.05</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 15~50</td><td>±0.05</td><td>±0.1</td><td>±0.2</td></tr><tr><td>&gt; 50~100</td><td>±0.08</td><td>±0.2</td><td>±0.3</td></tr><tr><td>≥100</td><td>±0.1%</td><td>±0.2%</td><td>±0.3%</td></tr><tr><td>ANGUL-R</td><td>±0.1*</td><td>±0.5*</td><td>±0.5*</td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\">B</td></tr></table>"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.0,
+                0.881,
+                0.999,
+                0.999
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>6</td><td></td><td></td><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>ABS</td><td>Model NO.</td><td colspan=\"2\">T-Z1</td></tr><tr><td>5</td><td></td><td></td><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">开关帽</td></tr><tr><td>4</td><td></td><td></td><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>2:1</td><td>Drawing NO.</td><td colspan=\"2\">T-Z1-P06</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>"
+        }
+    ]
+]

@@ -1,0 +1,133 @@
+{
+  "format": "docreview-pdf-intake-flow-v1",
+  "generated_at": "2026-05-01T04:19:21.601975+00:00",
+  "source": "C:\\Users\\Administrator\\Documents\\New project\\DHF -梳理版\\08 T1样机\\12-生物相容性\\同PT5生物相容性报告\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5.pdf",
+  "source_sha256": "f84aac5af624ac822f42981cf43f4e79669ab73f461a3afcc8b29104915586d1",
+  "run_root": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029",
+  "probe_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\probe.json",
+  "classification_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\classification.json",
+  "classification_ms": 0,
+  "classification": {
+    "pdf_type": "scanned",
+    "route": "vlm",
+    "template": "scanned",
+    "reason": "Probe router found weak text extraction; use visual route.",
+    "must_preserve": [
+      "visible text",
+      "page image"
+    ],
+    "risk": [
+      "OCR/VLM output remains candidate until reviewed"
+    ],
+    "confidence": "medium",
+    "classifier": "probe",
+    "needs_vlm_supplement": true
+  },
+  "route_result": {
+    "route": "vlm",
+    "page_count": 12,
+    "processed_pages": 12,
+    "page_results": [
+      {
+        "page": 1,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\pages\\page-001.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\page-001-vlm.md",
+        "elapsed_ms": 29076,
+        "chars": 2539,
+        "required_sections_present": true
+      },
+      {
+        "page": 2,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\pages\\page-002.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\page-002-vlm.md",
+        "elapsed_ms": 58592,
+        "chars": 6689,
+        "required_sections_present": true
+      },
+      {
+        "page": 3,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\pages\\page-003.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\page-003-vlm.md",
+        "elapsed_ms": 22931,
+        "chars": 1857,
+        "required_sections_present": true
+      },
+      {
+        "page": 4,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\pages\\page-004.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\page-004-vlm.md",
+        "elapsed_ms": 48225,
+        "chars": 2904,
+        "required_sections_present": true
+      },
+      {
+        "page": 5,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\pages\\page-005.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\page-005-vlm.md",
+        "elapsed_ms": 41719,
+        "chars": 2242,
+        "required_sections_present": true
+      },
+      {
+        "page": 6,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\pages\\page-006.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\page-006-vlm.md",
+        "elapsed_ms": 44404,
+        "chars": 3435,
+        "required_sections_present": true
+      },
+      {
+        "page": 7,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\pages\\page-007.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\page-007-vlm.md",
+        "elapsed_ms": 60044,
+        "chars": 3462,
+        "required_sections_present": true
+      },
+      {
+        "page": 8,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\pages\\page-008.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\page-008-vlm.md",
+        "elapsed_ms": 66389,
+        "chars": 3658,
+        "required_sections_present": true
+      },
+      {
+        "page": 9,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\pages\\page-009.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\page-009-vlm.md",
+        "elapsed_ms": 43626,
+        "chars": 3227,
+        "required_sections_present": true
+      },
+      {
+        "page": 10,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\pages\\page-010.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\page-010-vlm.md",
+        "elapsed_ms": 64352,
+        "chars": 4402,
+        "required_sections_present": true
+      },
+      {
+        "page": 11,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\pages\\page-011.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\page-011-vlm.md",
+        "elapsed_ms": 30150,
+        "chars": 1785,
+        "required_sections_present": true
+      },
+      {
+        "page": 12,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\pages\\page-012.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\page-012-vlm.md",
+        "elapsed_ms": 20405,
+        "chars": 1646,
+        "required_sections_present": true
+      }
+    ],
+    "combined_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\PT5-生物相容性-皮肤刺激2-SDWH-M201905262-5-20260501T121029\\combined-visual-transcript.md",
+    "all_required_sections_present": true,
+    "elapsed_ms": 531736
+  },
+  "elapsed_ms": 531830
+}

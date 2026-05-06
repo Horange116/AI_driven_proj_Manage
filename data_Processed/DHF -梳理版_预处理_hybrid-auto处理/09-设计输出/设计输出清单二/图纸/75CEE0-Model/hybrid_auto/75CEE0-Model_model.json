@@ -1,0 +1,119 @@
+[
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.022,
+                0.042,
+                0.12,
+                0.06
+            ],
+            "angle": 0,
+            "content": "文件版本号: GXT-001"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.03,
+                0.092,
+                0.086,
+                0.12
+            ],
+            "angle": 0,
+            "content": "技术要求:"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.029,
+                0.126,
+                0.364,
+                0.264
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.03,
+                0.127,
+                0.337,
+                0.157
+            ],
+            "angle": 0,
+            "content": "1. 材质为黄铜，表面电泳高光黑色，清洗干净，无磕划伤",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.03,
+                0.16,
+                0.279,
+                0.191
+            ],
+            "angle": 0,
+            "content": "2. 未注公差 ±0.1，未注倒角 C0.2",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.03,
+                0.197,
+                0.198,
+                0.226
+            ],
+            "angle": 0,
+            "content": "3. 带编号尺寸为重点检测尺寸",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.03,
+                0.232,
+                0.364,
+                0.262
+            ],
+            "angle": 0,
+            "content": "4.3，4号尺寸与散热器压块套配能装能拆能过2m跌落",
+            "merge_prev": false
+        },
+        {
+            "type": "chart",
+            "bbox": [
+                0.26,
+                0.143,
+                0.812,
+                0.788
+            ],
+            "angle": 0,
+            "content": "| Dimension | Value     |\n| --------- | --------- |\n| Ø9.5      | 11.79 ± 0.05 |\n| Ø6.18     | 10.99     |\n| Ø3.1      | 0.5       |\n| Ø4.87     | 2.85 ± 0.15 |\n| Ø6        | 0.83      |\n| Ø8.5      | 0.35 ± 0.02 |\n| Ø4.75     | 0.03 ± 0.03 |\n| Ø4.75     | 0         |\n| Ø4.75     | ②        |",
+            "sub_type": "other"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.02,
+                0.822,
+                0.979,
+                0.937
+            ],
+            "angle": 0,
+            "content": "<table><tr><td rowspan=\"5\">订正记录</td><td>记号</td><td>日期</td><td>更改内容</td><td>担当</td><td rowspan=\"5\">订正记录</td><td>记号</td><td>日期</td><td>更改内容</td><td>担当</td><td rowspan=\"5\">批准</td><td rowspan=\"5\">审核</td><td rowspan=\"5\">编制</td><td>材质</td><td>黄铜</td><td rowspan=\"3\">名称 散热器金属套</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=\"2\">处理</td><td rowspan=\"2\">电泳黑色</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=\"2\">时间</td><td rowspan=\"2\">2018.9.17</td><td rowspan=\"2\">图番 5B44C</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.873,
+                0.941,
+                0.966,
+                0.958
+            ],
+            "angle": 0,
+            "content": "天津小泉精密金属制品有限公司"
+        }
+    ]
+]

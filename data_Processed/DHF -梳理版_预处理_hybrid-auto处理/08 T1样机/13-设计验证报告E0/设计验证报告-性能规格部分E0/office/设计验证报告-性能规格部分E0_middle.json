@@ -1,0 +1,32 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table>\n  <tr>\n    <th colspan=\"8\"><p>设计验证报告-性能规格部分</p></th>\n  </tr>\n  <tr>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p>拟制<em>(硬件工程师)</em>:            年   月   日 <strong>审核</strong><em>(硬件主管)</em>:             年   月   日  </p></td>\n  </tr>\n  <tr>\n    <td><p>产品型号：PT9L                                  项目编号：30000078                                产品/项目名称：红外体温计</p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td colspan=\"8\"><p>阶段：T1                                       验证依据：PT9L设计验证计划-性能规格部分（文件编号：PT9L-YZXN01 V1.0）</p></td>\n  </tr>\n  <tr>\n    <td colspan=\"8\"><p>1.本设计验证计划需批准后方能使用执行。\n2.存档并归入设计历史文档（DHF）。</p></td>\n  </tr>\n  <tr>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>序号\nNo.</p></td>\n    <td><p>条目\nItem</p></td>\n    <td><p>要   求\nRequirements</p></td>\n    <td><p>验证阶段\nStage of verification</p></td>\n    <td><p>验证方法及资源需求\nVerification method and resource requirements</p></td>\n    <td><p>判定准则\nDeterminant guide line</p></td>\n    <td><p>验证记录\nVerification annal</p></td>\n    <td><p>结论\nconclusion</p></td>\n  </tr>\n  <tr>\n    <td><p>1</p></td>\n    <td><p>温度显示范围</p></td>\n    <td><p>32.0℃～42.9℃</p></td>\n    <td><p>□手板■T1□设计确认</p></td>\n    <td><p>参见《PT9L红外体温计产品检验标准V1.0 》第6项</p></td>\n    <td><p>全部测试结果均需符合《PT9L红外体温计产品检验标准V1.0》中第6项的要求</p></td>\n    <td><p>参见《PT9L红外体温计检测报告 \nV1.0》中第6项测试结果</p></td>\n    <td><p>合格</p></td>\n  </tr>\n  <tr>\n    <td><p>2</p></td>\n    <td><p>显示分辨力</p></td>\n    <td><p>0.1℃</p></td>\n    <td><p>□手板■T1□设计确认</p></td>\n    <td><p>参见《PT9L红外体温计产品检验标准V1.0 》第7项</p></td>\n    <td><p>全部测试结果均需符合《PT9L红外体温计产品检验标准V1.0》中第7项的要求</p></td>\n    <td><p>参见《PT9L红外体温计检测报告 \nV1.0》中第7项测试结果</p></td>\n    <td><p>合格</p></td>\n  </tr>\n  <tr>\n    <td><p>3</p></td>\n    <td><p>测量误差</p></td>\n    <td><p>≥35℃且≤42℃：±0.2℃，其它：±0.3℃</p></td>\n    <td><p>□手板■T1□设计确认</p></td>\n    <td><p>参见《PT9L红外体温计产品检验标准V1.0 》第8项</p></td>\n    <td><p>全部测试结果均需符合《PT9L红外体温计产品检验标准V1.0》中第8项的要求</p></td>\n    <td><p>参见《PT9L红外体温计检测报告 \nV1.0》中第8项测试结果</p></td>\n    <td><p>合格</p></td>\n  </tr>\n  <tr>\n    <td><p>4</p></td>\n    <td><p>工作环境</p></td>\n    <td><p>温度：10℃～40℃\n相对湿度：不窄于15-95%RH，不结露\n大气压力：70kPa～106kPa</p></td>\n    <td><p>□手板■T1□设计确认</p></td>\n    <td><p>参见《PT9L红外体温计产品检验标准V1.0 》第15，16项</p></td>\n    <td><p>全部测试结果均需符合《PT9L红外体温计产品检验标准V1.0》中第15，16项的要求</p></td>\n    <td><p>参见《PT9L红外体温计检测报告 \nV1.0》中第15，16项测试结果</p></td>\n    <td><p>合格</p></td>\n  </tr>\n  <tr>\n    <td><p>5</p></td>\n    <td><p>存储环境</p></td>\n    <td><p>温度：-20.0℃―55.0℃\n相对湿度：不窄于15-95%RH，不结露\n大气压力：70kPa～106kPa</p></td>\n    <td><p>□手板■T1□设计确认</p></td>\n    <td><p>参见《PT9L红外体温计产品检验标准V1.0 》第17，18项</p></td>\n    <td><p>全部测试结果均需符合《PT9L红外体温计产品检验标准V1.0》中第17，18项的要求</p></td>\n    <td><p>参见《PT9L红外体温计检测报告 \nV1.0》中第17，18项测试结果</p></td>\n    <td><p>合格</p></td>\n  </tr>\n  <tr>\n    <td><p>6</p></td>\n    <td><p>产品寿命</p></td>\n    <td><p>五年或10000次</p></td>\n    <td><p>□手板■T1□设计确认</p></td>\n    <td><p>参见《PT9L红外体温计产品检验标准V1.0 》第19项</p></td>\n    <td><p>全部测试结果均需符合《PT9L红外体温计产品检验标准V1.0》中第19项的要求</p></td>\n    <td><p>参见《整机寿命测试报告》</p></td>\n    <td><p>合格</p></td>\n  </tr>\n  <tr>\n    <td><p>7</p></td>\n    <td><p>电池使用寿命</p></td>\n    <td><p>测量使用次数不低于1000次</p></td>\n    <td><p>□手板■T1□设计确认</p></td>\n    <td><p>参见《PT9L红外体温计产品检验标准V1.0 》第20项</p></td>\n    <td><p>全部测试结果均需符合《PT9L红外体温计产品检验标准V1.0》中第20项的要求</p></td>\n    <td><p>参见《PT9L电池使用寿命测试报告 V1.0》</p></td>\n    <td><p>合格</p></td>\n  </tr>\n  <tr>\n    <td><p>8</p></td>\n    <td><p>其它要求</p></td>\n    <td><p>无</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n  </tr>\n</table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [],
+            "page_idx": 0
+        }
+    ],
+    "_backend": "office",
+    "_version_name": "3.1.6"
+}

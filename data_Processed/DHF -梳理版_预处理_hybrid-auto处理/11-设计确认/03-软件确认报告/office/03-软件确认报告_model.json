@@ -1,0 +1,123 @@
+[
+    [
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">软 件 确 认 报 告</text>"
+        },
+        {
+            "type": "text",
+            "content": "V1.0"
+        },
+        {
+            "type": "text",
+            "content": "产 品 型 号：<text style=\"underline\">       PT9L       </text>"
+        },
+        {
+            "type": "text",
+            "content": "项 目 编 号：<text style=\"underline\">   30000078     </text>"
+        },
+        {
+            "type": "text",
+            "content": "产品/项目名称：<text style=\"underline\"> 红外体温计     </text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">编    制</text><text style=\"italic\">（软件工程师）</text><text style=\"underline\">                        年   月   日</text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">审    核</text><text style=\"italic\">（软 件主 管）</text><text style=\"underline\">                        年   月   日</text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">批    准</text><text style=\"italic\">（技术负责人）</text><text style=\"underline\">                        年   月   日</text>"
+        },
+        {
+            "type": "header",
+            "content": "文件编号：<text style=\"underline\">PT9L- RJQB01</text>  V1.0                                            软件确认报告"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">历史版本记录</text>"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>更改日期</strong></p></td><td><p><strong>版本描述</strong></p></td><td><p><strong>版本</strong></p></td><td><p><strong>更改人</strong></p></td><td><p><strong>批准人</strong></p></td></tr><tr><td><p>01</p></td><td><p>2024年06月18日</p></td><td><p>起草</p></td><td><p>V1.0</p></td><td><p>王迪</p></td><td><p>侯广伟</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+        },
+        {
+            "type": "header",
+            "content": "文件编号：<text style=\"underline\">PT9L- RJQB01</text>  V1.0                                            软件确认报告"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">1 产品概述</text>"
+        },
+        {
+            "type": "text",
+            "content": "PT9L红外体温计是基于红外技术测量人体额面温度的体温计。测量时利用红外测温探头测量额面温度进而计算出人体内核的温度。电源采用两节7号电池。用于儿童及成人在正常或发烧状态下的体温测量。",
+            "anchor": "_Toc251573601"
+        },
+        {
+            "type": "text",
+            "content": "适应症：儿童及成人在正常或发烧状态下的体温测量。"
+        },
+        {
+            "type": "text",
+            "content": "禁忌症：不建议测量部位有局部病变的人使用，如炎症、创伤、术后等。"
+        },
+        {
+            "type": "text",
+            "content": "设备由以下主要部分组成：便携式主机"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">2 软件确认计划实施情况简述</text>"
+        },
+        {
+            "type": "text",
+            "content": "PT9L红外体温计于立项时，我们针对该产品进行相应分析，制定了软件确认计划。"
+        },
+        {
+            "type": "text",
+            "content": "由软件开发小组确保该项目的软件开发工作按计划有效地执行。"
+        },
+        {
+            "type": "text",
+            "content": "本次软件确认的目的是对PT9L红外体温计产品在上市前各阶段软件开发工作进行总体评价，确保产品软件得到充分的验证和确认。",
+            "anchor": "_Toc251573602"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">3 软件确认计划完成情况</text>"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p>阶段</p></td><td><p>输出文件</p></td><td><p>软件确认接收准则</p></td><td><p>软件确认结论</p></td></tr><tr><td><p>设计输入阶段</p></td><td><p>《PT9L设计输入 功能规格部分V1.0》</p></td><td><p>设计输入应按照设计输入审计划进行评审，并得到批准。</p></td><td><p>☑通过  □不通过</p></td></tr><tr><td rowspan=\"2\"><p>设计策划阶段</p></td><td><p>《软件质量策划V1.0》</p></td><td><p>软件质量策划应按照设计软件质量策划评审计划进行评审，并得到批准。</p></td><td><p>☑通过  □不通过</p></td></tr><tr><td><p>《软件需求规格书V1.0》</p></td><td><p>软件需求规格书应按照软件需求评审计划进行评审，并得到批准</p></td><td><p>☑通过  □不通过</p></td></tr><tr><td rowspan=\"3\"><p>设计开发阶段</p></td><td><p>《软件设计方案V1.0》</p></td><td><p>软件设计方案应按照评审计划进行评审，并得到批准</p></td><td><p>☑通过  □不通过</p></td></tr><tr><td><p>软件流程图： PT9L-RJTY01 V1.0</p></td><td><p>软件流程图应按照评审计划进行评审，并得到批准</p></td><td><p>☑通过  □不通过</p></td></tr><tr><td><p>软件代码：PT-HT2762-V0029-1.0.0</p><p>目标代码：PT-HT2762-V0029-1.0.0.BIN</p></td><td><p>软件代码、目标代码等输出需要审核，测试通过后需要批准</p></td><td><p>☑通过  □不通过</p></td></tr><tr><td rowspan=\"3\"><p>验证测试阶段</p></td><td><p>《软件测试计划V1.0》</p></td><td><p>软件计划在执行前应得到审核和批准，批准信息要包括审核人、批准人签字和审核、批准日期。测试记录应包含测试是否通过的结论，要经过审核并签字。</p></td><td><p>☑通过  □不通过</p></td></tr><tr><td><p>《软件子程序测试记录V1.0》</p></td><td><p>测试应按照测试计划进行测试，测试通过,并得到批准</p></td><td><p>☑通过  □不通过</p></td></tr><tr><td><p>《软件系统测试报告V1.0》</p></td><td><p>测试应按照测试计划进行测试，测试通过,并得到批准</p></td><td><p>☑通过  □不通过</p></td></tr><tr><td><p>设计更改</p></td><td colspan=\"2\"><p>无设计更改</p></td><td><p>☑通过  □不通过</p></td></tr><tr><td rowspan=\"2\"><p>设计确认阶段</p></td><td><p>《用户现场测试计划V1.0》</p></td><td><p>用户级测试计划应文件化，应在设计确认活动前评审、批准。</p></td><td><p>☑通过  □不通过</p></td></tr><tr><td><p>《用户现场测试报告V1.0》</p></td><td><p>用户级测试记录应按用户级测试计划进行，测试报告应体现测试结果符合计划中的接收准则。</p></td><td><p>☑通过  □不通过</p></td></tr><tr><td><p>维护</p></td><td colspan=\"2\"><p>目标代码在生产过程中固化在产品内的MCU后无需软件维护。</p></td><td><p>☑通过  □不通过</p></td></tr></table>"
+        },
+        {
+            "type": "text",
+            "content": "软件开发小组对软件确认的完成情况逐一进行了检查，通过对相关软件确认文档的检查，认为PT9L红外体温计软件确认工作已按计划落实、实施。",
+            "anchor": "_Toc251573603"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">4软件确认结论</text>"
+        },
+        {
+            "type": "text",
+            "content": "上述软件确认相关文档和完成情况表明：PT9L红外体温计软件确认计划已经被适当地实施，该软件在开发过程中得到充分的验证和确认。"
+        },
+        {
+            "type": "header",
+            "content": "文件编号：<text style=\"underline\">PT9L- RJQB01</text>  V1.0                                            软件确认报告"
+        },
+        {
+            "type": "footer",
+            "content": "第1页/共2页"
+        }
+    ]
+]

@@ -1,0 +1,171 @@
+[
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.02,
+                0.059,
+                0.03,
+                0.786
+            ],
+            "angle": 0,
+            "content": "1\n2\n3\n4\n5\n6\n7\n8"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.076,
+                0.019,
+                0.928,
+                0.035
+            ],
+            "angle": 0,
+            "content": "A | B | C | D | E | F | G | H"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.047,
+                0.046,
+                0.121,
+                0.09
+            ],
+            "angle": 0,
+            "content": "andon"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.899,
+                0.046,
+                0.965,
+                0.068
+            ],
+            "angle": 0,
+            "content": "⑧ 尺寸序号",
+            "merge_prev": false
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.457,
+                0.085,
+                0.577,
+                0.115
+            ],
+            "angle": 0,
+            "content": "外箱尺寸示意图"
+        },
+        {
+            "type": "chart",
+            "bbox": [
+                0.166,
+                0.161,
+                0.879,
+                0.715
+            ],
+            "angle": 0,
+            "content": "",
+            "sub_type": "other"
+        },
+        {
+            "type": "image_footnote",
+            "bbox": [
+                0.052,
+                0.722,
+                0.093,
+                0.738
+            ],
+            "angle": 0,
+            "content": "技术要求："
+        },
+        {
+            "type": "image_footnote",
+            "bbox": [
+                0.052,
+                0.74,
+                0.293,
+                0.756
+            ],
+            "angle": 0,
+            "content": "1. 标注尺寸为外径尺寸：322.5 X 231 X 352 mm 公差：±5mm"
+        },
+        {
+            "type": "image_footnote",
+            "bbox": [
+                0.052,
+                0.758,
+                0.238,
+                0.774
+            ],
+            "angle": 0,
+            "content": "2. 箱型代号：0201(GB/T 6543-2008)，上下摇盖"
+        },
+        {
+            "type": "image_footnote",
+            "bbox": [
+                0.052,
+                0.776,
+                0.334,
+                0.793
+            ],
+            "angle": 0,
+            "content": "3.材质: 190g牛皮面纸+170g(A)楞+80g芯纸+130g(B)楞+200g牛皮里纸"
+        },
+        {
+            "type": "image_footnote",
+            "bbox": [
+                0.052,
+                0.794,
+                0.218,
+                0.81
+            ],
+            "angle": 0,
+            "content": "4. 箱体连接使用粘合剂, 不得使用金属钉线"
+        },
+        {
+            "type": "image_footnote",
+            "bbox": [
+                0.052,
+                0.812,
+                0.124,
+                0.827
+            ],
+            "angle": 0,
+            "content": "5.印刷颜色为黑色"
+        },
+        {
+            "type": "image_footnote",
+            "bbox": [
+                0.052,
+                0.829,
+                0.155,
+                0.845
+            ],
+            "angle": 0,
+            "content": "6.本件要求通过RoHS测试"
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.052,
+                0.722,
+                0.334,
+                0.845
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.02,
+                0.86,
+                0.983,
+                0.982
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>3</td><td></td><td></td><td>K04010001435</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">外箱</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-F01</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>"
+        }
+    ]
+]

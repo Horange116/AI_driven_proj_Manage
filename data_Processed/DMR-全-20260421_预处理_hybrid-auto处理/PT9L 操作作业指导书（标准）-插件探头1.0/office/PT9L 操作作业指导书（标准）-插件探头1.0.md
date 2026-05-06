@@ -1,0 +1,1409 @@
+<table>
+  <tr>
+    <th colspan="9"><p>PT9L操作作业指导书（标准）</p></th>
+    <th><p></p></th>
+    <th><p></p></th>
+  </tr>
+  <tr>
+    <td colspan="9"><p>编号：WI-PT9L-BI01</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>   Progress Name</p></td>
+    <td><p>Ver.No</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p> 页码   </p></td>
+    <td colspan="2"><p>   工序名称  </p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>插件探头</p></td>
+    <td><p>1/1</p></td>
+    <td colspan="2"><p>传感器剪腿</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称及编码</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p>操作</p></td>
+    <td><p>设备工具名称</p></td>
+    <td><p>人员装备要求</p></td>
+    <td><p>要求</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td rowspan="16"><p>温度传感器
+(物料信息见制造令BOM）</p></td>
+    <td rowspan="7"><p></p></td>
+    <td rowspan="7" colspan="3"><p></p></td>
+    <td rowspan="7"><p>使用偏口钳将左图传感器凸点剪掉；</p></td>
+    <td rowspan="16"><p>偏口钳子（XXXXI-02QXXX或XXXXI-01XXXX）</p></td>
+    <td rowspan="16"><p>佩戴静电手腕带、指套</p></td>
+    <td rowspan="7"><p>要求：
+
+1、不得用手触摸传感器镜片，镜片无脏污、破损；
+
+2、凸点完全剪掉；
+
+风险：影响装配，测试不良品。</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p> </p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td rowspan="9"><p></p></td>
+    <td rowspan="9" colspan="3"><p><img src="images/0947081567fe23b6de2bb09f92b904d4b2f0f7a35f717397188eb8196e20864c.jpg"/></p></td>
+    <td rowspan="9"><p>使用偏口钳子左图金色标识的管脚剪短2~3mm。</p></td>
+    <td rowspan="9"><p>要求：
+1、不得用手触摸传感器镜片，镜片无脏污、破损；
+2、将带有金色标识的管脚剪短2~3mm。
+风险：影响装配，测试不良品。</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+</table>
+
+![](images/0b441ef5a7236d161c2dd9aae5e07163c01a81bc68dfa9c112147338bed41692.jpg)
+
+<table>
+  <tr>
+    <th colspan="9"><p>PT9L操作作业指导书（标准）</p></th>
+    <th><p></p></th>
+    <th><p></p></th>
+  </tr>
+  <tr>
+    <td colspan="9"><p>编号：WI-PT9L-BI02</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>   Progress Name</p></td>
+    <td><p>Ver.No</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p> 页码   </p></td>
+    <td colspan="2"><p>   工序名称  </p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>插件探头</p></td>
+    <td><p>1/1</p></td>
+    <td colspan="2"><p>传感器总成</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称及编码</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p>操作</p></td>
+    <td><p>设备工具名称</p></td>
+    <td><p>人员装备要求</p></td>
+    <td><p>要求</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td rowspan="7"><p>温度传感器
+(物料信息见制造令BOM）</p></td>
+    <td rowspan="7"><p></p></td>
+    <td rowspan="7" colspan="3"><p><img src="images/0947081567fe23b6de2bb09f92b904d4b2f0f7a35f717397188eb8196e20864c.jpg"/></p></td>
+    <td rowspan="7"><p>使用前核对制造令工艺卡与BOM</p></td>
+    <td rowspan="7"><p></p></td>
+    <td rowspan="25"><p>佩戴静电手腕带、指套</p></td>
+    <td rowspan="7"><p>要求：
+1、镜片无脏污、破损；
+2、凸点完全剪掉；
+3、带有金色标识的管脚剪短2~3mm。
+风险：影响装配，测试不良品。</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p> </p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td rowspan="4"><p>金属套
+(物料信息见制造令BOM）</p></td>
+    <td rowspan="4"><p></p></td>
+    <td rowspan="4" colspan="3"><p><img src="images/3d114eca7cc38899481a8c7c59deae11fb90589bdcba6a070a3c625fd24abc32.jpg"/></p></td>
+    <td rowspan="4"><p>使用前核对制造令工艺卡与BOM</p></td>
+    <td rowspan="4"><p></p></td>
+    <td rowspan="9"><p>要求：
+
+外观无破损、脏污等不良
+
+风险：测试不良品。</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p> </p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td rowspan="5"><p>压块
+(物料信息见制造令BOM）</p></td>
+    <td rowspan="5"><p></p></td>
+    <td rowspan="5" colspan="3"><p><img src="images/6e1a352106712e39309f941fca601ef3479ebb2d346582d71d01402257fbcb78.jpg"/></p></td>
+    <td rowspan="5"><p>使用前核对制造令工艺卡与BOM</p></td>
+    <td rowspan="5"><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p> </p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td rowspan="9"><p></p></td>
+    <td rowspan="9"><p>装探头</p></td>
+    <td rowspan="9" colspan="3"><p><img src="images/7c0e884321e0ba6b40db2f4e92310de2541d563f2f632222625b64150a02f39e.jpg"/><br><img src="images/a7b4380b5f6c6fbeab61ef110e9d27e63f75ed99e4b7dc3d42bf0f5e25b7f6ad.jpg"/></p></td>
+    <td rowspan="9"><p>1、将温度传感器装入金属套（图1）；
+2、将金属套，装入压块（图2）。</p></td>
+    <td rowspan="9"><p></p></td>
+    <td rowspan="9"><p>要求：
+
+1、金属套、压块、传感器镜片外观无破损、脏污等不良；
+2、剪脚正确，金色标识管脚比其他三个管脚腿短。
+
+风险：测试不良品。</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="9"><p>PT9L操作作业指导书（标准）</p></th>
+  </tr>
+  <tr>
+    <td colspan="9"><p>编号：WI-PT9L-BI03</p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>   Progress Name</p></td>
+    <td><p>Ver.No</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p> 页码   </p></td>
+    <td colspan="2"><p>   工序名称  </p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>插件探头</p></td>
+    <td><p>1/1</p></td>
+    <td colspan="2"><p>传感器铆压</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称及编码</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p>操作</p></td>
+    <td><p>设备工具名称</p></td>
+    <td><p>人员装备要求</p></td>
+    <td><p>要求</p></td>
+  </tr>
+  <tr>
+    <td rowspan="7"><p></p></td>
+    <td rowspan="7"><p>放置探头</p></td>
+    <td rowspan="7" colspan="3"><p></p></td>
+    <td rowspan="7"><p>将安装好的探头，装入传感器压合工装内；</p></td>
+    <td rowspan="18"><p>气动压合工装（M029XXXXXX）PT2L(美亚)传感器压合工装（M0IAXXXXXX）</p></td>
+    <td rowspan="18"><p>佩戴白色手套</p></td>
+    <td rowspan="7"><p>要求：
+
+拿取传感器时，注意轻拿轻放，以免造成传感器腿粘连、弯曲影响焊接装配。
+
+2、探头放置平稳；</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td rowspan="11"><p></p></td>
+    <td rowspan="11"><p>探头铆压</p></td>
+    <td rowspan="11" colspan="3"><p><img src="images/79cfb53d4bd33cd67d6577b7f37452969a1b9fad70c7109de211043878aad65a.jpg"/></p></td>
+    <td rowspan="11"><p>1、双手同时压下气动压合工装上的，两个按钮；
+2、取出压合完成的传感器探头。</p></td>
+    <td rowspan="11"><p>要求：
+
+1、压合后探头高度：14.1±0.1mm，传感器、金属套无松动现象；
+2、温度传感器镜头无脏污、破损现象；
+3、设备压力调节0.6±0.05MPa,时间调节在3±1秒；
+4、拿取传感器时，注意轻拿轻放，以免造成传感器腿粘连、弯曲影响焊接装配。
+风险：测试不良品。</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+![](images/d04773e0991f0b99683e3854f6cd54a9baa684affa41476f82dd454a4eb2b682.jpg)
+
+![](images/f640eef1efc44e0580c1392d545fdeab0bc0aacc4f0a2aca799e685244c258e4.jpg)
+
+<table>
+  <tr>
+    <th colspan="9"><p>PT9L操作作业指导书（标准）</p></th>
+  </tr>
+  <tr>
+    <td colspan="9"><p>编号：WI-PT9L-BI04</p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>   Progress Name</p></td>
+    <td><p>Ver.No</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p> 页码   </p></td>
+    <td colspan="2"><p>   工序名称  </p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>插件探头</p></td>
+    <td><p>1/1</p></td>
+    <td colspan="2"><p>打硅脂</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称及编码</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p>操作</p></td>
+    <td><p>设备工具名称</p></td>
+    <td><p>人员装备要求</p></td>
+    <td><p>要求</p></td>
+  </tr>
+  <tr>
+    <td><p>导热硅脂(物料信息见制造令BOM）</p></td>
+    <td><p></p></td>
+    <td><p><img src="images/a9c710ba4730b77deff42219e2f560a0e5b6cce19a7f52dd02ac29c559bdef35.jpg"/></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p>使用前核对制造令工艺卡与BOM</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>铆压好的探头</p></td>
+    <td><p></p></td>
+    <td><p><img src="images/1a4d5e91c2945337aba7831c0d705d7c1b4677d8001e5efec16113f524d9f9e5.jpg"/></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>组成</p></td>
+    <td colspan="8"><p></p></td>
+  </tr>
+  <tr>
+    <td rowspan="7"><p></p></td>
+    <td rowspan="7"><p>打硅脂</p></td>
+    <td rowspan="7" colspan="3"><p><img src="images/a579d3b75e87760e845d70fe57ee0f3c5f7dacdfbfbad92acbdfb1b6162f46d6.jpg"/></p></td>
+    <td rowspan="7"><p>1、将PCB放入点胶工装内；
+
+2、使用推子将导热硅脂推到钢网上，均匀来回反复三次；
+
+3、取下探头</p></td>
+    <td rowspan="7"><p>点胶工装</p></td>
+    <td rowspan="7"><p>佩戴白色手套</p></td>
+    <td rowspan="7"><p>要求：       1、PCB方向放置正确；     2、散热金属套不得粘有脏污、导热硅脂；
+3、每个压块上所点的导热硅脂,硅脂净重≥0.02克即为合格；如果硅脂涂多了以后焊接会虚焊。   4、硅胶外包装标识明确（名称、开封后有效期、确认人、复核人）。 
+风险：性能不良</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="9"><p>PT9L操作作业指导书（标准）</p></th>
+  </tr>
+  <tr>
+    <td colspan="9"><p>编号：WI-PT9L-BI05</p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>   Progress Name</p></td>
+    <td><p>Ver.No</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p> 页码   </p></td>
+    <td colspan="2"><p>   工序名称  </p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>插件探头</p></td>
+    <td><p>1/1</p></td>
+    <td colspan="2"><p>插传感器</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称及编码</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p>操作</p></td>
+    <td><p>设备工具名称</p></td>
+    <td><p>人员装备要求</p></td>
+    <td><p>要求</p></td>
+  </tr>
+  <tr>
+    <td><p>涂好导热硅脂的探头</p></td>
+    <td><p></p></td>
+    <td><p><img src="images/a579d3b75e87760e845d70fe57ee0f3c5f7dacdfbfbad92acbdfb1b6162f46d6.jpg"/></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>PCB(物料信息见制造令BOM）</p></td>
+    <td><p></p></td>
+    <td><p><img src="images/207f89018277434d1297dc6e162242567762314e1af1871bbfa3b7affcb4f651.jpg"/></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p>使用前核对制造令工艺卡与BOM</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>组成</p></td>
+    <td colspan="8"><p></p></td>
+  </tr>
+  <tr>
+    <td rowspan="7"><p></p></td>
+    <td rowspan="7"><p>插传感器</p></td>
+    <td rowspan="7" colspan="3"><p><img src="images/6b6f07b37a89e7c46f19f4f1e5da46e5cad5c3cf4538212effe161846ed4b5b2.jpg"/></p></td>
+    <td rowspan="7"><p>将温度传感器的腿插入传感器板</p></td>
+    <td rowspan="7"><p></p></td>
+    <td rowspan="7"><p>佩戴白手套、静电手腕带</p></td>
+    <td rowspan="7"><p>要求：
+
+1、传感器的四个腿，分别插入传感器板“1、2、3、4”标识孔内，传感器标识金色腿（图2）必须插入传感器板标识“4”孔内（图1）
+2、传感器板放置平稳；
+3、PCB紧贴压块两者之间无缝隙；
+4、导热硅脂不可溢出PCB过孔，不然会导致焊接虚焊。
+
+风险：测试不良品。</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+![](images/bd51d2eee8d8fa1c04e95e8133d0463cc476ff26bd55f96db04b1dfdcb592e3c.jpg)
+
+<table>
+  <tr>
+    <th colspan="9"><p>PT9L操作作业指导书（标准）</p></th>
+  </tr>
+  <tr>
+    <td colspan="9"><p>编号：WI-PT9L-BI06</p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>   Progress Name</p></td>
+    <td><p>Ver.No</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p> 页码   </p></td>
+    <td colspan="2"><p>   工序名称  </p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>插件探头</p></td>
+    <td><p>1/1</p></td>
+    <td colspan="2"><p>焊传感器</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称及编码</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p>操作</p></td>
+    <td><p>设备工具名称</p></td>
+    <td><p>人员装备要求</p></td>
+    <td><p>要求</p></td>
+  </tr>
+  <tr>
+    <td><p>插好传感器的探头</p></td>
+    <td><p></p></td>
+    <td><p><img src="images/ab70a7e8d91eedb18d09d871e8a5cbfea06e4c05a6b67f7c4c6704ddc0178cd7.jpg"/></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p><img src="images/d30913e2e7f519630dc68723cfe72d670bafd49daa095395db698de79d070985.jpg"/></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>组成</p></td>
+    <td colspan="8"><p></p></td>
+  </tr>
+  <tr>
+    <td rowspan="6"><p></p></td>
+    <td rowspan="6"><p>焊传感器</p></td>
+    <td rowspan="6" colspan="3"><p><img src="images/689e3c96f738ae2543344cc3d9bb804879d65a4af6fe5f818a48b628d0421cb1.jpg"/></p></td>
+    <td rowspan="6"><p>1、手持烙铁，如图红框内铜箔进行镀锡，共4个焊点（详细位置：1、2、3、4）。    2、将传感器管脚与基板焊接完成；</p></td>
+    <td rowspan="6"><p>电烙铁温度350℃~380℃焊接时间小于3秒（编号H005XXXXXX）</p></td>
+    <td rowspan="6"><p></p></td>
+    <td rowspan="6"><p>要求：
+
+1、焊点圆滑饱满；
+
+2、焊点不可出现拉尖、连焊、虚焊、漏焊现象。
+
+风险：测试不良品。</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="9"><p>PT9L操作作业指导书（标准）</p></th>
+  </tr>
+  <tr>
+    <td colspan="9"><p>编号：WI-PT9L-BI07</p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>   Progress Name</p></td>
+    <td><p>Ver.No</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p> 页码   </p></td>
+    <td colspan="2"><p>   工序名称  </p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>插件探头</p></td>
+    <td><p>1/1</p></td>
+    <td colspan="2"><p>剪脚</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称及编码</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p>操作</p></td>
+    <td><p>设备工具名称</p></td>
+    <td><p>人员装备要求</p></td>
+    <td><p>要求</p></td>
+  </tr>
+  <tr>
+    <td><p>焊好传感器的探头</p></td>
+    <td><p></p></td>
+    <td><p><img src="images/d30913e2e7f519630dc68723cfe72d670bafd49daa095395db698de79d070985.jpg"/></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p>将左图红色框多余管脚剪掉</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td rowspan="6"><p></p></td>
+    <td><p>剪脚</p></td>
+    <td><p><img src="images/1d6de79f828ea24918dea72514169d6a92a7329647c5a90bed50cc57839ebf31.jpg"/></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p>左手抓探头，右手握偏口钳子（如图），齐焊点顶头，将部分多余的PIN脚剪掉</p></td>
+    <td><p>偏口钳子XXXXI-02QXXX/XXXXI-01XXXX</p></td>
+    <td><p></p></td>
+    <td><p>要求：管脚腿剪到位，剪腿过程中
+不能拉扯管脚
+
+风险：测试不良</p></td>
+  </tr>
+  <tr>
+    <td rowspan="5"><p>剪腿完成的探头</p></td>
+    <td rowspan="5" colspan="3"><p></p></td>
+    <td rowspan="5"><p></p></td>
+    <td rowspan="5"><p></p></td>
+    <td rowspan="5"><p></p></td>
+    <td rowspan="5"><p>要求：
+
+传感器剪腿后，焊点高度不得超过：1.3±0.2mm
+
+风险：性能不良</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+![](images/c858f4fbc16d7d5d552dac60924aaf1026b79a6f59e7d658fd1df09e916f576e.jpg)
+
+<table>
+  <tr>
+    <th colspan="9"><p>PT9L操作作业指导书（标准）</p></th>
+  </tr>
+  <tr>
+    <td colspan="9"><p>编号：WI-PT9L-BI08</p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>   Progress Name</p></td>
+    <td><p>Ver.No</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p> 页码   </p></td>
+    <td colspan="2"><p>   工序名称  </p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>插件探头</p></td>
+    <td><p>1/1</p></td>
+    <td colspan="2"><p>镀锡</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称及编码</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p>操作</p></td>
+    <td><p>设备工具名称</p></td>
+    <td><p>人员装备要求</p></td>
+    <td><p>要求</p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p>镀锡</p></td>
+    <td colspan="3"><p><img src="images/ac199cc435a49fd98e122df1c3f2952071ba65421508536ce65b621bcab64685.jpg"/><br><img src="images/bca24a9b28780121878ae280850be055e9fd2be21eb8fdf9d03bd8f7b795ffa1.jpg"/></p></td>
+    <td><p>手持烙铁，如图红框内铜箔进行镀锡，共3个焊点（详细位置：1、2、3）。</p></td>
+    <td><p>电烙铁温度350℃~380℃焊接时间小于3秒（编号H005XXXXXX）</p></td>
+    <td><p></p></td>
+    <td><p>要求：
+
+1、焊点圆滑饱满；
+
+2、焊点不可出现拉尖、连焊、虚焊、漏焊现象。
+
+风险：测试不良品。</p></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="9"><p>PT9L操作作业指导书（标准）</p></th>
+  </tr>
+  <tr>
+    <td colspan="9"><p>编号：WI-PT9L-BI09</p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>   Progress Name</p></td>
+    <td><p>Ver.No</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p> 页码   </p></td>
+    <td colspan="2"><p>   工序名称  </p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>插件探头</p></td>
+    <td><p>1/1</p></td>
+    <td colspan="2"><p>分板</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称及编码</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p>操作</p></td>
+    <td><p>设备工具名称</p></td>
+    <td><p>人员装备要求</p></td>
+    <td><p>要求</p></td>
+  </tr>
+  <tr>
+    <td rowspan="5"><p></p></td>
+    <td rowspan="5"><p>分板</p></td>
+    <td rowspan="5" colspan="3"><p><img src="images/0a98edc72ade6eee01ccbab1dcbf763a08e520f9c6cf58a46217c612b86c12fe.jpg"/></p></td>
+    <td rowspan="5"><p>1、左手握紧基板边缘，沿探头板边缘有效孔将基板板边依次分开；
+
+2、双手握紧拆分板边后的探头板将探头板拆分至2排或者1排。</p></td>
+    <td rowspan="5"><p></p></td>
+    <td rowspan="5"><p>佩戴防静电手套或静电手腕带</p></td>
+    <td rowspan="5"><p>要求：
+
+1、拆分时不要碰到探头板上的元器件；
+
+2、双手拆分探头时，均匀用力不要按压在探头板元器件上；
+
+3、分板时双手不可抓取探头进行裂片，避免探头受力导致焊点虚焊。
+
+风险：分板不良；</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+![](images/41661916463a8002d9252893c7cfc87c2c5645fbc529799367d44e6743ae2f26.jpg)
+
+<table>
+  <tr>
+    <th colspan="9"><p>PT9L操作作业指导书（标准）</p></th>
+  </tr>
+  <tr>
+    <td colspan="9"><p>编号：WI-PT9L-BI10</p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>   Progress Name</p></td>
+    <td><p>Ver.No</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p> 页码   </p></td>
+    <td colspan="2"><p>   工序名称  </p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>插件探头</p></td>
+    <td><p>1/1</p></td>
+    <td colspan="2"><p>焊线</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称及编码</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p>操作</p></td>
+    <td><p>设备工具名称</p></td>
+    <td><p>人员装备要求</p></td>
+    <td><p>要求</p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p>分好的探头</p></td>
+    <td colspan="3"><p><img src="images/e264fce3ec510867f022f2c3eb999b4a2f43d5d341dfa5872abee17c494ee210.jpg"/></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>连接线
+(物料信息见制造令BOM）</p></td>
+    <td><p></p></td>
+    <td colspan="3"><p><img src="images/04f92c6abfe2a0884c4e7f6ab5c9d21c13c188b465dd0291bddfbc3f0c08df47.jpg"/></p></td>
+    <td><p><img src="images/93effc7b6d04f8a61b59789d1d531603acb17cfd9d3e585495ddf6e6c313209f.jpg"/></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p>（长50mm 红）规格型号符合BOM要求，无破损</p></td>
+  </tr>
+  <tr>
+    <td><p>连接线
+(物料信息见制造令BOM）</p></td>
+    <td><p></p></td>
+    <td colspan="3"><p><img src="images/6cab12a04b147a9a434ad4fb796d45ceafa1d417170013a16b439a4cd01cf1fb.jpg"/></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p>（长50mm 白）规格型号符合BOM要求，无破损</p></td>
+  </tr>
+  <tr>
+    <td><p>连接线
+(物料信息见制造令BOM）</p></td>
+    <td><p></p></td>
+    <td colspan="3"><p><img src="images/9f1792738c946ffd405f3061396c3225d7158a701776451622870cef7dea194d.jpg"/></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p>（长50mm 黑）规格型号符合BOM要求，无破损</p></td>
+  </tr>
+  <tr>
+    <td rowspan="4"><p></p></td>
+    <td rowspan="4"><p>焊线</p></td>
+    <td rowspan="4" colspan="3"><p><img src="images/6a73d9a6d2aac0245c67db15416db58bbbb2f6c933924d2a4fb917a2053186cc.jpg"/></p></td>
+    <td rowspan="4"><p>取红、白、黑三种连接线，分别在插件探头的1.2.3三个脚上焊接（1脚焊红色；2脚焊白色；3脚焊黑色）</p></td>
+    <td rowspan="4"><p>电烙铁温度350℃~380℃焊接时间小于3秒（编号H005XXXXXX）</p></td>
+    <td rowspan="4"><p>佩戴静电手腕带</p></td>
+    <td rowspan="4"><p>要求：
+
+1、焊点要饱满,不可露线；
+2、不可出现拉尖现象
+3、
+
+风险：外观不良</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="10"><p>PT9L操作作业指导书（标准）</p></th>
+  </tr>
+  <tr>
+    <td colspan="3"><p>编号：WI-PT9L-BI11</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td colspan="2"><p></p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>Progress Name</p></td>
+    <td><p>Ver.No</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td colspan="2"><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p> 页码   </p></td>
+    <td colspan="2"><p>工序名称  </p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td colspan="2"><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>插件探头</p></td>
+    <td><p>1/1</p></td>
+    <td colspan="2"><p>涂三防漆</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p></p></td>
+    <td><p>设备工具名称</p></td>
+    <td><p>装备要求</p></td>
+    <td colspan="2"><p>要求</p></td>
+  </tr>
+  <tr>
+    <td><p>三防漆</p></td>
+    <td><p></p></td>
+    <td colspan="3"><p><img src="images/4fa5847d097d22ef76658d9c6443cbd73aea2d9ede11703430865b12135b4f1e.jpg"/></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>焊好线的探头</p></td>
+    <td><p></p></td>
+    <td colspan="3"><p><img src="images/bb740679a5c61a403df6ab9abbfa66d4e77c5f7b2df1a72c68c0b251bd471fc3.jpg"/></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p></p></td>
+    <td><p>涂三防漆</p></td>
+    <td colspan="3"><p><img src="images/65abc9600831ccb1ad7927e0dcc38909801ebb07b5e37fbcbfd4f835725aa93b.jpg"/></p></td>
+    <td><p>使用毛刷将传感器板表面涂抹三防漆</p></td>
+    <td><p>毛刷、三防漆</p></td>
+    <td><p>佩戴静电手腕带</p></td>
+    <td colspan="2"><p>要求
+
+1、三防漆涂抹均匀，不得粘连到其他部件；
+
+2、三防漆涂抹必须完全覆盖传感器的四个焊点。
+
+风险：性能不良</p></td>
+  </tr>
+</table>
+
+![](images/11f79ebf700840cb8f204eacb4c4ae65eb6f15f021684941b2de540d2177bced.jpg)
+
+<table>
+  <tr>
+    <th colspan="10"><p>PT9L操作作业指导书（标准）</p></th>
+  </tr>
+  <tr>
+    <td colspan="3"><p>编号：WI-PT9L-BI12</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td colspan="2"><p></p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>   Progress Name</p></td>
+    <td><p>Ver.No</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td colspan="2"><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p> 页码   </p></td>
+    <td colspan="2"><p>工序名称  </p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td colspan="2"><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>插件探头</p></td>
+    <td><p>1/1</p></td>
+    <td colspan="2"><p>插件焊点检验</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p>操作</p></td>
+    <td><p>设备工具名称</p></td>
+    <td><p>人员装备要求</p></td>
+    <td colspan="2"><p>要求</p></td>
+  </tr>
+  <tr>
+    <td rowspan="24"><p>插件探头</p></td>
+    <td rowspan="24"><p>检验</p></td>
+    <td rowspan="14" colspan="3"><p><img src="images/9c17ad2731135ea206fa3ec4688d1117b7cb1b8f3b09af3b9f81ce940b354ec6.jpg"/></p></td>
+    <td rowspan="24"><p>1、拿取焊接完的插件探头，进行外观检验
+
+2、检验完毕后记录《检测员工作日报》</p></td>
+    <td rowspan="24"><p></p></td>
+    <td rowspan="24"><p>佩戴静电手腕带</p></td>
+    <td rowspan="24" colspan="2"><p>要求
+
+1、焊点饱满不可出现拉尖、连焊、虚焊、漏焊现象；    
+2、焊线顺序正确，线头根部露出的长度不得超出线径的两倍与1.5mm中的最小值；          
+3、焊点位置不可溢出导热硅脂；
+4、传感器镜片无脏污、破损。
+
+风险：测试不良品。</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td rowspan="10" colspan="3"><p></p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+![](images/dd6ce0e587cb97a17686a144aa7fab6625762b493f226b99e1c7f6726a57dcdc.jpg)
+
+<table>
+  <tr>
+    <th colspan="9"><p>PT9L操作作业指导书（标准）</p></th>
+  </tr>
+  <tr>
+    <td colspan="9"><p>编号：WI-PT9L-BI13</p></td>
+  </tr>
+  <tr>
+    <td><p>Type</p></td>
+    <td><p>Page</p></td>
+    <td colspan="2"><p>   Progress Name</p></td>
+    <td><p>Ver.No</p></td>
+    <td><p>Date</p></td>
+    <td><p>Prepared</p></td>
+    <td><p>Checked</p></td>
+    <td><p>Approved</p></td>
+  </tr>
+  <tr>
+    <td><p>部件名称</p></td>
+    <td><p> 页码   </p></td>
+    <td colspan="2"><p>   工序名称  </p></td>
+    <td><p>版本</p></td>
+    <td><p>生效期</p></td>
+    <td><p>准备</p></td>
+    <td><p>审核</p></td>
+    <td><p>批准</p></td>
+  </tr>
+  <tr>
+    <td><p>插件探头</p></td>
+    <td><p>1/1</p></td>
+    <td colspan="2"><p>下盘</p></td>
+    <td><p>1</p></td>
+    <td><p>2024.06.20</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>物料名称及编码</p></td>
+    <td><p>工序      描述</p></td>
+    <td colspan="3"><p>图象</p></td>
+    <td><p>操作</p></td>
+    <td><p>设备工具名称</p></td>
+    <td><p>人员装备要求</p></td>
+    <td><p>要求</p></td>
+  </tr>
+  <tr>
+    <td rowspan="18"><p>插件探头</p></td>
+    <td rowspan="18"><p>下盘静置</p></td>
+    <td rowspan="18" colspan="3"><p></p></td>
+    <td rowspan="18"><p>将刷好三防漆的传感器组件下排静置，然后将其整齐的排列于相对应的周转盘内，然后放入“待验区”。</p></td>
+    <td rowspan="18"><p></p></td>
+    <td rowspan="18"><p>佩戴静电手腕带</p></td>
+    <td rowspan="18"><p>要求：
+
+1.周转盘内无脏污异物，使用前使用气枪除尘；
+2.码放平稳整齐，静置时间≥24小时；
+3.装周转盘时若无特殊要求同一种机型和制造令不允许有两个以上的零头；　　
+4.包装数量须准确，且不得将不同机种和制造令的探头混包；
+5.周转盘最上层不允许摆放插件探头，以免对镜头造成污染。
+
+风险：数量不准确，测试不良品。</p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+![](images/4e5ee1c14d12212ee443e1072b763a208b0df3410807c630186352bcf9148df1.jpg)

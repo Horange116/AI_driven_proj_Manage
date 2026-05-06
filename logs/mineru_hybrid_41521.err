@@ -1,0 +1,212 @@
+2026-05-06 04:47:25.716 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:47155
+2026-05-06 04:47:30.754 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2732196]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:47155 (Press CTRL+C to quit)
+2026-05-06 04:47:31.776 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 2 pages in this batch | 2 pages total | task#1 [项目进度表]
+2026-05-06 04:47:42.517 | INFO     | mineru.utils.engine_utils:get_vlm_engine:34 - Using vllm-async-engine as the inference engine for VLM.
+2026-05-06 04:48:20.289 | INFO     | mineru.backend.vlm.utils:enable_custom_logits_processors:56 - compute_capability: 8.0 >= 8.0 and vllm version: 0.11.2 >= 0.10.1, enable custom_logits_processors
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m The image processor of type `Qwen2VLImageProcessor` is now loaded as a fast processor by default, even if the model checkpoint was saved with a slow processor. This is a breaking change and may produce slightly different outputs. To continue using the slow processor, instantiate this class with `use_fast=False`. Note that this behavior will be extended to all models in a future release.
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m /home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/tvm_ffi/_optional_torch_c_dlpack.py:181: UserWarning: Failed to JIT torch c dlpack extension, EnvTensorAllocator will not be enabled.
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m We recommend installing via `pip install torch-c-dlpack-ext`
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m   warnings.warn(
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m 
+Loading safetensors checkpoint shards:   0% Completed | 0/1 [00:00<?, ?it/s]
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m 
+Loading safetensors checkpoint shards: 100% Completed | 1/1 [00:03<00:00,  3.87s/it]
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m 
+Loading safetensors checkpoint shards: 100% Completed | 1/1 [00:03<00:00,  3.87s/it]
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m 
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m 
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):   0%|          | 0/35 [00:00<?, ?it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):   3%|▎         | 1/35 [00:00<00:08,  3.96it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):   9%|▊         | 3/35 [00:00<00:03,  9.31it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  17%|█▋        | 6/35 [00:00<00:01, 14.93it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  26%|██▌       | 9/35 [00:00<00:01, 17.21it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  34%|███▍      | 12/35 [00:00<00:01, 19.23it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  43%|████▎     | 15/35 [00:00<00:00, 20.62it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  51%|█████▏    | 18/35 [00:01<00:00, 21.73it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  60%|██████    | 21/35 [00:01<00:00, 22.57it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  69%|██████▊   | 24/35 [00:01<00:00, 22.57it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  77%|███████▋  | 27/35 [00:01<00:00, 22.95it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  86%|████████▌ | 30/35 [00:01<00:00, 19.93it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  94%|█████████▍| 33/35 [00:01<00:00, 20.11it/s]
+Capturing CUDA graphs (mixed prefill-decode, PIECEWISE): 100%|██████████| 35/35 [00:01<00:00, 19.25it/s]
+[1;36m(EngineCore_DP0 pid=2732414)[0;0m 
+Capturing CUDA graphs (decode, FULL):   0%|          | 0/19 [00:00<?, ?it/s]
+Capturing CUDA graphs (decode, FULL):  11%|█         | 2/19 [00:00<00:01, 15.68it/s]
+Capturing CUDA graphs (decode, FULL):  26%|██▋       | 5/19 [00:00<00:00, 21.23it/s]
+Capturing CUDA graphs (decode, FULL):  42%|████▏     | 8/19 [00:00<00:00, 23.03it/s]
+Capturing CUDA graphs (decode, FULL):  58%|█████▊    | 11/19 [00:00<00:00, 23.12it/s]
+Capturing CUDA graphs (decode, FULL):  74%|███████▎  | 14/19 [00:00<00:00, 23.54it/s]
+Capturing CUDA graphs (decode, FULL):  89%|████████▉ | 17/19 [00:00<00:00, 23.60it/s]
+Capturing CUDA graphs (decode, FULL): 100%|██████████| 19/19 [00:00<00:00, 23.08it/s]
+2026-05-06 04:50:35.144 | INFO     | mineru.backend.vlm.vlm_analyze:get_model:251 - get vllm-async-engine predictor cost: 152.0s
+2026-05-06 04:50:35.294 | INFO     | mineru.backend.hybrid.hybrid_analyze:aio_doc_analyze:706 - Hybrid processing-window run. page_count=2, window_size=64, total_windows=1
+2026-05-06 04:50:35.340 | INFO     | mineru.backend.hybrid.hybrid_analyze:get_batch_ratio:515 - hybrid batch ratio (auto, vram=79GB): 16
+2026-05-06 04:50:43.638 | INFO     | mineru.backend.hybrid.hybrid_analyze:aio_doc_analyze:727 - Hybrid processing window 1/1: pages 1-2/2 (2 pages)
+
+Two Step Extraction:   0%|          | 0/2 [00:00<?, ?it/s]The image processor of type `Qwen2VLImageProcessor` is now loaded as a fast processor by default, even if the model checkpoint was saved with a slow processor. This is a breaking change and may produce slightly different outputs. To continue using the slow processor, instantiate this class with `use_fast=False`. Note that this behavior will be extended to all models in a future release.
+
+Two Step Extraction:  50%|█████     | 1/2 [00:13<00:13, 13.10s/it]
+Two Step Extraction: 100%|██████████| 2/2 [00:14<00:00,  6.20s/it]
+Two Step Extraction: 100%|██████████| 2/2 [00:14<00:00,  7.24s/it]
+
+Layout Predict:   0%|          | 0/2 [00:00<?, ?it/s]
+Layout Predict: 100%|██████████| 2/2 [00:08<00:00,  4.19s/it]
+Layout Predict: 100%|██████████| 2/2 [00:08<00:00,  4.19s/it]
+
+OCR-det:   0%|          | 0/4 [00:00<?, ?it/s]
+OCR-det:  25%|██▌       | 1/4 [00:00<00:00,  3.54it/s]
+OCR-det: 100%|██████████| 4/4 [00:00<00:00, 11.02it/s]
+
+Processing pages:   0%|          | 0/2 [00:00<?, ?it/s]
+Processing pages: 100%|██████████| 2/2 [00:00<00:00, 13.98it/s]
+Processing pages: 100%|██████████| 2/2 [00:00<00:00, 13.95it/s]
+
+OCR-rec Predict:   0%|          | 0/2 [00:00<?, ?it/s]
+OCR-rec Predict: 100%|██████████| 2/2 [00:00<00:00, 91.39it/s]
+2026-05-06 04:51:19.915 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 2/2 pages | 1 of 1 batch finished | task#1 [项目进度表]
+INFO:     Shutting down
+[rank0]:[W506 04:51:30.450585074 ProcessGroupNCCL.cpp:1524] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2732196]
+
+2026-05-06 04:51:44.977 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:43697
+2026-05-06 04:51:48.660 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2733272]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:43697 (Press CTRL+C to quit)
+2026-05-06 04:51:49.011 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [软件图样E0]
+2026-05-06 04:51:52.574 | WARNING  | mineru.cli.common:aio_do_parse:749 - No valid PDF or image files to process.
+2026-05-06 04:51:53.279 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [软件图样E0]
+2026-05-06 04:51:53.312 | WARNING  | mineru.cli.client:log_visualization_future_result:390 - Skipping visualization for 软件图样E0: missing origin.pdf: 软件图样E0_origin.pdf
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2733272]
+
+2026-05-06 04:52:14.383 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:37035
+2026-05-06 04:52:18.176 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2733449]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:37035 (Press CTRL+C to quit)
+2026-05-06 04:52:18.418 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [软件设计方案评审检查表E0]
+2026-05-06 04:52:18.578 | WARNING  | mineru.cli.common:aio_do_parse:749 - No valid PDF or image files to process.
+2026-05-06 04:52:19.565 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [软件设计方案评审检查表E0]
+2026-05-06 04:52:19.602 | WARNING  | mineru.cli.client:log_visualization_future_result:390 - Skipping visualization for 软件设计方案评审检查表E0: missing origin.pdf: 软件设计方案评审检查表E0_origin.pdf
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2733449]
+
+2026-05-06 04:52:39.184 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:59489
+2026-05-06 04:52:43.476 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2733633]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:59489 (Press CTRL+C to quit)
+2026-05-06 04:52:44.225 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [设计评审计划表-方案评审E0]
+2026-05-06 04:52:44.757 | WARNING  | mineru.cli.common:aio_do_parse:749 - No valid PDF or image files to process.
+2026-05-06 04:52:45.393 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [设计评审计划表-方案评审E0]
+2026-05-06 04:52:45.428 | WARNING  | mineru.cli.client:log_visualization_future_result:390 - Skipping visualization for 设计评审计划表-方案评审E0: missing origin.pdf: 设计评审计划表-方案评审E0_origin.pdf
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2733633]
+
+2026-05-06 04:53:06.042 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:36313
+2026-05-06 04:53:10.420 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2733824]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:36313 (Press CTRL+C to quit)
+2026-05-06 04:53:11.081 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [设计评审记录E0]
+2026-05-06 04:53:11.950 | WARNING  | mineru.cli.common:aio_do_parse:749 - No valid PDF or image files to process.
+2026-05-06 04:53:12.245 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [设计评审记录E0]
+2026-05-06 04:53:12.275 | WARNING  | mineru.cli.client:log_visualization_future_result:390 - Skipping visualization for 设计评审记录E0: missing origin.pdf: 设计评审记录E0_origin.pdf
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2733824]
+
+2026-05-06 04:53:32.012 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:47165
+2026-05-06 04:53:35.537 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2733999]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:47165 (Press CTRL+C to quit)
+2026-05-06 04:53:36.048 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [软件需求规格E0]
+2026-05-06 04:53:37.124 | WARNING  | mineru.cli.common:aio_do_parse:749 - No valid PDF or image files to process.
+2026-05-06 04:53:37.213 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [软件需求规格E0]
+2026-05-06 04:53:37.245 | WARNING  | mineru.cli.client:log_visualization_future_result:390 - Skipping visualization for 软件需求规格E0: missing origin.pdf: 软件需求规格E0_origin.pdf
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2733999]
+
+2026-05-06 04:53:56.337 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:47463
+2026-05-06 04:54:00.122 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2734182]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:47463 (Press CTRL+C to quit)
+2026-05-06 04:54:00.373 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [软件需求规格书评审检查表E0]
+2026-05-06 04:54:00.551 | WARNING  | mineru.cli.common:aio_do_parse:749 - No valid PDF or image files to process.
+2026-05-06 04:54:01.530 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [软件需求规格书评审检查表E0]
+2026-05-06 04:54:01.560 | WARNING  | mineru.cli.client:log_visualization_future_result:390 - Skipping visualization for 软件需求规格书评审检查表E0: missing origin.pdf: 软件需求规格书评审检查表E0_origin.pdf
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2734182]
+
+2026-05-06 04:54:21.137 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:41485
+2026-05-06 04:54:25.172 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2734368]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:41485 (Press CTRL+C to quit)
+2026-05-06 04:54:26.180 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [包装类FMEA E0]
+2026-05-06 04:54:27.800 | WARNING  | mineru.cli.common:aio_do_parse:749 - No valid PDF or image files to process.
+2026-05-06 04:54:27.870 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [包装类FMEA E0]
+2026-05-06 04:54:27.903 | WARNING  | mineru.cli.client:log_visualization_future_result:390 - Skipping visualization for 包装类FMEA E0: missing origin.pdf: 包装类FMEA E0_origin.pdf
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2734368]
+
+2026-05-06 04:54:47.569 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:41137
+2026-05-06 04:54:51.206 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2734555]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:41137 (Press CTRL+C to quit)
+2026-05-06 04:54:51.605 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [潜在设计失效模式及后果分析（设计FMEA）封面E0]
+2026-05-06 04:54:52.054 | WARNING  | mineru.cli.common:aio_do_parse:749 - No valid PDF or image files to process.
+2026-05-06 04:54:52.764 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [潜在设计失效模式及后果分析（设计FMEA）封面E0]
+2026-05-06 04:54:52.799 | WARNING  | mineru.cli.client:log_visualization_future_result:390 - Skipping visualization for 潜在设计失效模式及后果分析（设计FMEA）封面E0: missing origin.pdf: 潜在设计失效模式及后果分析（设计FMEA）封面E0_origin.pdf
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2734555]
+
+2026-05-06 04:55:13.154 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:46201
+2026-05-06 04:55:16.939 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2734804]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:46201 (Press CTRL+C to quit)
+2026-05-06 04:55:17.190 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [硬件类 FMEA E0]
+2026-05-06 04:55:18.324 | WARNING  | mineru.cli.common:aio_do_parse:749 - No valid PDF or image files to process.
+2026-05-06 04:55:18.388 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [硬件类 FMEA E0]
+2026-05-06 04:55:18.417 | WARNING  | mineru.cli.client:log_visualization_future_result:390 - Skipping visualization for 硬件类 FMEA E0: missing origin.pdf: 硬件类 FMEA E0_origin.pdf
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2734804]
+
+slurmstepd-node42: error: *** JOB 41521 ON node42 CANCELLED AT 2026-05-06T04:55:35 ***

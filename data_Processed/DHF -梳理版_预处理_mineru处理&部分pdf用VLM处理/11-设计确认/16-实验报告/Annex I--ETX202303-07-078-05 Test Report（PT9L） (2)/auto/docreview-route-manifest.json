@@ -1,0 +1,51 @@
+{
+  "format": "docreview-pdf-intake-flow-v1",
+  "generated_at": "2026-05-01T07:10:54.965501+00:00",
+  "source": "C:\\Users\\Administrator\\Documents\\New project\\DHF -梳理版\\11-设计确认\\16-实验报告\\Annex I--ETX202303-07-078-05 Test Report（PT9L） (2).pdf",
+  "source_sha256": "a53d0799d27152f25fb8ffa96f683f3a04ea8d96ccd03940b6e8e21588907d87",
+  "run_root": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\Annex-I--ETX202303-07-078-05-Test-Report-PT9L---2--20260501T151007",
+  "probe_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\Annex-I--ETX202303-07-078-05-Test-Report-PT9L---2--20260501T151007\\probe.json",
+  "classification_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\Annex-I--ETX202303-07-078-05-Test-Report-PT9L---2--20260501T151007\\classification.json",
+  "classification_ms": 0,
+  "classification": {
+    "pdf_type": "table",
+    "route": "mineru",
+    "template": "table",
+    "reason": "Route override applied after classification: Probe router detected text/table-heavy PDF with limited visual drawing density.",
+    "must_preserve": [
+      "tables",
+      "headers",
+      "reading order"
+    ],
+    "risk": [
+      "validate MinerU table fidelity before canonical promotion"
+    ],
+    "confidence": "medium",
+    "classifier": "probe",
+    "needs_vlm_supplement": false
+  },
+  "route_result": {
+    "route": "mineru",
+    "command": "C:\\Users\\Administrator\\.docreview-local-state\\mineru-runtime\\Scripts\\mineru.exe",
+    "backend": "pipeline",
+    "output_dir": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\Annex-I--ETX202303-07-078-05-Test-Report-PT9L---2--20260501T151007\\mineru",
+    "exit_code": 0,
+    "elapsed_ms": 47011,
+    "stdout_tail": "Start MinerU FastAPI Service: http://127.0.0.1:57212\nAPI documentation: http://127.0.0.1:57212/docs\n",
+    "stderr_tail": "  15%|█▍        | 6/41 [00:00<00:01, 28.17it/s]\nTable-ocr rec ch:  29%|██▉       | 12/41 [00:00<00:00, 29.56it/s]\nTable-ocr rec ch:  44%|████▍     | 18/41 [00:00<00:00, 30.01it/s]\nTable-ocr rec ch:  59%|█████▊    | 24/41 [00:00<00:00, 29.71it/s]\nTable-ocr rec ch:  73%|███████▎  | 30/41 [00:01<00:00, 22.99it/s]\nTable-ocr rec ch:  88%|████████▊ | 36/41 [00:02<00:00, 12.15it/s]\nTable-ocr rec ch: 100%|██████████| 41/41 [00:03<00:00,  8.32it/s]\nTable-ocr rec ch: 100%|██████████| 41/41 [00:03<00:00, 12.85it/s]\n\nTable-wireless Predict:   0%|          | 0/2 [00:00<?, ?it/s]\nTable-wireless Predict: 100%|██████████| 2/2 [00:00<00:00,  9.55it/s]\nTable-wireless Predict: 100%|██████████| 2/2 [00:00<00:00,  9.55it/s]\n\nTable-wired Predict:   0%|          | 0/2 [00:00<?, ?it/s]\n\nFetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]\u001b[A\nFetching 1 files: 100%|██████████| 1/1 [00:00<?, ?it/s]\n\nTable-wired Predict:  50%|█████     | 1/2 [00:01<00:01,  1.23s/it]\nTable-wired Predict: 100%|██████████| 2/2 [00:01<00:00,  1.50it/s]\nTable-wired Predict: 100%|██████████| 2/2 [00:01<00:00,  1.33it/s]\n\nFetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]\nFetching 1 files: 100%|██████████| 1/1 [00:00<?, ?it/s]\n\nFetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]\nFetching 1 files: 100%|██████████| 1/1 [00:00<?, ?it/s]\n\nOCR-det ch:   0%|          | 0/6 [00:00<?, ?it/s]\nOCR-det ch:  33%|███▎      | 2/6 [00:00<00:00, 16.25it/s]\nOCR-det ch:  67%|██████▋   | 4/6 [00:00<00:00, 12.21it/s]\nOCR-det ch: 100%|██████████| 6/6 [00:00<00:00, 15.39it/s]\n\nSeal Predict: 0it [00:00, ?it/s]\nSeal Predict: 0it [00:00, ?it/s]\n\nProcessing pages:   0%|          | 0/3 [00:00<?, ?it/s]\nProcessing pages:  67%|██████▋   | 2/3 [00:00<00:00, 18.72it/s]\nProcessing pages: 100%|██████████| 3/3 [00:00<00:00, 19.01it/s]\n2026-05-01 15:10:44.012 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 3/3 pages | 1 of 1 batch finished | task#1 [Annex I--ETX202303-07-078-05 Test Report（PT9L） (2)]\n",
+    "output_files": [
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\Annex-I--ETX202303-07-078-05-Test-Report-PT9L---2--20260501T151007\\mineru\\Annex I--ETX202303-07-078-05 Test Report（PT9L） (2)\\auto\\Annex I--ETX202303-07-078-05 Test Report（PT9L） (2).md",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\Annex-I--ETX202303-07-078-05-Test-Report-PT9L---2--20260501T151007\\mineru\\Annex I--ETX202303-07-078-05 Test Report（PT9L） (2)\\auto\\Annex I--ETX202303-07-078-05 Test Report（PT9L） (2)_content_list.json",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\Annex-I--ETX202303-07-078-05-Test-Report-PT9L---2--20260501T151007\\mineru\\Annex I--ETX202303-07-078-05 Test Report（PT9L） (2)\\auto\\Annex I--ETX202303-07-078-05 Test Report（PT9L） (2)_content_list_v2.json",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\Annex-I--ETX202303-07-078-05-Test-Report-PT9L---2--20260501T151007\\mineru\\Annex I--ETX202303-07-078-05 Test Report（PT9L） (2)\\auto\\Annex I--ETX202303-07-078-05 Test Report（PT9L） (2)_layout.pdf",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\Annex-I--ETX202303-07-078-05-Test-Report-PT9L---2--20260501T151007\\mineru\\Annex I--ETX202303-07-078-05 Test Report（PT9L） (2)\\auto\\Annex I--ETX202303-07-078-05 Test Report（PT9L） (2)_middle.json",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\Annex-I--ETX202303-07-078-05-Test-Report-PT9L---2--20260501T151007\\mineru\\Annex I--ETX202303-07-078-05 Test Report（PT9L） (2)\\auto\\Annex I--ETX202303-07-078-05 Test Report（PT9L） (2)_model.json",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\Annex-I--ETX202303-07-078-05-Test-Report-PT9L---2--20260501T151007\\mineru\\Annex I--ETX202303-07-078-05 Test Report（PT9L） (2)\\auto\\Annex I--ETX202303-07-078-05 Test Report（PT9L） (2)_origin.pdf",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\Annex-I--ETX202303-07-078-05-Test-Report-PT9L---2--20260501T151007\\mineru\\Annex I--ETX202303-07-078-05 Test Report（PT9L） (2)\\auto\\Annex I--ETX202303-07-078-05 Test Report（PT9L） (2)_span.pdf",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\Annex-I--ETX202303-07-078-05-Test-Report-PT9L---2--20260501T151007\\mineru\\Annex I--ETX202303-07-078-05 Test Report（PT9L） (2)\\auto\\images\\18c8742c58ab5856561f993a7f1e46092b002b226beeba66d31d8d0592571547.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\Annex-I--ETX202303-07-078-05-Test-Report-PT9L---2--20260501T151007\\mineru\\Annex I--ETX202303-07-078-05 Test Report（PT9L） (2)\\auto\\images\\680a1eb98820287ac85e289079a2f8ee5b43d3550e2aa1a7ebacee3529e72039.jpg",
+      "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\Annex-I--ETX202303-07-078-05-Test-Report-PT9L---2--20260501T151007\\mineru\\Annex I--ETX202303-07-078-05 Test Report（PT9L） (2)\\auto\\images\\bb41f4273881e40adc4ff8e863af03692eaf2b290fb82c0c8e51d64032a6433d.jpg"
+    ]
+  },
+  "elapsed_ms": 47107
+}

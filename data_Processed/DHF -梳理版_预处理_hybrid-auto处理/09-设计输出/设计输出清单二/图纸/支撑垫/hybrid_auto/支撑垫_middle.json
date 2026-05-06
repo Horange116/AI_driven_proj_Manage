@@ -1,0 +1,970 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "bbox": [
+                        787,
+                        20,
+                        832,
+                        32
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                787,
+                                20,
+                                832,
+                                32
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        787,
+                                        20,
+                                        832,
+                                        32
+                                    ],
+                                    "type": "text",
+                                    "content": "⑧ 尺寸序号"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        150,
+                        182,
+                        465,
+                        427
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                150,
+                                182,
+                                465,
+                                427
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        150,
+                                        182,
+                                        465,
+                                        427
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                150,
+                                                182,
+                                                465,
+                                                427
+                                            ],
+                                            "type": "image",
+                                            "content": "R3.25±0.05\nR5.75±0.05\n4±0.1",
+                                            "image_path": "3f2183b862df31ae89298a22551a965780dffcc532cb53e82089b901e2053441.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "sub_type": "text_image"
+                },
+                {
+                    "bbox": [
+                        571,
+                        245,
+                        607,
+                        258
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                571,
+                                245,
+                                607,
+                                258
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        571,
+                                        245,
+                                        607,
+                                        258
+                                    ],
+                                    "type": "text",
+                                    "content": "技术要求"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        570,
+                        260,
+                        750,
+                        371
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 4,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                571,
+                                260,
+                                659,
+                                273
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        571,
+                                        260,
+                                        659,
+                                        273
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                571,
+                                                260,
+                                                659,
+                                                273
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 标注厚度不包含背胶"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                571,
+                                274,
+                                633,
+                                286
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        571,
+                                        274,
+                                        633,
+                                        286
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                571,
+                                                274,
+                                                633,
+                                                286
+                                            ],
+                                            "type": "text",
+                                            "content": "2.材质：聚氨酯"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                571,
+                                289,
+                                624,
+                                301
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        571,
+                                        289,
+                                        624,
+                                        301
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                571,
+                                                289,
+                                                624,
+                                                301
+                                            ],
+                                            "type": "text",
+                                            "content": "3. 颜色：黑色"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                571,
+                                302,
+                                749,
+                                329
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        571,
+                                        302,
+                                        749,
+                                        329
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                571,
+                                                302,
+                                                749,
+                                                329
+                                            ],
+                                            "type": "text",
+                                            "content": "4. 单面背胶，背胶厚度0.05~0.1mm，背胶牢固，不可出现背胶分离的情况"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                571,
+                                331,
+                                650,
+                                342
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        571,
+                                        331,
+                                        650,
+                                        342
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                571,
+                                                331,
+                                                650,
+                                                342
+                                            ],
+                                            "type": "text",
+                                            "content": "5.邵氏硬度:50±5度"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                571,
+                                344,
+                                703,
+                                357
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        571,
+                                        344,
+                                        703,
+                                        357
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                571,
+                                                344,
+                                                703,
+                                                357
+                                            ],
+                                            "type": "text",
+                                            "content": "6. 出货排版需要方便生产加工取放"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                571,
+                                358,
+                                668,
+                                371
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        571,
+                                        358,
+                                        668,
+                                        371
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                571,
+                                                358,
+                                                668,
+                                                371
+                                            ],
+                                            "type": "text",
+                                            "content": "7. 本件要求通过RoHS测试"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "merge_prev": false
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        735,
+                        411,
+                        840,
+                        517
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                735,
+                                411,
+                                840,
+                                517
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        735,
+                                        411,
+                                        840,
+                                        517
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                735,
+                                                411,
+                                                840,
+                                                517
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">DTM\\LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt; 5</td><td>±0.03</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 5~15</td><td>±0.05</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 15~50</td><td>±0.05</td><td>±0.1</td><td>±0.2</td></tr><tr><td>&gt; 50~100</td><td>±0.08</td><td>±0.2</td><td>±0.3</td></tr><tr><td>&gt;100</td><td>±0.1%</td><td>±0.2%</td><td>±0.3%</td></tr><tr><td>ANGULAR</td><td>±0.1°</td><td>±0.5°</td><td>±0.5°</td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\">B</td></tr></table>",
+                                            "image_path": "68869f7df47bff18d018b318918475f6bd3d428b56d41a0917ac2b8f5d60f2f6.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        0,
+                        517,
+                        840,
+                        594
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                517,
+                                840,
+                                594
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        517,
+                                        840,
+                                        594
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                517,
+                                                840,
+                                                594
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td></td><td>K03020002129</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>聚氨酯</td><td>Model NO.</td><td colspan=\"2\">T-Z1</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">支撑垫</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td></td><td>Drawing NO.</td><td colspan=\"2\">T-Z1-P15</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "275a5952cfe617da5003b8ca5fbc6c56c82e8e4e629acaa47681badb5f0bb899.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        0,
+                        0,
+                        840,
+                        17
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                0,
+                                0,
+                                840,
+                                17
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        840,
+                                        17
+                                    ],
+                                    "type": "text",
+                                    "content": "A B C D E F G H"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "page_size": [
+                841,
+                595
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "bbox": [
+                        787,
+                        20,
+                        832,
+                        32
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                787,
+                                20,
+                                832,
+                                32
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        787,
+                                        20,
+                                        832,
+                                        32
+                                    ],
+                                    "type": "text",
+                                    "content": "⑧ 尺寸序号"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        150,
+                        182,
+                        465,
+                        427
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                150,
+                                182,
+                                465,
+                                427
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        150,
+                                        182,
+                                        465,
+                                        427
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                150,
+                                                182,
+                                                465,
+                                                427
+                                            ],
+                                            "type": "image",
+                                            "content": "R3.25±0.05\nR5.75±0.05\n4±0.1",
+                                            "image_path": "3f2183b862df31ae89298a22551a965780dffcc532cb53e82089b901e2053441.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "sub_type": "text_image"
+                },
+                {
+                    "bbox": [
+                        571,
+                        245,
+                        607,
+                        258
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                571,
+                                245,
+                                607,
+                                258
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        571,
+                                        245,
+                                        607,
+                                        258
+                                    ],
+                                    "type": "text",
+                                    "content": "技术要求"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        570,
+                        260,
+                        750,
+                        371
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 4,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                571,
+                                260,
+                                659,
+                                273
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        571,
+                                        260,
+                                        659,
+                                        273
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                571,
+                                                260,
+                                                659,
+                                                273
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 标注厚度不包含背胶"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                571,
+                                274,
+                                633,
+                                286
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        571,
+                                        274,
+                                        633,
+                                        286
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                571,
+                                                274,
+                                                633,
+                                                286
+                                            ],
+                                            "type": "text",
+                                            "content": "2.材质：聚氨酯"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                571,
+                                289,
+                                624,
+                                301
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        571,
+                                        289,
+                                        624,
+                                        301
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                571,
+                                                289,
+                                                624,
+                                                301
+                                            ],
+                                            "type": "text",
+                                            "content": "3. 颜色：黑色"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                571,
+                                302,
+                                749,
+                                329
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        571,
+                                        302,
+                                        749,
+                                        329
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                571,
+                                                302,
+                                                749,
+                                                329
+                                            ],
+                                            "type": "text",
+                                            "content": "4. 单面背胶，背胶厚度0.05~0.1mm，背胶牢固，不可出现背胶分离的情况"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                571,
+                                331,
+                                650,
+                                342
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        571,
+                                        331,
+                                        650,
+                                        342
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                571,
+                                                331,
+                                                650,
+                                                342
+                                            ],
+                                            "type": "text",
+                                            "content": "5.邵氏硬度:50±5度"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                571,
+                                344,
+                                703,
+                                357
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        571,
+                                        344,
+                                        703,
+                                        357
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                571,
+                                                344,
+                                                703,
+                                                357
+                                            ],
+                                            "type": "text",
+                                            "content": "6. 出货排版需要方便生产加工取放"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                571,
+                                358,
+                                668,
+                                371
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        571,
+                                        358,
+                                        668,
+                                        371
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                571,
+                                                358,
+                                                668,
+                                                371
+                                            ],
+                                            "type": "text",
+                                            "content": "7. 本件要求通过RoHS测试"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "merge_prev": false
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        735,
+                        411,
+                        840,
+                        517
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                735,
+                                411,
+                                840,
+                                517
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        735,
+                                        411,
+                                        840,
+                                        517
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                735,
+                                                411,
+                                                840,
+                                                517
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">DTM\\LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt; 5</td><td>±0.03</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 5~15</td><td>±0.05</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 15~50</td><td>±0.05</td><td>±0.1</td><td>±0.2</td></tr><tr><td>&gt; 50~100</td><td>±0.08</td><td>±0.2</td><td>±0.3</td></tr><tr><td>&gt;100</td><td>±0.1%</td><td>±0.2%</td><td>±0.3%</td></tr><tr><td>ANGULAR</td><td>±0.1°</td><td>±0.5°</td><td>±0.5°</td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\">B</td></tr></table>",
+                                            "image_path": "68869f7df47bff18d018b318918475f6bd3d428b56d41a0917ac2b8f5d60f2f6.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        0,
+                        517,
+                        840,
+                        594
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                0,
+                                517,
+                                840,
+                                594
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        517,
+                                        840,
+                                        594
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                517,
+                                                840,
+                                                594
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td></td><td>K03020002129</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>聚氨酯</td><td>Model NO.</td><td colspan=\"2\">T-Z1</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">支撑垫</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td></td><td>Drawing NO.</td><td colspan=\"2\">T-Z1-P15</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "275a5952cfe617da5003b8ca5fbc6c56c82e8e4e629acaa47681badb5f0bb899.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "3.1.6"
+}

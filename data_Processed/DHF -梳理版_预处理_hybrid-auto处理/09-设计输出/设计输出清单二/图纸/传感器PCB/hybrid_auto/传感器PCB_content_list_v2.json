@@ -1,0 +1,120 @@
+[
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/748ed2e94496d1dc0202dc924b8f6a5f11618cd2737036f80ba8cfe76136157f.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>3</td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>坏真树脂板</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>2</td><td></td><td>Design</td><td></td><td>X</td><td></td><td>Surf dispose</td><td></td><td>PCB</td></tr><tr><td>1</td><td></td><td>Chuckup</td><td></td><td>XX</td><td></td><td>Scale</td><td>2:1</td><td>Drawing NO.</td></tr><tr><td>No.</td><td>更改记录</td><td>Approve</td><td></td><td>X°</td><td></td><td>Units</td><td>mm</td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                0,
+                0,
+                129,
+                998
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/596e121bd563f1a738df3fbfebb405f8adeeb9785411833e17e5bfb8d46163d9.jpg"
+                },
+                "content": "φ20.5\n19.2\n17.4\n8\n1.5\n1.1\n1.8\n-0.07\nφ3.2",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                366,
+                300,
+                744,
+                690
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/a504124df6c3ec3ca386ce25ac7dbc97a7507005843372ad42270f38c136a108.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "技术要求：1.TH=1.0±0.12.产品符合rohs 2.0"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td colspan=\"2\">LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>DTM</td><td>A</td><td>B</td><td>C</td><td></td></tr><tr><td>&lt; 5</td><td>≠0.03</td><td>≠0.1</td><td>≠0.15</td><td></td></tr><tr><td>&gt; 5~50</td><td>≠0.05</td><td>≠0.1</td><td>≠0.2</td><td></td></tr><tr><td>&gt; 50~100</td><td>≠0.08</td><td>≠0.2</td><td>≠0.3</td><td></td></tr><tr><td>&gt;100</td><td>≠0.1%</td><td>≠0.2%</td><td>≠0.3%</td><td></td></tr><tr><td>ANSULFAR</td><td>≠0.10</td><td>≠0.5</td><td>≠0.5</td><td></td></tr><tr><td colspan=\"5\">SELECTT LEVEL</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                129,
+                873,
+                307,
+                998
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "∞ ∨ σ 51 4 ω n 1 "
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                0,
+                998,
+                13
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "equation_inline",
+                        "content": "⑧"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 尺寸序号"
+                    }
+                ]
+            },
+            "bbox": [
+                946,
+                936,
+                964,
+                989
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "A | B | C | D | E | F | G | H "
+                    }
+                ]
+            },
+            "bbox": [
+                971,
+                55,
+                991,
+                992
+            ]
+        }
+    ]
+]

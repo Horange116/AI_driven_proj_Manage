@@ -1,0 +1,122 @@
+[
+    {
+        "type": "table",
+        "img_path": "images/150fb796d9d24a52845585dae63de49a30631e252150318c02f2a87eee20e3fa.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>3</td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>PMMA</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>2</td><td>Design</td><td></td><td></td><td>X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td></tr><tr><td>1</td><td>初版制作</td><td></td><td></td><td>XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td></tr><tr><td>No.</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>X°</td><td></td><td>Unit5</td><td>mm</td></tr></table>",
+        "bbox": [
+            0,
+            0,
+            129,
+            998
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "andon ",
+        "bbox": [
+            915,
+            23,
+            961,
+            101
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "术要求带编号为重要尺 需要IQC测产品符合rohs",
+        "bbox": [
+            146,
+            83,
+            253,
+            401
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/3038adf0d9e0f16e0681c68ba43eae0baa05b32c1fc41fc0e6dba57f25a5e124.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            282,
+            97,
+            779,
+            400
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a540e8917ba435542421a2791a737a79b9c97e8158788d769ebde20e3d01fe7.jpg",
+        "image_caption": [
+            "透射膜 "
+        ],
+        "image_footnote": [],
+        "content": "黑色区域\n3.7\n22±0.1\n32.7±0.1\nC4.42",
+        "sub_type": "text_image",
+        "bbox": [
+            287,
+            507,
+            510,
+            778
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/b33a23e5a642f80a50c720ee9fd9c88d3e9ed97a96f14b245f46c98cc1290b3b.jpg",
+        "image_caption": [
+            "反射膜"
+        ],
+        "image_footnote": [],
+        "content": "22±0.1\n32.7±0.1\n2.2\n8.9\nC4.42",
+        "sub_type": "text_image",
+        "bbox": [
+            640,
+            581,
+            848,
+            778
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/8a5aed86209d9c52aa50abb3cb55d001083bf81fd828fd9a339ab49c299bc448.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\">LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>DIM</td><td>5</td><td>$ \\pm0.03 $</td><td>$ \\pm0.1 $</td></tr><tr><td>&lt; 5~5</td><td>$ \\pm0.05 $</td><td>$ \\pm0.1 $</td><td>$ \\pm0.15 $</td></tr><tr><td>&gt; 15~50</td><td>$ \\pm0.05 $</td><td>$ \\pm0.1 $</td><td>$ \\pm0.2 $</td></tr><tr><td>&lt; 50~100</td><td>$ \\pm0.08 $</td><td>$ \\pm0.2 $</td><td>$ \\pm0.3 $</td></tr><tr><td>&gt;100</td><td>$ \\pm0.1\\% $</td><td>$ \\pm0.2\\% $</td><td>$ \\pm0.3\\% $</td></tr><tr><td>ANGUL4R</td><td>$ \\pm0.1\\circ $</td><td>$ \\pm0.5\\circ $</td><td>$ \\pm0.5\\circ $</td></tr><tr><td colspan=\"4\">SELECTT LEVEL</td></tr></table>",
+        "bbox": [
+            129,
+            873,
+            305,
+            994
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "8\n7\n6\n5\n4\n3\n2\n1 ",
+        "bbox": [
+            129,
+            0,
+            998,
+            13
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "尺寸序 ",
+        "bbox": [
+            946,
+            936,
+            964,
+            988
+        ],
+        "page_idx": 0
+    }
+]

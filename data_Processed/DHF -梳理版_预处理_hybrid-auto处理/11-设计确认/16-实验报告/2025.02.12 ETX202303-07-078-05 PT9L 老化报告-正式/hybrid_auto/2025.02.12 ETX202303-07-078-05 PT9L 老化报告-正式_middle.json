@@ -1,0 +1,1125 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        52,
+                        66,
+                        539,
+                        454
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                52,
+                                66,
+                                539,
+                                454
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        66,
+                                        539,
+                                        454
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                66,
+                                                539,
+                                                454
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"2\">TEST REPORTIEC 60068-2-78:2012: Damp heat, steady state</td></tr><tr><td>Date of issue......:</td><td>2024-07-12</td></tr><tr><td>Standard......:</td><td>IEC 60068-2-78:2012: Damp heat, steady state</td></tr><tr><td>Procedure deviation......:</td><td>N/A</td></tr><tr><td>Non-standard test method......:</td><td>N/A</td></tr><tr><td>Type of test object......:</td><td>Infrared No-Touch Forehead Thermometer</td></tr><tr><td>Trademark......:</td><td>N/A</td></tr><tr><td>Model/type reference......:</td><td>PT9L</td></tr><tr><td>Report No ......:</td><td>ETX202303-07-078-05</td></tr><tr><td>Testing period......:</td><td>2024.07.10-2024.07.11</td></tr><tr><td>Manufacturer......:</td><td>ANDON HEALTH CO., LTD.</td></tr><tr><td>Address......:</td><td>No.3 JinPing Street, YaAn Road, Nankai District, Tianjin, China</td></tr><tr><td>Test laboratory......Address......</td><td>Tianxu(Tianjin)Testing Technology Service Co.,LTD101, First floor, Building L,No.3 JinPing Street,Ya An Road,Nankai District, Tianjin,China</td></tr></table>",
+                                            "image_path": "ac26edd362a366c19e3a8edf41d579222ebefcfffe12060725434f5383f3b415.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        131,
+                        574,
+                        448,
+                        592
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                570,
+                                386,
+                                595
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        570,
+                                        342,
+                                        594
+                                    ],
+                                    "type": "text",
+                                    "content": "Compliedby:之7（Kang Yanli）",
+                                    "score": 0.866
+                                },
+                                {
+                                    "bbox": [
+                                        356,
+                                        575,
+                                        386,
+                                        595
+                                    ],
+                                    "type": "text",
+                                    "content": "Date",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        127,
+                        601,
+                        475,
+                        625
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [],
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        380,
+                        508,
+                        496,
+                        625
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                380,
+                                508,
+                                496,
+                                625
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        380,
+                                        508,
+                                        496,
+                                        625
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                380,
+                                                508,
+                                                496,
+                                                625
+                                            ],
+                                            "type": "image",
+                                            "content": "检测技术服务有限公司\n2024.7.12\n检验检测专用章\n2024.7.12",
+                                            "image_path": "00d4765b8cc2ffac2652b16ea517cbb21e85bc74663509ba9f16cfc9d0552ad4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "sub_type": "text_image"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        53,
+                        40,
+                        210,
+                        52
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                40,
+                                210,
+                                52
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        40,
+                                        210,
+                                        52
+                                    ],
+                                    "type": "text",
+                                    "content": "ReportNo.:ETX202303-07-078-05",
+                                    "score": 0.986
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        52,
+                        66,
+                        539,
+                        454
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                52,
+                                66,
+                                539,
+                                454
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        66,
+                                        539,
+                                        454
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                66,
+                                                539,
+                                                454
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"2\">TEST REPORTIEC 60068-2-78:2012: Damp heat, steady state</td></tr><tr><td>Date of issue......:</td><td>2024-07-12</td></tr><tr><td>Standard......:</td><td>IEC 60068-2-78:2012: Damp heat, steady state</td></tr><tr><td>Procedure deviation......:</td><td>N/A</td></tr><tr><td>Non-standard test method......:</td><td>N/A</td></tr><tr><td>Type of test object......:</td><td>Infrared No-Touch Forehead Thermometer</td></tr><tr><td>Trademark......:</td><td>N/A</td></tr><tr><td>Model/type reference......:</td><td>PT9L</td></tr><tr><td>Report No ......:</td><td>ETX202303-07-078-05</td></tr><tr><td>Testing period......:</td><td>2024.07.10-2024.07.11</td></tr><tr><td>Manufacturer......:</td><td>ANDON HEALTH CO., LTD.</td></tr><tr><td>Address......:</td><td>No.3 JinPing Street, YaAn Road, Nankai District, Tianjin, China</td></tr><tr><td>Test laboratory......Address......</td><td>Tianxu(Tianjin)Testing Technology Service Co.,LTD101, First floor, Building L,No.3 JinPing Street,Ya An Road,Nankai District, Tianjin,China</td></tr></table>",
+                                            "image_path": "ac26edd362a366c19e3a8edf41d579222ebefcfffe12060725434f5383f3b415.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        131,
+                        574,
+                        448,
+                        592
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                570,
+                                386,
+                                595
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        570,
+                                        342,
+                                        594
+                                    ],
+                                    "type": "text",
+                                    "content": "Compliedby:之7（Kang Yanli）",
+                                    "score": 0.866
+                                },
+                                {
+                                    "bbox": [
+                                        356,
+                                        575,
+                                        386,
+                                        595
+                                    ],
+                                    "type": "text",
+                                    "content": "Date",
+                                    "score": 0.999
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        127,
+                        601,
+                        475,
+                        625
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [],
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        380,
+                        508,
+                        496,
+                        625
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                380,
+                                508,
+                                496,
+                                625
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        380,
+                                        508,
+                                        496,
+                                        625
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                380,
+                                                508,
+                                                496,
+                                                625
+                                            ],
+                                            "type": "image",
+                                            "content": "检测技术服务有限公司\n2024.7.12\n检验检测专用章\n2024.7.12",
+                                            "image_path": "00d4765b8cc2ffac2652b16ea517cbb21e85bc74663509ba9f16cfc9d0552ad4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "sub_type": "text_image"
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        56,
+                        85,
+                        549,
+                        107
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                56,
+                                85,
+                                549,
+                                107
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        85,
+                                        549,
+                                        107
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                85,
+                                                549,
+                                                107
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>Clause</td><td>Requirement + Test</td><td>Result - Remark</td><td>Verdict</td></tr></table>",
+                                            "image_path": "c1ecb7ff6f5f72a7a44a0e1eca301cc8d0ae4a5f4d4c12476b585c51eaeba149.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        56,
+                        120,
+                        549,
+                        208
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                56,
+                                120,
+                                549,
+                                208
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        120,
+                                        549,
+                                        208
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                120,
+                                                549,
+                                                208
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>Damp heat test</td><td>The sample is in normal working condition and put into the programmable constant temperature and humidity test chamber. The temperature and humidity of the test box are adjusted to 40 °C and 95% RH. After the temperature and humidity are stable, it is maintained for 14.8 hours.</td><td>/</td></tr></table>",
+                                            "image_path": "b2835d2737e3f75fc8a2ef37c30ab4fcfc2e9727a818006a68f7ef0925d41f27.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        53,
+                        41,
+                        210,
+                        53
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                41,
+                                210,
+                                53
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        41,
+                                        210,
+                                        53
+                                    ],
+                                    "type": "text",
+                                    "content": "Report No.: ETX202303-07-078-05",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        287,
+                        781,
+                        306,
+                        791
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                285,
+                                779,
+                                308,
+                                793
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        285,
+                                        779,
+                                        308,
+                                        793
+                                    ],
+                                    "type": "text",
+                                    "content": "2 / 3",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 1,
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        56,
+                        85,
+                        549,
+                        107
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                56,
+                                85,
+                                549,
+                                107
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        85,
+                                        549,
+                                        107
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                85,
+                                                549,
+                                                107
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>Clause</td><td>Requirement + Test</td><td>Result - Remark</td><td>Verdict</td></tr></table>",
+                                            "image_path": "c1ecb7ff6f5f72a7a44a0e1eca301cc8d0ae4a5f4d4c12476b585c51eaeba149.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        56,
+                        120,
+                        549,
+                        208
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                56,
+                                120,
+                                549,
+                                208
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        120,
+                                        549,
+                                        208
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                120,
+                                                549,
+                                                208
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>Damp heat test</td><td>The sample is in normal working condition and put into the programmable constant temperature and humidity test chamber. The temperature and humidity of the test box are adjusted to 40 °C and 95% RH. After the temperature and humidity are stable, it is maintained for 14.8 hours.</td><td>/</td></tr></table>",
+                                            "image_path": "b2835d2737e3f75fc8a2ef37c30ab4fcfc2e9727a818006a68f7ef0925d41f27.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "bbox": [
+                        207,
+                        74,
+                        387,
+                        85
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                207,
+                                73,
+                                387,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        207,
+                                        73,
+                                        387,
+                                        85
+                                    ],
+                                    "type": "text",
+                                    "content": "ATTACHMENT FILE 1 photos of the EUT",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        49,
+                        107,
+                        292,
+                        290
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                49,
+                                107,
+                                292,
+                                290
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        107,
+                                        292,
+                                        290
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                49,
+                                                107,
+                                                292,
+                                                290
+                                            ],
+                                            "type": "image",
+                                            "content": "White digital thermometer placed on a wooden surface with a ruler for scale (no text or symbols visible)",
+                                            "image_path": "936a11a22295569ff3b9c498070ed627f90f507545d141d71667ff50fe482d3f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "sub_type": "natural_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        300,
+                        108,
+                        542,
+                        290
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                300,
+                                108,
+                                542,
+                                290
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        300,
+                                        108,
+                                        542,
+                                        290
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                300,
+                                                108,
+                                                542,
+                                                290
+                                            ],
+                                            "type": "image",
+                                            "content": "Y1240017\nPT9L\nTX201601-07-08\n校核 | 校核中 | 校核 | 交运",
+                                            "image_path": "0a03aa9da6b39dc391a8107ee94e0076c32fd8ba48c6605b5da20cfcd3be77be.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        142,
+                        299,
+                        457,
+                        491
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                142,
+                                299,
+                                457,
+                                491
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        142,
+                                        299,
+                                        457,
+                                        491
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                142,
+                                                299,
+                                                457,
+                                                491
+                                            ],
+                                            "type": "image",
+                                            "content": "iHealth Infrared No-Touch Forehead Thermometer\nModel: PT9L Power source: DC 2 x 1.5V=SIZE AAA batteries\nMeasurement position: Centre of the forehead surface\nManufactured for iHealth Labs, Inc.\nAndon Health Co., LTD.\nNo.3 Jin Ping Street, Ya An Road, Nankai District,\nTianjin 300190, China.\nMade in China\nLETI KE04 IP22",
+                                            "image_path": "9d00b633e2cced424fb1d5acc00b96cd746624312124501ebd53a8ab75c4d5c4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "sub_type": "text_image"
+                },
+                {
+                    "bbox": [
+                        207,
+                        537,
+                        314,
+                        550
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                207,
+                                535,
+                                315,
+                                550
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        207,
+                                        535,
+                                        315,
+                                        550
+                                    ],
+                                    "type": "text",
+                                    "content": "--- End of Test Report ---",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        53,
+                        42,
+                        210,
+                        53
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                42,
+                                210,
+                                52
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        42,
+                                        210,
+                                        52
+                                    ],
+                                    "type": "text",
+                                    "content": "Report No.: ETX202303-07-078-05",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        287,
+                        781,
+                        306,
+                        791
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                286,
+                                779,
+                                308,
+                                793
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        286,
+                                        779,
+                                        308,
+                                        793
+                                    ],
+                                    "type": "text",
+                                    "content": "3 / 3",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 2,
+            "para_blocks": [
+                {
+                    "bbox": [
+                        207,
+                        74,
+                        387,
+                        85
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                207,
+                                73,
+                                387,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        207,
+                                        73,
+                                        387,
+                                        85
+                                    ],
+                                    "type": "text",
+                                    "content": "ATTACHMENT FILE 1 photos of the EUT",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        49,
+                        107,
+                        292,
+                        290
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                49,
+                                107,
+                                292,
+                                290
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        107,
+                                        292,
+                                        290
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                49,
+                                                107,
+                                                292,
+                                                290
+                                            ],
+                                            "type": "image",
+                                            "content": "White digital thermometer placed on a wooden surface with a ruler for scale (no text or symbols visible)",
+                                            "image_path": "936a11a22295569ff3b9c498070ed627f90f507545d141d71667ff50fe482d3f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "sub_type": "natural_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        300,
+                        108,
+                        542,
+                        290
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                300,
+                                108,
+                                542,
+                                290
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        300,
+                                        108,
+                                        542,
+                                        290
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                300,
+                                                108,
+                                                542,
+                                                290
+                                            ],
+                                            "type": "image",
+                                            "content": "Y1240017\nPT9L\nTX201601-07-08\n校核 | 校核中 | 校核 | 交运",
+                                            "image_path": "0a03aa9da6b39dc391a8107ee94e0076c32fd8ba48c6605b5da20cfcd3be77be.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "sub_type": "text_image"
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        142,
+                        299,
+                        457,
+                        491
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                142,
+                                299,
+                                457,
+                                491
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        142,
+                                        299,
+                                        457,
+                                        491
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                142,
+                                                299,
+                                                457,
+                                                491
+                                            ],
+                                            "type": "image",
+                                            "content": "iHealth Infrared No-Touch Forehead Thermometer\nModel: PT9L Power source: DC 2 x 1.5V=SIZE AAA batteries\nMeasurement position: Centre of the forehead surface\nManufactured for iHealth Labs, Inc.\nAndon Health Co., LTD.\nNo.3 Jin Ping Street, Ya An Road, Nankai District,\nTianjin 300190, China.\nMade in China\nLETI KE04 IP22",
+                                            "image_path": "9d00b633e2cced424fb1d5acc00b96cd746624312124501ebd53a8ab75c4d5c4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "sub_type": "text_image"
+                },
+                {
+                    "bbox": [
+                        207,
+                        537,
+                        314,
+                        550
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                207,
+                                535,
+                                315,
+                                550
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        207,
+                                        535,
+                                        315,
+                                        550
+                                    ],
+                                    "type": "text",
+                                    "content": "--- End of Test Report ---",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "3.1.6"
+}

@@ -1,0 +1,247 @@
+{
+  "format": "docreview-pdf-layout-probe-v1",
+  "source_name": "正极弹簧PT5-M02.pdf",
+  "content_hash": "67ec4772eb20cb19d5927ac54bbc65c218c89f510196d74efe831ee5af803edb",
+  "page_count": 1,
+  "engine": "pymupdf",
+  "capabilities": {
+    "text_blocks": true,
+    "word_coordinates": true,
+    "row_clustering": true,
+    "vector_drawings": true,
+    "tables": false,
+    "ocr": false,
+    "semantic_table_reconstruction": false
+  },
+  "limits": [
+    "Rows are geometric text clusters, not verified semantic tables.",
+    "Vector drawings are counted but not converted into Gantt/task bars.",
+    "Scanned-image OCR is not enabled.",
+    "PDF W1 output is text/layout-audit evidence, not semantic Gantt reconstruction."
+  ],
+  "totals": {
+    "text_block_count": 12,
+    "word_count": 23,
+    "row_count": 18,
+    "table_like_row_count": 1,
+    "drawing_path_count": 7964,
+    "drawing_item_count": 38747,
+    "line_item_count": 38573,
+    "rectangle_item_count": 0
+  },
+  "pages": [
+    {
+      "page_index": 1,
+      "width": 595.0,
+      "height": 842.0,
+      "text_block_count": 12,
+      "word_count": 23,
+      "row_count": 18,
+      "table_like_row_count": 1,
+      "drawing_path_count": 7964,
+      "drawing_item_count": 38747,
+      "line_item_count": 38573,
+      "rectangle_item_count": 0,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            99.0,
+            3.94,
+            134.74,
+            11.88
+          ],
+          "word_count": 1,
+          "text": "PT5耳温计"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            185.04,
+            201.83,
+            189.21,
+            210.18
+          ],
+          "word_count": 1,
+          "text": "1"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            266.76,
+            275.03,
+            270.93,
+            283.38
+          ],
+          "word_count": 1,
+          "text": "2"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            362.1,
+            296.15,
+            378.79,
+            304.5
+          ],
+          "word_count": 1,
+          "text": "螺距"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            181.8,
+            319.07,
+            185.97,
+            327.42
+          ],
+          "word_count": 1,
+          "text": "3"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            188.94,
+            383.21,
+            380.84,
+            391.56
+          ],
+          "word_count": 1,
+          "text": "请放在电池槽用力按弹簧顶端，不卡槽及无异响就OK"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            305.7,
+            579.04,
+            326.56,
+            583.21
+          ],
+          "word_count": 1,
+          "text": "技术要求："
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            305.4,
+            584.44,
+            368.55,
+            588.94
+          ],
+          "word_count": 1,
+          "text": "1、弹簧小径3.2MM，大径6.5mm，"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            305.64,
+            589.84,
+            377.13,
+            594.34
+          ],
+          "word_count": 2,
+          "text": "2、材料：线径0.5mm 镀镍不锈钢线。"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            305.64,
+            595.24,
+            353.62,
+            599.41
+          ],
+          "word_count": 1,
+          "text": "3、弹簧要求能上锡焊接。"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            305.7,
+            600.64,
+            362.02,
+            604.81
+          ],
+          "word_count": 1,
+          "text": "4、弹簧表面要求不能有油污。"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            305.64,
+            606.04,
+            385.44,
+            610.54
+          ],
+          "word_count": 1,
+          "text": "5、未注公差尺寸按±0.2mm，角度按±2°"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            305.64,
+            611.44,
+            372.39,
+            615.61
+          ],
+          "word_count": 1,
+          "text": "6、须过盐雾浓度为5%（±0.5%）24h"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            305.58,
+            616.1,
+            376.05,
+            621.78
+          ],
+          "word_count": 1,
+          "text": "7、弹簧在压缩5mm时,压力≥0.5kgf。"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            305.7,
+            622.24,
+            366.19,
+            626.41
+          ],
+          "word_count": 1,
+          "text": "8、标示序号的尺寸为检验尺寸。"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            320.1,
+            720.78,
+            501.14,
+            732.11
+          ],
+          "word_count": 2,
+          "text": "正极弹簧 PT5-M02"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            34.62,
+            769.74,
+            257.83,
+            781.25
+          ],
+          "word_count": 4,
+          "text": "1.0 量产管控 刘钊 190715"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            538.56,
+            778.02,
+            554.2,
+            788.45
+          ],
+          "word_count": 1,
+          "text": "2:1"
+        }
+      ]
+    }
+  ]
+}

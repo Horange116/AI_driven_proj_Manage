@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p>设计输入</p><p>V1.0</p><p>产  品  型 号      PT9L          .</p><p>项  目  编 号     30000078       .</p><p>产品/项目名称     红外体温计     .</p></td></tr><tr><td><p>包括文件：</p><p>■设计输入－通用要求部分 文件编号：  PT9L-SRTY01 V1.0</p><p>■设计输入－功能规格部分 文件编号：  PT9L-SRGN01 V1.0</p><p>■设计输入－性能规格部分 文件编号：  PT9L-SRXN01 V1.0</p><p>■设计输入－组件规格部分 文件编号：  PT9L-SRZJ01 V1.0</p><p>■设计输入－法规标准清单 文件编号：  PT9L-FGBZ01 V1.0</p></td></tr><tr><td><p><strong>拟 制</strong><em>（项目负责人）</em>                       年   月   日</p><p><strong>审 核</strong><em>（技术负责人）</em>                       年   月   日</p></td></tr><tr><td><ul><li>评审未通过，重新提交文件再次评审；</li><li>评审通过，需按照评审记录进行修改；</li><li>评审通过，文件放行。</li></ul><p><strong>批 准</strong><em>(技术负责人)</em><strong>：</strong> <strong> </strong>        年   月   日</p></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号:"
+                    },
+                    {
+                        "type": "text",
+                        "content": "  PT9L-SJSR01",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": " V1.0                设计输入   表号: QR-7.3-05/E0"
+                    }
+                ]
+            }
+        }
+    ]
+]

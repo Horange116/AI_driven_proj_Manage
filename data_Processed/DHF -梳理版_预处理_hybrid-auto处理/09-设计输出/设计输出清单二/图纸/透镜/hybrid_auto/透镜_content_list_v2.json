@@ -1,0 +1,263 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "⑧ 尺寸序号"
+                    }
+                ]
+            },
+            "bbox": [
+                935,
+                33,
+                988,
+                52
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/55e0d296c30c3f85d222b5c0c79eb672414208dfc80e67c5e7e904f8a194385a.jpg"
+                },
+                "content": "正面\nR12.9\n25.8±0.05\n3.9\n①\n8.4\n②\n41.8±0.05",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "正面"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                105,
+                164,
+                506,
+                470
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/90009208631f3febd7f38203a752e04924de717f421bd4cc0a9a90b0704b8711.jpg"
+                },
+                "content": "丝印区域颜色为\nPANTONE Silver 10077 C 50%",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "背面"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                611,
+                233,
+                935,
+                389
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/00124d8aead33ae311580c968dbbb501099a110221c7105c2bdc26becc98abed.jpg"
+                },
+                "content": "Pure mechanical diagram showing a shaft with a horizontal bar and an arrow indicating direction (no text or symbols)",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "印刷后，背面附3M背胶，贴胶后产品整体厚度1.1-1.2之间"
+                    }
+                ]
+            },
+            "sub_type": "natural_image",
+            "bbox": [
+                244,
+                524,
+                445,
+                615
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/26bcc6850450e625dba82fe56afc25cbcaad558c5cfcc141f9cdfdb1e325016a.jpg"
+                },
+                "content": "3M背胶要求区域\n0.2\n0.2",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "3M背胶 "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                608,
+                581,
+                847,
+                794
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "产品技术要求："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                32,
+                685,
+                87,
+                704
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.材质：透明PMMA "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 毛刺、飞边不大于0.1 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3.厚度含背胶，不含离型纸及保护膜"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4.要求背胶牢固、均匀、无缺失,与被粘物粘贴牢固 "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5.透镜上表面需有保护膜"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6.内外表面铅笔硬度不小于4H "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7.本件要求通过RoHS 2.0测试"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                48,
+                709,
+                277,
+                838
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/78a5d44ace017c22a9abba0a743fedb9da78623ac19c35ddb1c1800cf1ddf9e8.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">DTM\\LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt; 5</td><td>±0.03</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 5~15</td><td>±0.05</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 15~50</td><td>±0.05</td><td>±0.1</td><td>±0.2</td></tr><tr><td>&gt; 50~100</td><td>±0.08</td><td>±0.2</td><td>±0.3</td></tr><tr><td>&gt;100</td><td>±0.1%</td><td>±0.2%</td><td>±0.3%</td></tr><tr><td>ANGULAR</td><td>±0.1°</td><td>±0.5°</td><td>±0.5°</td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\">B</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                873,
+                690,
+                998,
+                868
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/a8b5e9ed12e0f3016a9801bb9b1319f689a3c42d635c255d8963f1357f3500ae.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>PMMA</td><td>Model NO.</td><td colspan=\"2\">T-Z1</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">透镜</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">T-Z1-P09</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                0,
+                868,
+                998,
+                993
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "A B C D E F G H "
+                    }
+                ]
+            },
+            "bbox": [
+                0,
+                0,
+                998,
+                28
+            ]
+        }
+    ]
+]

@@ -1,0 +1,522 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "andon "
+                    }
+                ]
+            },
+            "bbox": [
+                46,
+                52,
+                121,
+                95
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/366e4bb2ebc033fd1c3c1194b48eaeb37f4bf5ddd77d9d0aa5adfbc01fc927a8.jpg"
+                },
+                "content": "iHealth Infrared No-Touch Forehead Thermometer\nModel: PT9L Power source: DC 2 x 1.5V=5IZE AAA batteries\nMeasurement position: Centre of the forehead surface\nManufactured for iHealth Labs, Inc.\nAndon Health Co., LTD.\nNo.3 JinPing Street, YoYan Road, Nankai District,\nTianjin 300190, China.\nMade in China\nLOT 120711011001\nIP22\n批号:120711011001为变量\n（批号依据柯朝规则执行）\n第1-6位：制造令代码；\n第7-9位：邮件序号；\n第10-12位：批次序列号；\nR=2mm",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "比例1:1"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                65,
+                151,
+                266,
+                357
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "iHealth Infrared No-Touch Forehead Thermometer "
+                    }
+                ]
+            },
+            "bbox": [
+                426,
+                215,
+                759,
+                238
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Model: PT9L Power source: DC 2 x 1.5V=SIZE AAA batteries "
+                    }
+                ]
+            },
+            "bbox": [
+                426,
+                243,
+                809,
+                263
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Measurement position: Centre of the forehead surface "
+                    }
+                ]
+            },
+            "bbox": [
+                426,
+                267,
+                741,
+                287
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Manufactured for iHealth Labs, Inc. "
+                    }
+                ]
+            },
+            "bbox": [
+                426,
+                290,
+                631,
+                310
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8f37301804b070ecb0287e255a3a8cbd4383a23930756ea25a8146cf67aa57d4.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                426,
+                315,
+                469,
+                383
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Andon Health Co., LTD. "
+                    }
+                ]
+            },
+            "bbox": [
+                476,
+                314,
+                611,
+                334
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "No.3 JinPing Street, YaAn Road, Nankai District, Tianjin 300190, China. "
+                    }
+                ]
+            },
+            "bbox": [
+                476,
+                339,
+                749,
+                384
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Made in China "
+                    }
+                ]
+            },
+            "bbox": [
+                428,
+                384,
+                513,
+                405
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LOT "
+                    }
+                ]
+            },
+            "bbox": [
+                428,
+                416,
+                467,
+                448
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "120711011001 "
+                    }
+                ]
+            },
+            "bbox": [
+                474,
+                418,
+                576,
+                442
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8fd53493439a4f12521cf0dee5dea59dcea32d476040e073207b5d84d84c4d17.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                617,
+                401,
+                651,
+                448
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/570b9ef2432d10c4b40ac9ee9f0344b001695224771391de2d75c957962dbe1d.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                655,
+                403,
+                687,
+                448
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8cd6a31317c7c6a5e85d7ad171c4f7178cf8ee1c3ceb945c0ef349ba1bb6b691.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                690,
+                403,
+                790,
+                448
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b0fa7e5dfe652a791acc43e72d430d531dc7309ccaff4da4da7a02a2fbbe9135.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                791,
+                339,
+                847,
+                448
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "批号:120711011001为变量"
+                    }
+                ]
+            },
+            "bbox": [
+                585,
+                534,
+                755,
+                559
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(批号依据柯顿规则执行) "
+                    }
+                ]
+            },
+            "bbox": [
+                585,
+                568,
+                741,
+                594
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "第1-6位: 制造令代码；"
+                    }
+                ]
+            },
+            "bbox": [
+                585,
+                603,
+                719,
+                628
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "第7-9位: 部件序号；"
+                    }
+                ]
+            },
+            "bbox": [
+                585,
+                638,
+                705,
+                663
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "第10-12位: 批次序列号；"
+                    }
+                ]
+            },
+            "bbox": [
+                585,
+                672,
+                734,
+                697
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本件要求通过RoHS测试"
+                    }
+                ]
+            },
+            "bbox": [
+                51,
+                662,
+                252,
+                692
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "说明：材质为：25#透明PET覆哑胶"
+                    }
+                ]
+            },
+            "bbox": [
+                51,
+                704,
+                309,
+                736
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "尺寸：40X18mm"
+                    }
+                ]
+            },
+            "bbox": [
+                51,
+                747,
+                183,
+                776
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "印刷颜色：k+1专色"
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                788,
+                212,
+                818
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/932b3986fb59cb15ad0f9da2ec19d7698abb80b725750d9381533e519c101482.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                219,
+                789,
+                263,
+                825
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PANTONE 286 C"
+                    }
+                ]
+            },
+            "bbox": [
+                279,
+                791,
+                454,
+                825
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/ab07f8f6164408b66bb691b1a76fd8f61973e05ac3610ad03286365ae8cbf979.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>3</td><td></td><td></td><td>K04080002502</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">铭牌</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-F02</td></tr><tr><td>No</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td> $X^{\\circ}$ </td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                9,
+                860,
+                990,
+                984
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "1\n2\n3\n4\n5\n6\n7\n8 "
+                    }
+                ]
+            },
+            "bbox": [
+                9,
+                53,
+                22,
+                784
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "A B C D E F G H "
+                    }
+                ]
+            },
+            "bbox": [
+                9,
+                11,
+                990,
+                31
+            ]
+        }
+    ]
+]

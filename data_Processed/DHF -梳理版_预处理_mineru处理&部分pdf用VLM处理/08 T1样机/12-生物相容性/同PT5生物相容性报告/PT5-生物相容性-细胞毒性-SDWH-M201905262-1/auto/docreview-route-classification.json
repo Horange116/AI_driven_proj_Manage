@@ -1,0 +1,16 @@
+{
+  "pdf_type": "scanned",
+  "route": "vlm",
+  "template": "scanned",
+  "reason": "Probe router found weak text extraction; use visual route.",
+  "must_preserve": [
+    "visible text",
+    "page image"
+  ],
+  "risk": [
+    "OCR/VLM output remains candidate until reviewed"
+  ],
+  "confidence": "medium",
+  "classifier": "probe",
+  "needs_vlm_supplement": true
+}

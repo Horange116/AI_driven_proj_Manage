@@ -1,0 +1,669 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "软件流程图",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "（V1.0）",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "产 品 型 号："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "       PT9L       ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "项 目 编 号："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "  30000078   ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "产品/项目名称："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "    红外体温计      ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "编    制",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "（软件工程师）",
+                                    "style": [
+                                        "italic"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "                        年   月   日",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "审    核",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "（软 件主 管）",
+                                    "style": [
+                                        "italic"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "                        年   月   日",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "批    准",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "（技术负责人）",
+                                    "style": [
+                                        "italic"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "                        年   月   日 ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件编号："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " PT9L-RJTY01 ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "V1.0                                                 软件流程图"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "历史版本记录",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>更改日期</strong></p></td><td><p><strong>版本描述</strong></p></td><td><p><strong>版本</strong></p></td><td><p><strong>更改人</strong></p></td><td><p><strong>批准人</strong></p></td></tr><tr><td><p>1</p></td><td><p>2024年02月21日</p></td><td><p>起草</p></td><td><p>V1.0</p></td><td><p>王迪</p></td><td><p>侯广伟</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件编号： "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "PT9L-RJTY01",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " V1.0                                             软件流程图"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "软件主流程图"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "image",
+                                            "image_path": "497100381aab4983af9175ad2b81dab5c3721efed779a552a0c2269d26bd498e.png"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "用户测量"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "image",
+                                            "image_path": "2e757e0e2dc11fbb1062babac63ee44278103fc1d58eb225695dfe60d90b66d7.png"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "符号设置"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "image",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "image",
+                                            "image_path": "df603594211bf8ea474d95e71ca31c0bd29a04441b31a03724e989cb6e253725.png"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "测量模式设置"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "image",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "image",
+                                            "image_path": "193c7291be6395c2d281d2166cb1f61307be0eb1d6e30fd4297c37dc5c924866.png"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "记忆模式"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "image",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "image",
+                                            "image_path": "adcd0d8cf1d40862c82c600506fdb5c97db1f092cc2ffe0650a3011f66f418c3.png"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "CB1"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "image",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "image",
+                                            "image_path": "4fa96426c5753c9a348647565cfb4a4fca8c9ce4ade32b6ecf0ec7d90d131f6c.png"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "CB2"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "image",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "image",
+                                            "image_path": "707e2d6ec38a2229b760e2259be8ffda66bf8422bf8430072bd99ba218c6dcb0.png"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "CB3"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "image",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "image",
+                                            "image_path": "b35f3aa9efccb7097db75cd73acd3b791f810bf845f47f5774fd41b4f4392a42.png"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "CB4"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "image",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "image",
+                                            "image_path": "c85c55837fc0162676f443699e0aa8325d1be4565fab4019da875efdb58ae82b.png"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 17,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "CB5"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "type": "image",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "image",
+                                            "image_path": "68ed9191d59ad95fa92f1c9172823fdb2a96061bf4ab57c9ecd87d9b3b1868e0.png"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 19,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 19
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件编号： "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "PT9L-RJTY01",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " V1.0                                             软件流程图"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 20
+                }
+            ],
+            "page_idx": 2
+        }
+    ],
+    "_backend": "office",
+    "_version_name": "3.1.6"
+}

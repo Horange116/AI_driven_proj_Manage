@@ -1,0 +1,366 @@
+[
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.01,
+                0.055,
+                0.023,
+                0.786
+            ],
+            "angle": 0,
+            "content": "1\n2\n3\n4\n5\n6\n7\n8"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.01,
+                0.012,
+                0.991,
+                0.032
+            ],
+            "angle": 0,
+            "content": "A B C D E F G H"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.047,
+                0.053,
+                0.122,
+                0.097
+            ],
+            "angle": 0,
+            "content": "andon",
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.066,
+                0.152,
+                0.267,
+                0.359
+            ],
+            "angle": 0,
+            "content": "iHealth Infrared No-Touch Forehead Thermometer\nModel: PT9L Power source: DC 2 x 1.5V=5IZE AAA batteries\nMeasurement position: Centre of the forehead surface\nManufactured for iHealth Labs, Inc.\nAndon Health Co., LTD.\nNo.3 JinPing Street, YoYan Road, Nankai District,\nTianjin 300190, China.\nMade in China\nLOT 120711011001\nIP22\n批号:120711011001为变量\n（批号依据柯朝规则执行）\n第1-6位：制造令代码；\n第7-9位：邮件序号；\n第10-12位：批次序列号；\nR=2mm",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.079,
+                0.383,
+                0.179,
+                0.427
+            ],
+            "angle": 0,
+            "content": "比例1:1"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.427,
+                0.216,
+                0.76,
+                0.24
+            ],
+            "angle": 0,
+            "content": "iHealth Infrared No-Touch Forehead Thermometer",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.427,
+                0.244,
+                0.81,
+                0.265
+            ],
+            "angle": 0,
+            "content": "Model: PT9L Power source: DC 2 x 1.5V=SIZE AAA batteries",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.427,
+                0.268,
+                0.743,
+                0.289
+            ],
+            "angle": 0,
+            "content": "Measurement position: Centre of the forehead surface",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.427,
+                0.291,
+                0.632,
+                0.312
+            ],
+            "angle": 0,
+            "content": "Manufactured for iHealth Labs, Inc.",
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.428,
+                0.316,
+                0.47,
+                0.384
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.478,
+                0.315,
+                0.612,
+                0.335
+            ],
+            "angle": 0,
+            "content": "Andon Health Co., LTD.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.478,
+                0.34,
+                0.75,
+                0.386
+            ],
+            "angle": 0,
+            "content": "No.3 JinPing Street, YaAn Road, Nankai District, Tianjin 300190, China.",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.429,
+                0.386,
+                0.514,
+                0.406
+            ],
+            "angle": 0,
+            "content": "Made in China",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.429,
+                0.418,
+                0.468,
+                0.449
+            ],
+            "angle": 0,
+            "content": "LOT",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.475,
+                0.42,
+                0.577,
+                0.443
+            ],
+            "angle": 0,
+            "content": "120711011001",
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.618,
+                0.402,
+                0.652,
+                0.449
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.656,
+                0.405,
+                0.688,
+                0.45
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.692,
+                0.405,
+                0.791,
+                0.45
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.792,
+                0.34,
+                0.848,
+                0.449
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.586,
+                0.535,
+                0.756,
+                0.56
+            ],
+            "angle": 0,
+            "content": "批号:120711011001为变量",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.586,
+                0.569,
+                0.742,
+                0.596
+            ],
+            "angle": 0,
+            "content": "(批号依据柯顿规则执行)",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.586,
+                0.604,
+                0.72,
+                0.63
+            ],
+            "angle": 0,
+            "content": "第1-6位: 制造令代码；",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.586,
+                0.639,
+                0.706,
+                0.664
+            ],
+            "angle": 0,
+            "content": "第7-9位: 部件序号；",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.586,
+                0.673,
+                0.735,
+                0.699
+            ],
+            "angle": 0,
+            "content": "第10-12位: 批次序列号；",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.052,
+                0.663,
+                0.253,
+                0.694
+            ],
+            "angle": 0,
+            "content": "本件要求通过RoHS测试",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.052,
+                0.705,
+                0.31,
+                0.737
+            ],
+            "angle": 0,
+            "content": "说明：材质为：25#透明PET覆哑胶",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.052,
+                0.749,
+                0.184,
+                0.777
+            ],
+            "angle": 0,
+            "content": "尺寸：40X18mm",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.054,
+                0.789,
+                0.214,
+                0.82
+            ],
+            "angle": 0,
+            "content": "印刷颜色：k+1专色",
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.221,
+                0.79,
+                0.264,
+                0.826
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.28,
+                0.792,
+                0.455,
+                0.826
+            ],
+            "angle": 0,
+            "content": "PANTONE 286 C",
+            "merge_prev": false
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.01,
+                0.862,
+                0.991,
+                0.986
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>3</td><td></td><td></td><td>K04080002502</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">铭牌</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-F02</td></tr><tr><td>No</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td><eq>X^{\\circ}</eq></td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>"
+        }
+    ]
+]

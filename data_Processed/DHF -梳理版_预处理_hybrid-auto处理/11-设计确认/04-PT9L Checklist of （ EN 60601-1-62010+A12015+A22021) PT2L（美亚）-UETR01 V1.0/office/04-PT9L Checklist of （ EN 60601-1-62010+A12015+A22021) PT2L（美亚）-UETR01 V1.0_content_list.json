@@ -1,0 +1,95 @@
+[
+    {
+        "type": "text",
+        "text": "**CHECKLIST of** [**EN 60601-1-6:2010**](https://standards.cencenelec.eu/dyn/www/f?p=CENELEC:110:::::FSP_PROJECT,FSP_ORG_ID:65600,1257161&cs=10A497F8A725B69091888096AD6506FF9)[**+A1:2015+**](https://standards.cencenelec.eu/dyn/www/f?p=CENELEC:110:::::FSP_PROJECT,FSP_ORG_ID:65600,1257161&cs=10A497F8A725B69091888096AD6506FF9)[**A2:2021**](https://standards.cencenelec.eu/dyn/www/f?p=CENELEC:110:::::FSP_PROJECT,FSP_ORG_ID:65600,1257161&cs=10A497F8A725B69091888096AD6506FF9)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**Medical electrical equipment –**",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**Part 1-6: General requirements for basic safety and essential performance –**",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**Collateral standard: Usability**",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Product/project name：<u>Infrared Forehead Thermometer</u>",
+        "page_idx": 0,
+        "anchor": "OLE_LINK4"
+    },
+    {
+        "type": "text",
+        "text": "Model   name:         <u>PT9L</u>   \t\t\t",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Project number:      <u>30000078</u>\t",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "<u>&nbsp;&nbsp;</u>",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conclusion(Pass/Fail):Pass",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Drafted     by:                         <u>Date              .</u> ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Reviewed by:                         <u>Date              .</u>",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><tr><td><p><strong>No.</strong></p></td><td><p><strong>Version Date </strong></p></td><td><p><strong>Version Description</strong></p></td><td><p><strong>Version</strong></p></td><td><p><strong>Drafter</strong></p></td><td><p><strong>Approver</strong></p></td></tr><tr><td><p><a></a>1</p></td><td><p>2024.06.18</p></td><td><p>Original</p></td><td><p>V1.0</p></td><td><p>Wang Di</p></td><td><p>Hou Guangwei</p></td></tr><tr><td><p><a></a></p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**Version History**",
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "DN:<u>PT9L-UETR01</u> V1.0                                    EN 60601-1-6:2010+A1:2015+A2:2021",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><tr><td colspan=\"4\"><p><strong>IEC 60601-1-6</strong></p></td></tr><tr><td><p><strong>Clause</strong></p></td><td><p><strong>Requirement + Test</strong></p></td><td><p><strong>Compliance method </strong></p></td><td><p><strong>Result</strong></p></td></tr><tr><td><p><a></a><strong>4.0</strong></p></td><td colspan=\"2\"><p><strong>General requirements</strong></p></td><td><p>P</p></td></tr><tr><td><p><strong>4.1</strong></p></td><td colspan=\"2\"><p><strong>Conditions for application to ME EQUIPMENT</strong></p></td><td></td></tr><tr><td></td><td><p>The ME EQUIPMENT shall provide adequate USABLITY such that the RISks resulting from</p><p>NORMAL USE, i.e. CORRECT USE and USE ERROR ,are acceptable.</p></td><td><p>Compliance with 4.2 and other clauses and subclauses of this collateral standard</p></td><td><p>P</p></td></tr><tr><td><p><strong>4.2</strong></p></td><td colspan=\"2\"><p><strong>USABILITY ENGINEERING PROCESS for ME EQUIPMENT</strong></p></td><td></td></tr><tr><td></td><td><p>A USABILITY ENGINEERING PROCESS complying with IEC 62366-1:2015+A1:2020 shall be performed except:</p><p>- the planning for and execution of production and POST-PRODUCTION monitoring in thecontext of applying the USABILITY ENGINEERING PROCESS within the framework ofISO 14971，and</p><p>- maintenance of the USABILITY ENGINEERING PROCESS</p></td><td><p>USABILITY ENGINEERING PROCESS has been performed, please see the inspection of the USABILITY ENGINEERING file</p></td><td><p>P</p></td></tr><tr><td><p><strong>5</strong></p></td><td colspan=\"2\"><p><strong>ME EQUIPMENT ACCOMPANYING DOCUMENTS</strong></p></td><td><p><strong>P</strong></p></td></tr><tr><td></td><td><p>The instructions for use include a brief description of the me equipment, its physical operating principles and significant physical and performance characteristics relevant to its use. </p></td><td><p>Inspect the instruction for use to include information required</p></td><td><p>P</p></td></tr><tr><td></td><td><p>The same information shall also be included in the technical description, if this is provided as a separate document.</p></td><td><p>Inspect the instruction for use to include information required</p></td><td><p>P</p></td></tr><tr><td></td><td><p>The instructions for use contain a summary of the USE SPECIFICATION as specified in IEC 62366-1:2015+A1:2020, 5.1.</p></td><td><p>Inspect the instruction for use to include  use specification as specifed in IEC 62366-1.</p></td><td><p>P</p></td></tr></table>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "END OF EN 60601-1-6 REPORT.",
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "DN:<u>PT9L-UETR01</u> V1.0                                    EN 60601-1-6:2010+A1:2015+A2:2021",
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "1/1",
+        "page_idx": 1
+    }
+]

@@ -1,0 +1,202 @@
+[
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.032,
+                0.089,
+                0.043,
+                0.786
+            ],
+            "angle": 0,
+            "content": "1\n2\n3\n4\n5\n6\n7\n8"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.085,
+                0.052,
+                0.914,
+                0.068
+            ],
+            "angle": 0,
+            "content": "A | B | C | D | E | F | G | H"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.906,
+                0.077,
+                0.957,
+                0.093
+            ],
+            "angle": 0,
+            "content": "X 尺寸序号"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.053,
+                0.083,
+                0.123,
+                0.125
+            ],
+            "angle": 0,
+            "content": "andon"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.119,
+                0.146,
+                0.368,
+                0.579
+            ],
+            "angle": 0,
+            "content": "第二圈小于Ø5.2即Ø5.2 +0/-0.3\n这样弹簧才不会卡在卡槽内\n（请放在电池槽用力按弹簧顶端，\n如果弹簧没卡在卡槽就OK）\nØ3.0\nØ3.0\n1.2 +0/-0.2\n⑥\n⑤",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.368,
+                0.234,
+                0.616,
+                0.602
+            ],
+            "angle": 0,
+            "content": "17.8(+0/-0.15)\n5.8±0.1\n6.5(+0.3/-0)\n③\n②\n④\n10.5\n9.9(+0/-0.2)\nØ6.5(+0.3/-0)\nØ6.5(+0.3/-0)",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.681,
+                0.374,
+                0.836,
+                0.486
+            ],
+            "angle": 0,
+            "content": "此两处结构尺寸与正、负极\n弹簧一样。",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.166,
+                0.638,
+                0.174,
+                0.651
+            ],
+            "angle": 0,
+            "content": "注",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.167,
+                0.655,
+                0.305,
+                0.671
+            ],
+            "angle": 0,
+            "content": "|：产品外观良好，无毛刺 利角。包装良好。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.167,
+                0.673,
+                0.264,
+                0.688
+            ],
+            "angle": 0,
+            "content": "2：带编号尺寸为重点检测尺寸",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.167,
+                0.691,
+                0.339,
+                0.706
+            ],
+            "angle": 0,
+            "content": "3：未标注尺寸请以样板为准！未注公差依图纸公差为准！",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.167,
+                0.709,
+                0.332,
+                0.724
+            ],
+            "angle": 0,
+            "content": "品质部检验结构时 请以结构签板和组装 实配 为准。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.167,
+                0.726,
+                0.238,
+                0.742
+            ],
+            "angle": 0,
+            "content": "4；材质符合RHOS.",
+            "merge_prev": false
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.167,
+                0.655,
+                0.339,
+                0.742
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.17,
+                0.751,
+                0.3,
+                0.768
+            ],
+            "angle": 0,
+            "content": "通过通用的GB2423.17-2008",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.17,
+                0.77,
+                0.37,
+                0.787
+            ],
+            "angle": 0,
+            "content": "盐雾测试报告（温度35度 盐水浓度5% 24H 后无生锈）!",
+            "merge_prev": false
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.031,
+                0.854,
+                0.967,
+                0.973
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>弹簧钢</td><td>Model NO.</td><td colspan=\"2\">PT3</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">双联弹簧</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT3-P10</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td><img src=\"data:image/jpeg;base64,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\"/></td><td>Edition</td><td>V1.0</td></tr></table>"
+        }
+    ]
+]

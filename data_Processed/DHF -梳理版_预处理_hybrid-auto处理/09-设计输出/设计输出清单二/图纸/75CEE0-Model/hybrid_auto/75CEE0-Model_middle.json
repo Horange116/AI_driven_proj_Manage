@@ -1,0 +1,639 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "bbox": [
+                        23,
+                        56,
+                        68,
+                        73
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                23,
+                                56,
+                                68,
+                                73
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        56,
+                                        68,
+                                        73
+                                    ],
+                                    "type": "text",
+                                    "content": "技术要求:"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        22,
+                        77,
+                        288,
+                        161
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 2,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                23,
+                                77,
+                                266,
+                                96
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        77,
+                                        266,
+                                        96
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                23,
+                                                77,
+                                                266,
+                                                96
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 材质为黄铜，表面电泳高光黑色，清洗干净，无磕划伤"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                23,
+                                97,
+                                220,
+                                116
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        97,
+                                        220,
+                                        116
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                23,
+                                                97,
+                                                220,
+                                                116
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 未注公差 ±0.1，未注倒角 C0.2"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                23,
+                                120,
+                                156,
+                                138
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        120,
+                                        156,
+                                        138
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                23,
+                                                120,
+                                                156,
+                                                138
+                                            ],
+                                            "type": "text",
+                                            "content": "3. 带编号尺寸为重点检测尺寸"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                23,
+                                141,
+                                288,
+                                160
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        141,
+                                        288,
+                                        160
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                23,
+                                                141,
+                                                288,
+                                                160
+                                            ],
+                                            "type": "text",
+                                            "content": "4.3，4号尺寸与散热器压块套配能装能拆能过2m跌落"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "merge_prev": false
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "chart",
+                    "bbox": [
+                        205,
+                        87,
+                        643,
+                        482
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                205,
+                                87,
+                                643,
+                                482
+                            ],
+                            "type": "chart_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        205,
+                                        87,
+                                        643,
+                                        482
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                205,
+                                                87,
+                                                643,
+                                                482
+                                            ],
+                                            "type": "chart",
+                                            "content": "| Dimension | Value     |\n| --------- | --------- |\n| Ø9.5      | 11.79 ± 0.05 |\n| Ø6.18     | 10.99     |\n| Ø3.1      | 0.5       |\n| Ø4.87     | 2.85 ± 0.15 |\n| Ø6        | 0.83      |\n| Ø8.5      | 0.35 ± 0.02 |\n| Ø4.75     | 0.03 ± 0.03 |\n| Ø4.75     | 0         |\n| Ø4.75     | ②        |",
+                                            "image_path": "7021894bdac0f8bf92099b22e9a342ebee778881602cdcc8e5217dc8d339f7be.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7,
+                    "sub_type": "other"
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        15,
+                        503,
+                        775,
+                        573
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                15,
+                                503,
+                                775,
+                                573
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        503,
+                                        775,
+                                        573
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                15,
+                                                503,
+                                                775,
+                                                573
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"5\">订正记录</td><td>记号</td><td>日期</td><td>更改内容</td><td>担当</td><td rowspan=\"5\">订正记录</td><td>记号</td><td>日期</td><td>更改内容</td><td>担当</td><td rowspan=\"5\">批准</td><td rowspan=\"5\">审核</td><td rowspan=\"5\">编制</td><td>材质</td><td>黄铜</td><td rowspan=\"3\">名称 散热器金属套</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=\"2\">处理</td><td rowspan=\"2\">电泳黑色</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=\"2\">时间</td><td rowspan=\"2\">2018.9.17</td><td rowspan=\"2\">图番 5B44C</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+                                            "image_path": "87c2477504f665459bcd5651144b99467e0e4b186597affc8f9ada7ca952ba82.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        17,
+                        25,
+                        95,
+                        36
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                25,
+                                95,
+                                36
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        25,
+                                        95,
+                                        36
+                                    ],
+                                    "type": "text",
+                                    "content": "文件版本号: GXT-001"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        691,
+                        575,
+                        765,
+                        586
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                691,
+                                575,
+                                765,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        691,
+                                        575,
+                                        765,
+                                        586
+                                    ],
+                                    "type": "text",
+                                    "content": "天津小泉精密金属制品有限公司"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "page_size": [
+                792,
+                612
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "bbox": [
+                        23,
+                        56,
+                        68,
+                        73
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                23,
+                                56,
+                                68,
+                                73
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        56,
+                                        68,
+                                        73
+                                    ],
+                                    "type": "text",
+                                    "content": "技术要求:"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        22,
+                        77,
+                        288,
+                        161
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 2,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                23,
+                                77,
+                                266,
+                                96
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        77,
+                                        266,
+                                        96
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                23,
+                                                77,
+                                                266,
+                                                96
+                                            ],
+                                            "type": "text",
+                                            "content": "1. 材质为黄铜，表面电泳高光黑色，清洗干净，无磕划伤"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                23,
+                                97,
+                                220,
+                                116
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        97,
+                                        220,
+                                        116
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                23,
+                                                97,
+                                                220,
+                                                116
+                                            ],
+                                            "type": "text",
+                                            "content": "2. 未注公差 ±0.1，未注倒角 C0.2"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                23,
+                                120,
+                                156,
+                                138
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        120,
+                                        156,
+                                        138
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                23,
+                                                120,
+                                                156,
+                                                138
+                                            ],
+                                            "type": "text",
+                                            "content": "3. 带编号尺寸为重点检测尺寸"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "merge_prev": false
+                        },
+                        {
+                            "bbox": [
+                                23,
+                                141,
+                                288,
+                                160
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        23,
+                                        141,
+                                        288,
+                                        160
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                23,
+                                                141,
+                                                288,
+                                                160
+                                            ],
+                                            "type": "text",
+                                            "content": "4.3，4号尺寸与散热器压块套配能装能拆能过2m跌落"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "merge_prev": false
+                        }
+                    ],
+                    "sub_type": "text"
+                },
+                {
+                    "type": "chart",
+                    "bbox": [
+                        205,
+                        87,
+                        643,
+                        482
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                205,
+                                87,
+                                643,
+                                482
+                            ],
+                            "type": "chart_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        205,
+                                        87,
+                                        643,
+                                        482
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                205,
+                                                87,
+                                                643,
+                                                482
+                                            ],
+                                            "type": "chart",
+                                            "content": "| Dimension | Value     |\n| --------- | --------- |\n| Ø9.5      | 11.79 ± 0.05 |\n| Ø6.18     | 10.99     |\n| Ø3.1      | 0.5       |\n| Ø4.87     | 2.85 ± 0.15 |\n| Ø6        | 0.83      |\n| Ø8.5      | 0.35 ± 0.02 |\n| Ø4.75     | 0.03 ± 0.03 |\n| Ø4.75     | 0         |\n| Ø4.75     | ②        |",
+                                            "image_path": "7021894bdac0f8bf92099b22e9a342ebee778881602cdcc8e5217dc8d339f7be.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7,
+                    "sub_type": "other"
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        15,
+                        503,
+                        775,
+                        573
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                15,
+                                503,
+                                775,
+                                573
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        503,
+                                        775,
+                                        573
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                15,
+                                                503,
+                                                775,
+                                                573
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"5\">订正记录</td><td>记号</td><td>日期</td><td>更改内容</td><td>担当</td><td rowspan=\"5\">订正记录</td><td>记号</td><td>日期</td><td>更改内容</td><td>担当</td><td rowspan=\"5\">批准</td><td rowspan=\"5\">审核</td><td rowspan=\"5\">编制</td><td>材质</td><td>黄铜</td><td rowspan=\"3\">名称 散热器金属套</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=\"2\">处理</td><td rowspan=\"2\">电泳黑色</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=\"2\">时间</td><td rowspan=\"2\">2018.9.17</td><td rowspan=\"2\">图番 5B44C</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+                                            "image_path": "87c2477504f665459bcd5651144b99467e0e4b186597affc8f9ada7ca952ba82.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "3.1.6"
+}

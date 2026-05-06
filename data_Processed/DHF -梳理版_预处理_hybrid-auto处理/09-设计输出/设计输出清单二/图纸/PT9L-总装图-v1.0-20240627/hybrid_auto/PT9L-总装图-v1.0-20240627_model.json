@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.009,
+                0.012,
+                0.989,
+                0.035
+            ],
+            "angle": 0,
+            "content": "A | B | C | D | E | F | G | H"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.946,
+                0.04,
+                0.983,
+                0.054
+            ],
+            "angle": 0,
+            "content": "☒ 尺寸序号",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.034,
+                0.043,
+                0.085,
+                0.074
+            ],
+            "angle": 0,
+            "content": "andon",
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.058,
+                0.09,
+                0.645,
+                0.81
+            ],
+            "angle": 0,
+            "content": "Exploded view diagram of a device with numbered parts for identification",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.699,
+                0.329,
+                0.989,
+                0.872
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>23</td><td>M2X5</td><td>螺钉</td><td>3</td></tr><tr><td>22</td><td>PT5-M02</td><td>正极弹簧</td><td>1</td></tr><tr><td>21</td><td>PT5-M03</td><td>负极弹簧</td><td>1</td></tr><tr><td>20</td><td>PT3-P10</td><td>双连弹簧</td><td>1</td></tr><tr><td>19</td><td></td><td>7号碱性电池</td><td>2</td></tr><tr><td>18</td><td>T-Z1-P04</td><td>电池盖</td><td>1</td></tr><tr><td>17</td><td>T-Z1-P08</td><td>保护盖</td><td>1</td></tr><tr><td>16</td><td>T-Z1-P02</td><td>下盖</td><td>1</td></tr><tr><td>15</td><td>T-Z1-P07</td><td>支架</td><td>1</td></tr><tr><td>14</td><td>PT3-M03</td><td>金属套</td><td>1</td></tr><tr><td>13</td><td>PT3-M01</td><td>压块</td><td>1</td></tr><tr><td>12</td><td></td><td>红外传感器</td><td>1</td></tr><tr><td>11</td><td>T-Z1-P10</td><td>PCB</td><td>1</td></tr><tr><td>10</td><td></td><td>快速探温电阻</td><td>1</td></tr><tr><td>09</td><td>M2X5</td><td>螺钉</td><td>7</td></tr><tr><td>08</td><td></td><td>PCB</td><td>1</td></tr><tr><td>07</td><td>T-Z1-P06</td><td>开关帽</td><td>1</td></tr><tr><td>06</td><td>T-Z1-P10</td><td>导光板</td><td>1</td></tr><tr><td>05</td><td>PT9L-L01</td><td>液晶</td><td>1</td></tr><tr><td>04</td><td>T-Z1-P12</td><td>斑马条</td><td>1</td></tr><tr><td>03</td><td>T-Z1-P05</td><td>按键</td><td>1</td></tr><tr><td>02</td><td>T-Z1-P01</td><td>上盖</td><td>1</td></tr><tr><td>01</td><td>T-Z1-P09</td><td>透镜</td><td>1</td></tr><tr><td>序号</td><td>零件编号</td><td>零件名称</td><td>数量</td></tr></table>"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.011,
+                0.873,
+                0.989,
+                0.985
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>6</td><td></td><td></td><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>ABS</td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>5</td><td></td><td></td><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">总装图</td></tr><tr><td>4</td><td></td><td></td><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-A01</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>"
+        }
+    ]
+]

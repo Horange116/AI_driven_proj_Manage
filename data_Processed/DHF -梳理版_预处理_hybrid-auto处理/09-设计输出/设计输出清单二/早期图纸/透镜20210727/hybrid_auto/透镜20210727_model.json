@@ -1,0 +1,147 @@
+[
+    [
+        {
+            "type": "table",
+            "bbox": [
+                0.0,
+                0.0,
+                0.131,
+                0.999
+            ],
+            "angle": 270,
+            "content": "<table><tr><td>3</td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>PMMA</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>2</td><td></td><td>Design</td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td></tr><tr><td>1</td><td></td><td>初版制作</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td></tr><tr><td>No.</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td></tr></table>"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.131,
+                0.0,
+                0.999,
+                0.014
+            ],
+            "angle": 270,
+            "content": "8\n7\n6\n5\n4\n3\n2\n1"
+        },
+        {
+            "type": "image_block",
+            "bbox": [
+                0.158,
+                0.032,
+                0.86,
+                0.935
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.358,
+                0.244,
+                0.474,
+                0.47
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.527,
+                0.107,
+                0.856,
+                0.507
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.916,
+                0.024,
+                0.96,
+                0.101
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.203,
+                0.608,
+                0.418,
+                0.848
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.609,
+                0.613,
+                0.765,
+                0.934
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.131,
+                0.875,
+                0.307,
+                0.995
+            ],
+            "angle": 270,
+            "content": "<table><tr><td rowspan=\"2\">LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>DIM</td><td>5</td><td>$ \\pm0.03 $</td><td>$ \\pm0.1 $</td></tr><tr><td>&lt; 5~5</td><td>$ \\pm0.05 $</td><td>$ \\pm0.1 $</td><td>$ \\pm0.15 $</td></tr><tr><td>&gt; 15~50</td><td>$ \\pm0.05 $</td><td>$ \\pm0.1 $</td><td>$ \\pm0.2 $</td></tr><tr><td>&lt; 50~100</td><td>$ \\pm0.08 $</td><td>$ \\pm0.2 $</td><td>$ \\pm0.3 $</td></tr><tr><td>&gt;100</td><td>$ \\pm0.1\\% $</td><td>$ \\pm0.2\\% $</td><td>$ \\pm0.3\\% $</td></tr><tr><td>ANGUL4R</td><td>$ \\pm0.1\\circ $</td><td>$ \\pm0.5\\circ $</td><td>$ \\pm0.5\\circ $</td></tr><tr><td colspan=\"4\">SELECTT LEVEL</td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.947,
+                0.937,
+                0.965,
+                0.989
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.973,
+                0.0,
+                0.992,
+                0.999
+            ],
+            "angle": 270,
+            "content": "H | G | F | D | C | B | A |"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.909,
+                0.019,
+                0.967,
+                0.108
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.945,
+                0.935,
+                0.967,
+                0.993
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ]
+]

@@ -1,0 +1,694 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        35,
+                        59,
+                        805,
+                        544
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                35,
+                                59,
+                                805,
+                                544
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        35,
+                                        59,
+                                        805,
+                                        544
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                35,
+                                                59,
+                                                805,
+                                                544
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">标识号</td><td rowspan=\"2\" colspan=\"2\">任务名称</td><td rowspan=\"2\">工期</td><td rowspan=\"2\">前置任务</td><td rowspan=\"2\">资源名称</td><td colspan=\"4\">第一季度</td><td colspan=\"3\">第二季度</td><td colspan=\"3\">第三季度</td><td colspan=\"3\">第四季度</td></tr><tr><td>2023年12月</td><td>2024年1月</td><td>2024年2月</td><td>2024年3月</td><td>2024年4月</td><td>2024年5月</td><td>2024年6月</td><td>2024年7月</td><td>2024年8月</td><td>2024年9月</td><td>2024年10月</td><td>2024年11月</td><td>2024年12月</td></tr><tr><td>1</td><td></td><td>体温设计周期</td><td>213 d</td><td></td><td></td><td>1/8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>10/31</td><td>10/31</td><td></td></tr><tr><td>2</td><td>[注]</td><td>风险分析</td><td>1 d</td><td></td><td>标准(项目)</td><td>1/9</td><td>1/10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td>设计输入</td><td>1 d 2</td><td></td><td></td><td>1/10</td><td>1/11</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td>结构设计</td><td>20 d</td><td></td><td></td><td>1/11</td><td></td><td>2/8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>[注]</td><td>结构方案设计及评审</td><td>3 d 3</td><td></td><td></td><td>1/11</td><td>1/16</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td>ProE设计</td><td>15 d 5</td><td></td><td></td><td>1/16</td><td></td><td>2/6</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td></td><td>结构图样评审</td><td>1 d 6</td><td></td><td></td><td></td><td>2/6</td><td>2/7</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8</td><td></td><td>设计修改</td><td>1 d 7</td><td></td><td></td><td></td><td>2/7</td><td>2/8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td></td><td>硬件设计</td><td>27 d</td><td></td><td></td><td>1/11</td><td></td><td>2/19</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10</td><td></td><td>硬件方案设计及评审</td><td>10 d 3</td><td></td><td></td><td>1/11</td><td>1/25</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>11</td><td></td><td>PCB设计</td><td>15 d 10,6SS+</td><td></td><td></td><td></td><td>1/25</td><td></td><td>2/15</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>12</td><td></td><td>硬件图样评审及修改</td><td>2 d 11</td><td></td><td></td><td></td><td></td><td>2/15</td><td>2/19</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>13</td><td></td><td>软件设计</td><td>36 d</td><td></td><td></td><td>1/11</td><td></td><td></td><td>3/1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>14</td><td></td><td>软件方案设计及评审</td><td>10 d 3</td><td></td><td></td><td>1/11</td><td>1/25</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>15</td><td></td><td>软件图样设计及评审</td><td>18 d 14</td><td></td><td></td><td></td><td>1/25</td><td></td><td>2/20</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>16</td><td></td><td>程序设计</td><td>8 d 15</td><td></td><td></td><td></td><td></td><td>2/20</td><td>3/1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>17</td><td></td><td>T1阶段</td><td>54 d</td><td></td><td></td><td></td><td>2/7</td><td></td><td></td><td>4/23</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>18</td><td></td><td>确定开模</td><td>1 d 7</td><td></td><td></td><td></td><td>2/7</td><td>2/8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>19</td><td></td><td>模具评估</td><td>1 d 18</td><td>模具厂</td><td></td><td></td><td>2/8</td><td>2/9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>20</td><td></td><td>模具图纸整理</td><td>1 d 18</td><td></td><td></td><td></td><td>2/8</td><td>2/9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>21</td><td></td><td>模具制造</td><td>10 d 20</td><td>模具厂</td><td></td><td></td><td>2/9</td><td></td><td>2/23</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>22</td><td></td><td>T1报样</td><td>1 d 21</td><td></td><td></td><td></td><td></td><td>2/23</td><td>2/26</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>23</td><td>[注]</td><td>T1PCB加工</td><td>1 d 22</td><td>PCB厂[300%]</td><td></td><td></td><td></td><td>2/26</td><td>2/27</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>24</td><td></td><td>T1机芯焊接</td><td>1 d 23</td><td></td><td></td><td></td><td></td><td>2/27</td><td>2/28</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>25</td><td></td><td>T1软硬件调试</td><td>4 d 24</td><td></td><td></td><td></td><td></td><td>2/28</td><td>3/5</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>26</td><td></td><td>工装设计</td><td>22 d</td><td></td><td></td><td></td><td></td><td>3/1</td><td></td><td>4/2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>27</td><td></td><td>工装设计</td><td>12 d 16</td><td></td><td></td><td></td><td></td><td>3/1</td><td></td><td>3/19</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>28</td><td></td><td>工装PCB加工</td><td>5 d 27</td><td>模具厂</td><td></td><td></td><td></td><td></td><td>3/19</td><td>3/26</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>29</td><td></td><td>首套工装制作</td><td>5 d 28</td><td></td><td></td><td></td><td></td><td></td><td>3/26</td><td>4/2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>30</td><td></td><td>T1样机制作</td><td>5 d 22,24,2</td><td></td><td></td><td></td><td></td><td></td><td>4/2</td><td>4/9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>31</td><td></td><td>T1样机评审</td><td>1 d 30</td><td></td><td></td><td></td><td></td><td></td><td>4/9</td><td>4/10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+                                            "image_path": "ec6fa6cd315400c5b0f43811f5a194bad82975b82a28757143dc631efc283530.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        37,
+                        39,
+                        90,
+                        57
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                33,
+                                33,
+                                95,
+                                59
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        33,
+                                        33,
+                                        95,
+                                        59
+                                    ],
+                                    "type": "text",
+                                    "content": "andon",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        89,
+                        50,
+                        171,
+                        57
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                48,
+                                172,
+                                59
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        48,
+                                        172,
+                                        59
+                                    ],
+                                    "type": "text",
+                                    "content": "件编 号 ： PT9L-XMJ D0 1 V1 . 0",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        772,
+                        46,
+                        804,
+                        53
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                772,
+                                47,
+                                803,
+                                54
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        772,
+                                        47,
+                                        803,
+                                        54
+                                    ],
+                                    "type": "text",
+                                    "content": "项 目进度表",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        409,
+                        547,
+                        431,
+                        555
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                408,
+                                546,
+                                433,
+                                557
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        408,
+                                        546,
+                                        433,
+                                        557
+                                    ],
+                                    "type": "text",
+                                    "content": "第 1 页",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        639,
+                        547,
+                        763,
+                        555
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                639,
+                                546,
+                                765,
+                                557
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        639,
+                                        547,
+                                        657,
+                                        556
+                                    ],
+                                    "type": "text",
+                                    "content": "拟制：",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        694,
+                                        547,
+                                        713,
+                                        557
+                                    ],
+                                    "type": "text",
+                                    "content": "审核：",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        750,
+                                        546,
+                                        765,
+                                        557
+                                    ],
+                                    "type": "text",
+                                    "content": "批准",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                842,
+                595
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        35,
+                        59,
+                        805,
+                        544
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                35,
+                                59,
+                                805,
+                                544
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        35,
+                                        59,
+                                        805,
+                                        544
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                35,
+                                                59,
+                                                805,
+                                                544
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">标识号</td><td rowspan=\"2\" colspan=\"2\">任务名称</td><td rowspan=\"2\">工期</td><td rowspan=\"2\">前置任务</td><td rowspan=\"2\">资源名称</td><td colspan=\"4\">第一季度</td><td colspan=\"3\">第二季度</td><td colspan=\"3\">第三季度</td><td colspan=\"3\">第四季度</td></tr><tr><td>2023年12月</td><td>2024年1月</td><td>2024年2月</td><td>2024年3月</td><td>2024年4月</td><td>2024年5月</td><td>2024年6月</td><td>2024年7月</td><td>2024年8月</td><td>2024年9月</td><td>2024年10月</td><td>2024年11月</td><td>2024年12月</td></tr><tr><td>1</td><td></td><td>体温设计周期</td><td>213 d</td><td></td><td></td><td>1/8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>10/31</td><td>10/31</td><td></td></tr><tr><td>2</td><td>[注]</td><td>风险分析</td><td>1 d</td><td></td><td>标准(项目)</td><td>1/9</td><td>1/10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td>设计输入</td><td>1 d 2</td><td></td><td></td><td>1/10</td><td>1/11</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td>结构设计</td><td>20 d</td><td></td><td></td><td>1/11</td><td></td><td>2/8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>[注]</td><td>结构方案设计及评审</td><td>3 d 3</td><td></td><td></td><td>1/11</td><td>1/16</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td>ProE设计</td><td>15 d 5</td><td></td><td></td><td>1/16</td><td></td><td>2/6</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td></td><td>结构图样评审</td><td>1 d 6</td><td></td><td></td><td></td><td>2/6</td><td>2/7</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8</td><td></td><td>设计修改</td><td>1 d 7</td><td></td><td></td><td></td><td>2/7</td><td>2/8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td></td><td>硬件设计</td><td>27 d</td><td></td><td></td><td>1/11</td><td></td><td>2/19</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10</td><td></td><td>硬件方案设计及评审</td><td>10 d 3</td><td></td><td></td><td>1/11</td><td>1/25</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>11</td><td></td><td>PCB设计</td><td>15 d 10,6SS+</td><td></td><td></td><td></td><td>1/25</td><td></td><td>2/15</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>12</td><td></td><td>硬件图样评审及修改</td><td>2 d 11</td><td></td><td></td><td></td><td></td><td>2/15</td><td>2/19</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>13</td><td></td><td>软件设计</td><td>36 d</td><td></td><td></td><td>1/11</td><td></td><td></td><td>3/1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>14</td><td></td><td>软件方案设计及评审</td><td>10 d 3</td><td></td><td></td><td>1/11</td><td>1/25</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>15</td><td></td><td>软件图样设计及评审</td><td>18 d 14</td><td></td><td></td><td></td><td>1/25</td><td></td><td>2/20</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>16</td><td></td><td>程序设计</td><td>8 d 15</td><td></td><td></td><td></td><td></td><td>2/20</td><td>3/1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>17</td><td></td><td>T1阶段</td><td>54 d</td><td></td><td></td><td></td><td>2/7</td><td></td><td></td><td>4/23</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>18</td><td></td><td>确定开模</td><td>1 d 7</td><td></td><td></td><td></td><td>2/7</td><td>2/8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>19</td><td></td><td>模具评估</td><td>1 d 18</td><td>模具厂</td><td></td><td></td><td>2/8</td><td>2/9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>20</td><td></td><td>模具图纸整理</td><td>1 d 18</td><td></td><td></td><td></td><td>2/8</td><td>2/9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>21</td><td></td><td>模具制造</td><td>10 d 20</td><td>模具厂</td><td></td><td></td><td>2/9</td><td></td><td>2/23</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>22</td><td></td><td>T1报样</td><td>1 d 21</td><td></td><td></td><td></td><td></td><td>2/23</td><td>2/26</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>23</td><td>[注]</td><td>T1PCB加工</td><td>1 d 22</td><td>PCB厂[300%]</td><td></td><td></td><td></td><td>2/26</td><td>2/27</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>24</td><td></td><td>T1机芯焊接</td><td>1 d 23</td><td></td><td></td><td></td><td></td><td>2/27</td><td>2/28</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>25</td><td></td><td>T1软硬件调试</td><td>4 d 24</td><td></td><td></td><td></td><td></td><td>2/28</td><td>3/5</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>26</td><td></td><td>工装设计</td><td>22 d</td><td></td><td></td><td></td><td></td><td>3/1</td><td></td><td>4/2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>27</td><td></td><td>工装设计</td><td>12 d 16</td><td></td><td></td><td></td><td></td><td>3/1</td><td></td><td>3/19</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>28</td><td></td><td>工装PCB加工</td><td>5 d 27</td><td>模具厂</td><td></td><td></td><td></td><td></td><td>3/19</td><td>3/26</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>29</td><td></td><td>首套工装制作</td><td>5 d 28</td><td></td><td></td><td></td><td></td><td></td><td>3/26</td><td>4/2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>30</td><td></td><td>T1样机制作</td><td>5 d 22,24,2</td><td></td><td></td><td></td><td></td><td></td><td>4/2</td><td>4/9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>31</td><td></td><td>T1样机评审</td><td>1 d 30</td><td></td><td></td><td></td><td></td><td></td><td>4/9</td><td>4/10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+                                            "image_path": "ec6fa6cd315400c5b0f43811f5a194bad82975b82a28757143dc631efc283530.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        35,
+                        59,
+                        805,
+                        351
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                35,
+                                59,
+                                805,
+                                351
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        35,
+                                        59,
+                                        805,
+                                        351
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                35,
+                                                59,
+                                                805,
+                                                351
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">标识号</td><td rowspan=\"2\"></td><td rowspan=\"2\">任务名称</td><td rowspan=\"2\">工期</td><td rowspan=\"2\">前置任务</td><td rowspan=\"2\">资源名称</td><td></td><td colspan=\"4\">第一季度</td><td colspan=\"4\">第二季度</td><td colspan=\"4\">第三季度</td><td colspan=\"4\">第四季度</td></tr><tr><td>2023年12月</td><td>2024年1月</td><td>2024年2月</td><td>2024年3月</td><td>2024年4月</td><td>2024年5月</td><td>2024年6月</td><td>2024年7月</td><td>2024年8月</td><td>2024年9月</td><td>2024年10月</td><td>2024年11月</td><td>2024年12月</td><td></td><td></td><td></td><td></td></tr><tr><td>32</td><td></td><td>机芯类BOM输出</td><td>1 d</td><td>31</td><td></td><td></td><td></td><td></td><td></td><td>4/10</td><td>4/11</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>33</td><td></td><td>T1样机客户反馈</td><td>1 d</td><td>30</td><td></td><td></td><td></td><td></td><td></td><td>4/9</td><td>4/10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>34</td><td></td><td>T1型式试验和EMC/FCC/ICES测试</td><td>10 d</td><td>30</td><td>PCB厂</td><td></td><td></td><td></td><td></td><td>4/9</td><td>4/23</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>35</td><td></td><td>设计修改</td><td>1 d</td><td>33</td><td></td><td></td><td></td><td></td><td></td><td>4/10</td><td>4/11</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>36</td><td></td><td>模具修改</td><td>3 d</td><td>35</td><td>模具厂</td><td></td><td></td><td></td><td></td><td>4/11</td><td>4/16</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>37</td><td></td><td>修模报样与确认</td><td>1 d</td><td>36</td><td></td><td></td><td></td><td></td><td></td><td>4/16</td><td>4/17</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>38</td><td></td><td>试产</td><td>23 d</td><td></td><td></td><td></td><td></td><td></td><td></td><td>4/10</td><td>5/13</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>39</td><td></td><td>上传文件中心</td><td>1 d</td><td>37</td><td></td><td></td><td></td><td></td><td></td><td>4/17</td><td>4/18</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>40</td><td></td><td>试产技术准备会</td><td>1 d</td><td>39</td><td></td><td></td><td></td><td></td><td></td><td>4/18</td><td>4/19</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>41</td><td></td><td>提交试产申请</td><td>1 d</td><td>40</td><td></td><td></td><td></td><td></td><td></td><td>4/19</td><td>4/22</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>42</td><td></td><td>机芯料提前采购</td><td>10 d</td><td>32</td><td>模具厂</td><td></td><td></td><td></td><td></td><td>4/11</td><td>4/25</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>43</td><td></td><td>液晶提前采购</td><td>15 d</td><td>33</td><td>模具厂</td><td></td><td></td><td></td><td></td><td>4/10</td><td>5/1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>44</td><td></td><td>PCB采购</td><td>15 d</td><td>33</td><td>模具厂</td><td></td><td></td><td></td><td></td><td>4/10</td><td>5/1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>45</td><td></td><td>结构料采购</td><td>10 d</td><td>37</td><td>模具厂</td><td></td><td></td><td></td><td></td><td>4/17</td><td>5/1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>46</td><td></td><td>DMR设计转换</td><td>5 d</td><td>41</td><td></td><td></td><td></td><td></td><td></td><td>4/22</td><td>4/29</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>47</td><td></td><td>试产</td><td>5 d</td><td>42, 43, 4</td><td></td><td></td><td></td><td></td><td></td><td>5/1</td><td>5/8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>48</td><td></td><td>跌落运输试验</td><td>3 d</td><td>47</td><td></td><td></td><td></td><td></td><td></td><td>5/8</td><td>5/13</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>49</td><td></td><td>试产报告与总结会</td><td>3 d</td><td>47</td><td></td><td></td><td></td><td></td><td></td><td>5/8</td><td>5/13</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>50</td><td></td><td>设计确认</td><td>110 d</td><td>49, 48, 3</td><td></td><td></td><td></td><td></td><td></td><td colspan=\"9\">5/13</td><td colspan=\"4\">10/14</td></tr><tr><td>51</td><td></td><td>CE认证</td><td>30 d</td><td>50</td><td></td><td></td><td></td><td></td><td></td><td colspan=\"9\"></td><td colspan=\"4\">10/14</td></tr><tr><td>52</td><td></td><td>510 (k)申请</td><td>30 d</td><td>50</td><td></td><td></td><td></td><td></td><td></td><td colspan=\"9\"></td><td colspan=\"4\">10/14</td></tr></table>",
+                                            "image_path": "18fcd027ea9a968b564e4af2ccb1fd269351039dfc3526a779957af2a9cd060b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        35,
+                        493,
+                        805,
+                        545
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                35,
+                                493,
+                                805,
+                                545
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        35,
+                                        493,
+                                        805,
+                                        545
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                35,
+                                                493,
+                                                805,
+                                                545
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"5\">项目名称:PT9L红外体温计版本:V1.0日期:2024.1.9</td><td>关键</td><td>任务进度</td><td>摘要任务进度</td><td>非活动里程碑</td><td>手动摘要</td><td>期限</td></tr><tr><td>关键任务拆分</td><td>比较基准</td><td>摘要</td><td>非活动摘要</td><td>仅开始时间</td><td></td></tr><tr><td>关键任务进度</td><td>比较基准拆分</td><td>项目摘要</td><td>手动任务</td><td>仅完成时间</td><td></td></tr><tr><td>任务</td><td>比较基准里程碑</td><td>外部任务</td><td>仅工期</td><td>外部任务</td><td></td></tr><tr><td>拆分</td><td>里程碑</td><td>外部里程碑</td><td>手动摘要总成</td><td>外部里程碑</td><td></td></tr></table>",
+                                            "image_path": "a52bb6b001fc30f5ede2046c676ba2ae5add703e0f9b8c2690bb69afa3cf0394.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        37,
+                        39,
+                        90,
+                        57
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                33,
+                                33,
+                                95,
+                                59
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        33,
+                                        33,
+                                        95,
+                                        59
+                                    ],
+                                    "type": "text",
+                                    "content": "andon",
+                                    "score": 0.997
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        89,
+                        50,
+                        171,
+                        57
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                48,
+                                172,
+                                59
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        48,
+                                        172,
+                                        59
+                                    ],
+                                    "type": "text",
+                                    "content": "件编 号 ： PT9L-XMJ D0 1 V1 . 0",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        772,
+                        46,
+                        804,
+                        53
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                772,
+                                47,
+                                803,
+                                54
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        772,
+                                        47,
+                                        803,
+                                        54
+                                    ],
+                                    "type": "text",
+                                    "content": "项 目进度表",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        409,
+                        547,
+                        431,
+                        555
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                408,
+                                546,
+                                433,
+                                557
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        408,
+                                        546,
+                                        433,
+                                        557
+                                    ],
+                                    "type": "text",
+                                    "content": "第 2 页",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        639,
+                        547,
+                        763,
+                        555
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                639,
+                                546,
+                                765,
+                                557
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        639,
+                                        547,
+                                        657,
+                                        556
+                                    ],
+                                    "type": "text",
+                                    "content": "拟制：",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        694,
+                                        547,
+                                        713,
+                                        557
+                                    ],
+                                    "type": "text",
+                                    "content": "审核：",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        750,
+                                        546,
+                                        765,
+                                        557
+                                    ],
+                                    "type": "text",
+                                    "content": "批准",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                842,
+                595
+            ],
+            "page_idx": 1,
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        35,
+                        59,
+                        805,
+                        351
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                35,
+                                59,
+                                805,
+                                351
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        35,
+                                        59,
+                                        805,
+                                        351
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                35,
+                                                59,
+                                                805,
+                                                351
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"2\">标识号</td><td rowspan=\"2\"></td><td rowspan=\"2\">任务名称</td><td rowspan=\"2\">工期</td><td rowspan=\"2\">前置任务</td><td rowspan=\"2\">资源名称</td><td></td><td colspan=\"4\">第一季度</td><td colspan=\"4\">第二季度</td><td colspan=\"4\">第三季度</td><td colspan=\"4\">第四季度</td></tr><tr><td>2023年12月</td><td>2024年1月</td><td>2024年2月</td><td>2024年3月</td><td>2024年4月</td><td>2024年5月</td><td>2024年6月</td><td>2024年7月</td><td>2024年8月</td><td>2024年9月</td><td>2024年10月</td><td>2024年11月</td><td>2024年12月</td><td></td><td></td><td></td><td></td></tr><tr><td>32</td><td></td><td>机芯类BOM输出</td><td>1 d</td><td>31</td><td></td><td></td><td></td><td></td><td></td><td>4/10</td><td>4/11</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>33</td><td></td><td>T1样机客户反馈</td><td>1 d</td><td>30</td><td></td><td></td><td></td><td></td><td></td><td>4/9</td><td>4/10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>34</td><td></td><td>T1型式试验和EMC/FCC/ICES测试</td><td>10 d</td><td>30</td><td>PCB厂</td><td></td><td></td><td></td><td></td><td>4/9</td><td>4/23</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>35</td><td></td><td>设计修改</td><td>1 d</td><td>33</td><td></td><td></td><td></td><td></td><td></td><td>4/10</td><td>4/11</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>36</td><td></td><td>模具修改</td><td>3 d</td><td>35</td><td>模具厂</td><td></td><td></td><td></td><td></td><td>4/11</td><td>4/16</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>37</td><td></td><td>修模报样与确认</td><td>1 d</td><td>36</td><td></td><td></td><td></td><td></td><td></td><td>4/16</td><td>4/17</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>38</td><td></td><td>试产</td><td>23 d</td><td></td><td></td><td></td><td></td><td></td><td></td><td>4/10</td><td>5/13</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>39</td><td></td><td>上传文件中心</td><td>1 d</td><td>37</td><td></td><td></td><td></td><td></td><td></td><td>4/17</td><td>4/18</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>40</td><td></td><td>试产技术准备会</td><td>1 d</td><td>39</td><td></td><td></td><td></td><td></td><td></td><td>4/18</td><td>4/19</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>41</td><td></td><td>提交试产申请</td><td>1 d</td><td>40</td><td></td><td></td><td></td><td></td><td></td><td>4/19</td><td>4/22</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>42</td><td></td><td>机芯料提前采购</td><td>10 d</td><td>32</td><td>模具厂</td><td></td><td></td><td></td><td></td><td>4/11</td><td>4/25</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>43</td><td></td><td>液晶提前采购</td><td>15 d</td><td>33</td><td>模具厂</td><td></td><td></td><td></td><td></td><td>4/10</td><td>5/1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>44</td><td></td><td>PCB采购</td><td>15 d</td><td>33</td><td>模具厂</td><td></td><td></td><td></td><td></td><td>4/10</td><td>5/1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>45</td><td></td><td>结构料采购</td><td>10 d</td><td>37</td><td>模具厂</td><td></td><td></td><td></td><td></td><td>4/17</td><td>5/1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>46</td><td></td><td>DMR设计转换</td><td>5 d</td><td>41</td><td></td><td></td><td></td><td></td><td></td><td>4/22</td><td>4/29</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>47</td><td></td><td>试产</td><td>5 d</td><td>42, 43, 4</td><td></td><td></td><td></td><td></td><td></td><td>5/1</td><td>5/8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>48</td><td></td><td>跌落运输试验</td><td>3 d</td><td>47</td><td></td><td></td><td></td><td></td><td></td><td>5/8</td><td>5/13</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>49</td><td></td><td>试产报告与总结会</td><td>3 d</td><td>47</td><td></td><td></td><td></td><td></td><td></td><td>5/8</td><td>5/13</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>50</td><td></td><td>设计确认</td><td>110 d</td><td>49, 48, 3</td><td></td><td></td><td></td><td></td><td></td><td colspan=\"9\">5/13</td><td colspan=\"4\">10/14</td></tr><tr><td>51</td><td></td><td>CE认证</td><td>30 d</td><td>50</td><td></td><td></td><td></td><td></td><td></td><td colspan=\"9\"></td><td colspan=\"4\">10/14</td></tr><tr><td>52</td><td></td><td>510 (k)申请</td><td>30 d</td><td>50</td><td></td><td></td><td></td><td></td><td></td><td colspan=\"9\"></td><td colspan=\"4\">10/14</td></tr></table>",
+                                            "image_path": "18fcd027ea9a968b564e4af2ccb1fd269351039dfc3526a779957af2a9cd060b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        35,
+                        493,
+                        805,
+                        545
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                35,
+                                493,
+                                805,
+                                545
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        35,
+                                        493,
+                                        805,
+                                        545
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                35,
+                                                493,
+                                                805,
+                                                545
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=\"5\">项目名称:PT9L红外体温计版本:V1.0日期:2024.1.9</td><td>关键</td><td>任务进度</td><td>摘要任务进度</td><td>非活动里程碑</td><td>手动摘要</td><td>期限</td></tr><tr><td>关键任务拆分</td><td>比较基准</td><td>摘要</td><td>非活动摘要</td><td>仅开始时间</td><td></td></tr><tr><td>关键任务进度</td><td>比较基准拆分</td><td>项目摘要</td><td>手动任务</td><td>仅完成时间</td><td></td></tr><tr><td>任务</td><td>比较基准里程碑</td><td>外部任务</td><td>仅工期</td><td>外部任务</td><td></td></tr><tr><td>拆分</td><td>里程碑</td><td>外部里程碑</td><td>手动摘要总成</td><td>外部里程碑</td><td></td></tr></table>",
+                                            "image_path": "a52bb6b001fc30f5ede2046c676ba2ae5add703e0f9b8c2690bb69afa3cf0394.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": false,
+    "_vlm_ocr_enable": false,
+    "_version_name": "3.1.6"
+}

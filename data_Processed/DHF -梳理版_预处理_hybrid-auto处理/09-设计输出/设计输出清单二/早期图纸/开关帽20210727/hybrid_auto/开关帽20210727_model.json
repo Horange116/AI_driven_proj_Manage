@@ -1,0 +1,3249 @@
+[
+    [
+        {
+            "type": "table",
+            "bbox": [
+                0.0,
+                0.0,
+                0.118,
+                0.999
+            ],
+            "angle": 270,
+            "content": "<table><tr><td>6</td><td></td><td>3</td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>ABS</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>5</td><td></td><td>2</td><td></td><td>Design</td><td></td><td></td><td>X</td><td></td><td>Part name</td><td>开关帽</td></tr><tr><td>4</td><td></td><td>1</td><td>初版制作</td><td>2021.07.15</td><td>Checkkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td></tr></table>"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.12,
+                0.0,
+                0.999,
+                0.014
+            ],
+            "angle": 270,
+            "content": "8\n7\n6\n5\n4\n3\n2\n1"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.015,
+                0.999,
+                0.029
+            ],
+            "angle": 270,
+            "content": "。"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.029,
+                0.999,
+                0.043
+            ],
+            "angle": 270,
+            "content": "UK"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.043,
+                0.999,
+                0.057
+            ],
+            "angle": 270,
+            "content": "p"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.057,
+                0.999,
+                0.071
+            ],
+            "angle": 270,
+            "content": "品\n4.1\n3.3\n2.6\n1.2\n品技术"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.071,
+                0.999,
+                0.084
+            ],
+            "angle": 270,
+            "content": "要求带材质软，项试质产品"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.084,
+                0.999,
+                0.098
+            ],
+            "angle": 270,
+            "content": "为AB缩水装件，符合"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.098,
+                0.999,
+                0.111
+            ],
+            "angle": 270,
+            "content": "S\n重\n1) S\nSHON\n结\n，\n“\n”"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.111,
+                0.999,
+                0.124
+            ],
+            "angle": 270,
+            "content": "5.2. 附件\n附件\n不具色\n白色"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.124,
+                0.999,
+                0.137
+            ],
+            "angle": 270,
+            "content": "0\n）；\n现象顺者"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.137,
+                0.999,
+                0.15
+            ],
+            "angle": 270,
+            "content": "要订\n产品"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.15,
+                0.999,
+                0.163
+            ],
+            "angle": 270,
+            "content": "① 水相等\nA 产\nB 外\nC 测"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.163,
+                0.999,
+                0.176
+            ],
+            "angle": 270,
+            "content": "盖，眼良度\n品，衣板"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.176,
+                0.999,
+                0.19
+            ],
+            "angle": 270,
+            "content": "本标表\n甲、乙"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.19,
+                0.999,
+                0.203
+            ],
+            "angle": 270,
+            "content": "无拉\n连尺\n表（）"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.203,
+                0.999,
+                0.216
+            ],
+            "angle": 270,
+            "content": "物，对于类似"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.216,
+                0.999,
+                0.229
+            ],
+            "angle": 270,
+            "content": "变形样板）为"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.229,
+                0.999,
+                0.242
+            ],
+            "angle": 270,
+            "content": "，把\n为准"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.242,
+                0.999,
+                0.255
+            ],
+            "angle": 270,
+            "content": "：花枝，"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.255,
+                0.999,
+                0.268
+            ],
+            "angle": 270,
+            "content": "( )"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.268,
+                0.999,
+                0.281
+            ],
+            "angle": 270,
+            "content": "接"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.281,
+                0.999,
+                0.294
+            ],
+            "angle": 270,
+            "content": "，"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.294,
+                0.999,
+                0.307
+            ],
+            "angle": 270,
+            "content": "下纹"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.307,
+                0.999,
+                0.32
+            ],
+            "angle": 270,
+            "content": "，项\n- ∨\nC"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.32,
+                0.999,
+                0.333
+            ],
+            "angle": 270,
+            "content": "'月\n/ —"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.333,
+                0.999,
+                0.346
+            ],
+            "angle": 270,
+            "content": "A"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.346,
+                0.999,
+                0.36
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.36,
+                0.999,
+                0.373
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.373,
+                0.999,
+                0.386
+            ],
+            "angle": 270,
+            "content": "[Non-Text]"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.386,
+                0.999,
+                0.4
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a fill-in-the-blank placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.4,
+                0.999,
+                0.413
+            ],
+            "angle": 270,
+            "content": "(1)"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.413,
+                0.999,
+                0.426
+            ],
+            "angle": 270,
+            "content": "774005"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.426,
+                0.999,
+                0.44
+            ],
+            "angle": 270,
+            "content": "D"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.44,
+                0.999,
+                0.453
+            ],
+            "angle": 270,
+            "content": "137"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.453,
+                0.999,
+                0.466
+            ],
+            "angle": 270,
+            "content": "4"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.466,
+                0.999,
+                0.48
+            ],
+            "angle": 270,
+            "content": "4"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.48,
+                0.999,
+                0.493
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text.\n\nTherefore, the corrected OCR text is:\n\n[empty string]"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.493,
+                0.999,
+                0.506
+            ],
+            "angle": 270,
+            "content": "1"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.506,
+                0.999,
+                0.519
+            ],
+            "angle": 270,
+            "content": "1"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.519,
+                0.999,
+                0.532
+            ],
+            "angle": 270,
+            "content": "191\n16"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.532,
+                0.999,
+                0.545
+            ],
+            "angle": 270,
+            "content": "8.0±8\n0.0±"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.545,
+                0.999,
+                0.558
+            ],
+            "angle": 270,
+            "content": "1.  \\( \\rightarrow \\) \n2.  \\( \\rightarrow \\) \n3.  \\( \\rightarrow \\) \n4.  \\( \\rightarrow \\) \n5.  \\( \\rightarrow \\) \n6.  \\( \\rightarrow \\) \n7.  \\( \\rightarrow \\) \n8.  \\( \\rightarrow \\) \n9.  \\( \\rightarrow \\) \n10.  \\( \\rightarrow \\)"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.558,
+                0.999,
+                0.571
+            ],
+            "angle": 270,
+            "content": "60±9\n3"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.571,
+                0.999,
+                0.584
+            ],
+            "angle": 270,
+            "content": "S0"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.584,
+                0.999,
+                0.597
+            ],
+            "angle": 270,
+            "content": "⑨"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.597,
+                0.999,
+                0.61
+            ],
+            "angle": 270,
+            "content": "4.1±0.05\n0.3±0.03"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.61,
+                0.999,
+                0.623
+            ],
+            "angle": 270,
+            "content": "18±0.05\n64±0.05"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.623,
+                0.999,
+                0.636
+            ],
+            "angle": 270,
+            "content": "②\nb1H05"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.636,
+                0.999,
+                0.649
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.649,
+                0.999,
+                0.662
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.662,
+                0.999,
+                0.675
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.675,
+                0.999,
+                0.688
+            ],
+            "angle": 270,
+            "content": "F"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.688,
+                0.999,
+                0.701
+            ],
+            "angle": 270,
+            "content": "-"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.701,
+                0.999,
+                0.714
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated placeholder underscores where none should exist in the GT. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.714,
+                0.999,
+                0.727
+            ],
+            "angle": 270,
+            "content": "[Non-Text]"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.727,
+                0.999,
+                0.74
+            ],
+            "angle": 270,
+            "content": "The image contains no text. The OCR result \"____\" is a hallucination and does not correspond to any content in the source image. Therefore, the correct OCR output is an empty string.\n\n(No text)"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.74,
+                0.999,
+                0.753
+            ],
+            "angle": 270,
+            "content": "H"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.753,
+                0.999,
+                0.766
+            ],
+            "angle": 270,
+            "content": "The image contains no text. The OCR result \"____\" is a hallucination and does not correspond to any content in the source image. Therefore, the correct OCR output is an empty string.\n\n(No text)"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.766,
+                0.999,
+                0.779
+            ],
+            "angle": 270,
+            "content": "("
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.779,
+                0.999,
+                0.792
+            ],
+            "angle": 270,
+            "content": "[Non-Text]"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.792,
+                0.999,
+                0.805
+            ],
+            "angle": 270,
+            "content": "[Non-Text]"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.805,
+                0.999,
+                0.818
+            ],
+            "angle": 270,
+            "content": "5"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.818,
+                0.999,
+                0.831
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated placeholder underscores where none should exist in the GT. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.831,
+                0.999,
+                0.844
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated placeholder underscores where none should exist in the GT. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.844,
+                0.999,
+                0.857
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated placeholder underscores where none should exist in the GT. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.857,
+                0.999,
+                0.87
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated placeholder underscores where none should exist in the GT. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.87,
+                0.999,
+                0.883
+            ],
+            "angle": 270,
+            "content": "| |"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.883,
+                0.999,
+                0.896
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated placeholder underscores where none should exist in the GT. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.896,
+                0.999,
+                0.909
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated placeholder underscores where none should exist in the GT. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.909,
+                0.999,
+                0.922
+            ],
+            "angle": 270,
+            "content": ">"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.922,
+                0.999,
+                0.935
+            ],
+            "angle": 270,
+            "content": "15-5S\n5\n5\n5\n50\n50~5S\n500\nNGLY\nSELECC"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.935,
+                0.999,
+                0.948
+            ],
+            "angle": 270,
+            "content": "37 11\n0≠ 25\n0≠\n0≠ 00\n0≠ 1\n0≠\n734"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.948,
+                0.999,
+                0.961
+            ],
+            "angle": 270,
+            "content": "13A\n-10\n%10\n800\n500\n500\n500\nE00\nA\nEN3D"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.961,
+                0.999,
+                0.974
+            ],
+            "angle": 270,
+            "content": "8\nMetal TO"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.974,
+                0.999,
+                0.987
+            ],
+            "angle": 270,
+            "content": "0=  \n%  \n%  \n%  \n%  \n%  \n%  \n%  \n%"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.987,
+                0.999,
+                0.999
+            ],
+            "angle": 270,
+            "content": "13%\n13%\n12%\n12%\n11.5%\n11.5%\nC\n11.5%\n11.5%\n11.5%"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.0,
+                0.999,
+                0.014
+            ],
+            "angle": 270,
+            "content": "8\n7\n6\n5\n4\n3\n2\n1"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.015,
+                0.999,
+                0.029
+            ],
+            "angle": 270,
+            "content": "。"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.029,
+                0.999,
+                0.042
+            ],
+            "angle": 270,
+            "content": "UK"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.042,
+                0.999,
+                0.056
+            ],
+            "angle": 270,
+            "content": "\\( ^{1} \\)  \\( ^{2} \\)"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.056,
+                0.999,
+                0.069
+            ],
+            "angle": 270,
+            "content": "品技\n1.\n2.\n3.\n4."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.069,
+                0.999,
+                0.082
+            ],
+            "angle": 270,
+            "content": "产品\n品质\n纹状，纹波，\n材质\n带箍"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.082,
+                0.999,
+                0.095
+            ],
+            "angle": 270,
+            "content": "编号为A 编装产品\n零部件符合"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.095,
+                0.999,
+                0.108
+            ],
+            "angle": 270,
+            "content": "与水等，融转，"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.108,
+                0.999,
+                0.121
+            ],
+            "angle": 270,
+            "content": "PS 2.\n植物\n并不\n白色\n不是"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.121,
+                0.999,
+                0.134
+            ],
+            "angle": 270,
+            "content": "1. 现象：（）；现象（）；能顺（），"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.134,
+                0.999,
+                0.147
+            ],
+            "angle": 270,
+            "content": "需要1\n材料费"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.147,
+                0.999,
+                0.16
+            ],
+            "angle": 270,
+            "content": "10.35 品外"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.16,
+                0.999,
+                0.173
+            ],
+            "angle": 270,
+            "content": "签板\n产品\n规格"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.173,
+                0.999,
+                0.186
+            ],
+            "angle": 270,
+            "content": "好、未标明和组"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.186,
+                0.999,
+                0.199
+            ],
+            "angle": 270,
+            "content": "无打\n进厂装\n8"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.199,
+                0.999,
+                0.212
+            ],
+            "angle": 270,
+            "content": "对小（类型）"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.212,
+                0.999,
+                0.225
+            ],
+            "angle": 270,
+            "content": "表 以样(图)"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.225,
+                0.999,
+                0.238
+            ],
+            "angle": 270,
+            "content": "形，较为为准"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.238,
+                0.999,
+                0.251
+            ],
+            "angle": 270,
+            "content": "批准\nES"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.251,
+                0.999,
+                0.264
+            ],
+            "angle": 270,
+            "content": "“\nC"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.264,
+                0.999,
+                0.277
+            ],
+            "angle": 270,
+            "content": "[Non-Text]"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.277,
+                0.999,
+                0.29
+            ],
+            "angle": 270,
+            "content": "账，"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.29,
+                0.999,
+                0.303
+            ],
+            "angle": 270,
+            "content": "第1"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.303,
+                0.999,
+                0.316
+            ],
+            "angle": 270,
+            "content": "C"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.316,
+                0.999,
+                0.329
+            ],
+            "angle": 270,
+            "content": "项目，"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.329,
+                0.999,
+                0.342
+            ],
+            "angle": 270,
+            "content": "▽"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.342,
+                0.999,
+                0.355
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.355,
+                0.999,
+                0.368
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.368,
+                0.999,
+                0.381
+            ],
+            "angle": 270,
+            "content": "[Non-Text]"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.381,
+                0.999,
+                0.394
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.394,
+                0.999,
+                0.407
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.407,
+                0.999,
+                0.42
+            ],
+            "angle": 270,
+            "content": "⑧"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.42,
+                0.999,
+                0.433
+            ],
+            "angle": 270,
+            "content": "7.7±0.05"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.433,
+                0.999,
+                0.446
+            ],
+            "angle": 270,
+            "content": "D"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.446,
+                0.999,
+                0.459
+            ],
+            "angle": 270,
+            "content": "2.7"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.459,
+                0.999,
+                0.472
+            ],
+            "angle": 270,
+            "content": "4"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.472,
+                0.999,
+                0.485
+            ],
+            "angle": 270,
+            "content": "The image contains no text. The horizontal lines are stylistic or background elements and must be ignored according to the rules."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.485,
+                0.999,
+                0.498
+            ],
+            "angle": 270,
+            "content": "1"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.498,
+                0.999,
+                0.511
+            ],
+            "angle": 270,
+            "content": "The image contains no text. The horizontal lines are stylistic or background elements and must be ignored according to the rules."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.511,
+                0.999,
+                0.524
+            ],
+            "angle": 270,
+            "content": "D\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.524,
+                0.999,
+                0.537
+            ],
+            "angle": 270,
+            "content": "8.9\n$1.6\n61"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.537,
+                0.999,
+                0.55
+            ],
+            "angle": 270,
+            "content": "S0'07\nS0'0\nD\nC"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.55,
+                0.999,
+                0.563
+            ],
+            "angle": 270,
+            "content": "1.6"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.563,
+                0.999,
+                0.576
+            ],
+            "angle": 270,
+            "content": "60'0+"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.576,
+                0.999,
+                0.589
+            ],
+            "angle": 270,
+            "content": "1"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.589,
+                0.999,
+                0.602
+            ],
+            "angle": 270,
+            "content": "03+003"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.602,
+                0.999,
+                0.615
+            ],
+            "angle": 270,
+            "content": "18+005\n4,1±0.05\n60=900"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.615,
+                0.999,
+                0.628
+            ],
+            "angle": 270,
+            "content": "6.1±0.05\n②\nCO2=0.05"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.628,
+                0.999,
+                0.641
+            ],
+            "angle": 270,
+            "content": "C"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.641,
+                0.999,
+                0.654
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.654,
+                0.999,
+                0.667
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.667,
+                0.999,
+                0.68
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.68,
+                0.999,
+                0.693
+            ],
+            "angle": 270,
+            "content": "F"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.693,
+                0.999,
+                0.706
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.706,
+                0.999,
+                0.719
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.719,
+                0.999,
+                0.732
+            ],
+            "angle": 270,
+            "content": "□\nF"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.732,
+                0.999,
+                0.745
+            ],
+            "angle": 270,
+            "content": "The image contains no text. The OCR result \"____\" is a hallucination and does not correspond to any content in the source image. Therefore, the correct OCR output is an empty string."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.745,
+                0.999,
+                0.758
+            ],
+            "angle": 270,
+            "content": "H"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.758,
+                0.999,
+                0.771
+            ],
+            "angle": 270,
+            "content": "A"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.771,
+                0.999,
+                0.784
+            ],
+            "angle": 270,
+            "content": "(1)"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.784,
+                0.999,
+                0.797
+            ],
+            "angle": 270,
+            "content": "("
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.797,
+                0.999,
+                0.81
+            ],
+            "angle": 270,
+            "content": "1"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.81,
+                0.999,
+                0.823
+            ],
+            "angle": 270,
+            "content": "5"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.823,
+                0.999,
+                0.836
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.836,
+                0.999,
+                0.849
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.849,
+                0.999,
+                0.862
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.862,
+                0.999,
+                0.875
+            ],
+            "angle": 270,
+            "content": "[Non-Text]"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.875,
+                0.999,
+                0.888
+            ],
+            "angle": 270,
+            "content": "The image contains no text. The horizontal line is a stylistic or background element and must be ignored according to the rules."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.888,
+                0.999,
+                0.899
+            ],
+            "angle": 270,
+            "content": "—"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.899,
+                0.999,
+                0.912
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.912,
+                0.999,
+                0.925
+            ],
+            "angle": 270,
+            "content": "QS\nNV\n<6\n<6\n<6\n>10"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.925,
+                0.999,
+                0.938
+            ],
+            "angle": 270,
+            "content": "133713\nB/FLU\n00\n00~50\n00~50\n50~50\n50~50\n5\nM\nB/EVLT"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.938,
+                0.999,
+                0.951
+            ],
+            "angle": 270,
+            "content": "0≠\n0≠\n0≠\n0≠\n0≠\n0≠\n1\n1:"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.951,
+                0.999,
+                0.964
+            ],
+            "angle": 270,
+            "content": "F\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF\nF"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.964,
+                0.999,
+                0.977
+            ],
+            "angle": 270,
+            "content": "8\n=0.1\n=0.2\n=0.3\n=0.4\n=0.5\n=0.6\n=0.7\n=0.8\n=0.9\n=1.0\n=1.1\n=1.2\n=1.3\n=1.4\n=1.5"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.977,
+                0.999,
+                0.989
+            ],
+            "angle": 270,
+            "content": "ERAIN"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.989,
+                0.999,
+                0.999
+            ],
+            "angle": 270,
+            "content": "三\nC\n5\n4\n5\n3\n2\n1\n3\n5\n5\n5\n5"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.0,
+                0.999,
+                0.014
+            ],
+            "angle": 270,
+            "content": "8\n7\n6\n5\n4\n3\n2\n1"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.015,
+                0.999,
+                0.029
+            ],
+            "angle": 270,
+            "content": "。"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.029,
+                0.999,
+                0.042
+            ],
+            "angle": 270,
+            "content": "UK"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.042,
+                0.999,
+                0.055
+            ],
+            "angle": 270,
+            "content": "\\( ^{*} \\)"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.055,
+                0.999,
+                0.068
+            ],
+            "angle": 270,
+            "content": "品技\n1.\n2.\n3.\n4."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.068,
+                0.999,
+                0.081
+            ],
+            "angle": 270,
+            "content": "不要带带材胶杂质产品"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.081,
+                0.999,
+                0.094
+            ],
+            "angle": 270,
+            "content": "之，原告为被告的银行"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.094,
+                0.999,
+                0.107
+            ],
+            "angle": 270,
+            "content": "与ROH\n水等\n香品、鉴赏"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.107,
+                0.999,
+                0.12
+            ],
+            "angle": 270,
+            "content": "(不良) 要凡"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.12,
+                0.999,
+                0.133
+            ],
+            "angle": 270,
+            "content": "寸，若\n能現象；"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.133,
+                0.999,
+                0.146
+            ],
+            "angle": 270,
+            "content": "需要\n限制条件"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.146,
+                0.999,
+                0.159
+            ],
+            "angle": 270,
+            "content": "10C38 品外 结构"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.159,
+                0.999,
+                0.172
+            ],
+            "angle": 270,
+            "content": "签章\n文品。观景"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.172,
+                0.999,
+                0.185
+            ],
+            "angle": 270,
+            "content": "本格和整\n好、"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.185,
+                0.999,
+                0.198
+            ],
+            "angle": 270,
+            "content": "B\n无\n准\n用\n费"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.198,
+                0.999,
+                0.211
+            ],
+            "angle": 270,
+            "content": "（实验）"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.211,
+                0.999,
+                0.224
+            ],
+            "angle": 270,
+            "content": "李\n以祥\n配）"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.224,
+                0.999,
+                0.237
+            ],
+            "angle": 270,
+            "content": "形，极为为准"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.237,
+                0.999,
+                0.25
+            ],
+            "angle": 270,
+            "content": "推荐\n推荐"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.25,
+                0.999,
+                0.263
+            ],
+            "angle": 270,
+            "content": "C"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.263,
+                0.999,
+                0.276
+            ],
+            "angle": 270,
+            "content": "焊接\n11"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.276,
+                0.999,
+                0.289
+            ],
+            "angle": 270,
+            "content": "痕，"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.289,
+                0.999,
+                0.302
+            ],
+            "angle": 270,
+            "content": "12\nN"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.302,
+                0.999,
+                0.315
+            ],
+            "angle": 270,
+            "content": "1 x\nB\n∀\nC"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.315,
+                0.999,
+                0.328
+            ],
+            "angle": 270,
+            "content": "项目\n—"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.328,
+                0.999,
+                0.341
+            ],
+            "angle": 270,
+            "content": "。"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.341,
+                0.999,
+                0.354
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated placeholder underscores where none should exist in the GT. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.354,
+                0.999,
+                0.367
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.367,
+                0.999,
+                0.38
+            ],
+            "angle": 270,
+            "content": "1"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.38,
+                0.999,
+                0.393
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.393,
+                0.999,
+                0.406
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.406,
+                0.999,
+                0.419
+            ],
+            "angle": 270,
+            "content": "⑧"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.419,
+                0.999,
+                0.432
+            ],
+            "angle": 270,
+            "content": "7.7±0.05"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.432,
+                0.999,
+                0.445
+            ],
+            "angle": 270,
+            "content": "D"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.445,
+                0.999,
+                0.458
+            ],
+            "angle": 270,
+            "content": "27"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.458,
+                0.999,
+                0.471
+            ],
+            "angle": 270,
+            "content": "4"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.471,
+                0.999,
+                0.484
+            ],
+            "angle": 270,
+            "content": "The image contains no text. The horizontal lines are stylistic or background elements and must be ignored according to the rules."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.484,
+                0.999,
+                0.497
+            ],
+            "angle": 270,
+            "content": "1"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.497,
+                0.999,
+                0.51
+            ],
+            "angle": 270,
+            "content": "The image contains no text. The horizontal lines are stylistic or background elements and must be ignored according to Rule 2."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.51,
+                0.999,
+                0.523
+            ],
+            "angle": 270,
+            "content": "1"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.523,
+                0.999,
+                0.536
+            ],
+            "angle": 270,
+            "content": "8'9\n#1'6"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.536,
+                0.999,
+                0.549
+            ],
+            "angle": 270,
+            "content": "G0'0\nS0'0"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.549,
+                0.999,
+                0.562
+            ],
+            "angle": 270,
+            "content": "1.6"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.562,
+                0.999,
+                0.575
+            ],
+            "angle": 270,
+            "content": "0.0±\n✓\n←\n○\n←\n✓"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.575,
+                0.999,
+                0.588
+            ],
+            "angle": 270,
+            "content": "1"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.588,
+                0.999,
+                0.601
+            ],
+            "angle": 270,
+            "content": "03+003"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.601,
+                0.999,
+                0.614
+            ],
+            "angle": 270,
+            "content": "1.04005\n4.1±0.05\nV0=0.05"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.614,
+                0.999,
+                0.627
+            ],
+            "angle": 270,
+            "content": "6.1±0.05"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.627,
+                0.999,
+                0.64
+            ],
+            "angle": 270,
+            "content": "C"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.64,
+                0.999,
+                0.653
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.653,
+                0.999,
+                0.666
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.666,
+                0.999,
+                0.679
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.679,
+                0.999,
+                0.692
+            ],
+            "angle": 270,
+            "content": "F"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.692,
+                0.999,
+                0.705
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.705,
+                0.999,
+                0.718
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.718,
+                0.999,
+                0.731
+            ],
+            "angle": 270,
+            "content": "田\n5"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.731,
+                0.999,
+                0.744
+            ],
+            "angle": 270,
+            "content": "(1)"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.744,
+                0.999,
+                0.757
+            ],
+            "angle": 270,
+            "content": "H"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.757,
+                0.999,
+                0.77
+            ],
+            "angle": 270,
+            "content": "The image contains no discernible text or characters. The OCR result \"C\" is a hallucination and does not correspond to any content in the source image. Therefore, the correct OCR output is an empty string."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.77,
+                0.999,
+                0.783
+            ],
+            "angle": 270,
+            "content": "[Non-Text]"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.783,
+                0.999,
+                0.796
+            ],
+            "angle": 270,
+            "content": "(2)"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.796,
+                0.999,
+                0.809
+            ],
+            "angle": 270,
+            "content": "[Non-Text]"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.809,
+                0.999,
+                0.822
+            ],
+            "angle": 270,
+            "content": "D"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.822,
+                0.999,
+                0.835
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.835,
+                0.999,
+                0.848
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.848,
+                0.999,
+                0.861
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.861,
+                0.999,
+                0.874
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.874,
+                0.999,
+                0.887
+            ],
+            "angle": 270,
+            "content": "[Non-Text]"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.887,
+                0.999,
+                0.899
+            ],
+            "angle": 270,
+            "content": "____"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.899,
+                0.999,
+                0.912
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.912,
+                0.999,
+                0.925
+            ],
+            "angle": 270,
+            "content": "QS\nNV\n<6\n<6\n<6\n>10"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.925,
+                0.999,
+                0.938
+            ],
+            "angle": 270,
+            "content": "133713\nB/UN\n00\n00~50\n00~50\n50~50\n50~50\n5\nM\nBEVE"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.938,
+                0.999,
+                0.95
+            ],
+            "angle": 270,
+            "content": "8\n37.\n0≠\n0≠\n0≠\n0≠\n0≠\n0≠\n1"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.95,
+                0.999,
+                0.963
+            ],
+            "angle": 270,
+            "content": "13/\n↓\n%↓\n80\n50\n50\nE0\nA\nENTER"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.963,
+                0.999,
+                0.976
+            ],
+            "angle": 270,
+            "content": "B\nAL TOB"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.976,
+                0.999,
+                0.989
+            ],
+            "angle": 270,
+            "content": "ERANK"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.989,
+                0.999,
+                0.999
+            ],
+            "angle": 270,
+            "content": "三\nC\n5\n4\n5\n3\n2\n1\n3\n5\n5\n5\n5"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.0,
+                0.999,
+                0.014
+            ],
+            "angle": 270,
+            "content": "8\n7\n6\n5\n4\n3\n2\n1"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.015,
+                0.999,
+                0.029
+            ],
+            "angle": 270,
+            "content": "。"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.029,
+                0.999,
+                0.043
+            ],
+            "angle": 270,
+            "content": "UK"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.043,
+                0.999,
+                0.056
+            ],
+            "angle": 270,
+            "content": "\\( ^{*} \\) \n \\( ^{**} \\) \n \\( ^{***} \\) \n \\( ^{###} \\) \n \\( ^{###} \\)"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.056,
+                0.999,
+                0.069
+            ],
+            "angle": 270,
+            "content": "品技\n1.\n2.\n3.\n4."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.069,
+                0.999,
+                0.082
+            ],
+            "angle": 270,
+            "content": "产品\n品质\n纹状，纹波，\n材质\n带箍"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.082,
+                0.999,
+                0.095
+            ],
+            "angle": 270,
+            "content": "编号为A 编装产品\n零部件符合"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.095,
+                0.999,
+                0.107
+            ],
+            "angle": 270,
+            "content": "与重水等BS（）"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.107,
+                0.999,
+                0.12
+            ],
+            "angle": 270,
+            "content": "(不良) 要凡"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.12,
+                0.999,
+                0.133
+            ],
+            "angle": 270,
+            "content": "寸，若\n能現象；"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.133,
+                0.999,
+                0.146
+            ],
+            "angle": 270,
+            "content": "需要\n限制条件"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.146,
+                0.999,
+                0.158
+            ],
+            "angle": 270,
+            "content": "结构\n装入\n品牌外"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.158,
+                0.999,
+                0.171
+            ],
+            "angle": 270,
+            "content": "参考\n文本\n测量\n观测"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.171,
+                0.999,
+                0.184
+            ],
+            "angle": 270,
+            "content": "1. 好、\n2. 木杉\n3. 空和"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.184,
+                0.999,
+                0.197
+            ],
+            "angle": 270,
+            "content": "无标准法组装"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.197,
+                0.999,
+                0.21
+            ],
+            "angle": 270,
+            "content": "（实） 2017年"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.21,
+                0.999,
+                0.223
+            ],
+            "angle": 270,
+            "content": "，以样配）"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.223,
+                0.999,
+                0.236
+            ],
+            "angle": 270,
+            "content": "形，极为为准"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.236,
+                0.999,
+                0.249
+            ],
+            "angle": 270,
+            "content": "三\n批准\n批准"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.249,
+                0.999,
+                0.262
+            ],
+            "angle": 270,
+            "content": "“\n‘”"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.262,
+                0.999,
+                0.275
+            ],
+            "angle": 270,
+            "content": "增益\n11"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.275,
+                0.999,
+                0.288
+            ],
+            "angle": 270,
+            "content": "表，"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.288,
+                0.999,
+                0.299
+            ],
+            "angle": 270,
+            "content": "2\n≡\n∧\n—"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.299,
+                0.999,
+                0.312
+            ],
+            "angle": 270,
+            "content": "核，"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.312,
+                0.999,
+                0.325
+            ],
+            "angle": 270,
+            "content": "项目\n—"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.325,
+                0.999,
+                0.338
+            ],
+            "angle": 270,
+            "content": "，"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.338,
+                0.999,
+                0.351
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.351,
+                0.999,
+                0.364
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.364,
+                0.999,
+                0.377
+            ],
+            "angle": 270,
+            "content": "[Non-Text]"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.377,
+                0.999,
+                0.39
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.39,
+                0.999,
+                0.403
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.403,
+                0.999,
+                0.416
+            ],
+            "angle": 270,
+            "content": "⑧"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.416,
+                0.999,
+                0.429
+            ],
+            "angle": 270,
+            "content": "7.7±0.05"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.429,
+                0.999,
+                0.442
+            ],
+            "angle": 270,
+            "content": "D"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.442,
+                0.999,
+                0.455
+            ],
+            "angle": 270,
+            "content": "27"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.455,
+                0.999,
+                0.468
+            ],
+            "angle": 270,
+            "content": "1-4"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.468,
+                0.999,
+                0.481
+            ],
+            "angle": 270,
+            "content": "1"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.481,
+                0.999,
+                0.494
+            ],
+            "angle": 270,
+            "content": "1"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.494,
+                0.999,
+                0.507
+            ],
+            "angle": 270,
+            "content": "1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. 72. 73. 74. 75. 76. 77. 78. 79. 80. 81."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.507,
+                0.999,
+                0.519
+            ],
+            "angle": 270,
+            "content": "1"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.519,
+                0.999,
+                0.532
+            ],
+            "angle": 270,
+            "content": "191\n16"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.532,
+                0.999,
+                0.545
+            ],
+            "angle": 270,
+            "content": "8.0±8\n0.0±\nST"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.545,
+                0.999,
+                0.558
+            ],
+            "angle": 270,
+            "content": "1.  \\( \\rightarrow \\) \n2.  \\( \\rightarrow \\) \n3.  \\( \\rightarrow \\) \n4.  \\( \\rightarrow \\) \n5.  \\( \\rightarrow \\) \n6.  \\( \\rightarrow \\) \n7.  \\( \\rightarrow \\) \n8.  \\( \\rightarrow \\) \n9.  \\( \\rightarrow \\) \n10.  \\( \\rightarrow \\)"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.558,
+                0.999,
+                0.57
+            ],
+            "angle": 270,
+            "content": "6\n,\n-\n=\n-\n-\n3"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.57,
+                0.999,
+                0.583
+            ],
+            "angle": 270,
+            "content": "S0°"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.583,
+                0.999,
+                0.596
+            ],
+            "angle": 270,
+            "content": "⑨"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.596,
+                0.999,
+                0.609
+            ],
+            "angle": 270,
+            "content": "41+0.05 0.3±0.03"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.609,
+                0.999,
+                0.622
+            ],
+            "angle": 270,
+            "content": "1.840.05\n14-200"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.622,
+                0.999,
+                0.635
+            ],
+            "angle": 270,
+            "content": "②\n6.1±0.05"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.635,
+                0.999,
+                0.648
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.648,
+                0.999,
+                0.661
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.661,
+                0.999,
+                0.674
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.674,
+                0.999,
+                0.687
+            ],
+            "angle": 270,
+            "content": "日"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.687,
+                0.999,
+                0.699
+            ],
+            "angle": 270,
+            "content": "-"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.699,
+                0.999,
+                0.712
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.712,
+                0.999,
+                0.725
+            ],
+            "angle": 270,
+            "content": "(1) \\( \\because {AD} = {BD} = 1 \\)"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.725,
+                0.999,
+                0.738
+            ],
+            "angle": 270,
+            "content": "1"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.738,
+                0.999,
+                0.751
+            ],
+            "angle": 270,
+            "content": "H"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.751,
+                0.999,
+                0.764
+            ],
+            "angle": 270,
+            "content": "[Non-Text]"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.764,
+                0.999,
+                0.777
+            ],
+            "angle": 270,
+            "content": "(1)"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.777,
+                0.999,
+                0.79
+            ],
+            "angle": 270,
+            "content": "[Non-Text]"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.79,
+                0.999,
+                0.803
+            ],
+            "angle": 270,
+            "content": "[Non-Text]"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.803,
+                0.999,
+                0.816
+            ],
+            "angle": 270,
+            "content": "D"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.119,
+                0.816,
+                0.999,
+                0.829
+            ],
+            "angle": 270,
+            "content": "The Ground Truth image displays a single, solid horizontal line. According to Rule 2 (UNDERSCORE & LINE RULES), this is a stylistic or background line, not a placeholder underscore. Therefore, the OCR result must ignore it and output nothing or only meaningful text. The provided OCR content is \"____\", which consists of four underscores. This is an incorrect interpretation of the line as a placeholder, violating the rule that stylistic lines must be ignored. The OCR has hallucinated underscores where none should exist based on the GT's visual context. Hence, the OCR result is inconsistent with the Ground Truth."
+        }
+    ]
+]

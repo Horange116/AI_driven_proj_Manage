@@ -1,0 +1,420 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "工装操作说明",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "（V1.0）",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "产品/项目名称："
+                    },
+                    {
+                        "type": "text",
+                        "content": "    红外体温计    ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "产  品  型  号："
+                    },
+                    {
+                        "type": "text",
+                        "content": "        PT9L       ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "项  目  编  号："
+                    },
+                    {
+                        "type": "text",
+                        "content": "     30000078      ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "编    制",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "："
+                    },
+                    {
+                        "type": "text",
+                        "content": "                     年   月   日",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "审    核",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "："
+                    },
+                    {
+                        "type": "text",
+                        "content": "                     年   月   日",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "批    准",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "："
+                    },
+                    {
+                        "type": "text",
+                        "content": "                     年   月   日",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号："
+                    },
+                    {
+                        "type": "text",
+                        "content": "PT9L-GZSM01 V1.0                                                             ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "工装操作说明                               "
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "历史版本记录 ",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>修改日期</strong></p></td><td><p><strong>修改描述</strong></p></td><td><p><strong>版本</strong></p></td><td><p><strong>编制</strong></p></td><td><p><strong>批准</strong></p></td></tr><tr><td><p>1</p></td><td><p>2024年4月20日</p></td><td><p>起草</p></td><td><p>V1.0</p></td><td><p>万龙</p></td><td><p>侯广伟</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号："
+                    },
+                    {
+                        "type": "text",
+                        "content": "PT9L-GZSM01 V1.0                                                             ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "工装操作说明                               "
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "工装名称：",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1、机芯检测工装：PT9L-CESHI"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2、烧写工装：PT9L-SHAOXIE"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "-",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "芯片烧写",
+                                "style": [
+                                    "bold"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "需要的工装和工具：烧写工装PT9L-SHAOXIE，合泰Gang-Writer8-8烧写器（需事先下载好要烧写的程序），J-LINK。"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p><strong>步骤</strong></p></td><td><p><strong>具体操作</strong></p></td><td><p><strong>测试现象</strong></p></td><td><p><strong>备注</strong></p></td></tr><tr><td><p>1</p></td><td><p>工装准备：</p><p>1、使用杜邦线连接工装的ICP端子和合泰烧写器的烧写端口：</p><p>工装ICP“V”脚连烧写器VDD1脚；</p><p>工装ICP“D”脚连烧写器ICPDA1脚；</p><p>工装ICP“C”脚连烧写器ICPCK1脚；</p><p>工装ICP“G”脚连烧写器GND1脚；</p></td><td></td><td><img src=\"images/ad25ae073eec1e5e25730f8ffdf14b9d3dcaa352d24807b49d213882b9d234d8.png\"/></td></tr><tr><td><p>2</p></td><td><p>合泰烧写器上电</p></td><td><p>烧写器的STATUS灯亮；</p></td><td><img src=\"images/d90f40e7cf46fe4222de59ed4700b731d519517f754d147be9acbb382c3f566e.png\"/></td></tr><tr><td><p>3</p></td><td><p>烧写主MCU</p></td><td><ol><li>按下烧写器的烧写键，此时烧写器的ICP1灯闪烁；</li><li>烧写器的ICP1灯点亮则烧写成功；</li><li>烧写器的ICP1灯熄灭则烧写失败。</li></ol></td><td><img src=\"images/9823773dfd10dfe271de829ea82f3d84c0e71e7176c61f6ee938efe4e6745fe7.png\"/></td></tr><tr><td><p>4</p></td><td><p>更换主板。</p></td><td><p>重复步骤3操作。</p></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "attribute": "unordered",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "-",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "机芯检测",
+                                "style": [
+                                    "bold"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "需要的工装和工具：机芯检测工装：PT9L-CESHI，直流稳压电源。"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p><strong>步骤</strong></p></td><td><p><strong>具体操作</strong></p></td><td><p><strong>测试现象</strong></p></td><td><p><strong>备注</strong></p></td></tr><tr><td><p>1</p></td><td><p>工装准备：</p><p>直流稳压电源调成5V输出，分正负极接入工装的电源端子</p></td><td></td><td></td></tr><tr><td><p>2</p></td><td><p>把待测主板压入工装的夹具上，拨动开关B1工装上电</p></td><td><p>1、上电后两个LED灯D1和D2全亮，屏幕显示CB1，然后显示软件版本号，2s后进入休眠，两个LED灯熄灭，显示黑屏，操作人员查看休眠电流，应小于50uA；</p><p>2、按下按键B1唤醒，两个LED点亮，LCD全显，再次按下按键保存，CB1完成；</p><p>3、若自检未通过，屏幕显示Er1。</p></td><td><p>程序自动检测电池电压，外部NTC，红外传感器的贴片情况，应该满足如下条件：</p><p>a． 电池电压在2.7V到3.3V之间</p><p>b． 红外传感器测温应在10℃到40℃之间</p><p>否则，LCD会显示Er1错误提示，此时按下按键会循环显示上面两个测量结果供查找问题。</p></td></tr><tr><td><p>3</p></td><td><p>测试都通过，机芯为良品，更换机芯，重复步骤2</p></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号："
+                    },
+                    {
+                        "type": "text",
+                        "content": "PT9L-GZSM01 V1.0                                                                                                       ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "工装操作说明                                "
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号："
+                    },
+                    {
+                        "type": "text",
+                        "content": "PT9L-GZSM01 V1.0                                                                                                            ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "工装操作说明"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "第 4 页 共 4 页"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "第 1 页 共 4 页"
+                    }
+                ]
+            }
+        }
+    ]
+]

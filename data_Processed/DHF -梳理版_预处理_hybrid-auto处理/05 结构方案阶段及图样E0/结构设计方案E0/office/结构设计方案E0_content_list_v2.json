@@ -1,0 +1,60 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "结构设计方案",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p><strong>产品型号：  PT9L </strong> <strong>      项目编号： 30000078       产品/项目名称：红外体温计</strong></p></td></tr><tr><td><p><strong>申请</strong><em>(结构工程师)</em><strong>：</strong>                     年  月  日  <strong>审核</strong><em>(结构主管)</em><strong>：</strong>                      年  月  日</p></td></tr><tr><td><p><strong>方案内容：</strong></p><p>1.上盖镜片方案：背面丝印银色，模切成型，与上盖双面胶粘贴，同T-Z1。</p><p> 2.上盖与下盖固定：通过左右卡勾和电池仓三颗螺钉固定，同T-Z1。</p><p> 3.按键：注塑成型，与上盖紧配合固定，同T-Z1。</p><p> 4.电池盖：新增设计，卡扣固定，同T-Z1。</p><p>5.电池簧方案：主板焊接方式，同PT5。</p><p> 6.LCD显示：液晶模组。</p><p> 7.测头：红外温度传感器TSD-14， 同T-Z1。</p><p> 8.电池方案：使用两节AAA电池。</p><p> </p><p> </p></td></tr><tr><td><ul><li><strong>评审未通过，重新提交文件再次评审；</strong></li><li><strong>评审通过，需按照评审记录进行修改；</strong></li><li><strong>评审通过，文件放行。</strong></li></ul><p><strong>批准</strong><em>(技术负责人)</em><strong>：</strong> <strong> </strong>        年  月  日</p></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号："
+                    },
+                    {
+                        "type": "text",
+                        "content": " PT9L-JGFA01 ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": " V1.0                                      结构设计方案"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "第 1 页 / 共 1 页"
+                    }
+                ]
+            }
+        }
+    ]
+]

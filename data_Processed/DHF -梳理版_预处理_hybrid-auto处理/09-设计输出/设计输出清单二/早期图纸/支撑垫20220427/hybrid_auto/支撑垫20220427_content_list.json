@@ -1,0 +1,100 @@
+[
+    {
+        "type": "table",
+        "img_path": "images/7179a57742cf2bd553684e191853a78c7bc3da9f46c01fff72c6166339d9cf91.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>3</td><td></td><td>K03020002129</td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>聚氨酯</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>2</td><td>V2.0变更材质、形象</td><td>2022.04.27</td><td>Design</td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td></tr><tr><td>1</td><td>V1.0初版制作</td><td>2021.07.15</td><td>Chuckup</td><td></td><td>.XX</td><td></td><td>Scale</td><td></td><td>Drawing NO.</td></tr><tr><td>No.</td><td>更改时间</td><td>Approve</td><td></td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td></tr></table>",
+        "bbox": [
+            0,
+            0,
+            129,
+            998
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "andon ",
+        "bbox": [
+            915,
+            23,
+            961,
+            101
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/129731663ee9a7cea28bb39405f4d40bda3521b128bf481f9776587d87035e5c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "4±0.1\nR515+0.05\nR32540.05",
+        "sub_type": "text_image",
+        "bbox": [
+            282,
+            181,
+            687,
+            546
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "不可出现背胶分离的情况5.邵氏硬度:50±5度6.出货排版需要方便生产加工取放7.本件要求通过RoHS测试",
+        "bbox": [
+            371,
+            677,
+            492,
+            891
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "5 2.材质：聚氨酯 1.标注厚度不包含背胶颜色黑色",
+        "bbox": [
+            507,
+            677,
+            561,
+            783
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/3d0ac5b99d46578eac0ef1d3c4b327098efddd0297d611df856060b46973978f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\">LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>DTM</td><td>A</td><td></td><td></td></tr><tr><td>&lt; 5</td><td>≠003</td><td>≠01</td><td>≠015</td></tr><tr><td>&gt; 5~50</td><td>≠005</td><td>≠01</td><td>≠02</td></tr><tr><td>&lt; 50~100</td><td>≠008</td><td>≠02</td><td>≠03</td></tr><tr><td>&gt;100</td><td>≠0%</td><td>≠02%</td><td>≠03%</td></tr><tr><td>ANGULFR</td><td>≠0.10</td><td>≠0.50</td><td>≠0.50</td></tr><tr><td>SELECT LEVEL</td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            129,
+            873,
+            305,
+            998
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "8\n7\n6\n5\n4\n3\n2\n1 ",
+        "bbox": [
+            129,
+            0,
+            998,
+            13
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "尺寸序 ",
+        "bbox": [
+            946,
+            936,
+            964,
+            988
+        ],
+        "page_idx": 0
+    }
+]

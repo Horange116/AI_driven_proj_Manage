@@ -1,0 +1,199 @@
+[
+    [
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">软件设计方案</text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">（V1.0）</text>"
+        },
+        {
+            "type": "text",
+            "content": "产 品 型 号：<text style=\"underline\">      PT9L      </text>"
+        },
+        {
+            "type": "text",
+            "content": "项 目 编 号：<text style=\"underline\">  30000078   </text>"
+        },
+        {
+            "type": "text",
+            "content": "产品/项目名称：<text style=\"underline\">   红外体温计     </text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">编    制</text><text style=\"italic\">（软件工程师）</text><text style=\"underline\">                        年   月   日</text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">审    核</text><text style=\"italic\">（软 件主 管）</text><text style=\"underline\">                        年   月   日</text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">批    准</text><text style=\"italic\">（技术负责人）</text><text style=\"underline\">                        年   月   日</text>"
+        },
+        {
+            "type": "header",
+            "content": "文件编号： <text style=\"underline\">PT9L-RJFA 01</text>  V1.0                                    软件设计方案"
+        }
+    ],
+    [
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">历史版本记录</text>"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p><strong>序号</strong></p></td><td><p><strong>修改日期</strong></p></td><td><p><strong>修改描述</strong></p></td><td><p><strong>版本</strong></p></td><td><p><strong>编制</strong></p></td><td><p><strong>批准</strong></p></td></tr><tr><td><p>01</p></td><td><p>2024.2.2</p></td><td><p>起草</p></td><td><p>V1.0</p></td><td><p>王迪</p></td><td><p>侯广伟</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+        },
+        {
+            "type": "header",
+            "content": "文件编号： <text style=\"underline\">PT9L-RJFA 01</text>  V1.0                                    软件设计方案"
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "level": 1,
+            "is_numbered_style": false,
+            "content": "<text style=\"bold\">1引言</text>",
+            "anchor": "_Toc283668855"
+        },
+        {
+            "type": "title",
+            "level": 2,
+            "is_numbered_style": false,
+            "content": "<text style=\"bold\">1.1编写目的</text>",
+            "anchor": "_Toc283668856"
+        },
+        {
+            "type": "text",
+            "content": "编写本文档的目的在于描述PT9L型红外体温计的设计方案。"
+        },
+        {
+            "type": "text",
+            "content": "本文档的读者至少应该熟悉单片机系统及其软件开发方法。"
+        },
+        {
+            "type": "title",
+            "level": 2,
+            "is_numbered_style": false,
+            "content": "<text style=\"bold\">1.2参考资料</text>",
+            "anchor": "_Toc283668857"
+        },
+        {
+            "type": "text",
+            "content": "《PT9L设计输入》(PT9L-SJSR01 V1.0)"
+        },
+        {
+            "type": "text",
+            "content": "《PT9L软件质量策划》(PT9L-RJCH01 V1.0)"
+        },
+        {
+            "type": "text",
+            "content": "《PT9L软件需求规格》(PT9L-RJXQ01 V1.0)"
+        },
+        {
+            "type": "title",
+            "level": 1,
+            "is_numbered_style": false,
+            "content": "<text style=\"bold\">2总体设计</text>",
+            "anchor": "_Toc283668858"
+        },
+        {
+            "type": "title",
+            "level": 2,
+            "is_numbered_style": false,
+            "content": "<text style=\"bold\">2.1运行环境</text>",
+            "anchor": "_Toc283668860"
+        },
+        {
+            "type": "text",
+            "content": "软件的预期运行环境：单片机系统 simBH67F2762"
+        },
+        {
+            "type": "title",
+            "level": 2,
+            "is_numbered_style": false,
+            "content": "<text style=\"bold\">2.2软件总体方案</text>",
+            "anchor": "_Toc283668861"
+        },
+        {
+            "type": "text",
+            "content": "软件总体设计方案如下图所示。"
+        },
+        {
+            "type": "image",
+            "content": "data:image/jpeg;base64,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"
+        },
+        {
+            "type": "text",
+            "content": "本软件流程图以一个主流程图作为总纲，明确了该机型的几个主要功能模块及其人机接口方式。各模块各作为子流程进行设计，其中："
+        },
+        {
+            "type": "list",
+            "attribute": "ordered",
+            "content": [
+                {
+                    "type": "text",
+                    "content": "用户测量流程：单片机ADC采集外部NTC、红外传感器的环境温度和物体温度，当环境温度在允许测量范围以内,采集红外传感器的温度值并优化，通过环境温度值和物体温度值计算出人体实际的温度值，"
+                },
+                {
+                    "type": "text",
+                    "content": "黑体测试流程：单片机ADC采集红外传感器的环境温度和物体温度，并通过补偿算法得出黑体的温度（不转化为人体体温）并进行显示。本模式用于检查机器能否测得正确的物体温度。"
+                },
+                {
+                    "type": "text",
+                    "content": "UE模式：UE模式下对传感器的值进行实时读取与显示，包括电池电压、内部NTC的温度值、阻值、红外传感器电压、AD值，按下按键，切换采集的参数。"
+                },
+                {
+                    "type": "text",
+                    "content": "UE2模式：UE2模式下，单片机读取EEPROM中保存的标定和校准参数，以及软件版本信息和硬件版本信息，并进行显示。按下按键，切换显示的参数。"
+                },
+                {
+                    "type": "text",
+                    "content": "邦定检测：为工厂对机芯进行检测的状态，在该状态下能够对单片机的IO邦定，电路板元器件的焊接进行检测，在检测完成后，相应标志位进行设置并保存入EEPROM。"
+                }
+            ],
+            "ilevel": 0
+        },
+        {
+            "type": "title",
+            "level": 2,
+            "is_numbered_style": true,
+            "content": "<text style=\"bold\">2.3软件设计规格</text>"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p>序号</p></td><td><p>软件设计规格</p></td><td><p>实现方法</p></td></tr><tr><td><p>1</p></td><td><p>初始化功能</p></td><td><p>1.首次上电或被唤醒后，初始化全局变量、IO、时钟，LCD </p><p>2. MCU系统功能初始化，配置相关模块和功能设置,读取EEPROM存储信息</p></td></tr><tr><td><p>2</p></td><td><p>关机功能</p></td><td><p>1.当完成测量后，启动定时器计时，当达15秒后关闭外设，同时单片机进入低功耗状态；期间如果有测量动作则重新计时</p><p>2. 模式设置界面，设置完成后，没有按键按下，机器会在3秒后自动关机</p></td></tr><tr><td><p>3</p></td><td><p>LCD显示功能</p></td><td><ol><li>首次上电后，LCD全屏显示3秒；</li><li>测量完成后，LCD显示测量温度结果，单位，电量，等信息</li><li>结合测试结果给出发烧提示，用背光颜色区分</li></ol></td></tr><tr><td><p>4</p></td><td><p>蜂鸣器提示功能</p></td><td><ol><li>在首次上电时，蜂鸣器长鸣；</li><li>LCD显示测量结果时，成功长鸣，发烧连续四次短鸣；</li><li>模式设置界面，选择时短鸣，确认后长鸣</li></ol></td></tr><tr><td><p>5</p></td><td><p>低电压检测功能</p></td><td><ol><li>如果电源电压 2.5V – 2.7V时，LCD能提示低电压并保存低电状态，直至下次重新上电后再检测；</li><li>如果电源电压小于2.5V时，LCD提示超低电压后关机，一直保存此状态，直至下次重新上电后再检测；</li></ol></td></tr><tr><td><p>6</p></td><td><p>测量模式设置功能</p></td><td><p>1.在开机状态下，短按设置按键，切换测量模式</p><p>2.按下测量按键，保存当前模式，并完成一次测量；</p><p>3.选择完成后，15s没有操作，进入关机状态；</p></td></tr><tr><td><p>7</p></td><td><p>单位切换功能</p></td><td><p>长按测量按键8秒后，出现单位图标闪烁，短按测量按键切换单位，选好后长按2秒，图标停止闪烁，3秒后关机；如果进入设置后无按键操作，15秒关机</p></td></tr><tr><td><p>8</p></td><td><p>测量功能</p></td><td><p>单片机检测到按键按下后，单片机读取ADC采集数据, 在深度测量模式下，单片机连续读取ADC采集数据，直到测量时间结束，通过计算得出温度值，在屏幕显示结果，并且蜂鸣器提示 </p></td></tr><tr><td><p>9</p></td><td><p>错误显示功能</p></td><td><p>1.当环境温度超出10~40℃，LCD闪烁显示“Err”</p><p>2.测温大于42.9℃，或小于32℃提示”---℃”，不显示结果</p></td></tr><tr><td><p>10</p></td><td><p>记忆功能</p></td><td><p>1.每次测量成功，把数据保存到EEPROM,同时也保存测量模式等信息</p><p>2.长按设置按键3秒进入记忆查看模式，且只能查看之前测量模式下对应的记忆数据，如果想查看其他模式记忆，需要退出记忆后切换测量模式再查看</p><p>3.关机状态下，同时长按测量键和设置键8秒，可清空记忆</p></td></tr></table>"
+        },
+        {
+            "type": "title",
+            "level": 2,
+            "is_numbered_style": true,
+            "content": "<text style=\"bold\">2.4软、硬件接口方案</text>"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p>功能描述</p></td><td><p>引脚配置</p></td></tr><tr><td><p><strong>按键</strong></p></td><td><p>Pin45，Pin40</p></td></tr><tr><td><p><strong>蜂鸣器</strong></p></td><td><p>Pin38</p></td></tr><tr><td><p><strong>LCD显示</strong></p></td><td><p>Pin8~Pin25</p></td></tr><tr><td><p><strong>红外传感器接口</strong></p></td><td><p>Pin3、Pin4</p></td></tr><tr><td><p><strong>LCD背光驱动接口</strong></p></td><td><p>Pin35，Pin36，Pin39</p></td></tr><tr><td><p><strong>NTC采样</strong></p></td><td><p>Pin42</p></td></tr><tr><td><p><strong>电池电量采集</strong></p></td><td><p>Pin41</p></td></tr><tr><td><p><strong>静音开关接口</strong></p></td><td><p>Pin44</p></td></tr></table>"
+        },
+        {
+            "type": "title",
+            "level": 2,
+            "is_numbered_style": false,
+            "content": "<text style=\"bold\">2.5降低风险的措施方案</text>"
+        },
+        {
+            "type": "table",
+            "content": "<table><thead><tr><th><p>危害（Hazard）</p></th><th><p>危害处境</p></th><th><p>措施方案</p></th></tr><tr><th><p>显示信息不明确</p></th><th><p>患者、操作者将显示的信息理解错误</p></th><th><p>软件对显示功能做测试，说明书解释显示的信息</p></th></tr><tr><th><p>不正确的算法</p></th><th><p>患者、操作者使用了算法不正确的设备</p></th><th><p>软件发布前进行算法验证</p></th></tr><tr><th><p>不正确的测试结果存储，包括结果分组和时间的对应</p></th><th><p>患者、操作者查询错误的记忆值</p></th><th><p>软件对记忆功能做测试</p></th></tr></thead></table>"
+        },
+        {
+            "type": "header",
+            "content": "文件编号： <text style=\"underline\">PT9L-RJFA 01</text>  V1.0                                    软件设计方案"
+        },
+        {
+            "type": "footer",
+            "content": "第 1 页 / 共 4 页                                   "
+        }
+    ]
+]

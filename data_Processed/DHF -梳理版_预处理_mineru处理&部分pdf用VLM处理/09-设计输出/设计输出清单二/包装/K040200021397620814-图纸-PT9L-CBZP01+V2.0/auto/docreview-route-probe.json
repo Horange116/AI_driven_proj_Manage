@@ -1,0 +1,60 @@
+{
+  "format": "docreview-pdf-layout-probe-v1",
+  "source_name": "K040200021397620814-图纸-PT9L-CBZP01+V2.0.pdf",
+  "content_hash": "c2fea09273ea7585563aa6bb91d21ebbacf97c34c1d1a903e6b49cced9991079",
+  "page_count": 1,
+  "engine": "pymupdf",
+  "capabilities": {
+    "text_blocks": true,
+    "word_coordinates": true,
+    "row_clustering": true,
+    "vector_drawings": true,
+    "tables": false,
+    "ocr": false,
+    "semantic_table_reconstruction": false
+  },
+  "limits": [
+    "Rows are geometric text clusters, not verified semantic tables.",
+    "Vector drawings are counted but not converted into Gantt/task bars.",
+    "Scanned-image OCR is not enabled.",
+    "PDF W1 output is text/layout-audit evidence, not semantic Gantt reconstruction."
+  ],
+  "totals": {
+    "text_block_count": 1,
+    "word_count": 2,
+    "row_count": 1,
+    "table_like_row_count": 0,
+    "drawing_path_count": 1897,
+    "drawing_item_count": 23951,
+    "line_item_count": 10972,
+    "rectangle_item_count": 245
+  },
+  "pages": [
+    {
+      "page_index": 1,
+      "width": 1882.98,
+      "height": 1334.08,
+      "text_block_count": 1,
+      "word_count": 2,
+      "row_count": 1,
+      "table_like_row_count": 0,
+      "drawing_path_count": 1897,
+      "drawing_item_count": 23951,
+      "line_item_count": 10972,
+      "rectangle_item_count": 245,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            143.84,
+            1229.08,
+            615.0,
+            1253.08
+          ],
+          "word_count": 2,
+          "text": "更改版本号 2024.09.24"
+        }
+      ]
+    }
+  ]
+}

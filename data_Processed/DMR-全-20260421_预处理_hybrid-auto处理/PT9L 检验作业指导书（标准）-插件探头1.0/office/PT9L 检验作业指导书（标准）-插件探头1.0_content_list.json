@@ -1,0 +1,13 @@
+[
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><tr><td colspan=\"2\"><p><strong>检验项目</strong></p></td><td><p><strong>检验用具</strong></p></td><td><p><strong>检验方法</strong></p></td><td><p><strong>合格标准</strong></p></td><td><p><strong>缺陷等级</strong></p></td></tr><tr><td><p>插件探头（首件+抽检）</p></td><td><p>插件检验</p></td><td><p>目测</p></td><td><img src=\"images/1ded86857febeb12ac6baab32d20b61ab17303202ac5435f9732d92d013b087d.png\"/><img src=\"images/5243ff00f73aa6034ec47a41c7ff50cf46dc9670bb15fe78c3f11d0316b0f41c.png\"/></td><td><ol><li>压块上所点的导热硅脂,硅脂净重≥0.02克即为合格；</li><li>探头压合后高度：14.1±0.1mm，传感器、金属套无松动现象，即为合格；</li><li>焊点饱满，圆滑，焊线位置正确（1脚红色、2脚白色、3脚黑色）；</li><li>焊点位置不可溢出导热硅脂，线头根部露出的长度不得超出线径的两倍与1.5mm中的最小值；</li><li>三防漆完全覆盖传感器的4个焊点；</li><li>传感器镜片无脏污、破损。</li></ol></td><td><p>MA</p></td></tr></table>",
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "**PT9L检验作业指导书（标准）**    Type             Section Page          Ver.No           Date               Prepared           Checked          Approved 部件名称               页码               版本           生效期                准备              审核              批准 插件探头                \t                     1.0            2024.6.20",
+        "page_idx": 0
+    }
+]

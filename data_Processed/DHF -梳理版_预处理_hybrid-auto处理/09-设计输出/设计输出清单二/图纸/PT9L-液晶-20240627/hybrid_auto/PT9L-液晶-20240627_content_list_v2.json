@@ -1,0 +1,231 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "尺寸序号"
+                    }
+                ]
+            },
+            "bbox": [
+                926,
+                43,
+                978,
+                60
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4d1c993a81cf37641975d1b5a30801317be6c59159bb08801aec23d9b11b95de.jpg"
+                },
+                "content": "P 1.0*15=15.00\n3.50±0.2\n0.50 MAX\n1\n16\n3.00\n14.00±0.5\n1.00\n0.50\nMAX\n5.00\n-1.00\n27.50 MIN V.A\n28.70\n29.50±0.2\n31.50±0.2\n20.00 MIN V.A\n21.20\n22.00\n①",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "andon "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                130,
+                107,
+                494,
+                623
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e79f28e71e87045e29927eaf0aa37f5fb4958ea4ee486b9d3b8fd26485e15f77.jpg"
+                },
+                "content": "FRONT GLASS\nREAR GLASS\n1.7 MAX\n4-0.40±0.4\n0.76±0.07",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                535,
+                119,
+                637,
+                539
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/bf782be94b8de648682515bed1241b1ec21d3740c356a8959df17704a1b5996e.jpg"
+                },
+                "content": "1\n16\nP4\nP23\nP3\nP7 P8 P9\nP5\nP6\nE\nA\nF\nB\nG\nC\nD\n1\n2\nP2\n3\nP10\nP11\nP12\nM\nP24\nP13-P22",
+                "image_caption": [],
+                "image_footnote": [
+                    {
+                        "type": "text",
+                        "content": "P7 P8 P9 邮 0 0 "
+                    }
+                ]
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                670,
+                184,
+                833,
+                505
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/4042a46909402553bc03254b447a38f078740a2a8793d60d1bd570649422473c.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "分段代码图"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>PIN</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>S0</td><td>S1</td><td>S2</td><td>S3</td><td>S4</td><td>S5</td><td>S6</td><td>S7</td><td>S8</td><td>S9</td><td>S10</td><td>S11</td></tr><tr><td>COM0</td><td></td><td></td><td></td><td>COM0</td><td>P1</td><td>1A</td><td>P2</td><td>2A</td><td>P3</td><td>3A</td><td>P4</td><td>P8</td><td>P12</td><td>P16</td><td>P20</td><td>P24</td></tr><tr><td>COM1</td><td></td><td></td><td>COM1</td><td></td><td>1F</td><td>1B</td><td>2F</td><td>2B</td><td>3F</td><td>3B</td><td>P5</td><td>P9</td><td>P13</td><td>P17</td><td>P21</td><td>-</td></tr><tr><td>COM2</td><td></td><td>COM2</td><td></td><td></td><td>1G</td><td>1C</td><td>2G</td><td>2C</td><td>3G</td><td>3C</td><td>P6</td><td>P10</td><td>P14</td><td>P18</td><td>P22</td><td>-</td></tr><tr><td>COM3</td><td>COM3</td><td></td><td></td><td></td><td>1E</td><td>1D</td><td>2E</td><td>2D</td><td>3E</td><td>3D</td><td>P7</td><td>P11</td><td>P15</td><td>P19</td><td>P23</td><td>-</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                319,
+                638,
+                741,
+                732
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "技术要求："
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                80,
+                719,
+                170,
+                749
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 带编号为重要尺寸, 需要IQC测量；"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2 产 品 符合roh s 2 0"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                756,
+                391,
+                823
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/082f5c1f1ec4da36e511f71e013af7f5ce53466ebafebdfc707d0d2f422bfb7f.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"3\">DISPLAY TYPE</td><td>TN</td></tr><tr><td>POSITIVE</td></tr><tr><td>TRANSMISSIVE</td></tr><tr><td>FRONT POLARIZER</td><td>NORMAL</td></tr><tr><td rowspan=\"2\">OPERATING METHOD</td><td>1/4 DUTY</td></tr><tr><td>1/3 BIAS</td></tr><tr><td>OPERATION VOLTAGE(VOP)</td><td>3.0V</td></tr><tr><td>VIEWING ANGLE</td><td>6:00</td></tr><tr><td>OPERATION TEMPERATURE</td><td>0°C TO 55°C</td></tr><tr><td>STORAGE TEMPERATURE</td><td>-20°C TO 65°C</td></tr><tr><td>HIGH TEMP./HUMIDITY STROAGE</td><td>/</td></tr><tr><td>CONNECTOR TYPE</td><td>ZEBRA</td></tr><tr><td>LCD CONTROLLER/DRIVER</td><td>/</td></tr><tr><td>BACKLIGHT COLOR</td><td>/</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                812,
+                689,
+                989,
+                860
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/1b214582fc06d094a41809cc60039367cb6a90b56a6c2486bce705ffb64a2185.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>ITO</td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">液晶</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>2:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-L01</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                9,
+                860,
+                986,
+                981
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "1\n2\n3\n4\n5\n6\n7\n8 "
+                    }
+                ]
+            },
+            "bbox": [
+                8,
+                58,
+                21,
+                784
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "A | B | C | D | E | F | G | H "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                18,
+                931,
+                33
+            ]
+        }
+    ]
+]

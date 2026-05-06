@@ -1,0 +1,213 @@
+[
+    [
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.018,
+                0.07,
+                0.03,
+                0.77
+            ],
+            "angle": 0,
+            "content": "1\n2\n3\n4\n5\n6\n7\n8"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.072,
+                0.034,
+                0.908,
+                0.05
+            ],
+            "angle": 0,
+            "content": "A | B | C | D | E | F | G | H"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.901,
+                0.054,
+                0.952,
+                0.073
+            ],
+            "angle": 0,
+            "content": "⑧ 尺寸序号",
+            "merge_prev": false
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.043,
+                0.062,
+                0.116,
+                0.105
+            ],
+            "angle": 0,
+            "content": "andon"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.225,
+                0.097,
+                0.489,
+                0.258
+            ],
+            "angle": 0,
+            "content": "Isometric line drawing of a multi-story building facade with slatted windows (no text or symbols)",
+            "sub_type": "natural_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.129,
+                0.331,
+                0.211,
+                0.579
+            ],
+            "angle": 0,
+            "content": "③710.0(Min.)\n④160.0(Max.)",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.296,
+                0.288,
+                0.543,
+                0.585
+            ],
+            "angle": 0,
+            "content": "①1200.028\nØ1000.00",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.613,
+                0.143,
+                0.938,
+                0.639
+            ],
+            "angle": 0,
+            "content": "Diagram showing four labeled components of a mechanical or architectural structure, including slats, cubes, and a panel.",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.125,
+                0.698,
+                0.177,
+                0.719
+            ],
+            "angle": 0,
+            "content": "技术要求"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.062,
+                0.725,
+                0.203,
+                0.742
+            ],
+            "angle": 0,
+            "content": "1. 底铺板支承面积不小于 0.42m²",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.062,
+                0.744,
+                0.225,
+                0.76
+            ],
+            "angle": 0,
+            "content": "2. 托盘两对角线长度之差不大于 15.6",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.062,
+                0.761,
+                0.297,
+                0.778
+            ],
+            "angle": 0,
+            "content": "3. 平面度：顶铺板偏离预定水平面垂直偏差不大于 7.0",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.062,
+                0.779,
+                0.176,
+                0.795
+            ],
+            "angle": 0,
+            "content": "4. 托盘动载不小于 1000kg",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.062,
+                0.797,
+                0.297,
+                0.813
+            ],
+            "angle": 0,
+            "content": "5. 若构件使用钉紧固，要求钉端头、钉尖不得伸出构件",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.062,
+                0.815,
+                0.366,
+                0.832
+            ],
+            "angle": 0,
+            "content": "6. 托盘要求通过《联运通用平托盘试验方法》（GB/T 4996-1996）测试",
+            "merge_prev": false
+        },
+        {
+            "type": "list",
+            "bbox": [
+                0.062,
+                0.725,
+                0.366,
+                0.832
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.756,
+                0.72,
+                0.965,
+                0.842
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>4</td><td>底铺板</td><td>胶合板</td><td></td></tr><tr><td>3</td><td>垫块</td><td>刨花板</td><td></td></tr><tr><td>2</td><td>纵梁板</td><td>胶合板</td><td></td></tr><tr><td>1</td><td>顶铺板</td><td>胶合板</td><td></td></tr><tr><td>序号</td><td>构件名称</td><td>材料</td><td>备注</td></tr></table>"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.018,
+                0.843,
+                0.967,
+                0.959
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">KD-931D</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td>20/07/5</td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">托盘</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td>20/7/5</td><td>.XX</td><td></td><td>Scale</td><td>1:20</td><td>Drawing NO.</td><td colspan=\"2\">KD-931D-F01</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td>2/5</td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>"
+        }
+    ]
+]

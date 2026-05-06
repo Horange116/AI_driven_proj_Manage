@@ -1,0 +1,720 @@
+[
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.056,
+                0.021,
+                0.226,
+                0.066
+            ],
+            "angle": 0,
+            "content": "voion®"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.097,
+                0.067,
+                0.187,
+                0.078
+            ],
+            "angle": 0,
+            "content": "旺盈彩盒"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.346,
+                0.02,
+                0.652,
+                0.044
+            ],
+            "angle": 0,
+            "content": "旺盈彩盒纸品有限公司"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.264,
+                0.053,
+                0.734,
+                0.07
+            ],
+            "angle": 0,
+            "content": "GLORY COLOUR BOXES& PAPER LIMITED"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.101,
+                0.094,
+                0.321,
+                0.113
+            ],
+            "angle": 0,
+            "content": "报告日期：2017.06.13"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.412,
+                0.094,
+                0.567,
+                0.116
+            ],
+            "angle": 0,
+            "content": "Test Report"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.666,
+                0.095,
+                0.901,
+                0.115
+            ],
+            "angle": 0,
+            "content": "Report No:2017061324"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.232,
+                0.145,
+                0.721,
+                0.163
+            ],
+            "angle": 0,
+            "content": "送检公司：东莞市上合旺盈印刷有限公司营业七部高志",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.232,
+                0.174,
+                0.751,
+                0.192
+            ],
+            "angle": 0,
+            "content": "送检公司地址：东莞市东城区主山振兴路329号旺盈工业园",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.233,
+                0.202,
+                0.68,
+                0.22
+            ],
+            "angle": 0,
+            "content": "以下测试样品是由申请者提供及确认：红外体温计",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.233,
+                0.248,
+                0.47,
+                0.266
+            ],
+            "angle": 0,
+            "content": "样品编号 :NA",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.233,
+                0.274,
+                0.47,
+                0.292
+            ],
+            "angle": 0,
+            "content": "批号 :NA",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.233,
+                0.3,
+                0.469,
+                0.318
+            ],
+            "angle": 0,
+            "content": "订单/工程单号 :NA",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.233,
+                0.326,
+                0.469,
+                0.343
+            ],
+            "angle": 0,
+            "content": "供应商 :NA",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.233,
+                0.351,
+                0.478,
+                0.369
+            ],
+            "angle": 0,
+            "content": "送检数量 :1箱",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.233,
+                0.377,
+                0.499,
+                0.394
+            ],
+            "angle": 0,
+            "content": "客户名称/代码 :A1939",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.233,
+                0.403,
+                0.55,
+                0.42
+            ],
+            "angle": 0,
+            "content": "样品接收日期 :2017.06.13",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.233,
+                0.428,
+                0.66,
+                0.446
+            ],
+            "angle": 0,
+            "content": "测试周期 :2017.06.13-2017.06.13",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.233,
+                0.454,
+                0.569,
+                0.471
+            ],
+            "angle": 0,
+            "content": "测试方法 :请参见下一页",
+            "merge_prev": false
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.136,
+                0.526,
+                0.869,
+                0.618
+            ],
+            "angle": 0,
+            "content": "<table><tr><td colspan=\"3\">测试要求</td><td rowspan=\"2\">结果</td></tr><tr><td colspan=\"2\">参考标准</td><td>测试项目</td></tr><tr><td>1</td><td>客户要求</td><td>跌落</td><td>合格</td></tr></table>"
+        },
+        {
+            "type": "table_footnote",
+            "bbox": [
+                0.381,
+                0.622,
+                0.669,
+                0.64
+            ],
+            "angle": 0,
+            "content": "更多测试细节请参考以下页面"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.178,
+                0.665,
+                0.818,
+                0.685
+            ],
+            "angle": 0,
+            "content": "旺盈彩盒纸品有限公司实验室授权以下人员测试并签核本报告",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.222,
+                0.745,
+                0.376,
+                0.764
+            ],
+            "angle": 0,
+            "content": "测试：杨汝圭",
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.631,
+                0.713,
+                0.807,
+                0.79
+            ],
+            "angle": 0,
+            "content": "任盈彩盒纸品有限公司\nVoion\n审核:宋刚\n物理实验室",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.091,
+                0.968,
+                0.396,
+                0.983
+            ],
+            "angle": 0,
+            "content": "东莞市上合旺盈印刷有限公司旺盈实验室"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.446,
+                0.967,
+                0.55,
+                0.983
+            ],
+            "angle": 0,
+            "content": "Page 1 of 3"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.632,
+                0.968,
+                0.906,
+                0.983
+            ],
+            "angle": 0,
+            "content": "地址：东莞市东城区主山振兴路329#"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.056,
+                0.021,
+                0.226,
+                0.066
+            ],
+            "angle": 0,
+            "content": "voion®"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.097,
+                0.067,
+                0.187,
+                0.079
+            ],
+            "angle": 0,
+            "content": "旺盈彩盒"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.346,
+                0.02,
+                0.652,
+                0.044
+            ],
+            "angle": 0,
+            "content": "旺盈彩盒纸品有限公司"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.264,
+                0.053,
+                0.734,
+                0.07
+            ],
+            "angle": 0,
+            "content": "GLORY COLOUR BOXES& PAPER LIMITED"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.101,
+                0.094,
+                0.321,
+                0.113
+            ],
+            "angle": 0,
+            "content": "报告日期：2017.06.13"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.412,
+                0.094,
+                0.567,
+                0.116
+            ],
+            "angle": 0,
+            "content": "Test Report"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.666,
+                0.095,
+                0.901,
+                0.115
+            ],
+            "angle": 0,
+            "content": "Report No:2017061324"
+        },
+        {
+            "type": "title",
+            "bbox": [
+                0.136,
+                0.213,
+                0.26,
+                0.23
+            ],
+            "angle": 0,
+            "content": "1、跌落测试："
+        },
+        {
+            "type": "table_caption",
+            "bbox": [
+                0.165,
+                0.251,
+                0.258,
+                0.268
+            ],
+            "angle": 0,
+            "content": "测试方法:"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.298,
+                0.242,
+                0.848,
+                0.277
+            ],
+            "angle": 0,
+            "content": "将样品放置跌落测试仪上，根据产品毛重选择所需高度，依次顺序测试。测试结束后检查产纸箱及内卡、客户产品。",
+            "merge_prev": false
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.136,
+                0.28,
+                0.868,
+                0.591
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>测试顺序</td><td>高度</td><td>重量</td><td>测试部位描述</td></tr><tr><td>角</td><td>1200MM</td><td rowspan=\"10\">NA</td><td rowspan=\"10\"><img src=\"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAIDAiIDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiikJxQAtFYWk+LdL1rW9R0mzkd7nTyBPlflyc9D36Gt2gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAopm8gnPA964uX4q+FovEQ0R70/aS23eACgbpgnPWgDt6KYjh1BByD39afQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFYPi+41W30Jxo0AlvZGEaZOAoOea3qQ9KAPEvgtZT6d418X2V1N5txDKiPJj7zAtk17dXkXw0/wCSqePv+vwfzavXaACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAMDxhfSab4S1a6ibbIlrIUPo204P514P4duPCOseEtJ0bUL8WuuXc5uPtKwhtrhzwzZ4zjp717j48t3uPA2sxRjLfZZCOMk4UmvDV0jTI/gAupxQRDU1lDebsG8OJMYz16UAfSFnD5FnbxF/MKRqu/+9gYzVisXwrNNP4W0qSfd5rWkRfcOc7BW1QAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFBoooA4zwt4Im8PeLvEWtSXscyatMJViVCDHyeCe/WuzoooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigBCcDNJvpWry/4nfFGPwl5VhpwS41KRsshG7av+JoA9MliSaJ4nGUdSpHqDXk4+Cuda3LrU39h+d539nlm+9nP06+1ej6DqEuqaLaX00ElvJPGHaNj0rVUY9MUARwwJBEkUfCRqFUegFS0UUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABTWOAfpTqY44PHagDy/wz8StV1n4r3/hW4trZbO384LIgO87MY7+9ep187+AOP2jtZHX/AI+eT9RX0RQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFNJOadkVz3i/wAV2HhHRJtRvHGQMRJnl27AUAY3xJ8f23grRGIdX1GYEQRA/qfavM/hZ4Du/E+sN4w8SB5FaTfEkv8Ay0brmsvwj4d1T4teL5PEGtFv7Ojkzj+E88IPYV9JW1rFaQRwW8YjiQbVVRwBQBMqKqhVAAAwBTsYoooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigApG+6fpS0jfdP0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HcAV12BQBylhoej+B7a7v/teoOjJ84ubp5+nIChj94+g5NP0a3kk1Jtc1V0hvb2LybW33AGOEHcF/wBps5Y9xnHatTxB4esvEmmGwvmnSLzElDQSbHDKcgg9uayNO+H2l6drFrqYvtVuZ7Us0QurwyKpKlScH2NAHUjkdvyopdg9T+dFADqKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooprUAKxAUknisq6uPNcqPuCpLu53N5aHjuap0AHbmjvR2o70DDtS96TtS96AE7UdxR2o7igA7UelHaj0oAPWg0etBoAKOx9PWijtQBAlnBFeS3UcQEsoAkbuQOg/U1NjIPYdRS96O1Ag9KBRQKBh6UUelFAB2o70dqO9AB2o70dqO9ABR3o4wahurmO0gMsrABR0/vUAQalqEen2xdj8x+59a4e4uJLmdppWJcmpb+/kv7hpXPy5wq+lVh9c+9AhMcYxn27UZzznP8qWigBOv41b0z/kJW/wDviqtWtN/5CVv/AL4oA9cpaSloAKKKKACiiigAooooAKKKKAK11aW935fnwpJ5TiVNwztcdGHuKlwRx+dSUUAVfsluL03ghT7QUERkx82wHIXPpk5q1RRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFACZqneXO0FE69zT7q4EK4H3zWYSSTnk96AE9BRR6UUDDtR3o7Ud6ADtS96TtS96AE7UdxR2o7igA7UelHaj0oAPWg0etBoAKO1FHagA70dqO9HagAoFFAoAPSij0ooAO1HejtR3oAO1HejtQWA5Y4A7+lADJJEijZ3ICL941xWsam2oXBUH9yp+X3q1rurm6c20BxGp+Yjuaw8e3A7elAg5/GloooAKKKKACrWm/8AISt/98VVq1pv/ISt/wDfFAHrlLSUtABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAh6VDPOIY9x6noKkkkVELMelZE0rTOWP4UANkcyPuY802ij1oAPSij0ooAO1HejtR3oAO1HejtS96AE7UdxR2o7igA7UelHaigA9aDR60UAFHaijtQAd6O1HejtQAUCiigA9KKKKADtRjmjtR60AB6cda5zX9Y2Zs4GyT99h2q3rerCyi8iMgzN0x2rjixZiWJLHqT3oATr/j60tAooAKKKKACiiigAq1pv8AyErf/fFVatab/wAhK3/3xQB65S0lLQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUh6UtIetAGRrly9ssHl4+dmzkZ7Vj/wBo3Hqn/fNaXiPpa/7zfyFYdAFr+0bj1T/vmj+0bj1T/vmqtFAFr+0bj1T/AL5o/tG49U/75qrRQBa/tG49U/75o/tG49U/75qrRQBa/tG49U/75o/tG49U/wC+aq0UAWv7RuPVP++aP7RuPVP++aq0UAWv7RuPVP8Avmj+0bj1T/vmqtFAFr+0bj1T/vmj+0bj1T/vmqtFAFr+0bj1T/vmj+0bj1T/AL5qrRQBa/tG49U/75o/tG49U/75qrRQBa/tG49U/wC+aP7RuPVP++aq0UAWv7RuPVP++aP7RuPVP++aq0UAWv7RuPVP++a5Pxt4m1LTJdFFtKqCe7McnydRsJroq4b4i/67w91/4/j/AOgNQBV0LUbrVYbue8k8yX7XLGD0wFcgfoK1q57wjn+z7w9/ts+f+/jV0NABRRRQAUUUUAFFFFABVrTf+Qlb/wC+Kq1a03/kJW/++KAPXKWkpaACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACjvRR3oAwvEfS1/3m/kKwq3fEfS1/3m/kKwqACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK4b4jf67w9/1/H/0Bq7muG+I3+u8Pf9fx/wDQGoAyvCP/ACD73/r9n/8ARjV0Nc94R/5B95/1+z/+jGroaACiiigAoopO3+FAC0UnPQdfemeanmBN43kZxmgCSrWm/wDISt/98VVqzp3/ACEbb/roKAPXaWkGc0vNABRRzRzQAUUc0c0AFFHNNOaAHUUwvgEngAZNeHahrnjnxRq+s6lompNpunaPI0fkNkC42kgn9KAPdKK5nwB4jk8VeDbHVZgomkXbKF6bh1rpqACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAo70Ud6AMLxH0tf8Aeb+Q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\"/></td></tr><tr><td>棱1</td><td>1200MM</td></tr><tr><td>棱2</td><td>1200MM</td></tr><tr><td>棱3</td><td>1200MM</td></tr><tr><td>面1</td><td>1200MM</td></tr><tr><td>面2</td><td>1200MM</td></tr><tr><td>面3</td><td>1200MM</td></tr><tr><td>面4</td><td>1200MM</td></tr><tr><td>面5</td><td>1200MM</td></tr><tr><td>面6</td><td>1200MM</td></tr></table>"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.601,
+                0.729,
+                0.619
+            ],
+            "angle": 0,
+            "content": "判定标准：测试后样品包装不存在破损现象，产品结构功能无损坏。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.631,
+                0.268,
+                0.648
+            ],
+            "angle": 0,
+            "content": "样品数量: 1箱",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.099,
+                0.662,
+                0.77,
+                0.68
+            ],
+            "angle": 0,
+            "content": "结果描述：按照标准测试后箱内样品无破损现象，测试结果判定为合格。",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.1,
+                0.699,
+                0.192,
+                0.716
+            ],
+            "angle": 0,
+            "content": "测试图片:",
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.149,
+                0.727,
+                0.489,
+                0.913
+            ],
+            "angle": 0,
+            "content": "跌落試驗機\n1200\n1200\nreset\n复位\nstop\n停止\nrise\n上升\ndown\n下降\npower\n电源",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.505,
+                0.728,
+                0.846,
+                0.913
+            ],
+            "angle": 0,
+            "content": "Interior view of a warehouse or testing facility showing a cardboard box on a platform, with no visible text or symbols.",
+            "sub_type": "natural_image"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.091,
+                0.968,
+                0.396,
+                0.983
+            ],
+            "angle": 0,
+            "content": "东莞市上合旺盈印刷有限公司旺盈实验室"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.446,
+                0.967,
+                0.55,
+                0.983
+            ],
+            "angle": 0,
+            "content": "Page 2 of 3"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.632,
+                0.968,
+                0.906,
+                0.983
+            ],
+            "angle": 0,
+            "content": "地址：东莞市东城区主山振兴路329#"
+        }
+    ],
+    [
+        {
+            "type": "header",
+            "bbox": [
+                0.056,
+                0.021,
+                0.226,
+                0.066
+            ],
+            "angle": 0,
+            "content": "voion®"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.097,
+                0.067,
+                0.187,
+                0.078
+            ],
+            "angle": 0,
+            "content": "旺盈彩盒"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.346,
+                0.02,
+                0.652,
+                0.044
+            ],
+            "angle": 0,
+            "content": "旺盈彩盒纸品有限公司"
+        },
+        {
+            "type": "header",
+            "bbox": [
+                0.264,
+                0.053,
+                0.734,
+                0.07
+            ],
+            "angle": 0,
+            "content": "GLORY COLOUR BOXES& PAPER LIMITED"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.101,
+                0.094,
+                0.322,
+                0.113
+            ],
+            "angle": 0,
+            "content": "报告日期：2017.06.13",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.412,
+                0.094,
+                0.567,
+                0.116
+            ],
+            "angle": 0,
+            "content": "Test Report",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.666,
+                0.095,
+                0.901,
+                0.115
+            ],
+            "angle": 0,
+            "content": "Report No:2017061324",
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.151,
+                0.135,
+                0.487,
+                0.319
+            ],
+            "angle": 0,
+            "content": "Open cardboard box containing a grid of white paper blocks (no text or symbols visible)",
+            "sub_type": "natural_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.51,
+                0.136,
+                0.846,
+                0.32
+            ],
+            "angle": 0,
+            "content": "White paper box with folded paper sheets arranged in a grid pattern (no text or symbols visible)",
+            "sub_type": "natural_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.147,
+                0.336,
+                0.485,
+                0.523
+            ],
+            "angle": 0,
+            "content": "Four white electronic devices mounted on white rectangular bases, arranged in a row against a grid-patterned background (no visible text or symbols)",
+            "sub_type": "natural_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.507,
+                0.336,
+                0.844,
+                0.522
+            ],
+            "angle": 0,
+            "content": "Four white cylindrical electronic devices with three black buttons, arranged on white rectangular bases (no visible text or symbols)",
+            "sub_type": "natural_image"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.078,
+                0.548,
+                0.92,
+                0.565
+            ],
+            "angle": 0,
+            "content": "******************************报告结束******************************",
+            "merge_prev": false
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.09,
+                0.968,
+                0.397,
+                0.983
+            ],
+            "angle": 0,
+            "content": "东莞市上合旺盈印刷有限公司旺盈实验室"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.446,
+                0.967,
+                0.55,
+                0.983
+            ],
+            "angle": 0,
+            "content": "Page 3 of 3"
+        },
+        {
+            "type": "footer",
+            "bbox": [
+                0.632,
+                0.968,
+                0.906,
+                0.983
+            ],
+            "angle": 0,
+            "content": "地址：东莞市东城区主山振兴路329#"
+        }
+    ]
+]

@@ -1,0 +1,47 @@
+{
+  "format": "docreview-pdf-intake-flow-v1",
+  "generated_at": "2026-05-01T05:54:54.194546+00:00",
+  "source": "C:\\Users\\Administrator\\Documents\\New project\\DHF -梳理版\\09-设计输出\\设计输出清单二\\早期图纸\\上盖20210727.pdf",
+  "source_sha256": "d85062a58e32fd14cd07979cb8cafd09a405d10adab25ee2e641009d4ce9353f",
+  "run_root": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\上盖20210727-20260501T135316",
+  "probe_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\上盖20210727-20260501T135316\\probe.json",
+  "classification_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\上盖20210727-20260501T135316\\classification.json",
+  "classification_ms": 0,
+  "classification": {
+    "pdf_type": "gantt",
+    "route": "vlm",
+    "template": "gantt",
+    "reason": "Probe router detected dense rows plus many vector drawings, consistent with timeline/Gantt or complex layout.",
+    "must_preserve": [
+      "row clusters",
+      "vector bars",
+      "lines",
+      "rectangles"
+    ],
+    "risk": [
+      "visual semantics require VLM"
+    ],
+    "confidence": "high",
+    "classifier": "probe",
+    "needs_vlm_supplement": false
+  },
+  "route_result": {
+    "route": "vlm",
+    "page_count": 1,
+    "processed_pages": 1,
+    "page_results": [
+      {
+        "page": 1,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\上盖20210727-20260501T135316\\pages\\page-001.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\上盖20210727-20260501T135316\\page-001-vlm.md",
+        "elapsed_ms": 97434,
+        "chars": 8253,
+        "required_sections_present": true
+      }
+    ],
+    "combined_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\上盖20210727-20260501T135316\\combined-visual-transcript.md",
+    "all_required_sections_present": true,
+    "elapsed_ms": 97603
+  },
+  "elapsed_ms": 97866
+}

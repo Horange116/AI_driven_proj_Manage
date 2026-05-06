@@ -1,0 +1,130 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p> </p><p>试产总结报告</p><p>V1.0</p><p>产  品  型 号      PT9L          .</p><p>项  目  编 号         30000078   .</p><p>产品/项目名称      红外体温计    .</p></td></tr><tr><td><p>附件：</p><ul><li>试产报告-制造部 </li></ul></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件编号：PT9L-SCZB01 V1.0               试产总结报告   QR-7.3-09-02/E0  "
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"2\"><p><strong>试产中出现的问题及整改方案</strong></p><p> </p><p>问题1：                                                                            </p><p> </p><p>        整改方案：                                                                  </p><p> </p><p>        整改后可批量生产：是□   否□               再次试产验证：是□   否□     </p><p>问题2：                                                                            </p><p> </p><p>        整改方案：                                                                  </p><p> </p><p>        整改后可批量生产：是□   否□               再次试产验证：是□   否□     </p><p>问题3：                                                                            </p><p> </p><p>        整改方案：                                                                  </p><p> </p><p>        整改后可批量生产：是□   否□               再次试产验证：是□   否□     </p><p>问题4：                                                                            </p><p> </p><p>        整改方案：                                                                  </p><p> </p><p>        整改后可批量生产：是□   否□               再次试产验证：是□   否□     </p><p>试产总结会结论：</p><p>设计输出文件 □合理 □不合理 □适宜 □不适宜；</p><p>DMR文件    □合理 □不合理 □适宜 □不适宜。</p><p> <strong>项目负责人：</strong></p></td></tr><tr><td><p>试产结论</p><ul><li>试产通过</li><li>整改后通过</li><li>试产未通过</li></ul></td><td><p>批准：</p><p>日期：    年    月    日</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "注：标记“■”或是在“□”中划“√”都表示当前项已经被选中；标记“□”表示当前项未选中；"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "页不足时，存在的问题部分可续页。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件编号：PT9L-SCZB01 V1.0               试产总结报告   QR-7.3-09-02/E0  "
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "第 1 页/共 1 页                                    "
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "page_idx": 1
+        }
+    ],
+    "_backend": "office",
+    "_version_name": "3.1.6"
+}

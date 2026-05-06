@@ -1,0 +1,6 @@
+Started at: Wed 06 May 2026 03:57:33 AM CST
+Host: node42
+CUDA_VISIBLE_DEVICES=4
+Start MinerU FastAPI Service: http://127.0.0.1:53447
+API documentation: http://127.0.0.1:53447/docs
+

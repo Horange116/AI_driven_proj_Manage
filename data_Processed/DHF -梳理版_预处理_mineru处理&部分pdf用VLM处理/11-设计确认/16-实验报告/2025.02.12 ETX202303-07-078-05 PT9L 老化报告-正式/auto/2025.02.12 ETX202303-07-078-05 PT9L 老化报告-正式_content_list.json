@@ -1,0 +1,138 @@
+[
+    {
+        "type": "table",
+        "img_path": "images/50f6e24bfe9e8323cf668a65c234921f255bf36392eecfe31985feed45da5e9f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=2>TESTREPORTIEC 60068-2-78:2012: Damp heat, steadystate</td></tr><tr><td rowspan=1 colspan=1>Date ofissue…</td><td rowspan=1 colspan=1>2024-07-12</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>IEC60068-2-78:2012:Damp heat,steady state</td></tr><tr><td rowspan=1 colspan=1>Proceduredeviation.:</td><td rowspan=1 colspan=1>NIA</td></tr><tr><td rowspan=1 colspan=1>Non-standard test method...</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Type of test object.</td><td rowspan=1 colspan=1>Infrared No-Touch Forehead Thermometer</td></tr><tr><td rowspan=1 colspan=1>Trademark..    </td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Model/typereference.</td><td rowspan=1 colspan=1>PT9L</td></tr><tr><td rowspan=1 colspan=1>Report No   .</td><td rowspan=1 colspan=1>ETX202303-07-078-05</td></tr><tr><td rowspan=1 colspan=1>Testing period….</td><td rowspan=1 colspan=1>2024.07.10-2024.07.11</td></tr><tr><td rowspan=1 colspan=1>Manufactrer</td><td rowspan=1 colspan=1>ANDONHEALTH CO.,LTD.</td></tr><tr><td rowspan=1 colspan=1>Address..</td><td rowspan=1 colspan=1>No.3 JinPing Street, YaAn Road, Nankai District, Tianjin, China</td></tr><tr><td rowspan=1 colspan=1>Test laboratoryAddress...</td><td rowspan=1 colspan=1>Tianxu(Tianjin)Testing Technology Service Co.,LTD101, First floor, Building L,No.3 JinPing Street,Ya An Road,Nankai District, Tianjin,China</td></tr></table>",
+        "bbox": [
+            90,
+            80,
+            900,
+            537
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Complied by:之(Kang Yanli) Date.",
+        "bbox": [
+            220,
+            681,
+            647,
+            706
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            213,
+            714,
+            771,
+            743
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "seal",
+        "img_path": "images/ad367aba95fec0ce69d6ccf71af7980f7f98705b6f61569cf38215f7aae2809d.jpg",
+        "text": "爱旭（天津）检测技术服务有限公司",
+        "bbox": [
+            638,
+            605,
+            833,
+            744
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/0037a07f6793f930e003d98da49c943ad29c7432bc6742a828d4e4cd7ade93df.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Clause</td><td>Requirement + Test</td><td>Result - Remark</td><td>Verdict</td></tr></table>",
+        "bbox": [
+            95,
+            102,
+            919,
+            126
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/e283ee76fd194d7bc2b27d2520010a107ba9a3764700a493cfccd4b7c5a70c33.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Damp heat test</td><td>The sample is in normal working condition and put into the programmable constant temperature and humidity test chamber. The temperature and</td></tr></table>",
+        "bbox": [
+            95,
+            142,
+            919,
+            243
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Report No.: ETX202303-07-078-05",
+        "bbox": [
+            89,
+            48,
+            352,
+            64
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "2 / 3",
+        "bbox": [
+            482,
+            928,
+            515,
+            941
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/af2ceaa591c7899241552399efb8ec38aca4d4bd91188f4e5e6e144f03ad9ef1.jpg",
+        "image_caption": [
+            "ATTACHMENT FILE 1 photos of the EUT",
+            "--- End of Test Report ---"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            80,
+            126,
+            917,
+            613
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Report No.: ETX202303-07-078-05",
+        "bbox": [
+            87,
+            48,
+            352,
+            64
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "3 / 3",
+        "bbox": [
+            480,
+            928,
+            515,
+            941
+        ],
+        "page_idx": 2
+    }
+]

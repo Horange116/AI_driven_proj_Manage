@@ -1,0 +1,17 @@
+{
+  "pdf_type": "drawing",
+  "route": "vlm",
+  "template": "drawing",
+  "reason": "Probe router detected drawing/label filename; visual title blocks and artwork require VLM.",
+  "must_preserve": [
+    "title block",
+    "drawing text",
+    "visual layout"
+  ],
+  "risk": [
+    "probe route based partly on filename"
+  ],
+  "confidence": "high",
+  "classifier": "probe",
+  "needs_vlm_supplement": false
+}

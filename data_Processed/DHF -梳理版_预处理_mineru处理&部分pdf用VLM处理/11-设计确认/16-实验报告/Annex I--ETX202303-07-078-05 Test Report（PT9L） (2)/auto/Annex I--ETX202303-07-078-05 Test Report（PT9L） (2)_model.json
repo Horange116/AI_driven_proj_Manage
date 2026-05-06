@@ -1,0 +1,376 @@
+[
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.5991,
+                "bbox": [
+                    147,
+                    115,
+                    586,
+                    152
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.988,
+                "bbox": [
+                    146,
+                    196,
+                    1487,
+                    1271
+                ],
+                "index": 2,
+                "html": "<table><tr><td rowspan=1 colspan=2>TEST REPORTIEC 60068-2-78:2012: Damp heat , steady state</td></tr><tr><td rowspan=1 colspan=1>Date of issue.</td><td rowspan=1 colspan=1>2024-07-12</td></tr><tr><td rowspan=1 colspan=1>Standard..</td><td rowspan=1 colspan=1>IEC 60068-2-78:2012: Damp heat , steady state</td></tr><tr><td rowspan=1 colspan=1>Procedure deviation.</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Non-standard test method..</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Type of test object.</td><td rowspan=1 colspan=1>Infrared No-Touch Forehead Thermometer</td></tr><tr><td rowspan=1 colspan=1>Trademark..</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Model/type reference.</td><td rowspan=1 colspan=1>PT9L</td></tr><tr><td rowspan=1 colspan=1>Report No</td><td rowspan=1 colspan=1>ETX202303-07-078-05</td></tr><tr><td rowspan=1 colspan=1>Testing period..</td><td rowspan=1 colspan=1>2024.07.10-2024.07.11</td></tr><tr><td rowspan=1 colspan=1>Manufacturer.</td><td rowspan=1 colspan=1>ANDON HEALTH CO., LTD.</td></tr><tr><td rowspan=1 colspan=1>Address.</td><td rowspan=1 colspan=1>No.3 JinPing Street, YaAn Road, Nankai District, Tianjin, China</td></tr><tr><td rowspan=1 colspan=1>Test laboratory.Address..</td><td rowspan=1 colspan=1>Tianxu(Tianjin)Testing Technology Service Co., LTD101, First floor, Building L,No.3 JinPing Street, Ya An Road,Nankai District, Tianjin,China</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8481,
+                "bbox": [
+                    339,
+                    1373,
+                    613,
+                    1609
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7552,
+                "bbox": [
+                    355,
+                    1606,
+                    1312,
+                    1661
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.9378,
+                "bbox": [
+                    345,
+                    1696,
+                    1317,
+                    1744
+                ],
+                "index": 5
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    116,
+                    585,
+                    148
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    290,
+                    1435,
+                    674,
+                    1582
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    355,
+                    1605,
+                    551,
+                    1663
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    754,
+                    1610,
+                    935,
+                    1653
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    987,
+                    1607,
+                    1080,
+                    1656
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    348,
+                    1692,
+                    539,
+                    1746
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    730,
+                    1696,
+                    1082,
+                    1741
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.9298,
+                "bbox": [
+                    148,
+                    116,
+                    585,
+                    151
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 21,
+                "label": "table",
+                "score": 0.9814,
+                "bbox": [
+                    161,
+                    237,
+                    1521,
+                    572
+                ],
+                "index": 2,
+                "html": "<table><tr><td>Clause</td><td>Requirement + Test</td><td>Result - Remark</td><td>Verdict</td></tr><tr><td colspan=\"4\"></td></tr><tr><td>Damp heat test</td><td colspan=\"2\">The sample is in normal working condition and put into the programmable constant temperature and humidity test chamber. The temperature and humidity of the test box are adjusted to 40 ° C and 95% RH. After the temperature and humidity are stable, it is maintained for 14.8 hours.</td><td>/</td></tr></table>"
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.791,
+                "bbox": [
+                    1027,
+                    630,
+                    1354,
+                    967
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.8848,
+                "bbox": [
+                    655,
+                    1000,
+                    982,
+                    1337
+                ],
+                "index": 4
+            },
+            {
+                "cls_id": 22,
+                "label": "text",
+                "score": 0.7606,
+                "bbox": [
+                    284,
+                    1370,
+                    613,
+                    1708
+                ],
+                "index": 5
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.9074,
+                "bbox": [
+                    798,
+                    2171,
+                    854,
+                    2202
+                ],
+                "index": 6
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    116,
+                    585,
+                    148
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    975,
+                    747,
+                    1417,
+                    861
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    602,
+                    1118,
+                    1049,
+                    1231
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    232,
+                    1486,
+                    676,
+                    1603
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    794,
+                    2167,
+                    860,
+                    2210
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1654,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.8752,
+                "bbox": [
+                    147,
+                    116,
+                    586,
+                    151
+                ],
+                "index": 1
+            },
+            {
+                "cls_id": 12,
+                "label": "header",
+                "score": 0.58,
+                "bbox": [
+                    574,
+                    203,
+                    1078,
+                    241
+                ],
+                "index": 2
+            },
+            {
+                "cls_id": 14,
+                "label": "image",
+                "score": 0.7236,
+                "bbox": [
+                    136,
+                    296,
+                    1516,
+                    1436
+                ],
+                "index": 3
+            },
+            {
+                "cls_id": 16,
+                "label": "number",
+                "score": 0.8974,
+                "bbox": [
+                    797,
+                    2171,
+                    855,
+                    2202
+                ],
+                "index": 4
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    149,
+                    116,
+                    585,
+                    148
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    793,
+                    2166,
+                    860,
+                    2209
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "label": "ocr_text",
+                "bbox": [
+                    576,
+                    204,
+                    1076,
+                    238
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]

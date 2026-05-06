@@ -1,0 +1,40 @@
+[
+    [
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">PT9L</text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">软件系统测试记录</text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">(V1.0)</text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">产 品 型 号</text>：<text style=\"underline\">       PT9L      </text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">项 目 编 号</text>：<text style=\"underline\">   30000078    </text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">产品/项目名称</text>：<text style=\"underline\"> 红外体温计    </text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">编    制</text><text style=\"italic\">（软件工程师）</text><text style=\"underline\">                        年   月   日</text>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">审    核</text><text style=\"italic\">（软 件主 管）</text><text style=\"underline\">                        年   月   日</text>"
+        },
+        {
+            "type": "header",
+            "content": "文件编号：PT9L-RXCL01 V1.0                                         软件系统测试记录"
+        }
+    ]
+]

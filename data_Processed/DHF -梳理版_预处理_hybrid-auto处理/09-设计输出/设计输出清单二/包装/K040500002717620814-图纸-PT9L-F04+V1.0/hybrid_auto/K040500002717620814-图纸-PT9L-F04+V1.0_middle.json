@@ -1,0 +1,681 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "bbox": [
+                        93,
+                        74,
+                        281,
+                        153
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                74,
+                                281,
+                                153
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        74,
+                                        281,
+                                        153
+                                    ],
+                                    "type": "text",
+                                    "content": "andon"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        2226,
+                        74,
+                        2391,
+                        113
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                2226,
+                                74,
+                                2391,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        2226,
+                                        74,
+                                        2391,
+                                        113
+                                    ],
+                                    "type": "text",
+                                    "content": "⑧ 尺寸序号"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        903,
+                        226,
+                        1707,
+                        1261
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                903,
+                                226,
+                                1707,
+                                1261
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        903,
+                                        226,
+                                        1707,
+                                        1261
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                903,
+                                                226,
+                                                1707,
+                                                1261
+                                            ],
+                                            "type": "image",
+                                            "content": "157mm\n33mm 57mm",
+                                            "image_path": "c47c82f5e35628147dcbb577656e0164d032f2ceadb1a7e609648e176e49e3aa.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "sub_type": "text_image"
+                },
+                {
+                    "bbox": [
+                        98,
+                        1230,
+                        535,
+                        1280
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                98,
+                                1230,
+                                535,
+                                1280
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        1230,
+                                        535,
+                                        1280
+                                    ],
+                                    "type": "text",
+                                    "content": "本件要求通过RoHS测试"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        101,
+                        1296,
+                        720,
+                        1351
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                101,
+                                1296,
+                                720,
+                                1351
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        1296,
+                                        720,
+                                        1351
+                                    ],
+                                    "type": "text",
+                                    "content": "说明：材质为：350g白卡纸，覆哑膜"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        101,
+                        1356,
+                        668,
+                        1401
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                101,
+                                1356,
+                                668,
+                                1401
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        1356,
+                                        668,
+                                        1401
+                                    ],
+                                    "type": "text",
+                                    "content": "尺寸:57*33*157mm，公差:+1-1"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        101,
+                        1410,
+                        407,
+                        1455
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                101,
+                                1410,
+                                407,
+                                1455
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        1410,
+                                        407,
+                                        1455
+                                    ],
+                                    "type": "text",
+                                    "content": "印刷颜色: 无印刷"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "merge_prev": false
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        27,
+                        1489,
+                        2433,
+                        1705
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                27,
+                                1489,
+                                2433,
+                                1705
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        1489,
+                                        2433,
+                                        1705
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                27,
+                                                1489,
+                                                2433,
+                                                1705
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td></td><td>K04050000271</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">纸托</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-F04</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "39a85ca07fd8fdb9cecbf0674e251a81a813e6007407dc600ae84e05a7e9ac5d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        22,
+                        20,
+                        2435,
+                        60
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                22,
+                                20,
+                                2435,
+                                60
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        20,
+                                        2435,
+                                        60
+                                    ],
+                                    "type": "text",
+                                    "content": "A B C D E F G H"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        29,
+                        100,
+                        56,
+                        1356
+                    ],
+                    "type": "aside_text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                29,
+                                100,
+                                56,
+                                1356
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        29,
+                                        100,
+                                        56,
+                                        1356
+                                    ],
+                                    "type": "text",
+                                    "content": "1\n2\n3\n4\n5\n6\n7\n8"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                2468,
+                1726
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "bbox": [
+                        93,
+                        74,
+                        281,
+                        153
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                74,
+                                281,
+                                153
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        74,
+                                        281,
+                                        153
+                                    ],
+                                    "type": "text",
+                                    "content": "andon"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        2226,
+                        74,
+                        2391,
+                        113
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                2226,
+                                74,
+                                2391,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        2226,
+                                        74,
+                                        2391,
+                                        113
+                                    ],
+                                    "type": "text",
+                                    "content": "⑧ 尺寸序号"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3,
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        903,
+                        226,
+                        1707,
+                        1261
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                903,
+                                226,
+                                1707,
+                                1261
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        903,
+                                        226,
+                                        1707,
+                                        1261
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                903,
+                                                226,
+                                                1707,
+                                                1261
+                                            ],
+                                            "type": "image",
+                                            "content": "157mm\n33mm 57mm",
+                                            "image_path": "c47c82f5e35628147dcbb577656e0164d032f2ceadb1a7e609648e176e49e3aa.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "sub_type": "text_image"
+                },
+                {
+                    "bbox": [
+                        98,
+                        1230,
+                        535,
+                        1280
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                98,
+                                1230,
+                                535,
+                                1280
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        1230,
+                                        535,
+                                        1280
+                                    ],
+                                    "type": "text",
+                                    "content": "本件要求通过RoHS测试"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        101,
+                        1296,
+                        720,
+                        1351
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                101,
+                                1296,
+                                720,
+                                1351
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        1296,
+                                        720,
+                                        1351
+                                    ],
+                                    "type": "text",
+                                    "content": "说明：材质为：350g白卡纸，覆哑膜"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        101,
+                        1356,
+                        668,
+                        1401
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                101,
+                                1356,
+                                668,
+                                1401
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        1356,
+                                        668,
+                                        1401
+                                    ],
+                                    "type": "text",
+                                    "content": "尺寸:57*33*157mm，公差:+1-1"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        101,
+                        1410,
+                        407,
+                        1455
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                101,
+                                1410,
+                                407,
+                                1455
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        1410,
+                                        407,
+                                        1455
+                                    ],
+                                    "type": "text",
+                                    "content": "印刷颜色: 无印刷"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "merge_prev": false
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        27,
+                        1489,
+                        2433,
+                        1705
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                27,
+                                1489,
+                                2433,
+                                1705
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        27,
+                                        1489,
+                                        2433,
+                                        1705
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                27,
+                                                1489,
+                                                2433,
+                                                1705
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>3</td><td></td><td></td><td>K04050000271</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT9L</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">纸托</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT9L-F04</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                                            "image_path": "39a85ca07fd8fdb9cecbf0674e251a81a813e6007407dc600ae84e05a7e9ac5d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "3.1.6"
+}

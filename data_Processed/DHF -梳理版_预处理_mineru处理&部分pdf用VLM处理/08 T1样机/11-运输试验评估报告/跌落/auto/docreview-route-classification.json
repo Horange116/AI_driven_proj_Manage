@@ -1,0 +1,17 @@
+{
+  "pdf_type": "drawing",
+  "route": "vlm",
+  "template": "drawing",
+  "reason": "Route override applied after classification: Probe router detected many vector drawings/rectangles; visual layout is material.",
+  "must_preserve": [
+    "drawings",
+    "title blocks",
+    "layout objects"
+  ],
+  "risk": [
+    "probe cannot name the drawing type without visual supplement"
+  ],
+  "confidence": "medium",
+  "classifier": "probe",
+  "needs_vlm_supplement": false
+}

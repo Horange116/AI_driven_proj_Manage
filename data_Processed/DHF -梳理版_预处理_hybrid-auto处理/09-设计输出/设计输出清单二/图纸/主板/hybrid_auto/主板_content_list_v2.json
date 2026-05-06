@@ -1,0 +1,103 @@
+[
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/4b0dae1954c59d480a4d74c3c493229bfb309fb1ddd50bb59d333dc8a8921ea0.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>3</td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>坏品树脂板</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>2</td><td></td><td>Design</td><td></td><td>X</td><td></td><td>Surf dispose</td><td></td><td>PCB</td></tr><tr><td>1</td><td></td><td>Chuckup</td><td></td><td>XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td></tr><tr><td>No.</td><td>更改记录</td><td>Approve</td><td></td><td></td><td>X°</td><td></td><td>Unit&#x27;s</td><td>mm</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                0,
+                0,
+                129,
+                998
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c5d7f45387c1fb0cebbcb8ac428f4e6948ce88e7d65aaddfe7bcce32c1417a5c.jpg"
+                },
+                "content": "24.4\n12.2\n6.85\n1.6\n1.6\n8.5\n14\n20.15\n27.6\n34.4\n40\n43.2\n43.4\n84.7\n2-R2.4\nφ2.2\nφ2.6\n0.7\n4.15\n6.5\n2.7\n1.6\n2-φ2.2\n2-φ1.6\n2-φ0.8\n8.95\n1.1\n2-φ1\n12.2\nφ0.8\n2.6\n3.2\n9.2\n16.2\n18.2\n24.5\n5.7\n13.9\nφ0.8",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                163,
+                291,
+                959,
+                785
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/c931a09d1ebddd00fa07b63828a17859d6b69643b1631ea6df960f821e876687.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "equation_inline",
+                        "content": "⑧"
+                    },
+                    {
+                        "type": "text",
+                        "content": " 尺寸序号"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=\"2\">LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>DIM</td><td colspan=\"3\"></td></tr><tr><td>&lt; 5</td><td>≠003</td><td>≠01</td><td>≠015</td></tr><tr><td>&gt; 5~50</td><td>≠005</td><td>≠01</td><td>≠02</td></tr><tr><td>&lt; 50~100</td><td>≠008</td><td>≠02</td><td>≠03</td></tr><tr><td>&gt;100</td><td>≠0.1%</td><td>≠0.2%</td><td>≠0.3%</td></tr><tr><td>ANSULFAR</td><td>≠0.10</td><td>≠0.5</td><td>≠0.5</td></tr><tr><td>SELECT LEVEL</td><td colspan=\"3\"></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                129,
+                873,
+                305,
+                998
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "∞ ∨ σ 51 4 ω n 1 "
+                    }
+                ]
+            },
+            "bbox": [
+                129,
+                0,
+                998,
+                13
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "A | B | C | D | E | F | G | H "
+                    }
+                ]
+            },
+            "bbox": [
+                969,
+                55,
+                991,
+                992
+            ]
+        }
+    ]
+]

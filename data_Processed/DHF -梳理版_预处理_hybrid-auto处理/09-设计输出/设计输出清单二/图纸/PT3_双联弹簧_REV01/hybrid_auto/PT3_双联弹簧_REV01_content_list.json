@@ -1,0 +1,157 @@
+[
+    {
+        "type": "text",
+        "text": "andon ",
+        "text_level": 1,
+        "bbox": [
+            52,
+            82,
+            122,
+            124
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/7fa4174e8ad68c5d0fe212a64e92bab9510cd96c5eda79fea6031743098c11d9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "第二圈小于Ø5.2即Ø5.2 +0/-0.3\n这样弹簧才不会卡在卡槽内\n（请放在电池槽用力按弹簧顶端，\n如果弹簧没卡在卡槽就OK）\nØ3.0\nØ3.0\n1.2 +0/-0.2\n⑥\n⑤",
+        "sub_type": "text_image",
+        "bbox": [
+            118,
+            144,
+            367,
+            578
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc8231ff414edfa42252714152e8ab8f89adff8c6d0cd64d9d0108bca1c1bb33.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "17.8(+0/-0.15)\n5.8±0.1\n6.5(+0.3/-0)\n③\n②\n④\n10.5\n9.9(+0/-0.2)\nØ6.5(+0.3/-0)\nØ6.5(+0.3/-0)",
+        "sub_type": "text_image",
+        "bbox": [
+            367,
+            233,
+            615,
+            601
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3b36e9490af0c9a318ef43ec128c93bec54b24d0224d4311be5d35b884ef999.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "此两处结构尺寸与正、负极\n弹簧一样。",
+        "sub_type": "text_image",
+        "bbox": [
+            680,
+            373,
+            835,
+            485
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "注 ",
+        "bbox": [
+            165,
+            636,
+            173,
+            650
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "|：产品外观良好，无毛刺 利角。包装良好。",
+            "2：带编号尺寸为重点检测尺寸 ",
+            "3：未标注尺寸请以样板为准！未注公差依图纸公差为准！ ",
+            "品质部检验结构时 请以结构签板和组装 实配 为准。",
+            "4；材质符合RHOS. "
+        ],
+        "bbox": [
+            166,
+            653,
+            338,
+            741
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "通过通用的GB2423.17-2008",
+        "bbox": [
+            168,
+            749,
+            299,
+            766
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "盐雾测试报告（温度35度 盐水浓度5% 24H 后无生锈）!",
+        "bbox": [
+            168,
+            769,
+            369,
+            786
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/2a7b25fe4a41622c4aebe2d9b798bf763724f43a44aee7ceda8c059ad79a7c7f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>弹簧钢</td><td>Model NO.</td><td colspan=\"2\">PT3</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">双联弹簧</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT3-P10</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td><img src=\"images/6c5bf0a09d88140d837b84182620dfc802c85b2450e81fe2212f7fae5b50caea.jpg\"/></td><td>Edition</td><td>V1.0</td></tr></table>",
+        "bbox": [
+            30,
+            853,
+            966,
+            971
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "1\n2\n3\n4\n5\n6\n7\n8 ",
+        "bbox": [
+            30,
+            87,
+            42,
+            784
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "A | B | C | D | E | F | G | H ",
+        "bbox": [
+            84,
+            50,
+            913,
+            67
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "aside_text",
+        "text": "X 尺寸序号",
+        "bbox": [
+            904,
+            75,
+            956,
+            92
+        ],
+        "page_idx": 0
+    }
+]

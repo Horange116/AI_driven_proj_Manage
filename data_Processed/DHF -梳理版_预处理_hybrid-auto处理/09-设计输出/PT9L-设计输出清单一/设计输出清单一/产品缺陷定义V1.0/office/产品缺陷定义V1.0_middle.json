@@ -1,0 +1,410 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "PT9L产品缺陷定义",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "V1.0",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "产品/项目名称："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "   红外体温计   ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "产  品  型  号："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "     PT9L     ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "项  目  编  号："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "    30000078   ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "编    制",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "                   年   月   日",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "审    核",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "                   年   月   日",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "批    准",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "                   年   月   日",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件编号："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "KD-5961E-QXDY01",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " V1.0                                     KD-5961E缺陷定义"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件编号："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "PT9L-QXDY01 ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "V1.0                                                            产品缺陷定义"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "严重度的定义"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "anchor": "_Toc242007870",
+                    "is_numbered_style": false,
+                    "level": 2
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"2\"><p><strong>严重度定性分级</strong></p></td></tr><tr><td><p><strong>缺陷等级</strong></p></td><td><p><strong>定性描述</strong></p></td></tr><tr><td rowspan=\"2\"><p>CR</p></td><td><p>可能导致永久性损伤或患者死亡，违反法令</p></td></tr><tr><td><p>可能导致要求专业医疗介入的伤害或损伤，产品损坏，无法使用</p></td></tr><tr><td rowspan=\"2\"><p>MA</p></td><td><p>导致不要求专业医疗介入的暂时的伤害及损伤</p></td></tr><tr><td><p>产品有缺陷，但不影响继续使用</p></td></tr><tr><td rowspan=\"2\"><p>MI</p></td><td><p>通常仅略感不便，暂时不适</p></td></tr><tr><td><p>通常不至于对产品发生显著影响，患者少许不便</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件编号："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "KD-5961E-QXDY01",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " V1.0                                     KD-5961E缺陷定义"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件编号："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "PT9L-QXDY01 ",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "V1.0                                                            产品缺陷定义"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "PT9L红外体温计功能缺陷等级分析和评价",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "anchor": "_Toc287019091",
+                    "is_numbered_style": false,
+                    "level": 2
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><thead><tr><th rowspan=\"2\"><p><strong>项目</strong></p></th><th rowspan=\"2\"><p><strong>规 格 及 检 验 标 准 描 述         </strong></p></th><th colspan=\"3\"><p><strong>缺陷等级</strong></p></th></tr><tr><th><p><strong>CR</strong></p></th><th><p><strong>MA</strong></p></th><th><p><strong>MI</strong></p></th></tr></thead><tbody><tr><td><p>正常测量</p></td><td><p>产品每次测温时，如果目标温度正常，显示所测温度，同时显示相对应的颜色，蜂鸣器长鸣0.5S，若测量错误，显示三条杠和温度单位，蜂鸣器短鸣3次。</p></td><td></td><td><p><strong>√</strong></p></td><td></td></tr><tr><td><p>自检</p></td><td><p>将产品断电后（无余电），重新上电进入上电模式，产品自检正常：显示屏全显且白色背光亮，此时检查LCD显示内容是否正确，是否有有乱显，多显，少显现象，同时蜂鸣器长鸣0.5S，3S 后进入待机模式。（若自检故障，屏幕全亮且闪烁）</p></td><td></td><td><p><strong>√</strong></p></td><td></td></tr><tr><td><p>测量范围</p></td><td><p>32℃～42.9℃，范围内任意温度均可以测量出数值。超出测量范围，机器应当报错。</p></td><td></td><td><p><strong>√</strong></p></td><td></td></tr><tr><td><p>测量精度</p></td><td><p>≥35℃且≤42℃：±0.2℃，其它±0.3℃。</p></td><td></td><td><p><strong>√</strong></p></td><td></td></tr><tr><td><p>自动关机</p></td><td><p>测温后无操作15S。</p></td><td></td><td></td><td><p><strong>√</strong></p></td></tr><tr><td><p>电流消耗</p></td><td><p>测量模式耗电电流：平均值须小于50mA；</p><p>待机电流：平均值须小于20uA。 </p></td><td></td><td></td><td><p><strong>√</strong></p></td></tr><tr><td><p>短路测试</p></td><td><p>将电池装反或将装在电池盒内的电池短路，<br/>不可有明火或冒烟现象。</p></td><td></td><td><p><strong>√</strong></p></td><td></td></tr><tr><td><p>低电压检测</p></td><td><p>1、使用直流电源供电，将供电电压调至2 .7V时，测量完毕后LCD 显示电池符号；</p><p>2、继续将供电电压调至DC 2.5V 时，LCD 应显示低电压图标且闪烁15S 后产品关机；</p></td><td></td><td></td><td><p><strong>√</strong></p></td></tr></tbody></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件编号：PT9L"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "-QXDY01",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " V1.0                                                                                                   产品缺陷定义"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "page_idx": 2
+        }
+    ],
+    "_backend": "office",
+    "_version_name": "3.1.6"
+}

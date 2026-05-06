@@ -1,0 +1,34 @@
+[
+    {
+        "type": "text",
+        "text": "**上市批准书**",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "table_caption": [],
+        "table_body": "<table><tr><td colspan=\"6\"><p><a></a><strong>产品名称：红外体温计              产品型号：PT9L           项目编号：30000078</strong></p></td></tr><tr><td colspan=\"6\"><p>一、设计确认检查</p></td></tr><tr><td colspan=\"6\"><p>“设计确认报告” 版本：V1.0（文件编号：PT9L-SJQB01 V1.0） 已批准。</p></td></tr><tr><td colspan=\"6\"><p>二、已获得上市批准或注册通过的地区</p></td></tr><tr><td><p>序号</p></td><td><p>已获得上市批准或注册</p></td><td><p>批准号/注册号</p></td><td><p>注册通过时间</p></td><td><p>可以销售地区</p></td><td><p>备注</p></td></tr><tr><td><p>1</p></td><td><p>FDA免注册</p></td><td><p>-</p></td><td><p>-</p></td><td><p>FDA及认可FDA审核、批准的地区</p></td><td><p>豁免510（K）</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"6\"></td></tr><tr><td colspan=\"6\"><p>文件发放部门：</p><p>■经理室 ■认证检测中心  ■国际贸易综合部 □国内业务事业部 □        </p></td></tr></table>",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "**拟制***(项目负责人)***：**<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>**审核***(技术负责人）***：**<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>**批准***(董事长)*<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>",
+        "page_idx": 0,
+        "anchor": "OLE_LINK1"
+    },
+    {
+        "type": "text",
+        "text": "     <u>年   月   日                        年   月   日                         年   月   日</u>",
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "文件编号： PT9L-SSPZ01 V1.0                 上市批准书  QR-7.3-25-01/E1                                                                                                                 ",
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "第 1 页 共 1 页",
+        "page_idx": 0
+    }
+]

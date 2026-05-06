@@ -1,0 +1,104 @@
+[
+    [
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">软件设计方案评审记录</text>"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p><strong>产品型号：PT9L                 项目编号：30000078      产品/项目名称：红外体温计</strong></p></td></tr><tr><td><p><strong>评审时间：</strong>       年   月   日   时   分<strong>     评审地点：</strong> 二楼会议室      　　　</p></td></tr></table>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">一．对项目进度的评估：</text><text style=\"italic\">（在适用的选项前□内划√，不适用选项空白）</text>"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p>本阶段计划评审时间：          年   月   日    本阶段实际评审时间：          年   月   日</p></td></tr><tr><td><p>项目进度评估结论：</p><ul><li>对整体项目进度无影响；□ 对整体项目进度有影响。</li></ul></td></tr><tr><td><p>影响项目进度的原因：                                                                    </p><p> </p></td></tr><tr><td><p>对整体项目进度有影响的改进措施：                                                        </p><p> </p><p>负责人：                                                     完成时间：     年   月   日</p></td></tr><tr><td><p>影响项目进度的未决问题处理方法：                                                        </p><p>签字：       年   月   日</p></td></tr></table>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">二．对设计验证的评审：</text><text style=\"italic\">（在适用的选项前□内划√，不适用选项空白）</text>"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p>本阶段是否有设计验证：</p><ul><li>无； </li><li>有：设计验证报告文件编号：                         </li></ul></td></tr><tr><td><p>对设计验证报告的评估：<em>（如有设计验证填写本栏）</em></p><ul><li>本次设计验证已按验证计划进行并完成，且验证项合格；</li><li>本次设计验证未按验证计划进行，需重新验证后进行评审；</li><li>本次设计验证已按验证计划进行但未完成，需验证完成后进行评审；</li><li>本次设计验证已按验证计划进行并完成，但有不合格项：</li></ul><p>A1.不合格项：                                                                          </p><p>产生原因：                                                                          </p><p>处理方法：                                                                          </p><p>A2.不合格项：                                                                          </p><p>产生原因：                                                                          </p><p>处理方法：                                                                          </p><p>A3.不合格项：                                                                          </p><p>产生原因：                                                                          </p><p>处理方法：                                                                          </p><p>A4.不合格项：                                                                          </p><p>产生原因：                                                                          </p><p>处理方法：</p></td></tr></table>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">三．对设计更改的评估：</text><text style=\"italic\">（在适用的选项前□内划√，不适用选项空白）</text>"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p>本阶段是否有只影响设计输出的设计更改：</p><ul><li>无； </li><li>有：设计更改需求评审单文件编号：                         </li></ul></td></tr><tr><td><p>对设计更改的适宜性评估：<em>（如有设计更改填写本栏）</em></p><ul><li>本次设计更改未解决原有问题，需要继续设计更改；</li><li>本次设计更改解决了原有问题，且未产生新的问题；</li><li>本次设计更改解决了原有问题，但产生了新的问题：</li></ul></td></tr><tr><td><p>问题B1:                                                                 提出者：</p></td></tr><tr><td><p>产生原因：</p></td></tr><tr><td><p>评审意见：                                                               签字：          </p><p>评审意见：                                                               签字：          </p></td></tr><tr><td><p>解决措施：                                                                               </p></td></tr><tr><td><p>负责人：                              完成时间：□       年    月    日   □         阶段</p></td></tr><tr><td><p>评审结论:□本问题已有解决措施 □本问题无解决措施（□请示上层决议 □其他：                     ）</p></td></tr><tr><td><p>未决问题处理方法：                                                                       </p><p>签字：                年   月   日</p></td></tr><tr><td><p>决议结论:□本问题已关闭 □本问题未关闭（□下阶段评审追踪 □其他：                              ）</p></td></tr><tr><td><p>问题B2:                                                                 提出者：</p></td></tr><tr><td><p>产生原因：</p></td></tr><tr><td><p>评审意见：                                                               签字：          </p><p>评审意见：                                                               签字：          </p></td></tr><tr><td><p>解决措施：                                                                               </p></td></tr><tr><td><p>负责人：                              完成时间：□       年    月    日   □         阶段</p></td></tr><tr><td><p>评审结论:□本问题已有解决措施 □本问题无解决措施（□请示上层决议 □其他：                     ）</p></td></tr><tr><td><p>未决问题处理方法：                                                                       </p><p>签字：                年   月   日</p></td></tr><tr><td><p>决议结论:□本问题已关闭 □本问题未关闭（□下阶段评审追踪 □其他：                              ）</p></td></tr><tr><td><p>问题B3:                                                                 提出者：</p></td></tr><tr><td><p>产生原因：</p></td></tr><tr><td><p>评审意见：                                                               签字：          </p><p>评审意见：                                                               签字：          </p></td></tr><tr><td><p>解决措施：                                                                               </p></td></tr><tr><td><p>负责人：                              完成时间：□       年    月    日   □         阶段</p></td></tr><tr><td><p>评审结论:□本问题已有解决措施 □本问题无解决措施（□请示上层决议 □其他：                     ）</p></td></tr><tr><td><p>未决问题处理方法：                                                                       </p><p>签字：                年   月   日</p></td></tr><tr><td><p>决议结论:□本问题已关闭 □本问题未关闭（□下阶段评审追踪 □其他：                              ）</p></td></tr></table>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">四．对上阶段评审遗留问题追踪：</text><text style=\"italic\">（在适用的选项前□内划√，不适用选项空白）</text>"
+        },
+        {
+            "type": "text",
+            "content": "□上阶段评审无遗留问题 □上阶段评审有遗留问题"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p>问题C1：对应于上阶段评审遗留问题(    ) ；提出者：                 </p></td></tr><tr><td><p>遗留问题处理追踪：                                                                       </p><p> </p><p> </p></td></tr><tr><td><p>追踪结论：□遗留问题已解决 □遗留问题未解决<em>（遗留问题未解决时填写下表）</em></p><p>评审意见：                                                               签字：          </p><p>评审意见：                                                               签字：          </p><p>评审意见：                                                               签字：          </p></td></tr><tr><td><p>解决措施：                                                                               </p></td></tr><tr><td><p>负责人：                              完成时间：□       年    月    日   □         阶段</p></td></tr><tr><td><p>评审结论:□本问题已有解决措施 □本问题无解决措施（□请示上层决议 □其他：                     ）</p></td></tr><tr><td><p>未决问题处理方法：                                                                           </p><p>签字：                年   月   日</p></td></tr><tr><td><p>决议结论:□本问题已关闭 □本问题未关闭（□下阶段评审追踪 □其他：                              ）</p></td></tr></table>"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p>问题C2：对应于上阶段评审遗留问题(    ) ；提出者：                 </p></td></tr><tr><td><p>遗留问题处理追踪：                                                                       </p><p> </p><p> </p><p> </p></td></tr><tr><td><p>追踪结论：□遗留问题已解决 □遗留问题未解决<em>（遗留问题未解决时填写下表）</em></p><p>评审意见：                                                               签字：          </p><p>评审意见：                                                               签字：          </p><p>评审意见：                                                               签字：          </p></td></tr><tr><td><p>解决措施：                                                                               </p></td></tr><tr><td><p>负责人：                              完成时间：□       年    月    日   □         阶段</p></td></tr><tr><td><p>评审结论:□本问题已有解决措施 □本问题无解决措施（□请示上层决议 □其他：                     ）</p></td></tr><tr><td><p>未决问题处理方法：                                                                           </p><p>签字：                年   月   日</p></td></tr><tr><td><p>决议结论:□本问题已关闭 □本问题未关闭（□下阶段评审追踪 □其他：                              ）</p></td></tr></table>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">五．本次评审问题记录：</text><text style=\"italic\">（在适用的选项前□内划√，不适用选项空白）</text>"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p>问题D1:                                                                提出者：</p></td></tr><tr><td><p>产生原因：</p></td></tr><tr><td><p>评审意见：                                                               签字：          </p><p>评审意见：                                                               签字：          </p><p>评审意见：                                                               签字：          </p></td></tr><tr><td><p>解决措施：                                                                               </p></td></tr><tr><td><p>负责人：                              完成时间：□       年    月    日   □         阶段</p></td></tr><tr><td><p>评审结论:□本问题已有解决措施 □本问题无解决措施（□请示上层决议 □其他：                     ）</p></td></tr><tr><td><p>未决问题处理方法：                                                                       </p><p>签字：                年   月   日</p></td></tr><tr><td><p>决议结论:□本问题已关闭 □本问题未关闭（□下阶段评审追踪 □其他：                              ）</p></td></tr></table>"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p>问题D2:                                                                提出者：</p></td></tr><tr><td><p>产生原因：</p></td></tr><tr><td><p>评审意见：                                                               签字：          </p><p>评审意见：                                                               签字：          </p><p>评审意见：                                                               签字：          </p></td></tr><tr><td><p>解决措施：                                                                               </p></td></tr><tr><td><p>负责人：                              完成时间：□       年    月    日   □         阶段</p></td></tr><tr><td><p>评审结论:□本问题已有解决措施 □本问题无解决措施（□请示上层决议 □其他：                     ）</p></td></tr><tr><td><p>未决问题处理方法：                                                                       </p><p>签字：                年   月   日</p></td></tr><tr><td><p>决议结论:□本问题已关闭 □本问题未关闭（□下阶段评审追踪 □其他：                              ）</p></td></tr></table>"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p>问题D3:                                                                提出者：</p></td></tr><tr><td><p>产生原因：</p></td></tr><tr><td><p>评审意见：                                                               签字：          </p><p>评审意见：                                                               签字：          </p><p>评审意见：                                                               签字：          </p></td></tr><tr><td><p>解决措施：                                                                               </p></td></tr><tr><td><p>负责人：                              完成时间：□       年    月    日   □         阶段</p></td></tr><tr><td><p>评审结论:□本问题已有解决措施 □本问题无解决措施（□请示上层决议 □其他：                     ）</p></td></tr><tr><td><p>未决问题处理方法：                                                                       </p><p>签字：                年   月   日</p></td></tr><tr><td><p>决议结论:□本问题已关闭 □本问题未关闭（□下阶段评审追踪 □其他：                              ）</p></td></tr></table>"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">六．评审结论：</text>"
+        },
+        {
+            "type": "text",
+            "content": "评审通过，直接进入下一阶段。"
+        },
+        {
+            "type": "text",
+            "content": "□ 评审通过，完成评审记录中的修改后进入下一阶段。"
+        },
+        {
+            "type": "text",
+            "content": "□ 评审基本通过，需补充资料，重新提交批准：<text style=\"underline\">                                            </text>"
+        },
+        {
+            "type": "text",
+            "content": "□ 评审未通过，重新整理后提交再次评审。"
+        },
+        {
+            "type": "text",
+            "content": "<text style=\"bold\">七．评审人员签字：</text><text style=\"italic\">（打印前填写职务、部门、姓名，需与评审计划中人员一致）</text>"
+        },
+        {
+            "type": "table",
+            "content": "<table><tr><td><p>序号</p></td><td><p>职务</p></td><td><p>部门</p></td><td><p>姓名</p></td><td><p>签名</p></td><td><p>日期</p></td></tr><tr><td><p>1</p></td><td><p>技术负责人</p></td><td><p>智能产品部</p></td><td><p>侯广伟</p></td><td></td><td><p>         年   月   日</p></td></tr><tr><td><p>2</p></td><td><p>软件主管</p></td><td><p>智能产品部</p></td><td><p>侯广伟</p></td><td></td><td><p>         年   月   日</p></td></tr><tr><td><p>3</p></td><td><p>软件工程师</p></td><td><p>智能产品部</p></td><td><p>王迪</p></td><td></td><td><p>         年   月   日</p></td></tr><tr><td><p>4</p></td><td><p>对本阶段不负直接责任的人员</p></td><td><p>智能产品部</p></td><td><p>谢雪</p></td><td></td><td><p>         年   月   日</p></td></tr><tr><td><p>5</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>6</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>7</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>8</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>9</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>10</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>11</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>12</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>13</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>14</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>15</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>16</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>17</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>18</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>19</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>20</p></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+        },
+        {
+            "type": "header",
+            "content": "文件编号：<text style=\"underline\">PT9L-RFPL01</text> V1.0                                       软件设计方案评审记录"
+        },
+        {
+            "type": "footer",
+            "content": "第  页 / 共 5 页                                        "
+        }
+    ]
+]

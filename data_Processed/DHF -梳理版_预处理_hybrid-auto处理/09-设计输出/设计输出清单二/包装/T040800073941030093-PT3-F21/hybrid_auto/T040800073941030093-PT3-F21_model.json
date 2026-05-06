@@ -1,0 +1,383 @@
+[
+    [
+        {
+            "type": "table",
+            "bbox": [
+                0.014,
+                0.048,
+                0.758,
+                0.142
+            ],
+            "angle": 0,
+            "content": "<table><tr><td>商品ID</td><td>SKU编码</td><td>商品名称</td><td>69码</td><td>产品型号</td></tr><tr><td>108237</td><td>3017452</td><td>iHealth 非接触式红外体温仪</td><td>6971177140117</td><td>PT3</td></tr></table>"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.345,
+                0.411,
+                0.428,
+                0.558
+            ],
+            "angle": 0,
+            "content": "20mm",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.449,
+                0.489,
+                0.517,
+                0.504
+            ],
+            "angle": 0,
+            "content": "背面有VOID防拆字样"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.784,
+                0.081,
+                0.827,
+                0.096
+            ],
+            "angle": 0,
+            "content": "图纸提供单位",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.811,
+                0.113,
+                0.931,
+                0.132
+            ],
+            "angle": 0,
+            "content": "北京爱和健康科技有限公司",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.784,
+                0.16,
+                0.814,
+                0.174
+            ],
+            "angle": 0,
+            "content": "项目名称",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.81,
+                0.186,
+                0.842,
+                0.204
+            ],
+            "angle": 0,
+            "content": "防拆签",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.784,
+                0.227,
+                0.806,
+                0.24
+            ],
+            "angle": 0,
+            "content": "版本号",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.81,
+                0.254,
+                0.831,
+                0.269
+            ],
+            "angle": 0,
+            "content": "V1.0",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.785,
+                0.284,
+                0.803,
+                0.298
+            ],
+            "angle": 0,
+            "content": "规格",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.81,
+                0.328,
+                0.848,
+                0.344
+            ],
+            "angle": 0,
+            "content": "PT3-F21",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.784,
+                0.36,
+                0.813,
+                0.374
+            ],
+            "angle": 0,
+            "content": "设计时间",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.81,
+                0.388,
+                0.858,
+                0.404
+            ],
+            "angle": 0,
+            "content": "2019.04.03",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.784,
+                0.426,
+                0.807,
+                0.44
+            ],
+            "angle": 0,
+            "content": "设计师",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.81,
+                0.451,
+                0.832,
+                0.467
+            ],
+            "angle": 0,
+            "content": "李杰",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.784,
+                0.482,
+                0.827,
+                0.495
+            ],
+            "angle": 0,
+            "content": "材质工艺要求",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.784,
+                0.508,
+                0.924,
+                0.525
+            ],
+            "angle": 0,
+            "content": "材质要求: 透明PET 0.025不干胶",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.784,
+                0.563,
+                0.853,
+                0.58
+            ],
+            "angle": 0,
+            "content": "制作工序： 模切",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.784,
+                0.602,
+                0.928,
+                0.619
+            ],
+            "angle": 0,
+            "content": "工艺要求: 色相正确、印迹牢固、",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.832,
+                0.624,
+                0.927,
+                0.641
+            ],
+            "angle": 0,
+            "content": "套印准确、各色套印、",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.832,
+                0.646,
+                0.964,
+                0.663
+            ],
+            "angle": 0,
+            "content": "不露杂色，套印误差≤0.1mm",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.832,
+                0.668,
+                0.922,
+                0.685
+            ],
+            "angle": 0,
+            "content": "模切走位≤±0.5mm",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.832,
+                0.69,
+                0.935,
+                0.708
+            ],
+            "angle": 0,
+            "content": "本件要求通过RoHS测试",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.784,
+                0.72,
+                0.845,
+                0.737
+            ],
+            "angle": 0,
+            "content": "颜色及专色：无",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.784,
+                0.77,
+                0.813,
+                0.784
+            ],
+            "angle": 0,
+            "content": "纹理要求",
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.823,
+                0.79,
+                0.855,
+                0.84
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.866,
+                0.788,
+                0.901,
+                0.804
+            ],
+            "angle": 0,
+            "content": "纹理方向",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.868,
+                0.807,
+                0.896,
+                0.818
+            ],
+            "angle": 0,
+            "content": "选择正确的",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.868,
+                0.82,
+                0.896,
+                0.83
+            ],
+            "angle": 0,
+            "content": "方向图标拖",
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.868,
+                0.832,
+                0.896,
+                0.842
+            ],
+            "angle": 0,
+            "content": "动到图纸里",
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.908,
+                0.792,
+                0.941,
+                0.838
+            ],
+            "angle": 0,
+            "content": null
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.889,
+                0.898,
+                0.981,
+                0.916
+            ],
+            "angle": 0,
+            "content": "比例 1:1 单位 mm"
+        }
+    ]
+]

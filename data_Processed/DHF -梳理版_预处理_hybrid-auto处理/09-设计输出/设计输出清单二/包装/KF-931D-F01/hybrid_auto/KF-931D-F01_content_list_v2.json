@@ -1,0 +1,256 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "⑧ 尺寸序号"
+                    }
+                ]
+            },
+            "bbox": [
+                899,
+                51,
+                949,
+                71
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/2d6ea6d0b1faba6d8e274f04413918413db37d33ded25ed6c60197ba44e402a7.jpg"
+                },
+                "content": "Isometric line drawing of a multi-story building facade with slatted windows (no text or symbols)",
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "andon "
+                    }
+                ],
+                "image_footnote": []
+            },
+            "sub_type": "natural_image",
+            "bbox": [
+                224,
+                93,
+                488,
+                255
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/b2bcb7f13bb25e2c5cf72a4cd0eddcc1891c1d1574de1b6c71874689e9656aee.jpg"
+                },
+                "content": "③710.0(Min.)\n④160.0(Max.)",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                126,
+                330,
+                210,
+                576
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3291b1a2a8806c467461b437b67713174d0aa8c64d10395f461063b079034100.jpg"
+                },
+                "content": "①1200.028\nØ1000.00",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                294,
+                284,
+                540,
+                582
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/56b14684f442942a53f6ce4810934a47a3f4afaab7062dfce164707bb4574174.jpg"
+                },
+                "content": "Diagram showing four labeled components of a mechanical or architectural structure, including slats, cubes, and a panel.",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                612,
+                142,
+                937,
+                637
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "技术要求"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                124,
+                695,
+                174,
+                718
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. 底铺板支承面积不小于 0.42m²"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. 托盘两对角线长度之差不大于 15.6"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. 平面度：顶铺板偏离预定水平面垂直偏差不大于 7.0"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. 托盘动载不小于 1000kg"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. 若构件使用钉紧固，要求钉端头、钉尖不得伸出构件"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. 托盘要求通过《联运通用平托盘试验方法》（GB/T 4996-1996）测试"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                59,
+                724,
+                363,
+                831
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d0e7638df84781bc7c4f2552f97a0ad45a0ead985c5a77331ad00909f942c9fd.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>4</td><td>底铺板</td><td>胶合板</td><td></td></tr><tr><td>3</td><td>垫块</td><td>刨花板</td><td></td></tr><tr><td>2</td><td>纵梁板</td><td>胶合板</td><td></td></tr><tr><td>1</td><td>顶铺板</td><td>胶合板</td><td></td></tr><tr><td>序号</td><td>构件名称</td><td>材料</td><td>备注</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                755,
+                718,
+                964,
+                841
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/08a1a1a657940df3541838aa03b72f5306354819cc20f16913ecb3f19eb22a9e.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">KD-931D</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td>20/07/5</td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">托盘</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td>20/7/5</td><td>.XX</td><td></td><td>Scale</td><td>1:20</td><td>Drawing NO.</td><td colspan=\"2\">KD-931D-F01</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td>2/5</td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                16,
+                841,
+                966,
+                957
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "1\n2\n3\n4\n5\n6\n7\n8 "
+                    }
+                ]
+            },
+            "bbox": [
+                16,
+                67,
+                28,
+                766
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "A | B | C | D | E | F | G | H "
+                    }
+                ]
+            },
+            "bbox": [
+                71,
+                32,
+                906,
+                48
+            ]
+        }
+    ]
+]

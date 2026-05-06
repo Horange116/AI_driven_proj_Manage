@@ -1,0 +1,521 @@
+[
+    {
+        "type": "text",
+        "text": "送检公司：东莞市上合旺盈印刷有限公司营业七部付汉清",
+        "bbox": [
+            218,
+            186,
+            729,
+            205
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "送检公司地址：东莞市东城区主山振兴路329号旺盈工业园",
+        "bbox": [
+            218,
+            214,
+            737,
+            233
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以下测试样品是由申请者提供及确认：红外体温计",
+        "bbox": [
+            220,
+            243,
+            667,
+            261
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "样品编号 :NA",
+        "bbox": [
+            218,
+            290,
+            480,
+            307
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "批号 :NA",
+        "bbox": [
+            218,
+            316,
+            480,
+            332
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "订单/工程单号 :NA",
+        "bbox": [
+            220,
+            342,
+            482,
+            359
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "供应商 :NA",
+        "bbox": [
+            220,
+            368,
+            480,
+            384
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "送检数量 :1PCS",
+        "bbox": [
+            220,
+            392,
+            500,
+            409
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "客户名称/代码 :A1939",
+        "bbox": [
+            220,
+            418,
+            510,
+            435
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "样品接收日期 :2017.07.18",
+        "bbox": [
+            218,
+            443,
+            561,
+            461
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "测试周期 :2017.07.18-2017.07.18 ",
+        "bbox": [
+            218,
+            469,
+            672,
+            486
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "测试方法 :请参见下一页",
+        "bbox": [
+            220,
+            495,
+            581,
+            512
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/f091ea2352a043e97ef0a0a8a035378a2415516f8ddeca396e9d55141f771ca7.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"3\">测试要求</td><td rowspan=\"2\">结果</td></tr><tr><td colspan=\"2\">参考标准</td><td>测试项目</td></tr><tr><td>1</td><td>客户要求</td><td>抗压</td><td>合格</td></tr></table>",
+        "bbox": [
+            121,
+            567,
+            880,
+            656
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "更多测试细节请参考以下页面",
+        "bbox": [
+            379,
+            674,
+            668,
+            690
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "旺盈彩盒纸品有限公司实验室授权以下人员测试并签核本报告",
+        "bbox": [
+            176,
+            715,
+            816,
+            736
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "测试: 蔡建川",
+        "bbox": [
+            124,
+            796,
+            295,
+            816
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/54838b52630a97d9eef73056cde4e02d4e17acb623b87db0481a6c198540b970.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "XinXin Paper Co., Ltd.\n审核: 许刚\n物理实验室",
+        "sub_type": "text_image",
+        "bbox": [
+            662,
+            769,
+            838,
+            847
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": ":TNAL\nvoion®\n旺盈彩盒 ",
+        "bbox": [
+            50,
+            27,
+            218,
+            103
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "旺盈彩盒纸品有限公司",
+        "bbox": [
+            344,
+            36,
+            650,
+            61
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "GLORY COLOUR BOXES& PAPER LIMITED ",
+        "bbox": [
+            263,
+            78,
+            732,
+            96
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "报告日期：2017.07.18",
+        "bbox": [
+            85,
+            124,
+            299,
+            142
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Test Report ",
+        "bbox": [
+            430,
+            124,
+            573,
+            147
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Report No:VQA2017071822",
+        "bbox": [
+            655,
+            124,
+            915,
+            143
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "东莞市上合旺盈印刷有限公司旺盈实验室",
+        "bbox": [
+            90,
+            967,
+            394,
+            982
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "Page 1 of 2 ",
+        "bbox": [
+            445,
+            966,
+            549,
+            982
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "地址：东莞市东城区主山振兴路329#",
+        "bbox": [
+            631,
+            967,
+            905,
+            982
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "报告日期：2017.07.18",
+        "bbox": [
+            85,
+            124,
+            299,
+            142
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Test Report ",
+        "bbox": [
+            430,
+            124,
+            573,
+            147
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Report No:VQA2017071822",
+        "bbox": [
+            655,
+            124,
+            915,
+            143
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1、抗压测试：",
+        "text_level": 1,
+        "bbox": [
+            124,
+            159,
+            247,
+            175
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参数:",
+        "text_level": 1,
+        "bbox": [
+            137,
+            181,
+            191,
+            199
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验设备：微电脑抗压试验仪; 型号: HD-A505S-1500",
+        "bbox": [
+            218,
+            204,
+            759,
+            221
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "压力方向：顶面—底面",
+        "bbox": [
+            218,
+            227,
+            502,
+            244
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "速度 : 12.7mm/min",
+        "bbox": [
+            218,
+            250,
+            507,
+            268
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验环境： $25 \\pm 5^{\\circ} \\mathrm{C}$ ； $65 \\pm 15 \\% \\mathrm{RH}$ ",
+        "bbox": [
+            220,
+            273,
+            581,
+            291
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b51acc9eae04e2c68fd5714e5afd227babbe7e673bb373157303d7dc0ae20399.jpg",
+        "table_caption": [
+            "测试结果: "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>样品编号</td><td>标准值(KGF)</td><td>测试值(KGF)</td><td>判定</td></tr><tr><td>1</td><td>130</td><td>410</td><td>合格</td></tr></table>",
+        "bbox": [
+            121,
+            330,
+            623,
+            394
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c511b7611ca23c57c66897786048624f956d4ac38dc6d6f70fc3b1de75dce4df.jpg",
+        "image_caption": [
+            "测试图片:"
+        ],
+        "image_footnote": [],
+        "content": "Experimental setup with a metal frame and a cardboard box on a wooden base, no visible text or symbols",
+        "sub_type": "natural_image",
+        "bbox": [
+            152,
+            455,
+            502,
+            646
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "chart",
+        "img_path": "images/822b17d1e1c9526f4b2cf79e14b6f1c674e343cf590ae884b12ecb56909cadb9.jpg",
+        "content": "| 时间       | 数值   |\n| ---------- | ------ |\n| 0          | 174.000 |\n| 1          | 18.302 |\n| 2          | 174.000 |\n| 3          | 410.000 |\n| 4          |        |",
+        "chart_caption": [],
+        "chart_footnote": [],
+        "sub_type": "line",
+        "bbox": [
+            522,
+            455,
+            870,
+            646
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*报告结束\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\* ",
+        "bbox": [
+            35,
+            673,
+            947,
+            688
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": ":TNAL\nvoion®\n旺盈彩盒 ",
+        "bbox": [
+            50,
+            27,
+            218,
+            103
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "旺盈彩盒纸品有限公司",
+        "bbox": [
+            344,
+            36,
+            650,
+            61
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "GLORY COLOUR BOXES& PAPER LIMITED ",
+        "bbox": [
+            263,
+            78,
+            732,
+            96
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "东莞市上合旺盈印刷有限公司旺盈实验室",
+        "bbox": [
+            90,
+            967,
+            394,
+            982
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "Page 2 of 2 ",
+        "bbox": [
+            445,
+            966,
+            549,
+            982
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "地址：东莞市东城区主山振兴路329#",
+        "bbox": [
+            631,
+            967,
+            905,
+            982
+        ],
+        "page_idx": 1
+    }
+]

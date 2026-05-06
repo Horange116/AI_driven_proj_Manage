@@ -1,0 +1,927 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Clinical accuracy report"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "iHealth PT9L Infrared No-Touch Forehead Thermometer"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Purpose ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "is_numbered_style": true,
+                    "level": 3,
+                    "section_number": "1.1.1."
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "To verify the accuracy and repeatability of the Infrared No-Touch Forehead Thermometer, according to requirement in ATSEM 1965-98."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3,
+                    "is_numbered_style": false,
+                    "level": 3
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Abbreviations",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4,
+                    "is_numbered_style": true,
+                    "level": 3,
+                    "section_number": "1.1.2."
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "DUT:",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " device under test, iHealth PT9L Infrared No-Touch Forehead Thermometer in this study"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "RCT: ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "Reference clinical thermometer in this study"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Device tested description  ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7,
+                    "is_numbered_style": true,
+                    "level": 3,
+                    "section_number": "1.1.3."
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "2.1 Intended use",
+                                    "style": [
+                                        "bold",
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "The Infrared No-Touch Forehead Thermometer is intended for the intermittent measurement of body temperature from the forehead skin surface on people of all ages. It can be used by consumers in the household environment and by healthcare providers."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "2.2 "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "Device description",
+                                    "style": [
+                                        "bold",
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "The iHealth PT9L Infrared No-Touch Forehead Thermometer is hand-held, reusable, battery operated device, which can measure human body temperature on the skin temperature on one's forehead. Its operation is based on measuring the natural thermal radiation from the central forehead. Put the probe of the thermometer is onto the skin of a patient’s central forehead. Pressing the activation button to start the measurement of proposed infrared radiation. The electrical signal read out from the detector is fed to the circuit for amplification and calculation. The final measured temperature will be appeared on a LCD display."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "The photo of the device is as follows:"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "image",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "image",
+                                            "image_path": "87fc20bee201bb466d37eada2a838b44e1eef56f226e27be869becb3dad92b9f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "2.3 Contraindications",
+                                    "style": [
+                                        "bold",
+                                        "underline"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "It is not recommended for people whose forehead has local lesions, such as inflammation, trauma, recent surgery, etc.."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "2.4 See the user guide for how to operating the device."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Reference clinical thermometer:",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17,
+                    "is_numbered_style": true,
+                    "level": 3,
+                    "section_number": "1.1.4."
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Electronic thermometer is used as reference clinical thermometer, using a water bath to verify the laboratory accuracy of the reference thermometer  before and after the test."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Subject participate criteria",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19,
+                    "is_numbered_style": true,
+                    "level": 3,
+                    "section_number": "1.1.5."
+                },
+                {
+                    "type": "list",
+                    "attribute": "ordered",
+                    "ilevel": 0,
+                    "blocks": [
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "A total number of subject is no less than 90."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "Within each age group both afebrile and febrile subjects were represented by nearly equal numbers."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "Oral temperature of 37.5℃ or higher is considered as febrile subjects."
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "Subject group is as follows:"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 20
+                },
+                {
+                    "type": "list",
+                    "attribute": "unordered",
+                    "ilevel": 0,
+                    "blocks": [
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "Group 1 – infants, form 0-12 months old:  no less than 30 subjects"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "Group 2 – children, form1-5 years old: no less than 30 subjects"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "Group 3– adults, older than 5 years old: no less than 30 subjects"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 21
+                },
+                {
+                    "type": "list",
+                    "attribute": "ordered",
+                    "ilevel": 0,
+                    "blocks": [
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "Exclusive criteria"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 22
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Subjects with medical conditions which might screw clinical accuracy validation results such as inflammation at the measuring site Subjects who have taken antipyretics in the preceding 120 min."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Test Environment ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 24,
+                    "is_numbered_style": true,
+                    "level": 3,
+                    "section_number": "1.1.6."
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Temperature is: 23±2℃"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 25
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Humidity is : 55±10%"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 26
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Test method",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 27,
+                    "is_numbered_style": true,
+                    "level": 3,
+                    "section_number": "1.1.7."
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Step 1: Sequence the Participants and sign Serial numbers for them according to participant time."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 28,
+                    "anchor": "OLE_LINK1"
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Step 2: using a water bath to verify the laboratory accuracy of the reference thermometer."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 29
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Step 3: The supervisor take the DUT, prepare to take measurement for the first subject."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 30
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Step 4: Perform three consecutive measurement procedures with the time interval no more than 1 min between each reading. And record the test results."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 31
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Step 5: Take one measurement with the RCT to get oral temperature, and record the test results."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 32
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Step 6: Repeat step 3 to step 5 to complete all the measurements of the participants."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 33
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Note, in this step, the participants signed with odd numbers were measured with DUT first and then with RCT, participants signed with even numbers were measured with RCT first and then with DUT."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 34
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Step 6.using a water bath to verify the laboratory accuracy of the reference thermometer again."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 35
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Test results",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 36,
+                    "is_numbered_style": true,
+                    "level": 3,
+                    "section_number": "1.1.8."
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Distribution of subjects",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 37,
+                    "is_numbered_style": true,
+                    "level": 3,
+                    "section_number": "1.1.9."
+                },
+                {
+                    "type": "list",
+                    "attribute": "unordered",
+                    "ilevel": 3,
+                    "blocks": [
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "Group 1 – infants, form 0-12 months old"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "Group 2 – children, form1-5 years old"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "Group 3– adults, older than 5 years old"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 38
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><p><a></a>　</p></td><td><p><a></a>Group 1</p></td><td><p>Group 2</p></td><td><p>Group 3</p></td><td><p>Total</p></td></tr><tr><td><p>Participants</p></td><td><p>40</p></td><td><p>40</p></td><td><p>50</p></td><td><p>130</p></td></tr><tr><td><p>F</p></td><td><p>18</p></td><td><p>22</p></td><td><p>26</p></td><td><p>66(50.8%)</p></td></tr><tr><td><p>M</p></td><td><p>22</p></td><td><p>18</p></td><td><p>24</p></td><td><p>64(49.2%)</p></td></tr><tr><td><p><a></a>Febrile</p></td><td><p>16</p></td><td><p>15</p></td><td><p>20</p></td><td><p>51(39.2%)</p></td></tr><tr><td><p>Afebrile</p></td><td><p>24</p></td><td><p>25</p></td><td><p>30</p></td><td><p>79(60.8%)</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 39,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 39
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Test results: There was no significant difference between the infrared thermometer and the oral temperature in different age groups. ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "In the t test, p>0.05 means there is no significant difference between the two groups of data"
+                                },
+                                {
+                                    "type": "text",
+                                    "content": ".",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 40,
+                    "is_numbered_style": true,
+                    "level": 3,
+                    "section_number": "1.1.10."
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td></td><td><p>Group 1</p></td><td><p>Group 2</p></td><td><p>Group 3</p></td></tr><tr><td><p>Clinical bias(℃)</p></td><td><p>-0.07</p></td><td><p>-0.05</p></td><td><p>-0.05</p></td></tr><tr><td><p>Standard deviation</p></td><td><p>0.1</p></td><td><p>0.08</p></td><td><p>0.1</p></td></tr><tr><td><p>Limits of agreement</p></td><td><p>0.2</p></td><td><p>0.17</p></td><td><p>0.19</p></td></tr><tr><td><p>Repeatability(℃)</p></td><td><p>0.06</p></td><td><p>0.07</p></td><td><p>0.08</p></td></tr><tr><td><p>P（t test）</p></td><td><p>0.72&gt;0.05</p></td><td><p>0.79&gt;0.05</p></td><td><p>0.84&gt;0.05</p></td></tr><tr><td><p>Confidence interval of 95% </p></td><td><p>[-0.10,-0.03]</p></td><td><p>[-0.08,-0.03]</p></td><td><p>[-0.05,-0.02]</p></td></tr><tr><td><p>Clinical bias</p></td><td><p>-0.07</p></td><td><p>-0.05</p></td><td><p>-0.05</p></td></tr><tr><td><p>Standard deviation</p></td><td><p>0.1</p></td><td><p>0.08</p></td><td><p>0.1</p></td></tr><tr><td><p>Limits of agreement</p></td><td><p>0.2</p></td><td><p>0.17</p></td><td><p>0.19</p></td></tr><tr><td><p>Uncertainty</p></td><td><p>+/-0.10</p></td><td><p>+/-0.08</p></td><td><p>+/-0.10</p></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 41,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 41
+                },
+                {
+                    "type": "title",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "Test data：In this test, Braun infrared thermometer NTF3000 was added.",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 42,
+                    "is_numbered_style": true,
+                    "level": 3,
+                    "section_number": "1.1.11."
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"15\"><p>Group 1（Infants）</p></td></tr><tr><td rowspan=\"2\"><p>No.</p></td><td><p>Gender</p></td><td><p>Age</p></td><td colspan=\"3\"><p>DUT</p></td><td rowspan=\"2\"><p>σj</p></td><td rowspan=\"2\"><p>σ<sub>j</sub><sup>2</sup></p></td><td><p>RCT</p></td><td rowspan=\"2\"><p>Braun</p></td><td rowspan=\"2\"><p>△<sub>cb1=<br/>ti1-RCT</sub></p></td><td rowspan=\"2\"><p>△<sub>cb2=<br/>ti1-Braun</sub></p></td><td rowspan=\"2\"><p>D1=<br/>ti2-ti1</p></td><td rowspan=\"2\"><p>D2=<br/>ti3-ti2</p></td><td rowspan=\"2\"><p>D3=<br/>ti1-ti3</p></td></tr><tr><td><p>(F= Female/ M=Male)</p></td><td><p>(month)</p></td><td><p>ti1</p></td><td><p>ti2</p></td><td><p>ti3</p></td><td><p>tRi</p></td></tr><tr><td><p>1</p></td><td><p>F</p></td><td><p>3</p></td><td><p>38.2</p></td><td><p>38.3</p></td><td><p>38.2</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.3</p></td><td><p>38.4</p></td><td><p>-0.10 </p></td><td><p>-0.20 </p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td></tr><tr><td><p>2</p></td><td><p>M</p></td><td><p>2</p></td><td><p>36.8</p></td><td><p>36.6</p></td><td><p>36.6</p></td><td><p>0.115</p></td><td><p>0.013</p></td><td><p>36.8</p></td><td><p>36.9</p></td><td><p>0.00 </p></td><td><p>-0.10 </p></td><td><p>-0.2</p></td><td><p>0</p></td><td><p>0.2</p></td></tr><tr><td><p>3</p></td><td><p>F</p></td><td><p>1.5</p></td><td><p>36.8</p></td><td><p>36.9</p></td><td><p>36.9</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.9</p></td><td><p>37</p></td><td><p>-0.10 </p></td><td><p>-0.20 </p></td><td><p>0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td></tr><tr><td><p>4</p></td><td><p>F</p></td><td><p>1.5</p></td><td><p>38.7</p></td><td><p>38.7</p></td><td><p>38.5</p></td><td><p>0.115</p></td><td><p>0.013</p></td><td><p>38.7</p></td><td><p>38.8</p></td><td><p>0.00 </p></td><td><p>-0.10 </p></td><td><p>0</p></td><td><p>-0.2</p></td><td><p>0.2</p></td></tr><tr><td><p>5</p></td><td><p>M</p></td><td><p>2</p></td><td><p>38</p></td><td><p>38.2</p></td><td><p>38.2</p></td><td><p>0.115</p></td><td><p>0.013</p></td><td><p>38.2</p></td><td><p>38.3</p></td><td><p>-0.20 </p></td><td><p>-0.30 </p></td><td><p>0.2</p></td><td><p>0</p></td><td><p>-0.2</p></td></tr><tr><td><p>6</p></td><td><p>F</p></td><td><p>1</p></td><td><p>37.8</p></td><td><p>37.8</p></td><td><p>37.7</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37.7</p></td><td><p>37.8</p></td><td><p>0.10 </p></td><td><p>0.00 </p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0.1</p></td></tr><tr><td><p>7</p></td><td><p>M</p></td><td><p>0.5</p></td><td><p>38.8</p></td><td><p>38.8</p></td><td><p>38.7</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.8</p></td><td><p>38.9</p></td><td><p>0.00 </p></td><td><p>-0.10 </p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0.1</p></td></tr><tr><td><p>8</p></td><td><p>F</p></td><td><p>0.5</p></td><td><p>38.5</p></td><td><p>38.6</p></td><td><p>38.6</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.7</p></td><td><p>38.6</p></td><td><p>-0.20 </p></td><td><p>-0.10 </p></td><td><p>0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td></tr><tr><td><p>9</p></td><td><p>M</p></td><td><p>3</p></td><td><p>36.8</p></td><td><p>36.9</p></td><td><p>36.8</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37</p></td><td><p>37</p></td><td><p>-0.20 </p></td><td><p>-0.20 </p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td></tr><tr><td><p>10</p></td><td><p>M</p></td><td><p>1</p></td><td><p>37.6</p></td><td><p>37.5</p></td><td><p>37.5</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37.5</p></td><td><p>37.7</p></td><td><p>0.10 </p></td><td><p>-0.10 </p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>0.1</p></td></tr><tr><td><p>11</p></td><td><p>M</p></td><td><p>1</p></td><td><p>36.6</p></td><td><p>36.7</p></td><td><p>36.7</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.8</p></td><td><p>36.8</p></td><td><p>-0.20 </p></td><td><p>-0.20 </p></td><td><p>0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td></tr><tr><td><p>12</p></td><td><p>M</p></td><td><p>2</p></td><td><p>36.7</p></td><td><p>36.8</p></td><td><p>36.7</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.8</p></td><td><p>36.9</p></td><td><p>-0.10 </p></td><td><p>-0.20 </p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td></tr><tr><td><p>13</p></td><td><p>F</p></td><td><p>2.5</p></td><td><p>36.5</p></td><td><p>36.5</p></td><td><p>36.6</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.5</p></td><td><p>36.6</p></td><td><p>0.00 </p></td><td><p>-0.10 </p></td><td><p>0</p></td><td><p>0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>14</p></td><td><p>M</p></td><td><p>0.5</p></td><td><p>36.9</p></td><td><p>36.9</p></td><td><p>37</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37.1</p></td><td><p>37.2</p></td><td><p>-0.20 </p></td><td><p>-0.30 </p></td><td><p>0</p></td><td><p>0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>15</p></td><td><p>M</p></td><td><p>0.5</p></td><td><p>37.2</p></td><td><p>37.3</p></td><td><p>37.2</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37.1</p></td><td><p>37.3</p></td><td><p>0.10 </p></td><td><p>-0.10 </p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td></tr><tr><td><p>16</p></td><td><p>F</p></td><td><p>1</p></td><td><p>36.8</p></td><td><p>36.8</p></td><td><p>36.9</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.9</p></td><td><p>37</p></td><td><p>-0.10 </p></td><td><p>-0.20 </p></td><td><p>0</p></td><td><p>0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>17</p></td><td><p>M</p></td><td><p>1</p></td><td><p>36.6</p></td><td><p>36.6</p></td><td><p>36.6</p></td><td><p>0</p></td><td><p>0</p></td><td><p>36.7</p></td><td><p>36.8</p></td><td><p>-0.10 </p></td><td><p>-0.20 </p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td></tr><tr><td><p>18</p></td><td><p>M</p></td><td><p>3</p></td><td><p>36.6</p></td><td><p>36.6</p></td><td><p>36.7</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.6</p></td><td><p>36.8</p></td><td><p>0.00 </p></td><td><p>-0.20 </p></td><td><p>0</p></td><td><p>0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>19</p></td><td><p>F</p></td><td><p>2</p></td><td><p>37</p></td><td><p>37.1</p></td><td><p>37</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37.1</p></td><td><p>37.1</p></td><td><p>-0.10 </p></td><td><p>-0.10 </p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td></tr><tr><td><p>20</p></td><td><p>M</p></td><td><p>0.5</p></td><td><p>38.3</p></td><td><p>38.2</p></td><td><p>38.2</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.3</p></td><td><p>38.4</p></td><td><p>0.00 </p></td><td><p>-0.10 </p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>0.1</p></td></tr><tr><td><p>21</p></td><td><p>F</p></td><td><p>7</p></td><td><p>37.9</p></td><td><p>38</p></td><td><p>38</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.1</p></td><td><p>38</p></td><td><p>-0.20 </p></td><td><p>-0.10 </p></td><td><p>0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td></tr><tr><td><p>22</p></td><td><p>M</p></td><td><p>8</p></td><td><p>38.5</p></td><td><p>38.5</p></td><td><p>38.4</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.5</p></td><td><p>38.6</p></td><td><p>0.00 </p></td><td><p>-0.10 </p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0.1</p></td></tr><tr><td><p>23</p></td><td><p>M</p></td><td><p>10</p></td><td><p>38.8</p></td><td><p>38.9</p></td><td><p>38.9</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.9</p></td><td><p>39</p></td><td><p>-0.10 </p></td><td><p>-0.20 </p></td><td><p>0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td></tr><tr><td><p>24</p></td><td><p>F</p></td><td><p>10</p></td><td><p>38.7</p></td><td><p>38.7</p></td><td><p>38.5</p></td><td><p>0.115</p></td><td><p>0.013</p></td><td><p>38.6</p></td><td><p>38.8</p></td><td><p>0.10 </p></td><td><p>-0.10 </p></td><td><p>0</p></td><td><p>-0.2</p></td><td><p>0.2</p></td></tr><tr><td><p>25</p></td><td><p>M</p></td><td><p>10</p></td><td><p>37.8</p></td><td><p>37.8</p></td><td><p>37.7</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37.8</p></td><td><p>37.9</p></td><td><p>0.00 </p></td><td><p>-0.10 </p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0.1</p></td></tr><tr><td><p>26</p></td><td><p>M</p></td><td><p>10</p></td><td><p>36.8</p></td><td><p>36.8</p></td><td><p>36.7</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.8</p></td><td><p>36.9</p></td><td><p>0.00 </p></td><td><p>-0.10 </p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0.1</p></td></tr><tr><td><p>27</p></td><td><p>F</p></td><td><p>5</p></td><td><p>36.5</p></td><td><p>36.6</p></td><td><p>36.6</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.7</p></td><td><p>36.6</p></td><td><p>-0.20 </p></td><td><p>-0.10 </p></td><td><p>0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td></tr><tr><td><p>28</p></td><td><p>F</p></td><td><p>5</p></td><td><p>36.3</p></td><td><p>36.4</p></td><td><p>36.3</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.5</p></td><td><p>36.5</p></td><td><p>-0.20 </p></td><td><p>-0.20 </p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td></tr><tr><td><p>29</p></td><td><p>F</p></td><td><p>9</p></td><td><p>36.9</p></td><td><p>36.8</p></td><td><p>36.8</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.8</p></td><td><p>37</p></td><td><p>0.10 </p></td><td><p>-0.10 </p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>0.1</p></td></tr><tr><td><p>30</p></td><td><p>M</p></td><td><p>10</p></td><td><p>36.2</p></td><td><p>36.3</p></td><td><p>36.3</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.2</p></td><td><p>36.3</p></td><td><p>0.00 </p></td><td><p>-0.10 </p></td><td><p>0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td></tr><tr><td><p>31</p></td><td><p>M</p></td><td><p>10</p></td><td><p>36.7</p></td><td><p>36.8</p></td><td><p>36.7</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.8</p></td><td><p>36.9</p></td><td><p>-0.10 </p></td><td><p>-0.20 </p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td></tr><tr><td><p>32</p></td><td><p>M</p></td><td><p>10</p></td><td><p>36.9</p></td><td><p>36.9</p></td><td><p>37</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37.1</p></td><td><p>37.1</p></td><td><p>-0.20 </p></td><td><p>-0.20 </p></td><td><p>0</p></td><td><p>0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>33</p></td><td><p>F</p></td><td><p>10</p></td><td><p>36.3</p></td><td><p>36.4</p></td><td><p>36.3</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.4</p></td><td><p>36.5</p></td><td><p>-0.10 </p></td><td><p>-0.20 </p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td></tr><tr><td><p>34</p></td><td><p>M</p></td><td><p>8</p></td><td><p>36.6</p></td><td><p>36.6</p></td><td><p>36.6</p></td><td><p>0</p></td><td><p>0</p></td><td><p>36.7</p></td><td><p>36.8</p></td><td><p>-0.10 </p></td><td><p>-0.20 </p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td></tr><tr><td><p>35</p></td><td><p>F</p></td><td><p>6</p></td><td><p>36.1</p></td><td><p>36.1</p></td><td><p>36.2</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.1</p></td><td><p>36.2</p></td><td><p>0.00 </p></td><td><p>-0.10 </p></td><td><p>0</p></td><td><p>0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>36</p></td><td><p>F</p></td><td><p>5</p></td><td><p>37.6</p></td><td><p>37.7</p></td><td><p>37.7</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37.6</p></td><td><p>37.7</p></td><td><p>0.00 </p></td><td><p>-0.10 </p></td><td><p>0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td></tr><tr><td><p>37</p></td><td><p>F</p></td><td><p>10</p></td><td><p>37.8</p></td><td><p>37.9</p></td><td><p>37.8</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37.9</p></td><td><p>38</p></td><td><p>-0.10 </p></td><td><p>-0.20 </p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td></tr><tr><td><p>38</p></td><td><p>M</p></td><td><p>9</p></td><td><p>38</p></td><td><p>38</p></td><td><p>38.1</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.1</p></td><td><p>38.2</p></td><td><p>-0.10 </p></td><td><p>-0.20 </p></td><td><p>0</p></td><td><p>0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>39</p></td><td><p>F</p></td><td><p>10</p></td><td><p>36.5</p></td><td><p>36.4</p></td><td><p>36.5</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.6</p></td><td><p>36.7</p></td><td><p>-0.10 </p></td><td><p>-0.20 </p></td><td><p>-0.1</p></td><td><p>0.1</p></td><td><p>0</p></td></tr><tr><td><p>40</p></td><td><p>M</p></td><td><p>10</p></td><td><p>36.8</p></td><td><p>36.8</p></td><td><p>36.9</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.8</p></td><td><p>36.9</p></td><td><p>0.00 </p></td><td><p>-0.10 </p></td><td><p>0</p></td><td><p>0.1</p></td><td><p>-0.1</p></td></tr><tr><td colspan=\"15\"><p>N=40<br/>PT9L Repeatability: Sr = 0.06</p></td></tr><tr><td colspan=\"7\" rowspan=\"6\"><p><strong>PT9L and RCT</strong><br/>Clinical bias: Average(△cb1) = -0.07<br/>Standard deviation:σ△cb1 = 0.10<br/>Limits of agreement:LA1 = 0.20<br/>Uncertainty: +/-0.10</p></td><td colspan=\"8\" rowspan=\"6\"><p><strong>PT9L and Braun</strong><br/>Clinical bias: Average(△cb2) = -0.15<br/>Standard deviation:σ△cb2 = 0.06<br/>Limits of agreement:LA2 = 0.13<br/>Uncertainty: +/-0.06</p></td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 43,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 43
+                }
+            ],
+            "discarded_blocks": [],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"15\"><p>Group 2（Children）</p></td></tr><tr><td rowspan=\"2\"><p>No.</p></td><td><p>Gender</p></td><td><p>Age</p></td><td colspan=\"3\"><p>DUT</p></td><td rowspan=\"2\"><p>σ<sub>j</sub></p></td><td rowspan=\"2\"><p>σ<sub>j</sub><sup>2</sup></p></td><td><p>RCT</p></td><td rowspan=\"2\"><p>Braun</p></td><td rowspan=\"2\"><p>△<sub>cb1=<br/>ti1-RCT</sub></p></td><td rowspan=\"2\"><p>△<sub>cb2=<br/>ti1-Braun</sub></p></td><td rowspan=\"2\"><p>D1=<br/>ti2-ti1</p></td><td rowspan=\"2\"><p>D2=<br/>ti3-ti2</p></td><td rowspan=\"2\"><p>D3=<br/>ti1-ti3</p></td></tr><tr><td><p>(F= Female/ M=Male)</p></td><td><p>(year)</p></td><td><p>t<sub>i1</sub></p></td><td><p>t<sub>i2</sub></p></td><td><p>t<sub>i3</sub></p></td><td><p>t<sub>Ri</sub></p></td></tr><tr><td><p>1</p></td><td><p>M</p></td><td><p>1.5</p></td><td><p>37.1</p></td><td><p>37.3</p></td><td><p>37.2</p></td><td><p>0.1</p></td><td><p>0.01</p></td><td><p>37.3</p></td><td><p>37.3</p></td><td><p>-0.2</p></td><td><p>-0.2</p></td><td><p>0.2</p></td><td><p>-0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>2</p></td><td><p>F</p></td><td><p>2</p></td><td><p>38.9</p></td><td><p>38.9</p></td><td><p>38.8</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.8</p></td><td><p>39</p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0.1</p></td></tr><tr><td><p>3</p></td><td><p>F</p></td><td><p>2</p></td><td><p>39.3</p></td><td><p>39.3</p></td><td><p>39.1</p></td><td><p>0.115</p></td><td><p>0.013</p></td><td><p>39.3</p></td><td><p>39.4</p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>-0.2</p></td><td><p>0.2</p></td></tr><tr><td><p>4</p></td><td><p>M</p></td><td><p>3</p></td><td><p>38.2</p></td><td><p>38.2</p></td><td><p>38.3</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.3</p></td><td><p>38.4</p></td><td><p>-0.1</p></td><td><p>-0.2</p></td><td><p>0</p></td><td><p>0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>5</p></td><td><p>M</p></td><td><p>3</p></td><td><p>38.5</p></td><td><p>38.5</p></td><td><p>38.4</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.6</p></td><td><p>38.7</p></td><td><p>-0.1</p></td><td><p>-0.2</p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0.1</p></td></tr><tr><td><p>6</p></td><td><p>F</p></td><td><p>3</p></td><td><p>38.1</p></td><td><p>38</p></td><td><p>38.1</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.2</p></td><td><p>38.3</p></td><td><p>-0.1</p></td><td><p>-0.2</p></td><td><p>-0.1</p></td><td><p>0.1</p></td><td><p>0</p></td></tr><tr><td><p>7</p></td><td><p>M</p></td><td><p>3</p></td><td><p>38.2</p></td><td><p>38.1</p></td><td><p>38.2</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.1</p></td><td><p>38.3</p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>-0.1</p></td><td><p>0.1</p></td><td><p>0</p></td></tr><tr><td><p>8</p></td><td><p>F</p></td><td><p>3</p></td><td><p>36.9</p></td><td><p>36.7</p></td><td><p>36.8</p></td><td><p>0.1</p></td><td><p>0.01</p></td><td><p>36.8</p></td><td><p>37</p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>-0.2</p></td><td><p>0.1</p></td><td><p>0.1</p></td></tr><tr><td><p>9</p></td><td><p>F</p></td><td><p>3</p></td><td><p>37</p></td><td><p>37</p></td><td><p>36.9</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37</p></td><td><p>37.1</p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0.1</p></td></tr><tr><td><p>10</p></td><td><p>F</p></td><td><p>3</p></td><td><p>36.8</p></td><td><p>36.8</p></td><td><p>36.9</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.9</p></td><td><p>37</p></td><td><p>-0.1</p></td><td><p>-0.2</p></td><td><p>0</p></td><td><p>0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>11</p></td><td><p>M</p></td><td><p>3</p></td><td><p>37.1</p></td><td><p>37.2</p></td><td><p>37</p></td><td><p>0.1</p></td><td><p>0.01</p></td><td><p>37.1</p></td><td><p>37.2</p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0.1</p></td><td><p>-0.2</p></td><td><p>0.1</p></td></tr><tr><td><p>12</p></td><td><p>F</p></td><td><p>3</p></td><td><p>37</p></td><td><p>36.9</p></td><td><p>36.8</p></td><td><p>0.1</p></td><td><p>0.01</p></td><td><p>36.9</p></td><td><p>37.1</p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>-0.1</p></td><td><p>-0.1</p></td><td><p>0.2</p></td></tr><tr><td><p>13</p></td><td><p>F</p></td><td><p>3</p></td><td><p>37</p></td><td><p>37.1</p></td><td><p>37.1</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37.1</p></td><td><p>37.2</p></td><td><p>-0.1</p></td><td><p>-0.2</p></td><td><p>0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td></tr><tr><td><p>14</p></td><td><p>F</p></td><td><p>3</p></td><td><p>37.1</p></td><td><p>37</p></td><td><p>37</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37</p></td><td><p>37.2</p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>0.1</p></td></tr><tr><td><p>15</p></td><td><p>F</p></td><td><p>4</p></td><td><p>38.3</p></td><td><p>38.4</p></td><td><p>38.4</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.4</p></td><td><p>38.5</p></td><td><p>-0.1</p></td><td><p>-0.2</p></td><td><p>0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td></tr><tr><td><p>16</p></td><td><p>M</p></td><td><p>4</p></td><td><p>38.5</p></td><td><p>38.4</p></td><td><p>38.4</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.5</p></td><td><p>38.6</p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>0.1</p></td></tr><tr><td><p>17</p></td><td><p>M</p></td><td><p>4</p></td><td><p>39</p></td><td><p>38.9</p></td><td><p>38.9</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>39</p></td><td><p>39.1</p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>0.1</p></td></tr><tr><td><p>18</p></td><td><p>F</p></td><td><p>4</p></td><td><p>38</p></td><td><p>38.1</p></td><td><p>38</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38</p></td><td><p>38.2</p></td><td><p>0</p></td><td><p>-0.2</p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td></tr><tr><td><p>19</p></td><td><p>F</p></td><td><p>5</p></td><td><p>38.7</p></td><td><p>38.8</p></td><td><p>38.8</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.8</p></td><td><p>38.9</p></td><td><p>-0.1</p></td><td><p>-0.2</p></td><td><p>0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td></tr><tr><td><p>20</p></td><td><p>F</p></td><td><p>5</p></td><td><p>38.7</p></td><td><p>38.5</p></td><td><p>38.5</p></td><td><p>0.115</p></td><td><p>0.013</p></td><td><p>38.7</p></td><td><p>38.8</p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>-0.2</p></td><td><p>0</p></td><td><p>0.2</p></td></tr><tr><td><p>21</p></td><td><p>F</p></td><td><p>5</p></td><td><p>37</p></td><td><p>37</p></td><td><p>37</p></td><td><p>0</p></td><td><p>0</p></td><td><p>37</p></td><td><p>37.1</p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td></tr><tr><td><p>22</p></td><td><p>M</p></td><td><p>5</p></td><td><p>38.7</p></td><td><p>38.7</p></td><td><p>38.6</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.7</p></td><td><p>38.8</p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0.1</p></td></tr><tr><td><p>23</p></td><td><p>F</p></td><td><p>5</p></td><td><p>36.9</p></td><td><p>36.9</p></td><td><p>36.9</p></td><td><p>0</p></td><td><p>0</p></td><td><p>37</p></td><td><p>37.1</p></td><td><p>-0.1</p></td><td><p>-0.2</p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td></tr><tr><td><p>24</p></td><td><p>M</p></td><td><p>2.5</p></td><td><p>37.1</p></td><td><p>37</p></td><td><p>37.1</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37.1</p></td><td><p>37.1</p></td><td><p>0</p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0.1</p></td><td><p>0</p></td></tr><tr><td><p>25</p></td><td><p>M</p></td><td><p>2.5</p></td><td><p>36.3</p></td><td><p>36.3</p></td><td><p>36.4</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.5</p></td><td><p>36.5</p></td><td><p>-0.2</p></td><td><p>-0.2</p></td><td><p>0</p></td><td><p>0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>26</p></td><td><p>F</p></td><td><p>3.5</p></td><td><p>36.8</p></td><td><p>36.8</p></td><td><p>36.7</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.9</p></td><td><p>37</p></td><td><p>-0.1</p></td><td><p>-0.2</p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0.1</p></td></tr><tr><td><p>27</p></td><td><p>M</p></td><td><p>4.5</p></td><td><p>37</p></td><td><p>37</p></td><td><p>37.1</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37.1</p></td><td><p>37.2</p></td><td><p>-0.1</p></td><td><p>-0.2</p></td><td><p>0</p></td><td><p>0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>28</p></td><td><p>F</p></td><td><p>4.5</p></td><td><p>36.5</p></td><td><p>36.5</p></td><td><p>36.6</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.6</p></td><td><p>36.7</p></td><td><p>-0.1</p></td><td><p>-0.2</p></td><td><p>0</p></td><td><p>0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>29</p></td><td><p>M</p></td><td><p>1.5</p></td><td><p>37</p></td><td><p>37.1</p></td><td><p>37.1</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37.2</p></td><td><p>37.1</p></td><td><p>-0.2</p></td><td><p>-0.1</p></td><td><p>0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td></tr><tr><td><p>30</p></td><td><p>F</p></td><td><p>1.5</p></td><td><p>36.6</p></td><td><p>36.6</p></td><td><p>36.6</p></td><td><p>0</p></td><td><p>0</p></td><td><p>36.7</p></td><td><p>36.7</p></td><td><p>-0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td></tr><tr><td><p>31</p></td><td><p>F</p></td><td><p>2</p></td><td><p>36.8</p></td><td><p>36.8</p></td><td><p>36.8</p></td><td><p>0</p></td><td><p>0</p></td><td><p>36.8</p></td><td><p>36.9</p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td></tr><tr><td><p>32</p></td><td><p>M</p></td><td><p>3</p></td><td><p>36.9</p></td><td><p>36.9</p></td><td><p>36.8</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37</p></td><td><p>37</p></td><td><p>-0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0.1</p></td></tr><tr><td><p>33</p></td><td><p>M</p></td><td><p>4</p></td><td><p>37.1</p></td><td><p>37.1</p></td><td><p>37</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37.1</p></td><td><p>37.2</p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0.1</p></td></tr><tr><td><p>34</p></td><td><p>M</p></td><td><p>1.5</p></td><td><p>38</p></td><td><p>38</p></td><td><p>38.1</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.1</p></td><td><p>38</p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>0</p></td><td><p>0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>35</p></td><td><p>F</p></td><td><p>5</p></td><td><p>36.2</p></td><td><p>36.2</p></td><td><p>36.1</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.3</p></td><td><p>36.3</p></td><td><p>-0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0.1</p></td></tr><tr><td><p>36</p></td><td><p>F</p></td><td><p>5</p></td><td><p>36.5</p></td><td><p>36.6</p></td><td><p>36.5</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.6</p></td><td><p>36.6</p></td><td><p>-0.1</p></td><td><p>-0.1</p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td></tr><tr><td><p>37</p></td><td><p>M</p></td><td><p>1.5</p></td><td><p>36.7</p></td><td><p>36.7</p></td><td><p>36.8</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.8</p></td><td><p>36.9</p></td><td><p>-0.1</p></td><td><p>-0.2</p></td><td><p>0</p></td><td><p>0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>38</p></td><td><p>M</p></td><td><p>1.5</p></td><td><p>36.2</p></td><td><p>36.3</p></td><td><p>36.4</p></td><td><p>0.1</p></td><td><p>0.01</p></td><td><p>36.4</p></td><td><p>36.3</p></td><td><p>-0.2</p></td><td><p>-0.1</p></td><td><p>0.1</p></td><td><p>0.1</p></td><td><p>-0.2</p></td></tr><tr><td><p>39</p></td><td><p>F</p></td><td><p>2</p></td><td><p>36.5</p></td><td><p>36.6</p></td><td><p>36.5</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.6</p></td><td><p>36.7</p></td><td><p>-0.1</p></td><td><p>-0.2</p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td></tr><tr><td><p>40</p></td><td><p>M</p></td><td><p>3</p></td><td><p>37.6</p></td><td><p>37.5</p></td><td><p>37.5</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37.6</p></td><td><p>37.6</p></td><td><p>0</p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>0.1</p></td></tr><tr><td colspan=\"15\"><p>N=40<br/>Repeatability: Sr = 0.07</p></td></tr><tr><td colspan=\"7\" rowspan=\"6\"><p><strong>PT9L and RCT</strong><br/>Clinical bias: Average(△cb1) = -0.05<br/>Standard deviation:σ△cb1 = 0.08<br/>Limits of agreement:LA1 = 0.17<br/>Uncertainty: +/-0.08</p></td><td colspan=\"8\" rowspan=\"6\"><p><strong>PT9L and Braun</strong><br/>Clinical bias: Average(△cb2) = -0.13<br/>Standard deviation:σ△cb2 = 0.06<br/>Limits of agreement:LA2 = 0.12<br/>Uncertainty: +/-0.06</p></td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"15\"><p>Group 3（Adults）</p></td></tr><tr><td rowspan=\"2\"><p>No.</p></td><td><p>Gender</p></td><td><p>Age</p></td><td colspan=\"3\"><p>DUT</p></td><td rowspan=\"2\"><p>σ<sub>j</sub></p></td><td rowspan=\"2\"><p>σ<sub>j</sub><sup>2</sup></p></td><td><p>RCT</p></td><td rowspan=\"2\"><p>Braun</p></td><td rowspan=\"2\"><p>△<sub>cb1=<br/>ti1-RCT</sub></p></td><td rowspan=\"2\"><p>△<sub>cb2=<br/>ti1-Braun</sub></p></td><td rowspan=\"2\"><p>D1=<br/>ti2-ti1</p></td><td rowspan=\"2\"><p>D2=<br/>ti3-ti2</p></td><td rowspan=\"2\"><p>D3=<br/>ti1-ti3</p></td></tr><tr><td><p>(F= Female/ M=Male)</p></td><td><p>(year)</p></td><td><p>t<sub>i1</sub></p></td><td><p>t<sub>i2</sub></p></td><td><p>t<sub>i3</sub></p></td><td><p>t<sub>Ri</sub></p></td></tr><tr><td><p>1</p></td><td><p>M</p></td><td><p>80</p></td><td><p>36.4</p></td><td><p>36.4</p></td><td><p>36.3</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.4</p></td><td><p>36.5</p></td><td><p>0.0 </p></td><td><p>-0.1 </p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0.1</p></td></tr><tr><td><p>2</p></td><td><p>F</p></td><td><p>27</p></td><td><p>36.8</p></td><td><p>36.7</p></td><td><p>36.7</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.8</p></td><td><p>36.9</p></td><td><p>0.0 </p></td><td><p>-0.1 </p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>0.1</p></td></tr><tr><td><p>3</p></td><td><p>F</p></td><td><p>75</p></td><td><p>36.2</p></td><td><p>36.2</p></td><td><p>36.1</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.3</p></td><td><p>36.4</p></td><td><p>-0.1 </p></td><td><p>-0.2 </p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0.1</p></td></tr><tr><td><p>4</p></td><td><p>F</p></td><td><p>20</p></td><td><p>39.3</p></td><td><p>39.4</p></td><td><p>39.3</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>39.4</p></td><td><p>39.5</p></td><td><p>-0.1 </p></td><td><p>-0.2 </p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td></tr><tr><td><p>5</p></td><td><p>M</p></td><td><p>25</p></td><td><p>37.6</p></td><td><p>37.6</p></td><td><p>37.6</p></td><td><p>0</p></td><td><p>0</p></td><td><p>37.7</p></td><td><p>37.8</p></td><td><p>-0.1 </p></td><td><p>-0.2 </p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td></tr><tr><td><p>6</p></td><td><p>F</p></td><td><p>6</p></td><td><p>37.8</p></td><td><p>38</p></td><td><p>37.9</p></td><td><p>0.1</p></td><td><p>0.01</p></td><td><p>37.8</p></td><td><p>37.9</p></td><td><p>0.0 </p></td><td><p>-0.1 </p></td><td><p>0.2</p></td><td><p>-0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>7</p></td><td><p>M</p></td><td><p>25</p></td><td><p>38.5</p></td><td><p>38.4</p></td><td><p>38.6</p></td><td><p>0.1</p></td><td><p>0.01</p></td><td><p>38.5</p></td><td><p>38.6</p></td><td><p>0.0 </p></td><td><p>-0.1 </p></td><td><p>-0.1</p></td><td><p>0.2</p></td><td><p>-0.1</p></td></tr><tr><td><p>8</p></td><td><p>M</p></td><td><p>22</p></td><td><p>38.5</p></td><td><p>38.4</p></td><td><p>38.5</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.6</p></td><td><p>38.7</p></td><td><p>-0.1 </p></td><td><p>-0.2 </p></td><td><p>-0.1</p></td><td><p>0.1</p></td><td><p>0</p></td></tr><tr><td><p>9</p></td><td><p>F</p></td><td><p>38</p></td><td><p>39.7</p></td><td><p>39.6</p></td><td><p>39.7</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>39.6</p></td><td><p>39.8</p></td><td><p>0.1 </p></td><td><p>-0.1 </p></td><td><p>-0.1</p></td><td><p>0.1</p></td><td><p>0</p></td></tr><tr><td><p>10</p></td><td><p>M</p></td><td><p>81</p></td><td><p>38</p></td><td><p>37.9</p></td><td><p>38</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37.9</p></td><td><p>38.1</p></td><td><p>0.1 </p></td><td><p>-0.1 </p></td><td><p>-0.1</p></td><td><p>0.1</p></td><td><p>0</p></td></tr><tr><td><p>11</p></td><td><p>F</p></td><td><p>43</p></td><td><p>37.1</p></td><td><p>37.2</p></td><td><p>37.2</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37.1</p></td><td><p>37.2</p></td><td><p>0.0 </p></td><td><p>-0.1 </p></td><td><p>0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td></tr><tr><td><p>12</p></td><td><p>F</p></td><td><p>83</p></td><td><p>36</p></td><td><p>36</p></td><td><p>36.2</p></td><td><p>0.115</p></td><td><p>0.013</p></td><td><p>36.2</p></td><td><p>36.1</p></td><td><p>-0.2 </p></td><td><p>-0.1 </p></td><td><p>0</p></td><td><p>0.2</p></td><td><p>-0.2</p></td></tr><tr><td><p>13</p></td><td><p>F</p></td><td><p>57</p></td><td><p>36.7</p></td><td><p>36.9</p></td><td><p>36.9</p></td><td><p>0.115</p></td><td><p>0.013</p></td><td><p>36.8</p></td><td><p>36.9</p></td><td><p>-0.1 </p></td><td><p>-0.2 </p></td><td><p>0.2</p></td><td><p>0</p></td><td><p>-0.2</p></td></tr><tr><td><p>14</p></td><td><p>F</p></td><td><p>21</p></td><td><p>38.6</p></td><td><p>38.7</p></td><td><p>38.6</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.7</p></td><td><p>38.8</p></td><td><p>-0.1 </p></td><td><p>-0.2 </p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td></tr><tr><td><p>15</p></td><td><p>M</p></td><td><p>86</p></td><td><p>36</p></td><td><p>35.9</p></td><td><p>36.1</p></td><td><p>0.1</p></td><td><p>0.01</p></td><td><p>36.2</p></td><td><p>36.2</p></td><td><p>-0.2 </p></td><td><p>-0.2 </p></td><td><p>-0.1</p></td><td><p>0.2</p></td><td><p>-0.1</p></td></tr><tr><td><p>16</p></td><td><p>M</p></td><td><p>76</p></td><td><p>36</p></td><td><p>36.2</p></td><td><p>36.1</p></td><td><p>0.1</p></td><td><p>0.01</p></td><td><p>36</p></td><td><p>36.1</p></td><td><p>0.0 </p></td><td><p>-0.1 </p></td><td><p>0.2</p></td><td><p>-0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>17</p></td><td><p>F</p></td><td><p>12</p></td><td><p>36.4</p></td><td><p>36.6</p></td><td><p>36.5</p></td><td><p>0.1</p></td><td><p>0.01</p></td><td><p>36.5</p></td><td><p>36.6</p></td><td><p>-0.1 </p></td><td><p>-0.2 </p></td><td><p>0.2</p></td><td><p>-0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>18</p></td><td><p>M</p></td><td><p>64</p></td><td><p>39</p></td><td><p>39.1</p></td><td><p>39.2</p></td><td><p>0.1</p></td><td><p>0.01</p></td><td><p>39</p></td><td><p>39.1</p></td><td><p>0.0 </p></td><td><p>-0.1 </p></td><td><p>0.1</p></td><td><p>0.1</p></td><td><p>-0.2</p></td></tr><tr><td><p>19</p></td><td><p>F</p></td><td><p>75</p></td><td><p>36.4</p></td><td><p>36.3</p></td><td><p>36.3</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.4</p></td><td><p>36.5</p></td><td><p>0.0 </p></td><td><p>-0.1 </p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>0.1</p></td></tr><tr><td><p>20</p></td><td><p>F</p></td><td><p>76</p></td><td><p>36</p></td><td><p>35.9</p></td><td><p>35.9</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36</p></td><td><p>36.1</p></td><td><p>0.0 </p></td><td><p>-0.1 </p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>0.1</p></td></tr><tr><td><p>21</p></td><td><p>F</p></td><td><p>75</p></td><td><p>36.3</p></td><td><p>36.3</p></td><td><p>36.3</p></td><td><p>0</p></td><td><p>0</p></td><td><p>36.1</p></td><td><p>36.2</p></td><td><p>0.2 </p></td><td><p>0.1 </p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td></tr><tr><td><p>22</p></td><td><p>M</p></td><td><p>28</p></td><td><p>37.9</p></td><td><p>38</p></td><td><p>37.9</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>37.9</p></td><td><p>38</p></td><td><p>0.0 </p></td><td><p>-0.1 </p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td></tr><tr><td><p>23</p></td><td><p>F</p></td><td><p>19</p></td><td><p>38.6</p></td><td><p>38.6</p></td><td><p>38.6</p></td><td><p>0</p></td><td><p>0</p></td><td><p>38.7</p></td><td><p>38.8</p></td><td><p>-0.1 </p></td><td><p>-0.2 </p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td></tr><tr><td><p>24</p></td><td><p>M</p></td><td><p>80</p></td><td><p>36.1</p></td><td><p>36.3</p></td><td><p>36.1</p></td><td><p>0.115</p></td><td><p>0.013</p></td><td><p>36.2</p></td><td><p>36.2</p></td><td><p>-0.1 </p></td><td><p>-0.1 </p></td><td><p>0.2</p></td><td><p>-0.2</p></td><td><p>0</p></td></tr><tr><td><p>25</p></td><td><p>M</p></td><td><p>88</p></td><td><p>35.8</p></td><td><p>35.9</p></td><td><p>35.8</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>35.9</p></td><td><p>36</p></td><td><p>-0.1 </p></td><td><p>-0.2 </p></td><td><p>0.1</p></td><td><p>-0.1</p></td><td><p>0</p></td></tr><tr><td><p>26</p></td><td><p>M</p></td><td><p>76</p></td><td><p>36.3</p></td><td><p>36.2</p></td><td><p>36.2</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.4</p></td><td><p>36.5</p></td><td><p>-0.1 </p></td><td><p>-0.2 </p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>0.1</p></td></tr><tr><td><p>27</p></td><td><p>F</p></td><td><p>75</p></td><td><p>35.9</p></td><td><p>36</p></td><td><p>35.8</p></td><td><p>0.1</p></td><td><p>0.01</p></td><td><p>36</p></td><td><p>36.1</p></td><td><p>-0.1 </p></td><td><p>-0.2 </p></td><td><p>0.1</p></td><td><p>-0.2</p></td><td><p>0.1</p></td></tr><tr><td><p>28</p></td><td><p>F</p></td><td><p>75</p></td><td><p>36.2</p></td><td><p>36.2</p></td><td><p>36.1</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.2</p></td><td><p>36.3</p></td><td><p>0.0 </p></td><td><p>-0.1 </p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0.1</p></td></tr><tr><td><p>29</p></td><td><p>M</p></td><td><p>44</p></td><td><p>39.3</p></td><td><p>39.1</p></td><td><p>39.1</p></td><td><p>0.115</p></td><td><p>0.013</p></td><td><p>39.3</p></td><td><p>39.4</p></td><td><p>0.0 </p></td><td><p>-0.1 </p></td><td><p>-0.2</p></td><td><p>0</p></td><td><p>0.2</p></td></tr><tr><td><p>30</p></td><td><p>M</p></td><td><p>41</p></td><td><p>38.3</p></td><td><p>38.2</p></td><td><p>38.2</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38.2</p></td><td><p>38.2</p></td><td><p>0.1 </p></td><td><p>0.1 </p></td><td><p>-0.1</p></td><td><p>0</p></td><td><p>0.1</p></td></tr><tr><td><p>31</p></td><td><p>F</p></td><td><p>41</p></td><td><p>38.1</p></td><td><p>38</p></td><td><p>37.9</p></td><td><p>0.1</p></td><td><p>0.01</p></td><td><p>38.1</p></td><td><p>38.2</p></td><td><p>0.0 </p></td><td><p>-0.1 </p></td><td><p>-0.1</p></td><td><p>-0.1</p></td><td><p>0.2</p></td></tr><tr><td><p>32</p></td><td><p>F</p></td><td><p>45</p></td><td><p>39</p></td><td><p>39</p></td><td><p>39</p></td><td><p>0</p></td><td><p>0</p></td><td><p>39</p></td><td><p>39.1</p></td><td><p>0.0 </p></td><td><p>-0.1 </p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td></tr><tr><td><p>33</p></td><td><p>F</p></td><td><p>20</p></td><td><p>38.2</p></td><td><p>38</p></td><td><p>38.1</p></td><td><p>0.1</p></td><td><p>0.01</p></td><td><p>38.1</p></td><td><p>38.2</p></td><td><p>0.1 </p></td><td><p>0.0 </p></td><td><p>-0.2</p></td><td><p>0.1</p></td><td><p>0.1</p></td></tr><tr><td><p>34</p></td><td><p>M</p></td><td><p>77</p></td><td><p>39.3</p></td><td><p>39.1</p></td><td><p>39.1</p></td><td><p>0.115</p></td><td><p>0.013</p></td><td><p>39.2</p></td><td><p>39.4</p></td><td><p>0.1 </p></td><td><p>-0.1 </p></td><td><p>-0.2</p></td><td><p>0</p></td><td><p>0.2</p></td></tr><tr><td><p>35</p></td><td><p>M</p></td><td><p>84</p></td><td><p>36.2</p></td><td><p>36.1</p></td><td><p>36.3</p></td><td><p>0.1</p></td><td><p>0.01</p></td><td><p>36.3</p></td><td><p>36.4</p></td><td><p>-0.1 </p></td><td><p>-0.2 </p></td><td><p>-0.1</p></td><td><p>0.2</p></td><td><p>-0.1</p></td></tr><tr><td><p>36</p></td><td><p>F</p></td><td><p>88</p></td><td><p>35.7</p></td><td><p>35.7</p></td><td><p>35.6</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>35.8</p></td><td><p>35.8</p></td><td><p>-0.1 </p></td><td><p>-0.1 </p></td><td><p>0</p></td><td><p>-0.1</p></td><td><p>0.1</p></td></tr><tr><td><p>37</p></td><td><p>F</p></td><td><p>76</p></td><td><p>36.3</p></td><td><p>36.4</p></td><td><p>36.4</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.5</p></td><td><p>36.4</p></td><td><p>-0.2 </p></td><td><p>-0.1 </p></td><td><p>0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td></tr><tr><td><p>38</p></td><td><p>M</p></td><td><p>80</p></td><td><p>36</p></td><td><p>35.9</p></td><td><p>36</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.1</p></td><td><p>36.2</p></td><td><p>-0.1 </p></td><td><p>-0.2 </p></td><td><p>-0.1</p></td><td><p>0.1</p></td><td><p>0</p></td></tr><tr><td><p>39</p></td><td><p>F</p></td><td><p>36</p></td><td><p>37.8</p></td><td><p>37.8</p></td><td><p>37.9</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>38</p></td><td><p>37.9</p></td><td><p>-0.2 </p></td><td><p>-0.1 </p></td><td><p>0</p></td><td><p>0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>40</p></td><td><p>M</p></td><td><p>27</p></td><td><p>39.1</p></td><td><p>39.1</p></td><td><p>39.2</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>39.1</p></td><td><p>39.2</p></td><td><p>0.0 </p></td><td><p>-0.1 </p></td><td><p>0</p></td><td><p>0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>41</p></td><td><p>F</p></td><td><p>35</p></td><td><p>37.7</p></td><td><p>37.7</p></td><td><p>37.7</p></td><td><p>0</p></td><td><p>0</p></td><td><p>37.7</p></td><td><p>37.8</p></td><td><p>0.0 </p></td><td><p>-0.1 </p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td></tr><tr><td><p>42</p></td><td><p>F</p></td><td><p>83</p></td><td><p>36</p></td><td><p>36</p></td><td><p>36.1</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.1</p></td><td><p>36.2</p></td><td><p>-0.1 </p></td><td><p>-0.2 </p></td><td><p>0</p></td><td><p>0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>43</p></td><td><p>M</p></td><td><p>48</p></td><td><p>36.7</p></td><td><p>36.6</p></td><td><p>36.5</p></td><td><p>0.1</p></td><td><p>0.01</p></td><td><p>36.7</p></td><td><p>36.8</p></td><td><p>0.0 </p></td><td><p>-0.1 </p></td><td><p>-0.1</p></td><td><p>-0.1</p></td><td><p>0.2</p></td></tr><tr><td><p>44</p></td><td><p>M</p></td><td><p>76</p></td><td><p>35.5</p></td><td><p>35.7</p></td><td><p>35.5</p></td><td><p>0.115</p></td><td><p>0.013</p></td><td><p>35.7</p></td><td><p>35.7</p></td><td><p>-0.2 </p></td><td><p>-0.2 </p></td><td><p>0.2</p></td><td><p>-0.2</p></td><td><p>0</p></td></tr><tr><td><p>45</p></td><td><p>M</p></td><td><p>83</p></td><td><p>36.3</p></td><td><p>36.2</p></td><td><p>36.3</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.3</p></td><td><p>36.4</p></td><td><p>0.0 </p></td><td><p>-0.1 </p></td><td><p>-0.1</p></td><td><p>0.1</p></td><td><p>0</p></td></tr><tr><td><p>46</p></td><td><p>M</p></td><td><p>87</p></td><td><p>35.5</p></td><td><p>35.7</p></td><td><p>35.5</p></td><td><p>0.115</p></td><td><p>0.013</p></td><td><p>35.7</p></td><td><p>35.7</p></td><td><p>-0.2 </p></td><td><p>-0.2 </p></td><td><p>0.2</p></td><td><p>-0.2</p></td><td><p>0</p></td></tr><tr><td><p>47</p></td><td><p>M</p></td><td><p>6</p></td><td><p>36.9</p></td><td><p>36.8</p></td><td><p>36.9</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.8</p></td><td><p>37</p></td><td><p>0.1 </p></td><td><p>-0.1 </p></td><td><p>-0.1</p></td><td><p>0.1</p></td><td><p>0</p></td></tr><tr><td><p>48</p></td><td><p>F</p></td><td><p>47</p></td><td><p>36.7</p></td><td><p>36.8</p></td><td><p>36.8</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.8</p></td><td><p>36.8</p></td><td><p>-0.1 </p></td><td><p>-0.1 </p></td><td><p>0.1</p></td><td><p>0</p></td><td><p>-0.1</p></td></tr><tr><td><p>49</p></td><td><p>F</p></td><td><p>40</p></td><td><p>36.2</p></td><td><p>36.2</p></td><td><p>36.3</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.4</p></td><td><p>36.3</p></td><td><p>-0.2 </p></td><td><p>-0.1 </p></td><td><p>0</p></td><td><p>0.1</p></td><td><p>-0.1</p></td></tr><tr><td><p>50</p></td><td><p>M</p></td><td><p>76</p></td><td><p>36</p></td><td><p>36</p></td><td><p>36.1</p></td><td><p>0.058</p></td><td><p>0.003</p></td><td><p>36.2</p></td><td><p>36.2</p></td><td><p>-0.2 </p></td><td><p>-0.2 </p></td><td><p>0</p></td><td><p>0.1</p></td><td><p>-0.1</p></td></tr><tr><td colspan=\"15\"><p>N=50<br/>Repeatability: Sr = 0.08</p></td></tr><tr><td colspan=\"7\" rowspan=\"6\"><p><strong>PT9L and RCT</strong><br/>Clinical bias: Average(△cb1) = -0.05<br/>Standard deviation:σ△cb1 = 0.10<br/>Limits of agreement:LA1 = 0.19<br/>Uncertainty: +/-0.10</p></td><td colspan=\"8\" rowspan=\"6\"><p><strong>PT9L and Braun</strong><br/>Clinical bias: Average(△cb2) = -0.13<br/>Standard deviation:σ△cb2 = 0.07<br/>Limits of agreement:LA2 = 0.14<br/>Uncertainty: +/-0.07</p></td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [],
+            "page_idx": 1
+        }
+    ],
+    "_backend": "office",
+    "_version_name": "3.1.6"
+}

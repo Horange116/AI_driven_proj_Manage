@@ -1,0 +1,32 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table>\n  <tr>\n    <th colspan=\"7\"><p>设计验证计划  性能规格部分 </p></th>\n  </tr>\n  <tr>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p>拟制<em>(硬件工程师)</em><strong>:             </strong>年   月   日<strong>          审核</strong><em>(硬件主管)</em><strong>:              </strong><strong> </strong>年   月   日<strong>  </strong></p></td>\n  </tr>\n  <tr>\n    <td><p>产品型号： PT9L                            项目编号：   30000078                      产品/项目名称：红外体温计</p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td colspan=\"7\"><p>1.本设计验证计划需批准后方能使用执行，\n2.存档并归入设计历史文档（DHF）。\n3.请根据项目具体实际情况对于验证阶段，方法及判定准则进行相应调整。</p></td>\n  </tr>\n  <tr>\n    <td colspan=\"7\"><p>人员职责安排：\n硬件工程师负责拟制产品性能规格部分的设计验证计划；硬件主管负责审核产品性能规格部分的设计验证计划。\n硬件工程师负责产品性能规格部分的设计验证并形成设计验证报告；硬件主管负责审核产品性能规格部分的设计验证报告。</p></td>\n  </tr>\n  <tr>\n    <td rowspan=\"2\"><p>Clause NO.<strong>条款号</strong></p></td>\n    <td rowspan=\"2\" colspan=\"2\"><p>Description, Requirement<br><strong>描述或要求</strong></p></td>\n    <td rowspan=\"2\"><p>Applicable<strong>适用性</strong></p></td>\n    <td rowspan=\"2\"><p>验证阶段</p></td>\n    <td rowspan=\"2\"><p>验证方法</p></td>\n    <td rowspan=\"2\"><p> Comments<br><strong>备注</strong></p></td>\n  </tr>\n  <tr>\n  </tr>\n  <tr>\n    <td><p>1</p></td>\n    <td><p>温度显示范围</p></td>\n    <td><p>32.0℃～42.9℃</p></td>\n    <td><p>□手板■T1□设计确认</p></td>\n    <td><p>参见《PT9L红外体温计产品检验标准V1.0 》第6项</p></td>\n    <td><p>全部测试结果均需符合《PT9L红外体温计产品检验标准V1.0》中第6项的要求</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>2</p></td>\n    <td><p>显示分辨力</p></td>\n    <td><p>0.1℃</p></td>\n    <td><p>□手板■T1□设计确认</p></td>\n    <td><p>参见《PT9L红外体温计产品检验标准V1.0 》第7项</p></td>\n    <td><p>全部测试结果均需符合《PT9L红外体温计产品检验标准V1.0》中第7项的要求</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>3</p></td>\n    <td><p>测量误差</p></td>\n    <td><p>≥35℃且≤42℃：±0.2℃，其它：±0.3℃</p></td>\n    <td><p>□手板■T1□设计确认</p></td>\n    <td><p>参见《PT9L红外体温计产品检验标准V1.0 》第8项</p></td>\n    <td><p>全部测试结果均需符合《PT9L红外体温计产品检验标准V1.0》中第8项的要求</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>4</p></td>\n    <td><p>工作环境</p></td>\n    <td><p>温度：10℃～40℃\n相对湿度：不窄于15-95%RH，不结露\n大气压力：70kPa～106kPa</p></td>\n    <td><p>□手板■T1□设计确认</p></td>\n    <td><p>参见《PT9L红外体温计产品检验标准V1.0 》第15，16项</p></td>\n    <td><p>全部测试结果均需符合《PT9L红外体温计产品检验标准V1.0》中第15，16项的要求</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>5</p></td>\n    <td><p>存储环境</p></td>\n    <td><p>温度：-20.0℃―55.0℃\n相对湿度：不窄于15-95%RH，不结露\n大气压力：70kPa～106kPa</p></td>\n    <td><p>□手板■T1□设计确认</p></td>\n    <td><p>参见《PT9L红外体温计产品检验标准V1.0 》第17，18项</p></td>\n    <td><p>全部测试结果均需符合《PT9L红外体温计产品检验标准V1.0》中第17，18项的要求</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>6</p></td>\n    <td><p>产品寿命</p></td>\n    <td><p>五年或10000次</p></td>\n    <td><p>□手板■T1□设计确认</p></td>\n    <td><p>参见《PT9L红外体温计产品检验标准V1.0 》第19项</p></td>\n    <td><p>全部测试结果均需符合《PT9L红外体温计产品检验标准V1.0》中第19项的要求</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>7</p></td>\n    <td><p>电池使用寿命</p></td>\n    <td><p>测量使用次数不低于1000次</p></td>\n    <td><p>□手板■T1□设计确认</p></td>\n    <td><p>参见《PT9L红外体温计产品检验标准V1.0 》第20项</p></td>\n    <td><p>全部测试结果均需符合《PT9L红外体温计产品检验标准V1.0》中第20项的要求</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>8</p></td>\n    <td><p>其它要求</p></td>\n    <td><p>无</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p></p></td>\n  </tr>\n</table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [],
+            "page_idx": 0
+        }
+    ],
+    "_backend": "office",
+    "_version_name": "3.1.6"
+}

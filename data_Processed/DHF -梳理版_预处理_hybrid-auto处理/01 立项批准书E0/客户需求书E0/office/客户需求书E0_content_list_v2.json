@@ -1,0 +1,84 @@
+[
+    [
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table>\n  <tr>\n    <th colspan=\"6\"><p>历史版本记录</p></th>\n  </tr>\n</table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table>\n  <tr>\n    <th><p>序号</p></th>\n    <th><p>修改日期</p></th>\n    <th><p>修改描述</p></th>\n    <th><p>版本</p></th>\n    <th><p>编制</p></th>\n    <th><p>批准</p></th>\n  </tr>\n  <tr>\n    <td><p>1</p></td>\n    <td><p>2024.1.8</p></td>\n    <td><p>起草</p></td>\n    <td><p>V1.0</p></td>\n    <td><p>赵一平</p></td>\n    <td><p>丛明</p></td>\n  </tr>\n</table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table>\n  <tr>\n    <th colspan=\"5\"><p>客户需求书－通用要求部分<br><strong>Customer requirements </strong>－<strong> General part </strong></p></th>\n  </tr>\n  <tr>\n    <td><p>注：在客户需求书中标记“■”或是在“□”中划“√”都表示当前项已经被选中;标记“□”表示当前项未选中。</p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>序号\nNo.</p></td>\n    <td><p>条目\nItem</p></td>\n    <td colspan=\"2\"><p>要   求\nRequirements</p></td>\n    <td><p>备注\nRemark</p></td>\n  </tr>\n  <tr>\n    <td><p>1</p></td>\n    <td><p>客户</p></td>\n    <td colspan=\"2\"><p>九安公司自主研发</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td rowspan=\"2\"><p>2</p></td>\n    <td><p>预计销售地区及注册要求</p></td>\n    <td colspan=\"2\"><p>□ 欧盟地区     EU          通过时间要求：             分类：  申请路径：   OTC:\n■ 美国   USA               通过时间要求：             分类：  申请路径：   OTC:   \n□ 中国    CHN              通过时间要求：             分类：  申请路径：   OTC:      \n□ 其他 OTHERS______________通过时间要求：             分类：  申请路径：   OTC:</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>注册完成方</p></td>\n    <td colspan=\"2\"><p>CE注册方：  □ NA  □ andon □ customer  CE付费方:  □ NA  □ andon □ customer   <br>510k注册方：□ NA  ■ andon □ customer  510k付费方:□ NA  ■ andon □ customer<br>中国注册方：□ NA  □ andon □ customer  中国注册付费方:□NA□ andon□ customer<br>其它注册方及付费方：<u>                                                        </u></p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>3</p></td>\n    <td><p>附属或辅助部分</p></td>\n    <td colspan=\"2\"><p>无</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>4</p></td>\n    <td><p>预期用途相关信息</p></td>\n    <td colspan=\"2\"><p>本品主要采用红外测温方式测量人体额头温度，家用和医用。</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>5</p></td>\n    <td><p>功能描述</p></td>\n    <td colspan=\"2\"><p>功能描述见附件1：《客户需求书－功能规格部分》V1.0</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>6</p></td>\n    <td><p>外形设计</p></td>\n    <td colspan=\"2\"><p>□客户提供外观设计方案\n□重新设计外观，要求如下：（可以参比已有机型）\n  无                           \n■同已有外观，机型：同TZ1</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>7</p></td>\n    <td><p>使用方式</p></td>\n    <td colspan=\"2\"><p>□固定式设备Fixed equipment\n■手持式设备Hand-held equipment\n□移动式设备Mobile equipment\n□永久性安装设备Permanently equipment\n□可携带式设备Portable equipment\n□非移动式设备Stationary equipment\n□可移动式设备Transportable equipment\n□可穿戴式设备Body-worn equipment</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>8</p></td>\n    <td><p>产品寿命</p></td>\n    <td colspan=\"2\"><p>见附件3：《客户需求书－性能规格部分》V1.0</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>9</p></td>\n    <td><p>包装及运输方式\n</p></td>\n    <td colspan=\"2\"><p>1.单箱不大于<u> 20 </u> Kg<br>2.长宽高之和不大于<u> 1400 </u>mm<br>3.最大长度尺寸不大于400  mm<br>4.□ 允许外箱使用金属钉钉合<br>  ■ 不允许外箱使用金属钉钉合<br>5.运输方式：■ 海运   ■ 空运   ■ 陆运</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>10</p></td>\n    <td><p>环保</p></td>\n    <td colspan=\"2\"><p>要求同时满足以下环保指令或法规： \n□中国ROHS 2.0\n■ROHS(2011/65/EU)\n■加州65提案\n□REACH(1907/2006/EC)\n□WEEE关于报废电子电气设备指令(2012/19/EU)   \n■电池指令 (2013/56/EU)\n■包装指令 (2005/20/EC)           \n□其它：_______________________________。</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>11</p></td>\n    <td><p>商标和专利\n</p></td>\n    <td colspan=\"2\"><p>专利方面的信息或要求：<br>客户是否有授权我们公司使用的专利：<br>□有  描述：<u>                                                                    </u><br>■无<br>客户是否有此产品侵权方面的文献或资料：<br>□有  描述：<u>                                                                    </u>    <br>■无<br>□外观专利方面：<br>□发明专利方面：<br>□需规避专利方面：<br>商标方面的信息或要求：<br>□有  描述：<u>                                      </u>                              <br>■无</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>12</p></td>\n    <td><p>客户特殊要求</p></td>\n    <td colspan=\"2\"><p>■ 无\n□ 单独跌落试验\n□ 特殊标签\n□ 非强制性标准的引用或即将强制标准的引用\n□ 验货抽样标准\n□ 外部测试要求\n□ 其他要求：</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>13</p></td>\n    <td><p>组件要求</p></td>\n    <td colspan=\"2\"><p>组件描述详见附件2：《客户需求书－组件规格部分》V1.0</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>14</p></td>\n    <td><p>防尘防水</p></td>\n    <td colspan=\"2\"><p>■应符合IEC60529的IP22类测试（属于手持式、可穿戴式或运输中可操作设备）\n□应符合IEC60529的IP21类测试\n□应符合IEC60529的IP20类测试（属于可携带式设备）\n□无要求\n□其他：</p></td>\n    <td><p></p></td>\n  </tr>\n</table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            }
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table>\n  <tr>\n    <th colspan=\"4\"><p>客户需求书－性能规格部分\nCustomer requirements － Performance part </p></th>\n  </tr>\n</table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table>\n  <tr>\n    <th><p>序号\nNo.</p></th>\n    <th><p>条目\nItem</p></th>\n    <th><p>要   求\nRequirements</p></th>\n    <th><p>备注\nRemark</p></th>\n  </tr>\n  <tr>\n    <td><p>1</p></td>\n    <td><p>温度显示范围</p></td>\n    <td><p>32.0℃～42.9℃</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>2</p></td>\n    <td><p>显示分辨率</p></td>\n    <td><p>0.1℃</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>3</p></td>\n    <td><p>测量误差</p></td>\n    <td><p>≥35℃且≤42℃：±0.2℃，其它：±0.3℃</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>4</p></td>\n    <td><p>工作环境</p></td>\n    <td><p>温度：10℃～40℃\n相对湿度：不窄于15-95%RH，不结露\n大气压力：70kPa～106kPa</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>5</p></td>\n    <td><p>存储环境</p></td>\n    <td><p>温度：-20.0℃―55.0℃\n相对湿度：不窄于15-95%RH，不结露\n大气压力：70kPa～106kPa</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>6</p></td>\n    <td><p>产品寿命</p></td>\n    <td><p>五年或10000次</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>7</p></td>\n    <td><p>电池寿命</p></td>\n    <td><p>测量使用次数不低于1000次</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>8</p></td>\n    <td><p>其它要求</p></td>\n    <td><p>无</p></td>\n    <td><p></p></td>\n  </tr>\n</table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table>\n  <tr>\n    <th colspan=\"7\"><p>客户需求书－功能规格部分\nCustomer requirements － Function part </p></th>\n  </tr>\n  <tr>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>序号\nNo.</p></td>\n    <td><p>条目\nItem</p></td>\n    <td colspan=\"4\"><p>要   求\nRequirements</p></td>\n    <td><p>备注\nRemark</p></td>\n  </tr>\n  <tr>\n    <td><p>1</p></td>\n    <td><p>测量原理</p></td>\n    <td><p>■红外非接触式</p></td>\n    <td><p>□接触式</p></td>\n    <td colspan=\"2\"><p>□其他:</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>2</p></td>\n    <td><p>测量位置</p></td>\n    <td><p>■额面</p></td>\n    <td><p>□腋下</p></td>\n    <td colspan=\"2\"><p>□其他:</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>3</p></td>\n    <td><p>检测项目</p></td>\n    <td><p>■人体体温</p></td>\n    <td><p>■物温</p></td>\n    <td colspan=\"2\"><p>□其他：</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td rowspan=\"2\"><p>4</p></td>\n    <td rowspan=\"2\"><p>分类指示方式</p></td>\n    <td><p>■屏幕选择</p></td>\n    <td><p>□彩色丝印</p></td>\n    <td><p>□4组LED灯</p></td>\n    <td><p>□3组LED灯</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td colspan=\"4\"><p>□其他:</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>5</p></td>\n    <td><p>按键描述</p></td>\n    <td><p>■开机测量键</p></td>\n    <td><p>■设置键</p></td>\n    <td><p>■静音键</p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td rowspan=\"2\"><p>6</p></td>\n    <td rowspan=\"2\"><p>LCD型式</p></td>\n    <td><p>■段码式</p></td>\n    <td><p>□点阵式</p></td>\n    <td><p>□其他</p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>■有背光 </p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>7</p></td>\n    <td><p>壳体变色</p></td>\n    <td><p>■No</p></td>\n    <td colspan=\"3\"><p>□Yes 描述：</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>8</p></td>\n    <td><p>位置检测</p></td>\n    <td><p>■No</p></td>\n    <td colspan=\"3\"><p>□Yes 描述：</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>9</p></td>\n    <td><p>PC Link</p></td>\n    <td><p>■No</p></td>\n    <td colspan=\"3\"><p>□Yes 描述：</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>10</p></td>\n    <td><p>低电压检出</p></td>\n    <td><p>□单阶段</p></td>\n    <td><p>■双阶段 </p></td>\n    <td colspan=\"2\"><p>□其他:</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>11</p></td>\n    <td><p>错误分类显示</p></td>\n    <td><p>□No</p></td>\n    <td colspan=\"3\"><p>■错误种类：2种  （1、超出工作环境温度 2、超过量程 ）</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>12</p></td>\n    <td><p>自动关机时间</p></td>\n    <td colspan=\"4\"><p>描述：常规为15秒</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>13</p></td>\n    <td><p>温度显示单位</p></td>\n    <td><p>■℃</p></td>\n    <td colspan=\"3\"><p>■℉</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>14</p></td>\n    <td><p>提示功能</p></td>\n    <td><p>■蜂鸣</p></td>\n    <td><p>□震动</p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n  </tr>\n</table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            }
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table>\n  <tr>\n    <th colspan=\"4\"><p>客户需求书－组件规格部分\nCustomer requirements － Subassembly part </p></th>\n  </tr>\n</table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table>\n  <tr>\n    <th><p>序号\nNo.</p></th>\n    <th colspan=\"2\"><p>条目\nItem</p></th>\n    <th><p>要   求\nRequirements</p></th>\n    <th><p>备注\nRemark</p></th>\n  </tr>\n  <tr>\n    <td><p>1</p></td>\n    <td rowspan=\"3\"><p>表面处理</p></td>\n    <td><p>上盖要求</p></td>\n    <td><p>□亮面 □火花纹 ■细火花纹 □镜面火花纹 □电镀 □喷漆 □其他：</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>2</p></td>\n    <td><p>下盖要求</p></td>\n    <td><p>□亮面 □火花纹 ■细火花纹 □镜面火花纹 □电镀 □喷漆 □其他：</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>3</p></td>\n    <td><p>电池盖要求</p></td>\n    <td><p>□亮面 □火花纹 ■细火花纹 □镜面火花纹 □电镀 □喷漆 □其他：</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>4</p></td>\n    <td rowspan=\"3\"><p>颜色要求</p></td>\n    <td><p>上盖要求</p></td>\n    <td><p>■白色 □黑色 □喷漆颜色：             □其他：</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>5</p></td>\n    <td><p>下盖要求</p></td>\n    <td><p>■白色 □黑色 □喷漆颜色：             □其他：</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>6</p></td>\n    <td><p>电池盖要求</p></td>\n    <td><p>■白色 □黑色 □喷漆颜色：             □其他：</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>7</p></td>\n    <td rowspan=\"2\"><p>按键</p></td>\n    <td><p>按键形式</p></td>\n    <td><p>□无 ■注塑按键 □硅胶按键 □触摸按键 □与主机一体按键 □其他：</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>8</p></td>\n    <td><p>表面处理</p></td>\n    <td><p>□不适用 □亮面 □火花纹 ■细火花纹 □镜面   □喷漆 □其他：</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>9</p></td>\n    <td rowspan=\"2\"><p>透镜</p></td>\n    <td><p>透镜形式</p></td>\n    <td><p>□无 □注塑透镜 ■模切透镜 □其他：</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>10</p></td>\n    <td><p>表面处理</p></td>\n    <td><p>■不适用 □镜面抛光 □电镀 □其他：</p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>11</p></td>\n    <td><p>其它要求</p></td>\n    <td><p>无</p></td>\n    <td><p>无</p></td>\n    <td><p></p></td>\n  </tr>\n</table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            }
+        }
+    ]
+]

@@ -1,0 +1,863 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        52,
+                        70,
+                        535,
+                        457
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.988,
+                            "bbox": [
+                                52,
+                                70,
+                                535,
+                                457
+                            ],
+                            "index": 2,
+                            "type": "table_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        70,
+                                        535,
+                                        457
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                70,
+                                                535,
+                                                457
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=1 colspan=2>TEST REPORTIEC 60068-2-78:2012: Damp heat , steady state</td></tr><tr><td rowspan=1 colspan=1>Date of issue.</td><td rowspan=1 colspan=1>2024-07-12</td></tr><tr><td rowspan=1 colspan=1>Standard..</td><td rowspan=1 colspan=1>IEC 60068-2-78:2012: Damp heat , steady state</td></tr><tr><td rowspan=1 colspan=1>Procedure deviation.</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Non-standard test method..</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Type of test object.</td><td rowspan=1 colspan=1>Infrared No-Touch Forehead Thermometer</td></tr><tr><td rowspan=1 colspan=1>Trademark..</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Model/type reference.</td><td rowspan=1 colspan=1>PT9L</td></tr><tr><td rowspan=1 colspan=1>Report No</td><td rowspan=1 colspan=1>ETX202303-07-078-05</td></tr><tr><td rowspan=1 colspan=1>Testing period..</td><td rowspan=1 colspan=1>2024.07.10-2024.07.11</td></tr><tr><td rowspan=1 colspan=1>Manufacturer.</td><td rowspan=1 colspan=1>ANDON HEALTH CO., LTD.</td></tr><tr><td rowspan=1 colspan=1>Address.</td><td rowspan=1 colspan=1>No.3 JinPing Street, YaAn Road, Nankai District, Tianjin, China</td></tr><tr><td rowspan=1 colspan=1>Test laboratory.Address..</td><td rowspan=1 colspan=1>Tianxu(Tianjin)Testing Technology Service Co., LTD101, First floor, Building L,No.3 JinPing Street, Ya An Road,Nankai District, Tianjin,China</td></tr></table>",
+                                            "image_path": "18c8742c58ab5856561f993a7f1e46092b002b226beeba66d31d8d0592571547.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "score": 0.988
+                },
+                {
+                    "score": 0.8481,
+                    "bbox": [
+                        122,
+                        494,
+                        220,
+                        579
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": []
+                },
+                {
+                    "score": 0.7552,
+                    "bbox": [
+                        127,
+                        578,
+                        472,
+                        597
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                127,
+                                577,
+                                388,
+                                598
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        577,
+                                        198,
+                                        598
+                                    ],
+                                    "type": "text",
+                                    "content": "Complied by:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        271,
+                                        579,
+                                        336,
+                                        595
+                                    ],
+                                    "type": "text",
+                                    "content": "（Kang Yanli）",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        355,
+                                        578,
+                                        388,
+                                        596
+                                    ],
+                                    "type": "text",
+                                    "content": "Date：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9378,
+                    "bbox": [
+                        124,
+                        610,
+                        474,
+                        627
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                125,
+                                609,
+                                389,
+                                628
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        609,
+                                        194,
+                                        628
+                                    ],
+                                    "type": "text",
+                                    "content": "Reviewed by:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        262,
+                                        610,
+                                        389,
+                                        626
+                                    ],
+                                    "type": "text",
+                                    "content": "（Guan Qingxiang） Date：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.5991,
+                    "bbox": [
+                        52,
+                        41,
+                        210,
+                        54
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                41,
+                                210,
+                                53
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        41,
+                                        210,
+                                        53
+                                    ],
+                                    "type": "text",
+                                    "content": "Report No.: ETX202303-07-078-05",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        52,
+                        70,
+                        535,
+                        457
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.988,
+                            "bbox": [
+                                52,
+                                70,
+                                535,
+                                457
+                            ],
+                            "index": 2,
+                            "type": "table_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        70,
+                                        535,
+                                        457
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                70,
+                                                535,
+                                                457
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td rowspan=1 colspan=2>TEST REPORTIEC 60068-2-78:2012: Damp heat , steady state</td></tr><tr><td rowspan=1 colspan=1>Date of issue.</td><td rowspan=1 colspan=1>2024-07-12</td></tr><tr><td rowspan=1 colspan=1>Standard..</td><td rowspan=1 colspan=1>IEC 60068-2-78:2012: Damp heat , steady state</td></tr><tr><td rowspan=1 colspan=1>Procedure deviation.</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Non-standard test method..</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Type of test object.</td><td rowspan=1 colspan=1>Infrared No-Touch Forehead Thermometer</td></tr><tr><td rowspan=1 colspan=1>Trademark..</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Model/type reference.</td><td rowspan=1 colspan=1>PT9L</td></tr><tr><td rowspan=1 colspan=1>Report No</td><td rowspan=1 colspan=1>ETX202303-07-078-05</td></tr><tr><td rowspan=1 colspan=1>Testing period..</td><td rowspan=1 colspan=1>2024.07.10-2024.07.11</td></tr><tr><td rowspan=1 colspan=1>Manufacturer.</td><td rowspan=1 colspan=1>ANDON HEALTH CO., LTD.</td></tr><tr><td rowspan=1 colspan=1>Address.</td><td rowspan=1 colspan=1>No.3 JinPing Street, YaAn Road, Nankai District, Tianjin, China</td></tr><tr><td rowspan=1 colspan=1>Test laboratory.Address..</td><td rowspan=1 colspan=1>Tianxu(Tianjin)Testing Technology Service Co., LTD101, First floor, Building L,No.3 JinPing Street, Ya An Road,Nankai District, Tianjin,China</td></tr></table>",
+                                            "image_path": "18c8742c58ab5856561f993a7f1e46092b002b226beeba66d31d8d0592571547.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "score": 0.988
+                },
+                {
+                    "score": 0.8481,
+                    "bbox": [
+                        122,
+                        494,
+                        220,
+                        579
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [],
+                    "bbox_fs": [
+                        122,
+                        494,
+                        220,
+                        579
+                    ]
+                },
+                {
+                    "score": 0.7552,
+                    "bbox": [
+                        127,
+                        578,
+                        472,
+                        597
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                127,
+                                577,
+                                388,
+                                598
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        577,
+                                        198,
+                                        598
+                                    ],
+                                    "type": "text",
+                                    "content": "Complied by:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        271,
+                                        579,
+                                        336,
+                                        595
+                                    ],
+                                    "type": "text",
+                                    "content": "（Kang Yanli）",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        355,
+                                        578,
+                                        388,
+                                        596
+                                    ],
+                                    "type": "text",
+                                    "content": "Date：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        127,
+                        577,
+                        388,
+                        598
+                    ]
+                },
+                {
+                    "score": 0.9378,
+                    "bbox": [
+                        124,
+                        610,
+                        474,
+                        627
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [
+                        {
+                            "bbox": [
+                                125,
+                                609,
+                                389,
+                                628
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        609,
+                                        194,
+                                        628
+                                    ],
+                                    "type": "text",
+                                    "content": "Reviewed by:",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        262,
+                                        610,
+                                        389,
+                                        626
+                                    ],
+                                    "type": "text",
+                                    "content": "（Guan Qingxiang） Date：",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        125,
+                        609,
+                        389,
+                        628
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        57,
+                        85,
+                        547,
+                        205
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9814,
+                            "bbox": [
+                                57,
+                                85,
+                                547,
+                                205
+                            ],
+                            "index": 2,
+                            "type": "table_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        85,
+                                        547,
+                                        205
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                57,
+                                                85,
+                                                547,
+                                                205
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>Clause</td><td>Requirement + Test</td><td>Result - Remark</td><td>Verdict</td></tr><tr><td colspan=\"4\"></td></tr><tr><td>Damp heat test</td><td colspan=\"2\">The sample is in normal working condition and put into the programmable constant temperature and humidity test chamber. The temperature and humidity of the test box are adjusted to 40 ° C and 95% RH. After the temperature and humidity are stable, it is maintained for 14.8 hours.</td><td>/</td></tr></table>",
+                                            "image_path": "680a1eb98820287ac85e289079a2f8ee5b43d3550e2aa1a7ebacee3529e72039.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "score": 0.9814
+                },
+                {
+                    "score": 0.791,
+                    "bbox": [
+                        369,
+                        226,
+                        487,
+                        348
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": []
+                },
+                {
+                    "score": 0.8848,
+                    "bbox": [
+                        235,
+                        360,
+                        353,
+                        481
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": []
+                },
+                {
+                    "score": 0.7606,
+                    "bbox": [
+                        102,
+                        493,
+                        220,
+                        614
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": []
+                }
+            ],
+            "page_idx": 1,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.9298,
+                    "bbox": [
+                        53,
+                        41,
+                        210,
+                        54
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                41,
+                                210,
+                                53
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        41,
+                                        210,
+                                        53
+                                    ],
+                                    "type": "text",
+                                    "content": "Report No.: ETX202303-07-078-05",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.9074,
+                    "bbox": [
+                        287,
+                        781,
+                        307,
+                        792
+                    ],
+                    "index": 6,
+                    "type": "page_number",
+                    "lines": [
+                        {
+                            "bbox": [
+                                285,
+                                780,
+                                309,
+                                795
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        285,
+                                        780,
+                                        309,
+                                        795
+                                    ],
+                                    "type": "text",
+                                    "content": "2 / 3",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        57,
+                        85,
+                        547,
+                        205
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.9814,
+                            "bbox": [
+                                57,
+                                85,
+                                547,
+                                205
+                            ],
+                            "index": 2,
+                            "type": "table_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        85,
+                                        547,
+                                        205
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                57,
+                                                85,
+                                                547,
+                                                205
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>Clause</td><td>Requirement + Test</td><td>Result - Remark</td><td>Verdict</td></tr><tr><td colspan=\"4\"></td></tr><tr><td>Damp heat test</td><td colspan=\"2\">The sample is in normal working condition and put into the programmable constant temperature and humidity test chamber. The temperature and humidity of the test box are adjusted to 40 ° C and 95% RH. After the temperature and humidity are stable, it is maintained for 14.8 hours.</td><td>/</td></tr></table>",
+                                            "image_path": "680a1eb98820287ac85e289079a2f8ee5b43d3550e2aa1a7ebacee3529e72039.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "score": 0.9814
+                },
+                {
+                    "score": 0.791,
+                    "bbox": [
+                        369,
+                        226,
+                        487,
+                        348
+                    ],
+                    "index": 3,
+                    "type": "text",
+                    "lines": [],
+                    "bbox_fs": [
+                        369,
+                        226,
+                        487,
+                        348
+                    ]
+                },
+                {
+                    "score": 0.8848,
+                    "bbox": [
+                        235,
+                        360,
+                        353,
+                        481
+                    ],
+                    "index": 4,
+                    "type": "text",
+                    "lines": [],
+                    "bbox_fs": [
+                        235,
+                        360,
+                        353,
+                        481
+                    ]
+                },
+                {
+                    "score": 0.7606,
+                    "bbox": [
+                        102,
+                        493,
+                        220,
+                        614
+                    ],
+                    "index": 5,
+                    "type": "text",
+                    "lines": [],
+                    "bbox_fs": [
+                        102,
+                        493,
+                        220,
+                        614
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        48,
+                        106,
+                        545,
+                        516
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.7236,
+                            "bbox": [
+                                48,
+                                106,
+                                545,
+                                516
+                            ],
+                            "index": 3,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        106,
+                                        545,
+                                        516
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                48,
+                                                106,
+                                                545,
+                                                516
+                                            ],
+                                            "type": "image",
+                                            "image_path": "bb41f4273881e40adc4ff8e863af03692eaf2b290fb82c0c8e51d64032a6433d.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3,
+                    "score": 0.7236
+                }
+            ],
+            "page_idx": 2,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [
+                {
+                    "score": 0.8752,
+                    "bbox": [
+                        52,
+                        41,
+                        210,
+                        54
+                    ],
+                    "index": 1,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                41,
+                                210,
+                                53
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        41,
+                                        210,
+                                        53
+                                    ],
+                                    "type": "text",
+                                    "content": "Report No.: ETX202303-07-078-05",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.58,
+                    "bbox": [
+                        206,
+                        73,
+                        388,
+                        86
+                    ],
+                    "index": 2,
+                    "type": "header",
+                    "lines": [
+                        {
+                            "bbox": [
+                                207,
+                                73,
+                                387,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        207,
+                                        73,
+                                        387,
+                                        85
+                                    ],
+                                    "type": "text",
+                                    "content": "ATTACHMENT FILE 1 photos of the EUT",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "score": 0.8974,
+                    "bbox": [
+                        286,
+                        781,
+                        307,
+                        792
+                    ],
+                    "index": 4,
+                    "type": "page_number",
+                    "lines": [
+                        {
+                            "bbox": [
+                                285,
+                                779,
+                                309,
+                                795
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        285,
+                                        779,
+                                        309,
+                                        795
+                                    ],
+                                    "type": "text",
+                                    "content": "3 / 3",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        48,
+                        106,
+                        545,
+                        516
+                    ],
+                    "blocks": [
+                        {
+                            "score": 0.7236,
+                            "bbox": [
+                                48,
+                                106,
+                                545,
+                                516
+                            ],
+                            "index": 3,
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        106,
+                                        545,
+                                        516
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                48,
+                                                106,
+                                                545,
+                                                516
+                                            ],
+                                            "type": "image",
+                                            "image_path": "bb41f4273881e40adc4ff8e863af03692eaf2b290fb82c0c8e51d64032a6433d.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3,
+                    "score": 0.7236
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "3.1.6"
+}

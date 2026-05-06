@@ -1,0 +1,237 @@
+# Page 1 Visual Transcript
+
+## A. Raw Visible Content
+
+**[A1-C1]** Logo: "andon" (小写，橙色弧线在字母o下方)
+
+**[A3-C3]** 小尺寸标签图形，含尺寸标注：
+- 水平双向箭头标注 "46.5mm"
+- 垂直双向箭头标注 "19.5mm"
+
+**[A3-C3 标签内文字]** 小字体内容：
+- "iHealth Clinical Digital Thermometer"
+- "Model: PT1 Measurement position: oral Made in China"
+- "Power source: DC ==3V , CR1632"
+- "Manufactured for iHealth Labs, Inc. www.ihealthlabs.com"
+- "120 San Lucar Ct., Sunnyvale, CA 94086, USA"
+- 工厂图标 "Andon Health Co., LTD."
+- "No. 3 Jin Ping Street, Ya An Road, Nankai"
+- "District, Tianjin 300190, China."
+- "LOT 201012011001"
+- 认证标志：FC、垃圾桶图标、IP22、人形图标
+
+**[A4-C4]** 说明文字（红色小字）：
+- "字体：Myriad Pro Bold"
+- "字号：5.5pt"
+- "说明："
+- "字体：Myriad Pro 6pt"
+- "批号：201012011001为变量"
+- "（批号依据柯顿规则执行）"
+- "第1-6位：制造令代码"
+- "第7-9位：部件序号"
+- "第10-12位：批次序列号"
+
+**[D5-H5]** 大尺寸标签图形，含尺寸标注：
+- 水平双向箭头标注 "46.5mm"（洋红色大号字体）
+- 垂直双向箭头标注 "19.5mm"（洋红色大号字体）
+
+**[D6-H8 标签内文字]**：
+- "iHealth Clinical Digital Thermometer"
+- "Model: PT1 Measurement position: oral Made in China"
+- "Power source: DC ==3V , CR1632"
+- "Manufactured for iHealth Labs, Inc. www.ihealthlabs.com"
+- "120 San Lucar Ct., Sunnyvale, CA 94086, USA"
+- 工厂图标 "Andon Health Co., LTD."
+- "No. 3 Jin Ping Street, Ya An Road, Nankai"
+- "District, Tianjin 300190, China."
+- "LOT 201012011001"
+- 认证标志：FC、垃圾桶带叉图标、IP22（蓝色圆形背景）、人形图标
+
+**[A5]** "比例 1:1"
+
+**[A8]** 技术要求文字：
+- "本件要求通过RoHS测试"
+- "说明：材质为25#透明PET 覆哑胶"
+- "印刷颜色：C+M+PANTONE Cool gray 7c 三色印刷"
+
+**[A9-H9 标题栏第3行]**：
+| 列 | 内容 |
+|---|---|
+| A | [空白] |
+| B | [空白] |
+| C | [空白] |
+| D | K04080002146 |
+| E | Signature |
+| F | Date |
+| G | Tolerance |
+| H | Pro material |
+| I | [空白] |
+| J | Model NO. |
+| K | PT1 |
+
+**[A10-H10 标题栏第2行]**：
+| 列 | 内容 |
+|---|---|
+| A | [空白] |
+| B | [空白] |
+| C | [空白] |
+| D | Design |
+| E | [空白] |
+| F | [空白] |
+| G | .X |
+| H | Surf dispose |
+| I | [空白] |
+| J | Part name |
+| K | 铭牌 |
+
+**[A11-H11 标题栏第1行]**：
+| 列 | 内容 |
+|---|---|
+| A | [空白] |
+| B | [空白] |
+| C | [空白] |
+| D | Checkup |
+| E | [空白] |
+| F | [空白] |
+| G | .XX |
+| H | Scale |
+| I | 1:1 |
+| J | Drawing NO. |
+| K | PT1-F05 |
+
+**[A12-H12 标题栏第0行]**：
+| 列 | 内容 |
+|---|---|
+| A | No |
+| B | 更 改 记 录 |
+| C | 更改时间 |
+| D | Approve |
+| E | [空白] |
+| F | [空白] |
+| G | .X° |
+| H | Units |
+| I | mm |
+| J | [投影符号] [第一角投影符号] |
+| K | Edition |
+| L | V1.0 |
+
+## B. Structured Extraction
+
+### 标题栏信息（引用 A9-A12）
+
+| 属性 | 值 | 位置锚点 |
+|---|---|---|
+| 图号/编号 | K04080002146 | A9-D |
+| 设计 | [空白未填] | A10-D |
+| 校对 | [空白未填] | A11-D |
+| 批准 | [空白未填] | A12-D |
+| 公差 | .X / .XX / .X° | A10-G / A11-G / A12-G |
+| 表面处理 | Surf dispose | A10-H |
+| 比例 | 1:1 | A11-I |
+| 单位 | mm | A12-I |
+| 材料 | Pro material / [空白] | A9-H / A10-H |
+| 型号 | PT1 | A9-K |
+| 零件名称 | 铭牌 | A10-K |
+| 图纸编号 | PT1-F05 | A11-K |
+| 版本 | V1.0 | A12-L |
+| 投影方式 | 第一角投影（符号显示） | A12-J |
+
+### 标签规格信息（引用 A3-A8, D5-H8）
+
+| 属性 | 值 |
+|---|---|
+| 产品名称 | iHealth Clinical Digital Thermometer |
+| 型号 | PT1 |
+| 测量位置 | oral |
+| 产地 | Made in China |
+| 电源 | DC ==3V , CR1632 |
+| 委托方 | iHealth Labs, Inc. |
+| 委托方地址 | 120 San Lucar Ct., Sunnyvale, CA 94086, USA |
+| 委托方网址 | www.ihealthlabs.com |
+| 制造商 | Andon Health Co., LTD. |
+| 制造商地址 | No. 3 Jin Ping Street, Ya An Road, Nankai District, Tianjin 300190, China |
+| 批号示例 | 201012011001 |
+| 认证标志 | FC, IP22, 垃圾桶, 人形图标 |
+| 标签尺寸 | 46.5mm × 19.5mm |
+| 字体 | Myriad Pro Bold 5.5pt / Myriad Pro 6pt |
+| 材质 | 25#透明PET 覆哑胶 |
+| 印刷颜色 | C+M+PANTONE Cool gray 7c 三色印刷 |
+| RoHS要求 | 本件要求通过RoHS测试 |
+
+### 批号编码规则（引用 A4）
+- 第1-6位：制造令代码
+- 第7-9位：部件序号
+- 第10-12位：批次序列号
+
+## C. Visual Objects
+
+| 对象 | 描述 | 位置 |
+|---|---|---|
+| 公司Logo | "andon" 文字标识，橙色弧线装饰 | A1-C1 |
+| 小标签图形 | 圆角矩形，含完整文字和认证标志，带尺寸引线 | A3-C3 |
+| 大标签图形 | 圆角矩形，含完整文字和认证标志，带尺寸引线 | D6-H8 |
+| 尺寸标注线 | 洋红色双向箭头，水平46.5mm | D5-H5 |
+| 尺寸标注线 | 洋红色双向箭头，垂直19.5mm | A6-A8 |
+| 尺寸标注线 | 红色双向箭头，水平46.5mm（小标签） | B3-D3 |
+| 尺寸标注线 | 红色双向箭头，垂直19.5mm（小标签） | A3-A4 |
+| 工厂图标 | 灰色工厂/建筑剪影 | A3-C3, D6-H8 |
+| FC标志 | 灰色字母组合 | A3-C3, D6-H8 |
+| 垃圾桶图标 | 带叉垃圾桶，表示不可随意丢弃 | A3-C3, D6-H8 |
+| IP22标志 | 蓝色圆形背景，白色文字 | D6-H8（小标签为灰色） |
+| 人形图标 | 灰色人形符号 | A3-C3, D6-H8 |
+| 投影符号 | 第一角投影法符号（梯形+圆） | A12-J |
+| 更改记录表格 | 空白表格，含"更改记录""更改时间"列标题 | A12-B, A12-C |
+
+## D. Candidate Normalization
+
+[候选] "Surf dispose" 可能应为 "Surface disposal" 或 "表面处理"，来源：A10-H，制造业图纸常见术语
+
+[候选] "Pro material" 可能应为 "Project material" 或 "Professional material" 或 "Protective material"，来源：A9-H，标题栏材料栏常见写法
+
+[候选] ".X°" 中的度符号可能表示角度公差，来源：A12-G
+
+[候选] "DC ==3V" 中的双等号可能为排版错误或表示"约等于"，标准写法应为 "DC 3V" 或 "DC = 3V"，来源：A3-C3, D6-H8
+
+[候选] "25#透明PET" 中的 "#" 可能表示"号"或厚度规格，来源：A8
+
+[候选] "覆哑胶" 为覆哑膜/哑胶工艺，来源：A8
+
+[候选纠正] "铭牌" 为中文零件名称，对应英文 "nameplate" 或 "label"，来源：A10-K
+
+[候选] 批号 "201012011001" 结构验证：201012（制造令代码）- 011（部件序号）- 001（批次序列号），来源：A4说明
+
+## E. Uncertain Items
+
+| 项目 | 位置 | 说明 |
+|---|---|---|
+| [空白未填] | A9-A, A9-B, A9-C | 标题栏第3行左侧三列 |
+| [空白未填] | A10-E, A10-F | Design签名和日期 |
+| [空白未填] | A11-E, A11-F | Checkup签名和日期 |
+| [空白未填] | A12-E, A12-F | Approve签名和日期 |
+| [空白未填] | A9-H "Pro material" 对应值 | 材料具体值未填写 |
+| [空白未填] | A10-H "Surf dispose" 对应值 | 表面处理方式未填写 |
+| [表头对应不确定] | A9-H "Pro material" 与 A10-H "Surf dispose" 的列对应关系 | 两列内容是否互换需确认 |
+| [看不清] | 小标签内部分小字 | 字体极小，部分细节难以辨认 |
+| [被遮挡] | 无 | 本页无遮挡内容 |
+
+## F. Downstream Verification
+
+1. **签名栏完整性核验**：Design/Checkup/Approve三栏签名和日期均为空白，需确认是否为正式发行版本或待签状态（引用 A10-E/F, A11-E/F, A12-E/F）
+
+2. **材料信息核验**："Pro material"栏具体材料值缺失，"Surf dispose"栏表面处理值缺失，需补全（引用 A9-H, A10-H）
+
+3. **公差标注核验**：.X / .XX / .X° 三级公差标注需与图纸实际尺寸对应验证（引用 A10-G, A11-G, A12-G）
+
+4. **批号规则核验**："柯顿规则"具体定义需确认，批号编码规则第7-9位"部件序号"与图纸零件"铭牌"的对应关系（引用 A4）
+
+5. **电源标注核验**："DC ==3V"双等号是否为特殊含义或排版错误，需与产品规格书核对（引用 A3-C3, D6-H8）
+
+6. **投影方式核验**：第一角投影符号确认，需验证与制图标准一致性（引用 A12-J）
+
+7. **版本状态核验**：V1.0版本且无更改记录，需确认是否为首次发布（引用 A12-L, A12-B/C）
+
+8. **尺寸比例核验**：标注"比例 1:1"与实际打印尺寸46.5mm×19.5mm的一致性（引用 A5, D5-H5, A6-A8）
+
+9. **认证标志核验**：FC、IP22等认证标志的合规性和最新状态（引用 A3-C3, D6-H8）
+
+10. **颜色标准核验**：PANTONE Cool gray 7c 色号有效性及三色印刷工艺可行性（引用 A8）

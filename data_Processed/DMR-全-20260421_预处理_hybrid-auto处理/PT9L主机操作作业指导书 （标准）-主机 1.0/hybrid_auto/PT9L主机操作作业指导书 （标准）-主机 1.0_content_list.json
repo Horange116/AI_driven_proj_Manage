@@ -1,0 +1,1820 @@
+[
+    {
+        "type": "table",
+        "img_path": "images/9a07c0e2abf190760e9f55d959056e535f247a22885718b2b091682810ac5e4e.jpg",
+        "table_caption": [
+            "PT9L操作作业指导书（标准）",
+            "编号：WI-PT9L-DY01 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Type部件名称</td><td>Page页码</td><td>Progress Name工序名称</td><td>Ver.No版本</td><td>Date生效期</td><td>Prepared准备</td><td>Checked审核</td><td>Approved批准</td></tr></table>",
+        "bbox": [
+            47,
+            91,
+            949,
+            124
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/a87a5cf458784c00ad4b09c9eee25b0a7a12edf051a4e5d0304d8176f867a5bf.jpg",
+        "table_caption": [
+            "主机 1/2 组装传感器 1.0 2024.06.20"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>物料名称及编码</td><td>工序描述</td><td>图象</td><td>操作</td><td>设备工具名称</td><td>人员装备要求</td><td>要求</td></tr><tr><td rowspan=\"2\">传感器(物料信息见制造令BOM)</td><td colspan=\"2\"><img src=\"images/7e4e69ee26ab2bd99900c0dc26ed74411ed896cc706374dd6dbd835045c90655.jpg\"/></td><td rowspan=\"2\">如图所示将传感器掰成单个</td><td rowspan=\"5\"></td><td rowspan=\"5\">佩戴手指套静电环</td><td rowspan=\"2\">要求:外观无缺损、脏污等不良风险:性能不良</td></tr><tr><td colspan=\"2\"><img src=\"images/b6b18908cc7e1e80684bf3fd5ae1465c8eef88926b2ef2d330ffa9ba6a7e7384.jpg\"/></td></tr><tr><td>支架(物料信息见制造令BOM)</td><td>传感器装支架</td><td><img src=\"images/13e38764dec9ecafceeedcc5238d27d744d04c42ffd794a6150626865e0e4c5d.jpg\"/></td><td></td><td>要求:外观无缺损、脏污等不良风险:性能不良</td></tr><tr><td rowspan=\"2\">传感器装支架</td><td colspan=\"2\"><img src=\"images/3551e12d079497fb3189190933b41e57ce110dccb549a24c766c7be6dc79e883.jpg\"/> <img src=\"images/3128058355d6102fb85c4924ecf09f7405f7f3782d4975d01bd258b3ee8eee1c.jpg\"/></td><td rowspan=\"2\">如图所示将支架和传感器放在工装上组合</td><td rowspan=\"2\">要求:安装到位风险:性能不良不良</td></tr><tr><td colspan=\"2\"><img src=\"images/09862c5533e229fbe957fe1f0821e291b1f1fbf7a374e300472fc5dbe5289dbb.jpg\"/></td></tr></table>",
+        "bbox": [
+            48,
+            171,
+            949,
+            878
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            47,
+            14,
+            121,
+            35
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQR-7.5.1-03-37/A0",
+        "bbox": [
+            663,
+            15,
+            949,
+            32
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/c29abd410a00b71c065df16249664e4ba67a4df4d924c04900184dbe78ee629e.jpg",
+        "table_caption": [
+            "PT9L操作作业指导书（标准）",
+            "编号：WI-PT9L-DY01 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Type部件名称</td><td>Page页码</td><td>Progress Name工序名称</td><td>Ver.No版本</td><td>Date生效期</td><td>Prepared准备</td><td>Checked审核</td><td>Approved批准</td></tr></table>",
+        "bbox": [
+            47,
+            91,
+            949,
+            124
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7ca2e2131031b3800b2b4c2413081111f023d6ae1be3eee4a1680b303ae155c1.jpg",
+        "table_caption": [
+            "主机 2/2 组装传感器 1.0 2024.06.20"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>物料名称及编码</td><td>工序描述</td><td>图象</td><td>操作</td><td>设备工具名称</td><td>人员装备要求</td><td>要求</td></tr><tr><td>传感器和支架组合后</td><td rowspan=\"3\">传感器装支架</td><td><img src=\"images/6da8a6d48118f2253deda6ebfd8089fd595fc1bb0000200f0e9baf3aefff3fe4.jpg\"/></td><td></td><td rowspan=\"3\"></td><td rowspan=\"3\">佩戴手指套静电环</td><td>要求:外观无缺损、脏污等不良风险:性能不良</td></tr><tr><td>自攻螺钉(物料信息见制造令BOM)</td><td><img src=\"images/5ecc7863c054cd3a6b26dca5e8eb0fe81aee9ea3d8c37ca1be0be467d583aeb8.jpg\"/></td><td>螺钉规格:ST2.0×5.0-F-H电动螺丝刀扭力标准:1.6kgf.cm±0.2</td><td>要求:外观无缺损、脏污等不良风险:性能不良</td></tr><tr><td>传感器装支架</td><td><img src=\"images/1b302e568894148602cfdaad8bed8c76ada55ccf51ac896566604080dcb2344c.jpg\"/><img src=\"images/e4670fcb4af4dae0d68042160bf187df1cd1b303a20714b1e38132c6b2254ace.jpg\"/></td><td>如图所示左手按着传感器,右手打螺钉,螺丝需紧固传感器支架</td><td>要求:安装到位风险:性能不良不良</td></tr></table>",
+        "bbox": [
+            48,
+            171,
+            949,
+            806
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            47,
+            14,
+            121,
+            35
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQR-7.5.1-03-37/A0",
+        "bbox": [
+            663,
+            15,
+            949,
+            32
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/0000e3aafaf5aff60ded3a38ab33b23d0eeeb7d44b73e1d864e09b96301ed352.jpg",
+        "table_caption": [
+            "PT9L操作作业指导书（标准）",
+            "编号：WI-PT9L-DY02 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Type部件名称</td><td>Page页码</td><td>Progress Name工序名称</td><td>Ver.No版本</td><td>Date生效期</td><td>Prepared准备</td><td>Checked审核</td><td>Approved批准</td></tr></table>",
+        "bbox": [
+            47,
+            91,
+            949,
+            124
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "主机 1/1",
+        "bbox": [
+            82,
+            140,
+            206,
+            156
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PCB焊接 ",
+        "bbox": [
+            278,
+            140,
+            352,
+            156
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.0 ",
+        "bbox": [
+            436,
+            141,
+            468,
+            155
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2024.06.20 ",
+        "bbox": [
+            500,
+            141,
+            603,
+            155
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9e2acd3505cb6ad4bfd425cccbf6cf970704c8ef597b0b37501b00767432087f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>物料名称及编码</td><td>工序描述</td><td>图象</td><td>操作</td><td>设备工具名称</td><td>人员装备要求</td><td>要求</td></tr><tr><td>传感器模块和支架组装(物料信息见制造令BOM)</td><td rowspan=\"2\"></td><td><img src=\"images/c5827141548201f6812807b14543af6b32c38cfb1acbe89a91f5d1ee6f0e2a85.jpg\"/><img src=\"images/f1955c5f928136ec61df882fe928c071802424626059fd2409f82e9ef810dd96.jpg\"/></td><td>将传感器头的一面朝下装在支架下盖凹槽内</td><td rowspan=\"7\"></td><td rowspan=\"7\">佩戴手指套静电环</td><td>要求:1.传感器头的一面朝下装入.2.检查部件是否有脏污、划伤、变形、批锋等风险:性能不良</td></tr><tr><td>PCB(物料信息见制造令BOM)</td><td colspan=\"2\"><img src=\"images/4eb2e40ef64c7bf99be73d61f0bb1ccfe7737034c37ef36194b402de172b10dd.jpg\"/></td><td>要求:1.PCB组件缺一不可。2.PCB不能有损坏、脏污、变形等风险:性能不良</td></tr><tr><td colspan=\"3\">数字1-2-3对应探头三根线</td><td rowspan=\"5\">1、如图一所示:将前工序探头焊接在PCB主板上,三根线手工焊接,线焊接牢固,焊点饱满,焊接时间不超过3秒2、下排摆放不可堆叠,连接线不可缠绕</td><td rowspan=\"5\">要求:1:线焊接牢固,焊点饱满,焊接时间不超过3秒风险:性能不良</td></tr><tr><td rowspan=\"3\" colspan=\"2\"><img src=\"images/d071c71d1081bc9508a6bc5ea3de4a8fa08c3e66ba53ca9eb15b0c07cfd7f120.jpg\"/></td><td>数字3焊接黑线</td></tr><tr><td>数字2焊接白线</td></tr><tr><td>数字1焊接红线</td></tr><tr><td colspan=\"3\"><img src=\"images/52e542906b8bca7e8402921e5586cbe947385e8efeed37408f819bde88995bb1.jpg\"/></td></tr></table>",
+        "bbox": [
+            48,
+            171,
+            949,
+            878
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            47,
+            14,
+            121,
+            35
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQR-7.5.1-03-37/A0",
+        "bbox": [
+            663,
+            15,
+            949,
+            32
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce09204ee9109d58cce493f20b9dee7c41914fa396df464d2471ccfb62b4a75d.jpg",
+        "table_caption": [
+            "PT9L操作作业指导书（标准）",
+            "编号：WI-PT9L-DY03 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Type部件名称</td><td>Page页码</td><td>Progress Name工序名称</td><td>Ver.No版本</td><td>Date生效期</td><td>Prepared准备</td><td>Checked审核</td><td>Approved批准</td></tr></table>",
+        "bbox": [
+            47,
+            91,
+            949,
+            124
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "主机 1/2",
+        "bbox": [
+            82,
+            140,
+            208,
+            156
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "按键组装",
+        "bbox": [
+            273,
+            140,
+            357,
+            156
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.0 ",
+        "bbox": [
+            436,
+            141,
+            468,
+            155
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2024.06.20 ",
+        "bbox": [
+            500,
+            141,
+            603,
+            156
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/32f31cd11d56423e0558ade436f1e88c33e6362117fddbd9c1f21d18b1330efc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>物料名称及编码</td><td>工序描述</td><td>图象</td><td>操作</td><td>设备工具名称</td><td>人员装备要求</td><td>要求</td></tr><tr><td rowspan=\"2\">按键(物料信息见制造令BOM)</td><td rowspan=\"4\">安装缓冲垫</td><td><img src=\"images/4a259bf952ea3c297319d305f655322035a1986088bb2a0e088e7f896408daad.jpg\"/></td><td rowspan=\"2\"></td><td rowspan=\"4\"></td><td rowspan=\"4\">佩戴手指套静电环</td><td rowspan=\"2\">要求:外观无缺损、脏污等不良风险:性能不良</td></tr><tr><td><img src=\"images/530e9aa1212112b2186302f6122b4d03fdc5376a9b3309ef122910f1f76fd8c0.jpg\"/></td></tr><tr><td>缓冲垫(物料信息见制造令BOM)</td><td><img src=\"images/277fd8de91955864ee26b2b3457a3f1579df9c2a02fbb6ea2b331c36c39f6fbd.jpg\"/></td><td></td><td>要求:外观无缺损、脏污等不良风险:性能不良</td></tr><tr><td>安装缓冲垫</td><td><img src=\"images/0ecd04236f12d972c2f222898942b8c3ec1c16b9023abb1d727e08f539cea3f9.jpg\"/></td><td>拿取缓冲垫,带有双面胶一侧粘贴在按键内,缓冲垫居中安装</td><td>要求:安装到位风险:性能不良不良</td></tr></table>",
+        "bbox": [
+            48,
+            171,
+            949,
+            873
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            47,
+            14,
+            121,
+            35
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQR-7.5.1-03-37/A0",
+        "bbox": [
+            663,
+            15,
+            949,
+            32
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c4ee83dde4d5c66d7ffba09587a4dd87134ce9c62d7e50d53bdd02d216e55f2.jpg",
+        "table_caption": [
+            "PT9L操作作业指导书（标准）",
+            "编号：WI-PT9L-DY03 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Type部件名称</td><td>Page页码</td><td>Progress Name工序名称</td><td>Ver.No版本</td><td>Date生效期</td><td>Prepared准备</td><td>Checked审核</td><td>Approved批准</td></tr></table>",
+        "bbox": [
+            47,
+            91,
+            949,
+            124
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1518100e862ccb9ea5902fb0ece74ce23603b82e33aa2f7b21799231f9df3725.jpg",
+        "table_caption": [
+            "主机 2/2 按键组装 1.0 2024.06.20"
+        ],
+        "table_footnote": [
+            ""
+        ],
+        "table_body": "<table><tr><td>物料名称及编码</td><td>工序描述</td><td>图象</td><td>操作</td><td>设备工具名称</td><td>人员装备要求</td><td>要求</td></tr><tr><td rowspan=\"2\">上盖(物料信息见制造令BOM)</td><td rowspan=\"3\">安装按键</td><td colspan=\"3\"><img src=\"images/c296d9ad2b54b2426c75fdaaa36f1ac89f008e2f5597469553bc7b539b8d2d8c.jpg\"/></td><td rowspan=\"4\">佩戴手指套静电环</td><td rowspan=\"2\">要求:1、外观无缺损、脏污、变形、划伤等不良现象;风险:性能不良</td></tr><tr><td colspan=\"3\"><img src=\"images/5cb26bc0e84b64d773d34f13a25dfaf4e44f9c7f9cb59839a9437e12c58f1b18.jpg\"/></td></tr><tr><td>贴好缓冲垫的按键</td><td colspan=\"2\"><img src=\"images/ed3c94901420843c905353f50b6c02c06dd46abd6c0574b58c8f34342e15964a.jpg\"/></td><td rowspan=\"2\"></td><td>要求:1、缓冲垫安装到位。2、外观无缺损、脏污、变形、划伤等不良现象;风险:性能不良</td></tr><tr><td>上壳安装按键</td><td><img src=\"images/faa4192c090a752efdb6e1ffd401a6846ebe3ae2dd48342b1820a6752ea34d56.jpg\"/></td><td><img src=\"images/96783b1589597a72a37d0981080997d452f3656c7db9fa056b6c76a28d00158f.jpg\"/>对准孔位后放入按键,按压箭头指向处</td><td>将粘贴缓冲垫后的按键安装在前壳上,并按压图示位置至根部</td><td>要求:1、按键安装到位。2、外观无缺损、脏污、变形、划伤等不良现象;风险:性能不良</td></tr></table>",
+        "bbox": [
+            48,
+            171,
+            949,
+            873
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            47,
+            14,
+            121,
+            35
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQR-7.5.1-03-37/A0",
+        "bbox": [
+            663,
+            15,
+            949,
+            32
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/83282dcf8421412f8287b9af0118934a5890a58abe18e372409a1d1f28d8b213.jpg",
+        "table_caption": [
+            "PT9L操作作业指导书（标准）",
+            "编号：WI-PT9L-DY04 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Type部件名称</td><td>Page页码</td><td>Progress Name工序名称</td><td>Ver.No版本</td><td>Date生效期</td><td>Prepared准备</td><td>Checked审核</td><td>Approved批准</td></tr></table>",
+        "bbox": [
+            47,
+            91,
+            949,
+            124
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2297b1df821fdf32a92feb50e6f07b03148ad825e28ee36f348db5e5ce3ec3c9.jpg",
+        "table_caption": [
+            "主机 1/3 前壳组装显示屏 1.0 2024.06.20 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>物料名称及编码</td><td>工序描述</td><td colspan=\"2\">图象</td><td>操作</td><td>设备工具名称</td><td>人员装备要求</td><td>要求</td></tr><tr><td>液晶(物料信息见制造令BOM)</td><td rowspan=\"3\">安装液晶</td><td colspan=\"2\"><img src=\"images/74fd64aab777163aeed3d4e800a0596ee56511a15bcbd1c81af5c435f35b7d70.jpg\"/><img src=\"images/5ea6b21f374bfb0b9d7ee27f459f678c8ec48a3e19376833fd5ab53639dc6ec0.jpg\"/></td><td>如图将液晶的保护膜撕下,手指不能触碰液晶屏</td><td></td><td rowspan=\"3\">佩戴手指套静电环</td><td>要求:外观无缺损、脏污、划伤等不良风险:性能不良</td></tr><tr><td>装好按键的上壳</td><td colspan=\"3\"><img src=\"images/d3a727023f3524d2ad64feeb5a11bee0d29793dab04b0a523fd704123ad6b30c.jpg\"/></td><td rowspan=\"2\"></td><td>要求:外观无缺损、脏污、划伤等不良风险:性能不良</td></tr><tr><td>安装液晶</td><td colspan=\"2\"><img src=\"images/56845f40e3043d4d56d07a66bb9df5d9e4167b71168e86c5c8d5a624f3769f63.jpg\"/></td><td>如图所示撕下保护膜后,确认液晶良好进行安装,方向不可错、不可有杂质、脏污。</td><td>要求:液晶安装方向不可错,不可有杂质、脏污液晶、保护膜需撕下风险:性能不良</td></tr></table>",
+        "bbox": [
+            48,
+            171,
+            949,
+            865
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            47,
+            14,
+            121,
+            35
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQR-7.5.1-03-37/A0",
+        "bbox": [
+            663,
+            15,
+            949,
+            32
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/329473672ecfac2cba87ba213dcbb951b5e49b52ea875222e0e8f1f0e380c1d8.jpg",
+        "table_caption": [
+            "PT9L操作作业指导书（标准）",
+            "编号：WI-PT9L-DY04 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Type部件名称</td><td>Page页码</td><td>Progress Name工序名称</td><td>Ver.No版本</td><td>Date生效期</td><td>Prepared准备</td><td>Checked审核</td><td>Approved批准</td></tr></table>",
+        "bbox": [
+            47,
+            91,
+            949,
+            124
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/561afe6210e1904214b064804aa8b0820aebc25ff8216ba731ea73279166a17c.jpg",
+        "table_caption": [
+            "主机 2/3 前壳组装显示屏 1.0 2024.06.20 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>物料名称及编码</td><td>工序描述</td><td>图象</td><td>操作</td><td>设备工具名称</td><td>人员装备要求</td><td>要求</td></tr><tr><td>背光(物料信息见制造令BOM)</td><td rowspan=\"3\">安装背光</td><td><img src=\"images/f361af9cdc5e0f5508e28bb57f823f13a3476974782561b10aaccbbaef185910.jpg\"/></td><td></td><td rowspan=\"3\"></td><td rowspan=\"3\">佩戴白色手套静电环</td><td>要求:外观无缺损、脏污、连焊、漏焊等不良风险:性能不良</td></tr><tr><td>背光揭膜</td><td><img src=\"images/27022b5d1a8e01171b8fe2ca007a62655840e8ba098d4f363bbea9ee4fc8c02a.jpg\"/></td><td>如图将背光的保护膜撕下,手指不能触碰背光屏</td><td>要求:1、外观无缺损、脏污等不良;2、黄胶包装标识明确(名称、开封后有效期、确认人、复核人)。</td></tr><tr><td>安装背光</td><td><img src=\"images/53acc8c72c27aaa84e902599dbbca2d859d907df85abd85f344bc76090ecc4b4.jpg\"/><img src=\"images/f2cd5cc10aa6d426c4ef6a51bc8b44119a2fe0cdbc41b3210733f6f88417d77e.jpg\"/><img src=\"images/26a07feef1fd11266ea7529ae97c5af9f9253130ef831dc0ebff9c8dca1e994d.jpg\"/></td><td>如图示:用气枪将液晶上的异物吹干净后,再揭背光保护膜进行安装,安装方向不可错。</td><td>要求:背光安装方向不可错,不可有杂质、脏污,背光保护膜需撕下风险:性能不良</td></tr></table>",
+        "bbox": [
+            48,
+            171,
+            949,
+            872
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            47,
+            14,
+            121,
+            35
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQR-7.5.1-03-37/A0",
+        "bbox": [
+            663,
+            15,
+            949,
+            32
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d210c9691b2876ba9c2181ec896f61fb60b2ae4d9abbcda6f4d422be4c99f96.jpg",
+        "table_caption": [
+            "PT9L操作作业指导书（标准）",
+            "编号：WI-PT9L-DY04 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Type</td><td>Page</td><td>Progress Name</td><td>Ver.No</td><td>Date</td><td>Prepared</td><td>Checked</td><td>Approved</td></tr><tr><td>部件名称</td><td>页码</td><td>工序名称</td><td>版本</td><td>生效期</td><td>准备</td><td>审核</td><td>批准</td></tr></table>",
+        "bbox": [
+            45,
+            89,
+            951,
+            126
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ffa710567ac7f84e6185384e3114e6f2f9e93c5b55ddcc23e338e628b92f18f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>物料名称及编码</td><td>工序描述</td><td>图象</td><td>操作</td><td>设备工具名称</td><td>人员装备要求</td><td>要求</td></tr><tr><td>斑马条(物料信息见制造令BOM)</td><td></td><td><img src=\"images/052ab5d0ef394e9c68b5b14b56be617ae2ce5d460972f56e1dbd951f98714aba.jpg\"/></td><td></td><td></td><td rowspan=\"3\">佩戴静电手腕带</td><td>要求:外观无破损、脏污等不良风险:性能不良</td></tr><tr><td>安装好的背光</td><td colspan=\"4\"><img src=\"images/dfbe6a494f52e601473d3d661167fc86a9cac49bcb41332e2a5adb56cf892bf5.jpg\"/></td><td>要求:外观无破损、脏污等不良风险:性能不良</td></tr><tr><td>安装斑马条</td><td colspan=\"2\">确认白色区域无脏污后安装斑马条,(酒精擦拭干燥后安装或气枪吹)<img src=\"images/144e0d14a55a5b3034ec0a5827662994c4d5a5a3ad91234b2807aedcd9d84165.jpg\"/><img src=\"images/149766e205e15bf5b1a36d508696bc66b6e44451bd5427d6a1f1dd24f1885693.jpg\"/></td><td>如图示:将斑马条安装到指定位置安装到位,不可翘起都风险。</td><td></td><td>要求:斑马条安装到位,不可有杂质、脏污、翘起等风险:性能不良</td></tr></table>",
+        "bbox": [
+            45,
+            161,
+            951,
+            829
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            47,
+            14,
+            121,
+            35
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQR-7.5.1-03-37/A0",
+        "bbox": [
+            663,
+            15,
+            949,
+            32
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/c242314a69413d85146f0bd649bf46a3d8e46cf48d56604be670b7d0443bc951.jpg",
+        "table_caption": [
+            "PT9L操作作业指导书（标准）"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"8\">编号:WI-PT9L-DY05</td></tr><tr><td>Type部件名称</td><td>Page页码</td><td>Progress Name工序名称</td><td>Ver.No版本</td><td>Date生效期</td><td>Prepared准备</td><td>Checked审核</td><td>Approved批准</td></tr><tr><td>主机</td><td>1/1</td><td>安装PCB</td><td>1.0</td><td>2024.06.20</td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            45,
+            72,
+            951,
+            154
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/d086a78f3467814973d5c7057221334b253991cbea13e54c68387dca7c7d2f37.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>物料名称及编码</td><td>工序描述</td><td>图象</td><td>操作</td><td>设备工具名称</td><td>人员装备要求</td><td>要求</td></tr><tr><td>完整的PCB板</td><td></td><td><img src=\"images/e0d5a4eb3d8123ba4799823e2e6879cf4fe0398714ccec1a518b6beb74c7dbba.jpg\"/></td><td></td><td rowspan=\"3\"></td><td rowspan=\"3\">佩戴静电手腕带</td><td>要求:外观无破损、脏污等不良风险:性能不良</td></tr><tr><td>装好的显示屏</td><td colspan=\"3\"><img src=\"images/1f413d49ef7e03895b05fdb47b840d1c4fb289e9d64f967dccdb8c376e7dc88d.jpg\"/></td><td>要求:外观无缺件、无破损、脏污等不良风险:性能不良</td></tr><tr><td>安装PCB板</td><td colspan=\"2\"><img src=\"images/c1aed229941e27224e8751c00d882f9e5eaddff1a96968ff2948181e9b05f08f.jpg\"/></td><td>如图所示:左手拿不缺件的上壳,右手拿PCB板,先对下面的两个孔,然后对上面的两个孔,按压到底。</td><td>要求:PCB板安装到位,不可有杂质、脏污、翘起等风险:性能不良</td></tr></table>",
+        "bbox": [
+            45,
+            162,
+            951,
+            766
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            89,
+            14,
+            164,
+            35
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQR-7.5.1-03-37/A0",
+        "bbox": [
+            620,
+            15,
+            907,
+            32
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PT9L操作作业指导书（标准）",
+        "text_level": 1,
+        "bbox": [
+            233,
+            63,
+            742,
+            93
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "编号：WI-PT9L-DY06 ",
+        "bbox": [
+            48,
+            95,
+            220,
+            110
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/b9d5edfda2afffb0f5cc6928d45e02b5e267cea5a8a2c79f9a7ac75229db36a9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Type部件名称</td><td>Page页码</td><td>Progress Name工序名称</td><td>Ver.No版本</td><td>Date生效期</td><td>Prepared准备</td><td>Checked审核</td><td>Approved批准</td></tr></table>",
+        "bbox": [
+            48,
+            112,
+            951,
+            146
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "主机 1/1 打螺钉 1.0 2024.06.20",
+        "bbox": [
+            80,
+            161,
+            601,
+            177
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/1545ef003bca264c6bffac85a44871b6a8f31dcbf362b1879807187a36e9701f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>物料名称</td><td>工序描述</td><td>图象</td><td>操作</td><td>设备工具名称</td><td>人员装备要求</td><td>要求</td></tr><tr><td>自攻螺钉(物料信息见制造令BOM)</td><td></td><td><img src=\"images/13322da717fcacc24c73c04a26d4715021153fec184c2ca84778d68e1eb764f9.jpg\"/></td><td></td><td rowspan=\"6\">打螺钉工装电动螺丝刀、批头静电环</td><td rowspan=\"6\">佩戴白手套、静电手腕带</td><td>要求:外观无缺损、脏污等不良风险:性能不良</td></tr><tr><td>扣到位的PCB板</td><td></td><td colspan=\"2\"><img src=\"images/322fbbc1151de8b18793bb74dfd7e3bc410c68ea6d69954cbe02f201799f97f1.jpg\"/></td><td>要求:外观无缺损、脏污等不良风险:性能不良</td></tr><tr><td>打螺钉</td><td></td><td>把上壳放到工装上按顺序打螺钉,螺钉打到位不能歪斜</td><td rowspan=\"4\">螺钉规格:ST2.0×5.0-F-H电动螺丝刀扭力标准:1.6kgf.cm±0.21:各零部件需安装到位2:装配时PCB无损伤3:螺丝需紧固PCB4.:检验按键是否灵敏</td><td rowspan=\"4\">要求:外观螺钉是否打到位、无缺损、脏污等不良风险:性能不良</td></tr><tr><td colspan=\"3\"><img src=\"images/1f0b8a5148088f7f256afee8e8212faae89e2c2958ed30bd1387798011f38755.jpg\"/></td></tr><tr><td colspan=\"3\"><img src=\"images/5c0a4084d96a2de07a578eb5373c8b2cfbc8a77deba1644a616432bb4a5676ae.jpg\"/></td></tr><tr><td></td><td></td><td><img src=\"images/d16a62eae883eb66bc8f34f742556f2a9c5bf7bd0a43ae98fd749cb4b3449279.jpg\"/></td></tr></table>",
+        "bbox": [
+            45,
+            191,
+            951,
+            872
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            50,
+            41,
+            181,
+            76
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQR-7.5.1-03-37/A0",
+        "bbox": [
+            660,
+            43,
+            947,
+            59
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "PT9L操作作业指导书（标准）",
+        "text_level": 1,
+        "bbox": [
+            233,
+            61,
+            742,
+            93
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "编号：WI-PT9L-DY07 ",
+        "bbox": [
+            48,
+            95,
+            218,
+            110
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/ad19493038787b6e4b3fdf6a598ad3aa2addfd9ac583f89e6230c3b270468fa9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Type部件名称</td><td>Page页码</td><td>Progress Name工序名称</td><td>Ver.No版本</td><td>Date生效期</td><td>Prepared准备</td><td>Checked审核</td><td>Approved批准</td></tr></table>",
+        "bbox": [
+            45,
+            112,
+            951,
+            146
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "主机 1/1 装双联簧 1.0 2024.06.20",
+        "bbox": [
+            80,
+            161,
+            601,
+            177
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/6af66242eb669333beaa083a263223711cce35ee3570113c45601ce9b75f5356.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>物料名称</td><td>工序描述</td><td>图象</td><td>操作</td><td>设备工具名称</td><td>人员装备要求</td><td>要求</td></tr><tr><td>双联弹簧(物料信息见制造令BOM)</td><td></td><td><img src=\"images/305f45af3336e8874e6a2ecc3be10d5ebccefa0eb9ae83572469da2512ad641c.jpg\"/></td><td></td><td></td><td rowspan=\"3\">佩戴白手套、防静电手腕带</td><td>要求:外观无缺损、脏污等不良风险:性能不良</td></tr><tr><td>下盖(物料信息见制造令BOM)</td><td></td><td colspan=\"2\"><img src=\"images/c23ddb1ee49a0bb0f2d391f608eb261cad5cbeabae2a942f73f24ffe10db97e0.jpg\"/><img src=\"images/141b74652de3a8baf13a6b5c868ce1dc8173b48777d00872739c968de1b65c04.jpg\"/></td><td></td><td>要求:外观无缺损、脏污等不良风险:外观不良</td></tr><tr><td></td><td>装双联簧</td><td><img src=\"images/64ac43024a9a54b5f3604b6207f232c7645f7f8188479b087032a55f977b8de0.jpg\"/><img src=\"images/eb2f9e33cf5f9dc8a5cf80a7bff38dbda03f52ee06b5cf2f659b015ef05353ba.jpg\"/></td><td>右手拿取1pcs双联弹簧,将弹簧对准下盖电池仓一端的缺口装入,并装入到位,防止联簧脱落</td><td></td><td>要求:双联簧安装到位风险:性能不良</td></tr></table>",
+        "bbox": [
+            45,
+            191,
+            951,
+            859
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            50,
+            41,
+            181,
+            76
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQR-7.5.1-03-37/A0",
+        "bbox": [
+            660,
+            43,
+            947,
+            59
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "PT9L操作作业指导书（标准）",
+        "text_level": 1,
+        "bbox": [
+            233,
+            61,
+            742,
+            93
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "编号：WI-PT9L-DY08 ",
+        "bbox": [
+            48,
+            95,
+            220,
+            110
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/8b60e833973d426d4cf699231f38d46258af6c2047f9ece60ec46380d90945a5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Type部件名称</td><td>Page页码</td><td>Progress Name工序名称</td><td>Ver.No版本</td><td>Date生效期</td><td>Prepared准备</td><td>Checked审核</td><td>Approved批准</td></tr></table>",
+        "bbox": [
+            48,
+            112,
+            934,
+            143
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "主机 1/1 下盖装传感器模块 1.0 2024.06.20",
+        "bbox": [
+            78,
+            160,
+            601,
+            178
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/82031dca5177be5e40617de5c9508bfe6f0eb9c338ae1ce5a99431463f53a99a.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            ""
+        ],
+        "table_body": "<table><tr><td>物料名称</td><td>工序描述</td><td colspan=\"2\">图象</td><td>操作</td><td colspan=\"2\">设备工具名称</td><td>人员装备要求</td><td>要求</td></tr><tr><td>装好双连簧的下壳</td><td></td><td colspan=\"4\"><img src=\"images/4e31e683150e99b1d451e8994d517d297f3a3e219f605696a4d5fcabb109d567.jpg\"/></td><td rowspan=\"5\">打螺钉工装电动螺丝刀、批头、气枪静电环</td><td rowspan=\"5\">佩戴白手套、静电手腕带</td><td>要求:外观无缺损、脏污等不良风险:外观不良</td></tr><tr><td>打好螺钉的上壳</td><td></td><td colspan=\"2\"><img src=\"images/bc8c8f546a1503a200a66a1368b3785f6e46f1ee6c1f8ec5c5b9dd2610bf3735.jpg\"/></td><td></td><td></td><td>要求:外观无缺损、脏污等不良风险:性能不良</td></tr><tr><td>自攻螺钉(物料信息见制造令BOM)</td><td></td><td colspan=\"2\"><img src=\"images/84d65e0910e3e31172c4246e1d8b5278b198e20b5107c776311c8281620e05aa.jpg\"/></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">下盖装传感器模块</td><td colspan=\"2\"><img src=\"images/5caf4f9739a0409dd3533a0d6e7f4ec4904abacaf1ef5172204f1d8ede3dfc8c.jpg\"/></td><td colspan=\"2\"><img src=\"images/d7e2e913364aaeae76554a858376ee1a4355a435b33555d7b9690d89c9b4cd7a.jpg\"/></td><td rowspan=\"2\">先用气枪给下壳除尘,然后拿取探头安装在后壳上,二颗螺钉依数字顺序固定探头,螺钉规格:ST2.0×5.0-F-H电动螺丝刀扭力标准:1.6kgf.cm±0.2</td><td rowspan=\"2\">要求:组装到位、外观无缺损、脏污等不良风险:性能不良</td></tr><tr><td colspan=\"2\"><img src=\"images/8e03ccb72103334ff9e3941c335861242e4763dec0ab1382394a6b81899096b4.jpg\"/></td><td colspan=\"2\">将下壳固定在工装上,使传感器模块放到最底端,不得歪斜,最后用两颗螺钉固定</td></tr></table>",
+        "bbox": [
+            45,
+            191,
+            951,
+            875
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            50,
+            41,
+            181,
+            76
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQR-7.5.1-03-37/A0",
+        "bbox": [
+            660,
+            43,
+            947,
+            59
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "PT9L操作作业指导书（标准）",
+        "text_level": 1,
+        "bbox": [
+            233,
+            63,
+            742,
+            93
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "编号：WI-PT9L-DY09 ",
+        "bbox": [
+            45,
+            95,
+            218,
+            110
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Type ",
+        "bbox": [
+            77,
+            112,
+            122,
+            127
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "部件名称",
+        "bbox": [
+            58,
+            128,
+            141,
+            143
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Page ",
+        "bbox": [
+            164,
+            112,
+            208,
+            127
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "页码",
+        "bbox": [
+            157,
+            128,
+            196,
+            143
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Progress Name ",
+        "bbox": [
+            258,
+            112,
+            393,
+            127
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "工序名称",
+        "bbox": [
+            275,
+            128,
+            357,
+            143
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Ver.No ",
+        "bbox": [
+            413,
+            112,
+            478,
+            127
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "版本",
+        "bbox": [
+            425,
+            128,
+            467,
+            143
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Date ",
+        "bbox": [
+            524,
+            112,
+            569,
+            127
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "生效期",
+        "bbox": [
+            517,
+            128,
+            579,
+            143
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Prepared ",
+        "bbox": [
+            618,
+            112,
+            702,
+            127
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "准备 ",
+        "bbox": [
+            638,
+            128,
+            680,
+            143
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Checked ",
+        "bbox": [
+            732,
+            112,
+            806,
+            127
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "审核 ",
+        "bbox": [
+            749,
+            128,
+            789,
+            143
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Approved ",
+        "bbox": [
+            843,
+            112,
+            927,
+            128
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "批准 ",
+        "bbox": [
+            863,
+            128,
+            905,
+            143
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "主机",
+        "bbox": [
+            78,
+            161,
+            122,
+            177
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1/1 ",
+        "bbox": [
+            169,
+            161,
+            201,
+            177
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "安装档位键",
+        "bbox": [
+            258,
+            161,
+            363,
+            177
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1.0 ",
+        "bbox": [
+            431,
+            161,
+            463,
+            177
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2024.06.20 ",
+        "bbox": [
+            495,
+            161,
+            600,
+            177
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/3009611c6ebad2536b46f1448c240626e0b01492892a14d56ef5d227e7045d12.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>物料名称</td><td>工序描述</td><td>图象</td><td>操作</td><td>设备工具名称</td><td>人员装备要求</td><td>要求</td></tr><tr><td>档位键(物料信息见制造令BOM)</td><td></td><td><img src=\"images/16edda8f677777d9c04534b11a95dc17fbe42cf32927bfc5e755c3f03a0bfaf1.jpg\"/></td><td></td><td rowspan=\"4\"></td><td rowspan=\"4\">佩戴白手套、静电手腕带</td><td>要求:外观无缺损、脏污等不良风险:外观不良</td></tr><tr><td>完整的上下壳</td><td></td><td colspan=\"2\"><img src=\"images/f4308292bca927801bcea6c712e02e37e458b03fed878452c1a12c1cf155dd8a.jpg\"/></td><td>要求:外观无缺损、脏污等不良风险:外观不良</td></tr><tr><td colspan=\"4\"><img src=\"images/0219002313aae0b442c5ab3d090b4c669e6a63b41bf0d84d443da6ff1f098790.jpg\"/> <img src=\"images/dd128548845eaf70463c0b156553c74562ecd1e77dcef66b4043b7a164a04d2d.jpg\"/></td><td>要求:外观无缺损、脏污等不良风险:性能不良</td></tr><tr><td>安装档位键</td><td colspan=\"2\"><img src=\"images/17312c1bb98f7846f3ffb41e670ab3d8293ac426b075907042e31e96b335b140.jpg\"/></td><td>拿取档位键安装在图示位置</td><td>要求:组装到位、外观无缺损、脏污等不良风险:性能不良</td></tr></table>",
+        "bbox": [
+            45,
+            191,
+            951,
+            863
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            48,
+            41,
+            181,
+            76
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQR-7.5.1-03-37/A0",
+        "bbox": [
+            662,
+            43,
+            949,
+            59
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "PT9L操作作业指导书（标准）",
+        "text_level": 1,
+        "bbox": [
+            233,
+            61,
+            742,
+            93
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "编号：WI-PT9L-DY10 ",
+        "bbox": [
+            48,
+            95,
+            220,
+            110
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/fbf00a1b1f6335159dee217a8a8934058aec6413e4f906121b4da676050c06d9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Type部件名称</td><td>Page页码</td><td>Progress Name工序名称</td><td>Ver.No版本</td><td>Date生效期</td><td>Prepared准备</td><td>Checked审核</td><td>Approved批准</td></tr></table>",
+        "bbox": [
+            45,
+            112,
+            951,
+            146
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "主机 1/1 合壳打螺钉 1.0 2024.06.20",
+        "bbox": [
+            78,
+            161,
+            601,
+            177
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/b933a97f5b526db0a20b700c2a5ab4ca80efdc37e7a14645ed738c61464ca3e9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>物料名称</td><td>工序描述</td><td>图象</td><td>操作</td><td>设备工具名称</td><td>人员装备要求</td><td>要求</td></tr><tr><td>自攻螺钉(物料信息见制造令BOM)</td><td></td><td><img src=\"images/3a357c36b5e7dba42821ec70d3f42d94ea2f1dd3fccbc2eb6fc8a31bcd2c43ab.jpg\"/></td><td></td><td></td><td></td><td></td></tr><tr><td>上下壳零部件完整</td><td></td><td><img src=\"images/6a99c78458a78a85dca0814a583e3dd00d9f10c83c97eb54e366b928c8c04a03.jpg\"/></td><td></td><td></td><td></td><td>要求:外观无缺损、脏污等不良风险:外观不良</td></tr><tr><td colspan=\"2\"><img src=\"images/49d7c5a95935118e79bdcddb20138b8bbbfd61b0f1f55b9e8c5c9b316aa2f2f7.jpg\"/></td><td colspan=\"4\"><img src=\"images/7b9eb7a1f3d1e982c448857c6ad764cef9589a9caaf88f33e1b07c95e1d5f7a4.jpg\"/></td><td>1:各零部件需安装到位2:不可折叠压线</td></tr><tr><td colspan=\"3\"><img src=\"images/f29a3b3de2f2d16ef45bfd2301281a45227ef89cce7f473a81dbb0ed2b3834af.jpg\"/></td><td rowspan=\"3\">连接线轻微弯曲后先合机头,再依次合后面,避免错位,3颗螺钉依数字顺序固定后壳,电动螺丝刀扭力标准:1.6kgf.cm±0.2,检验按键3次是否回弹</td><td rowspan=\"3\">打螺钉工装电动螺丝刀、批头静电环</td><td rowspan=\"3\">静电手腕带</td><td rowspan=\"3\">要求:外观无缺损、脏污等不良,安装到位风险:外观不良</td></tr><tr><td colspan=\"3\"><img src=\"images/cd321725b9601cd1d9de5821285214299ed6ecdb68da6b13433c0e06ffd6d03d.jpg\"/></td></tr><tr><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            45,
+            191,
+            951,
+            785
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            50,
+            41,
+            181,
+            76
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQR-7.5.1-03-37/A0",
+        "bbox": [
+            660,
+            43,
+            947,
+            59
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "PT9L操作作业指导书（标准）",
+        "text_level": 1,
+        "bbox": [
+            233,
+            61,
+            742,
+            93
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "编号：WI-PT9L-DY11 ",
+        "bbox": [
+            63,
+            95,
+            235,
+            110
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/f719610f4866335514cb7c34ae6ca26165dd35a1be39a9875469bfe88f83f2f4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Type部件名称</td><td>Page页码</td><td>Progress Name工序名称</td><td>Ver.No版本</td><td>Date生效期</td><td>Prepared准备</td><td>Checked审核</td><td>Approved批准</td></tr></table>",
+        "bbox": [
+            63,
+            112,
+            934,
+            146
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "主机 1/1 透镜组装 1.0 2024.06.20",
+        "bbox": [
+            95,
+            161,
+            618,
+            177
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f06eb814084ece69b0cab2eff75b7c41fdf4f24b6073b4b58edce36ab62c9c4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>物料名称</td><td>工序描述</td><td>图象</td><td>操作</td><td>设备工具名称</td><td>人员装备要求</td><td>要求</td></tr><tr><td>透镜(物料信息见制造令BOM)</td><td></td><td><img src=\"images/dffb97a39838f13796d45a09b50306ad0ee2edae11b788bf41af6719834b45df.jpg\"/></td><td></td><td rowspan=\"3\"></td><td rowspan=\"5\">佩戴白手套、静电手腕带</td><td>要求:外观无缺损、脏污等不良</td></tr><tr><td><img src=\"images/28c526262d8b0d7cb31d4776a9c36e184da07ae8efa5be82ef87135655341461.jpg\"/></td><td><img src=\"images/e93666fc5a32cff94f2052fcac5f70c517acc1d1fea12d0c64dd92158bc16b18.jpg\"/></td><td><img src=\"images/791002568a7260dd6812275e0bd9ba1586c1dad36edc210a30eb5339c72bf779.jpg\"/></td><td><img src=\"images/7a2807307886635ed59aca0f5354348c76fad611865acca7eec973c1e18d25bd.jpg\"/></td><td rowspan=\"4\">要求:1:透镜安装到位无脏污2:不可压膜风险:性能不良</td></tr><tr><td colspan=\"2\">去除屏幕异物,使用气枪除尘</td><td colspan=\"2\">撕去离型纸</td></tr><tr><td colspan=\"5\"><img src=\"images/454478eb09ecf40d0ed6cf4d4c05661602e01b6cde27c6b4b43973771bc8b673.jpg\"/></td></tr><tr><td></td><td></td><td>无异物、脏污后安装透镜</td><td>将液晶清理干净,无灰尘脏污后撕下透镜背胶,将透镜粘贴在图示区域</td><td></td></tr></table>",
+        "bbox": [
+            60,
+            191,
+            936,
+            778
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            65,
+            41,
+            196,
+            76
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQR-7.5.1-03-37/A0",
+        "bbox": [
+            643,
+            43,
+            932,
+            59
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "PT9L操作作业指导书（标准）",
+        "text_level": 1,
+        "bbox": [
+            233,
+            61,
+            742,
+            93
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "编号：WI-PT9L-DY12 ",
+        "bbox": [
+            45,
+            93,
+            218,
+            110
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/6effa046e05a2f4327ce13e4cc3bbeeda9d938c576f014b86d5989c9b51f123f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Type部件名称</td><td>Page页码</td><td>Progress Name工序名称</td><td>Ver.No版本</td><td>Date生效期</td><td>Prepared准备</td><td>Checked审核</td><td>Approved批准</td></tr></table>",
+        "bbox": [
+            45,
+            112,
+            951,
+            146
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "主机 1/1 CB2性能检查 1.0 2024.06.20",
+        "bbox": [
+            78,
+            161,
+            655,
+            177
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/f77ff36440ef426e6986e860125ef2091ad2bfcbfdcfefc55481c07ea14bac1d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>物料名称</td><td>工序描述</td><td>图象</td><td>操作</td><td>设备工具名称</td><td>人员装备要求</td><td>要求</td></tr><tr><td colspan=\"3\"><img src=\"images/fbaf22cf4c3063c2252ed4781cb6eba49798129889930cdd5a2c542b5b2914f0.jpg\"/></td><td rowspan=\"4\">1、(精密智能电源调至3V)上电后显示CB2,2s后进入休眠,此时检测休眠电流,应大于1uA且小于20uA;2、按下测量按键唤醒,屏幕全显,白色背光开启,蜂鸣器响,此时检测工作电流,应大于1mA且小于50mA;3、屏幕停止全显并出现静音符号时,把静音开关拨到静音侧,此时屏幕显示静音符号且蜂鸣器停止发声;把静音开关拨到发音侧,屏幕恢复全显,蜂鸣器响;4、按下测量按键,蜂鸣器响声停止,三色LED灯按照白橙红顺序点亮并循环,屏幕循环出现1,2,3数字;5、操作员观察三色LED灯,没问题的话按下设置按键保存,CB2完成;6、若自检未通过,屏幕显示</td><td rowspan=\"4\">智能电流检测仪B080XXXXX电池工装P03PXXXXXX</td><td rowspan=\"4\">佩戴白手套</td><td rowspan=\"4\">要求:关机漏电流: $0.001mA \\leqslant I \\leqslant 0.20mA$ 工作电流(自检态): $1.000mA \\leqslant I \\leqslant 50.00mA$ 风险:外观不良</td></tr><tr><td><img src=\"images/4ba5d7279a00f92cf872df52cf117e3b3a1af30290fc4504b203b844723a1e88.jpg\"/></td><td><img src=\"images/cd7b6d2f54aa442b2e0c8cf5530d84753d9c4b5e8c839495a2e4428f9f278d9a.jpg\"/></td><td><img src=\"images/a76ed377a7a2f843ad4c302c874c6dbaa710b8b1fe921b8f43ffc013056beeff.jpg\"/></td></tr><tr><td><img src=\"images/d44fc5c1dac60324791723a00c3c1aa689b9229814ad6005abfa5982d2887a24.jpg\"/></td><td><img src=\"images/5f673b87ea37665b15899bccf7b32760a1e288f2c7a2d530e1f29cd689101245.jpg\"/></td><td><img src=\"images/e47afe8e8afc8f8b716c6ac3bfd016d94f61fd660e5162e2b9ba61ec33de4d8c.jpg\"/></td></tr><tr><td></td><td></td><td><img src=\"images/6d6669940b827738af3cae6812cbb942e7b82e484e44976b2cd1cd1792822ed4.jpg\"/></td></tr></table>",
+        "bbox": [
+            45,
+            191,
+            952,
+            877
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            48,
+            41,
+            181,
+            76
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQR-7.5.1-03-37/A0",
+        "bbox": [
+            662,
+            42,
+            949,
+            59
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "PT9L操作作业指导书（标准）",
+        "text_level": 1,
+        "bbox": [
+            233,
+            61,
+            742,
+            93
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "编号：WI-PT9L-DY13 ",
+        "bbox": [
+            45,
+            95,
+            218,
+            111
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/657f6708ff61f48aaf928836667bbe645a44a2f4111e207fe9b79cbeb51c1191.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Type</td><td>Page</td><td>Progress Name</td><td>Ver. No</td><td>Date</td><td>Prepared</td><td>Checked</td><td>Approved</td></tr><tr><td>部件名称</td><td>页码</td><td>工序名称</td><td>版本</td><td>生效期</td><td>准备</td><td>审核</td><td>批准</td></tr></table>",
+        "bbox": [
+            45,
+            112,
+            952,
+            149
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "主机",
+        "bbox": [
+            75,
+            164,
+            119,
+            181
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "1/1 ",
+        "bbox": [
+            164,
+            165,
+            196,
+            181
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "下排静置 ",
+        "bbox": [
+            265,
+            165,
+            347,
+            181
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "1.0 ",
+        "bbox": [
+            421,
+            165,
+            453,
+            181
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "2024.06.20 ",
+        "bbox": [
+            500,
+            165,
+            606,
+            181
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/d33ee8cef4b85857f8a33eabe15e811ea144976a2c5f33e1b539c183e418fc17.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>物料名称</td><td>工序描述</td><td>图象</td><td>操作</td><td>设备工具名称</td><td>人员装备要求</td><td>要求</td></tr><tr><td rowspan=\"3\"></td><td rowspan=\"2\">下排</td><td><img src=\"images/65e84d6a052b31423e304cbd23201e16648f3bd7c59164a42d6d921e4124ee80.jpg\"/></td><td rowspan=\"3\">1.检查镜片是否有划伤、脏污、丝印不清,按键是否有卡死、手感差等不良2.检查产品侧面,是否有断差、批峰、缝隙过大等3.检查下壳是否有划伤,脏污,弹簧是否有漏装、装反、装不到位,螺丝是否有漏锁、滑牙、未锁到位等,弹簧装不到位等不良4.检查传感器是否内有物、脏污等,如有脏污需用棉签清洁干净,并将产品放于耳边来回摇动2-3次,检查产品内是否有异物,异响等</td><td rowspan=\"3\">1.酒精2.无尘布3.棉签4.手套</td><td rowspan=\"3\">佩戴白手套</td><td rowspan=\"3\">要求:1、外观无缺损、脏污等不良,摆放整齐;2、物料车顶层不得放置产品;风险:外观不良</td></tr><tr><td rowspan=\"2\"><img src=\"images/3276d948cce193e57ee0eda5d9d089f100a760e72568c722076ca9d852b3f92d.jpg\"/></td></tr><tr><td><img src=\"images/074c2aa3bc715bdb98b23e03984bd97f2bf793b2e0cc5264c388c8d5b8558be6.jpg\"/></td></tr></table>",
+        "bbox": [
+            45,
+            195,
+            952,
+            795
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            48,
+            41,
+            174,
+            76
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQR-7.5.1-03-37/A0",
+        "bbox": [
+            662,
+            43,
+            949,
+            59
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/2ae13b0b2b9cf70d9e4b1c0d54bdc9ed3bb978fb34ece8322fcf3d1ef40a8809.jpg",
+        "table_caption": [
+            "PT9L操作作业指导书（标准）",
+            "编号：WI-PT9L-DY14 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Type</td><td>Page</td><td>Ver. No.</td><td>Date</td><td>Prepared</td><td>Checked</td><td>Approved</td></tr><tr><td>部件名称</td><td>页码</td><td>版本</td><td>生效日期</td><td>准备</td><td>审核</td><td>批准</td></tr></table>",
+        "bbox": [
+            40,
+            124,
+            949,
+            167
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/77bc3ab7811493b352ad68c0c401b502cc5b2dde22f27691ca40c856a1b11e7c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>检验项目</td><td>检验用具</td><td colspan=\"2\">检验方法</td><td>合格标准</td></tr><tr><td>常温标定</td><td>恒温室(环境温度23±2°C,湿度30-70%)2节7号电池高精度低温恒温槽(B067XXXXXX)水槽内水位上线不得超过水槽内刻度尺“0”的刻度位,下限不得低于“1”的刻度位)(温度需事先调整到30±0.02°C、45±0.02°C并每两小时校准一次)水银温度计(B04KXXXXXX)</td><td>机器标定前必须在25±1°C恒温室内静置时间≥2小时1、上电后,LCD显示“CB3”后显示全显,然后显示数值,数值标准范围:25±1°C,才可进行后序操作(如超过标准范围,须关机取下电池静置2小时后再次标定)一秒后显示“C30”,然后将体温计对准30度水槽按一下测量键,大约1秒后显示温度(温度值无需关注),校正成功则蜂鸣音响一下,屏幕显示“C45”,此时可进入下一步;若校正不成功则屏幕显示“ER3”;2、屏幕显示“C45”时,将体温计对准45度水槽按一下测量键,大约1秒后显示温度(温度值无需关注),校正成功则蜂鸣音响一下,屏幕显示“C45”;若校正不成功则屏幕显示“ER3”;在屏幕显示“C45”时连续按三次测量键,蜂鸣音响一下,屏幕熄灭,保存成功。</td><td><img src=\"images/c8ac9b4d44677822ccb093686224db757b68a33ed6333a95b837b637e1a60a27.jpg\"/>图1<img src=\"images/f43e1ac8a11543066d909a153d1d8bff04c93a1da07b3d699a8030beeb604e47.jpg\"/>图2<img src=\"images/a3a2469836d2a9826652bfe516d643ce11513dc372ef37879f340ea634fe876b.jpg\"/>图3<img src=\"images/f28973d0fb0b2ffa36961a434854a72bae38a89550421d57687b3fb934abfa92.jpg\"/>图4<img src=\"images/119b947da4783078e495a5228e304bb5d5d7d3f329cc5ba8292db48adb4cab4b.jpg\"/>图5<img src=\"images/13c1e9031ab638e7feff734a65d72696a5583507496414be289eeb1b8ed3ba32.jpg\"/>图6</td><td>注意观察各过程液晶显示要正确,不允许有乱码;也不允许有缺段、重影、显示深浅不一致屏幕如检验要求显示且蜂鸣器声音正常</td></tr></table>",
+        "bbox": [
+            38,
+            190,
+            951,
+            820
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            42,
+            52,
+            126,
+            79
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQR-7.5.1-03-37/A0",
+        "bbox": [
+            662,
+            53,
+            947,
+            70
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "PT9L操作作业指导书（标准））",
+        "text_level": 1,
+        "bbox": [
+            220,
+            42,
+            761,
+            72
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/1eef8a16380545679c2c4b8023709e624fe13d112a88fea608cf1b1658273e87.jpg",
+        "table_caption": [
+            "编号：WI-PT9L-DY15 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Type</td><td>Page</td><td>Ver. No.</td><td>Date</td><td>Prepared</td><td>Checked</td></tr><tr><td>部件名称</td><td>页码</td><td>版本</td><td>生效日期</td><td>准备</td><td>审核</td></tr><tr><td>主机</td><td>1/1</td><td>1.0</td><td>2024.06.20</td><td></td><td></td></tr></table>",
+        "bbox": [
+            25,
+            96,
+            815,
+            166
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8849200c50cb259e968bcd76bb3212512ebc3734b8fdade82af51b0fe41d807.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>检验项目</td><td>检验用具</td><td colspan=\"2\">检验方法</td></tr><tr><td>低温标定37度</td><td>恒温室(环境温度16±1°C,湿度30-70%)2节7号电池高精度低温恒温槽(B067XXXXXX)(水槽内水位上线不得超过水槽内刻度尺“0”的刻度位,下限不得低于“1”的刻度位)(温度需事先调整到37±0.02°C,42±0.02°C并每两小时校准一次)水银温度计(B04KXXXXXX)</td><td>机器标定前必须在16±1°C恒温室内静置时间≥2小时1.上电后,LED显示“CB5”(图1)后显示数值,数值标准范围:16±1,才可进行后序操作(如超过标准范围,须关机取下电池静置2小时后再次标定),一秒后显示“C37”,然后将体温计对准37度水槽按一下测量键,大约1秒后显示温度(温度值无需关注),校正成功屏幕显示“C42”,若校正不成功则屏幕显示“ER4”;2.屏幕显示“C42”时,将体温计对准42度水槽按一下测量键,大约1秒后显示温度(温度值无需关注),校正成功屏幕显示“PAS”在屏幕显示“PAS”时连续按三次测量键,屏幕熄灭。保存成功;若校正不成功则屏幕显示“ER4”;</td><td><img src=\"images/240ce8cf0b5bf4ab41714af4324948b8d4c861d2df115aa4e4f16a35b24f1a30.jpg\"/><img src=\"images/1bd5c23853cc6438cad180b9f98666dfd21183a26747625cb8873e93a9b0ad9f.jpg\"/><img src=\"images/bbc4a11ec30d042ffa8b52cb9d151d3b815b3413ff1a8b27bd614f20e5c58f20.jpg\"/><img src=\"images/4b1f84f377f3bffd404958abd7affa8249f0f52b471b668772828dbf400d93bb.jpg\"/></td></tr></table>",
+        "bbox": [
+            25,
+            168,
+            815,
+            800
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            28,
+            14,
+            122,
+            43
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQ",
+        "bbox": [
+            694,
+            17,
+            816,
+            33
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Approved ",
+        "text_level": 1,
+        "bbox": [
+            67,
+            97,
+            151,
+            112
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "批准 ",
+        "text_level": 1,
+        "bbox": [
+            87,
+            123,
+            129,
+            137
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/79059510b2baca8a0e47b3a0df55eeadd80deee41ff8bdc0c8187a279b7bf190.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>合格标准</td></tr><tr><td>屏幕如检验要求显示且蜂鸣器声音正常</td></tr></table>",
+        "bbox": [
+            25,
+            167,
+            193,
+            802
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "header",
+        "text": "R-7.5.1-03-37/A0 ",
+        "bbox": [
+            26,
+            17,
+            189,
+            33
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "PT9L操作作业指导书（标准））",
+        "text_level": 1,
+        "bbox": [
+            223,
+            41,
+            766,
+            71
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "table",
+        "img_path": "images/a37c9f809f6447f8407a2c48e1647d344f06816026dd29593e9380b90795c261.jpg",
+        "table_caption": [
+            "编号：WI-PT9L-DY16 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Type部件名称</td><td>Page页码</td><td>Ver.No.版本</td><td>Date生效日期</td><td>Prepared准备</td><td>Checked审核</td></tr><tr><td>主机</td><td>1/1</td><td>1.0</td><td>2024.06.20</td><td></td><td></td></tr></table>",
+        "bbox": [
+            25,
+            92,
+            848,
+            151
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "table",
+        "img_path": "images/37c34c4a1331a88a32defaf55fc471ae5b5463b9ca682de66a481e59c5cf856d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>检验项目</td><td>检验用具</td><td colspan=\"2\">检验方法</td></tr><tr><td>10°C、33°C、37°C、41°C精度测试</td><td>恒温室(环境温度25±1°C,湿度30-70%)2节7号电池高精度低温恒温槽(B067XXXXXX)(水槽内水位上线不得超过水槽内刻度尺“0”的刻度位,下限不得低于“1”的刻度位)(温度需事先调整到33±0.02°C、37±0.02°C、41±0.02°C并每两小时校准一次)水银温度计(B04KXXXXXX)</td><td>机器标定前必须在25±1°C恒温室内静置时间≥2小时1.上电后,LCD显示“CB4”后显示数值,数值标准范围:25±1°C,才可进行后序操作(如超过标准范围,须关机取下电池静置2小时后再次标定“”,一秒后显示“C10”,然后将体温计对准10度水槽按一下测量键,大约1秒后显示温度(温度值无需关注),每显示一次温度值按一次按键,屏幕显示“C33”,此时可进入下一步;若校正不成功则屏幕显示“Er4”;2.显示“C33”时,将体温计对准33度水槽按一下测量键,大约1秒后显示温度(温度值无需关注),每显示一次温度值按一次按键,屏幕显示“C37”,此时可进入下一步;若校正不成功则屏幕显示“Er4”;2.显示“C37”时,将体温计对准37度水槽按一下测量键,大约1秒后显示温度(温度值无需关注),每显示一次温度值按一次按键,屏幕显示“C41”,此时可进入下一步;若校正不成功则屏幕显示“Er4”;3.显示“C41”时,将体温计对准41度水槽按一下测量键,大约1秒后显示温度(温度值无需关注),每显示一次温度值按一次按键,若校正不成功则屏幕显示“Er4”;4.测试成功41°C后,屏幕显示温度值,每显示一次温度值按一次按键,连续滚动三次,蜂鸣音响一下,屏幕显示“PAS”;</td><td><img src=\"images/e013e26df3bc290ddd46be1a230a006e08cd31fa894c7b371394b4c32c2664b9.jpg\"/><img src=\"images/f5b84b881a7602c9c7db48e6ae7141a68f6c6ed06837cb8d9af7902df4b28f67.jpg\"/><img src=\"images/5b77a90d4a250c9697555310715bb6923b37a022607631b875d4a0dc07a6b7c8.jpg\"/><img src=\"images/76bce80a220835d955280b413c56e382a1f8e0cc8775848613a815850dcdf5d0.jpg\"/><img src=\"images/0c6619e27ff7b7d1bdcba4f8b3d957d2a9892eb822c9eba420fa5db22545b4b3.jpg\"/><img src=\"images/f58fe0756753485531ae7b5f5a75e8582edcbddde22785855ebae722e9d5b845.jpg\"/></td></tr></table>",
+        "bbox": [
+            25,
+            154,
+            848,
+            885
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            31,
+            17,
+            122,
+            36
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQR-7",
+        "bbox": [
+            700,
+            17,
+            848,
+            33
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Approved ",
+        "text_level": 1,
+        "bbox": [
+            55,
+            92,
+            137,
+            108
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "批准 ",
+        "text_level": 1,
+        "bbox": [
+            77,
+            110,
+            117,
+            124
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/63a95f4e754c570d7312dc06ecac0c0ed7543bd441c8ef1628f66753a645721f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>合格标准</td></tr><tr><td>屏幕如检验要求显示且蜂鸣器声音正常</td></tr></table>",
+        "bbox": [
+            23,
+            154,
+            169,
+            885
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "header",
+        "text": "7.5.1-03-37/A0 ",
+        "bbox": [
+            23,
+            17,
+            166,
+            32
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/86fa695fa255a4462a872011193dd4f37bc6382e84bba7761587443d974d97e2.jpg",
+        "table_caption": [
+            "PT9L操作作业指导书（标准）",
+            "编号：WI-PT9L-DY17 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Type</td><td>Page</td><td>Ver. No.</td><td>Date</td><td>Prepared</td><td>Checked</td><td>Approved</td></tr><tr><td>部件名称</td><td>页码</td><td>版本</td><td>生效日期</td><td>准备</td><td>审核</td><td>批准</td></tr><tr><td>主机</td><td>1/1</td><td>1.0</td><td colspan=\"4\">2024.06.20</td></tr><tr><td>检验项目</td><td>检验用具</td><td colspan=\"4\">检验方法</td><td>合格标准</td></tr><tr><td>外观检验</td><td>塞尺B03QXXXXXX</td><td colspan=\"2\">1.检查主机各部分丝印内容,丝印效果良好;2.用手指轻按按键检查按键手感;3.检查机器显示窗口部分;4.检查机器上规定的标签;5.检查机器外观配合尺寸</td><td colspan=\"2\"><img src=\"images/9ea886b170420f94c35c4bb46ba6e3e61c705ccef225f02721521345fe17ad60.jpg\"/></td><td>1.整机型号、颜色与图纸和客户信息要求一致,表面外漏件规格、颜色与图纸和客户信息要求一致。2.按键组合后,按压中间部位,有行程,能复位,上电后有功能;按压四周任何部位能回弹,不卡(注:检验按键手感须用指腹,不可用指尖按压)。3.检查透镜和开始键是否有划伤、脏污、丝印不清,按键是否有卡死、手感差等不良4.检查产品侧面,是否有断差、批峰、缝隙过大等5.检查上下壳是否有划伤,脏污,弹簧是否有漏装、装反、装不到位,螺丝是否有漏锁、滑牙、未锁到位等,弹簧装不到位等不良6.检查传感器是否有脏污等,如有脏污需用棉签清洁干净,并将产品放于耳边来回摇动2-3次,检查产品内是否有异物,异响等7.色差要求:整机相同颜色的色差可接受的灰度等级为4级用泡棉或塑料袋把主机套好整齐的排放在</td></tr></table>",
+        "bbox": [
+            35,
+            141,
+            951,
+            881
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "header",
+        "text": "andon ",
+        "bbox": [
+            40,
+            51,
+            131,
+            80
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "header",
+        "text": "受控表号：KQR-7.5.1-03-37/A0",
+        "bbox": [
+            662,
+            53,
+            947,
+            70
+        ],
+        "page_idx": 22
+    }
+]

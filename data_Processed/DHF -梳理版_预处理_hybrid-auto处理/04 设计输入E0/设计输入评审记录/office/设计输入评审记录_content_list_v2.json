@@ -1,0 +1,66 @@
+[
+    [
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p>产品型号：<strong>PT9L         项目编号：30000078         产品/项目名称：红外体温计</strong></p></td></tr><tr><td><p>1.客户需求是否被正确的转换</p><p>客户需求被正确转化。</p></td></tr><tr><td><p>2.各设计输入条目是否都可以被客观验证</p><p>各设计输入条目都可以被客观验证。</p></td></tr><tr><td><ol><li>涉及尺寸等要求是否都以度量公差表示</li></ol><p>涉及尺寸等要求都以度量公差表示。</p></td></tr><tr><td><ol><li>设计输入内容是否前后一致,不存在矛盾冲突的内容</li></ol><p>设计输入内容前后一致,不存在矛盾冲突的内容。</p></td></tr><tr><td><ol><li>程序文件中对设计输入的具体内容要求是否都在设计输入中体现或作不适用的说明</li></ol><p>程序文件中对设计输入的具体内容要求都在设计输入中体现。</p></td></tr><tr><td><p>6.法规标准部分是否适宜,不缺失相关标准法规要求</p><p>法规标准部分适宜,不缺失相关标准法规要求。</p></td></tr><tr><td><p>7.不良事件报告中的问题是否已经在设计输入中体现或已作不适用说明</p><p>不良事件报告中的问题已经在设计输入中体现或已作不适用说明。</p></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "设计输入评审记录"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p>8.是否有新的应用环境或条件，如有，是否将其表述清晰、完整（指出对应设计输入的哪些条款）</p><p>(新的应用环境或条件例如：特殊的加严跌落测试、防水等级要求、测试部位的改变、测量姿势的变化、供电方式的变化等)</p><p>无。</p></td></tr><tr><td><p>9.评审中其它问题,产生问题的原因以及采取的纠正措施/负责人和完成日期.</p><p>无。</p></td></tr><tr><td><p>  10.评审结论：</p><p>合格。</p></td></tr><tr><td><p><strong>  评审人员签字：</strong></p><table><tr><td><p>序号</p></td><td><p>职务</p></td><td><p>部门</p></td><td><p>姓名</p></td><td><p>签名</p></td><td><p>日期</p></td></tr><tr><td><p>1</p></td><td><p>技术负责人</p></td><td><p>智能产品部</p></td><td><p>侯广伟</p></td><td></td><td><p>     年   月   日</p></td></tr><tr><td><p>2</p></td><td><p>项目负责人</p></td><td><p>智能产品部</p></td><td><p>王迪龙</p></td><td></td><td><p>     年   月   日</p></td></tr><tr><td><p>3</p></td><td><p>结构工程师</p></td><td><p>智能产品部</p></td><td><p>刘钊</p></td><td></td><td><p>     年   月   日</p></td></tr><tr><td><p>4</p></td><td><p>硬件工程师</p></td><td><p>智能产品部</p></td><td><p>万龙</p></td><td></td><td><p>     年   月   日</p></td></tr><tr><td><p>5</p></td><td><p>软件工程师</p></td><td><p>智能产品部</p></td><td><p>王迪</p></td><td></td><td><p>     年   月   日</p></td></tr><tr><td><p>6</p></td><td><p>资源开发工程师</p></td><td><p>智能产品部</p></td><td><p>刘昊</p></td><td></td><td><p>     年   月   日</p></td></tr><tr><td><p>7</p></td><td><p>客户代表</p></td><td><p>智能产品部</p></td><td><p>赵一平</p></td><td></td><td><p>     年   月   日</p></td></tr><tr><td><p>8</p></td><td><p>认证工程师</p></td><td><p>认证检测中心</p></td><td><p>王艳红</p></td><td></td><td><p>     年   月   日</p></td></tr><tr><td><p>9</p></td><td><p>导入工程师</p></td><td><p>柯顿</p></td><td><p>孟兆君</p></td><td></td><td><p>     年   月   日</p></td></tr><tr><td><p>10</p></td><td><p>不负直接责任人员</p></td><td><p>智能产品部</p></td><td><p>王迪龙</p></td><td></td><td><p>     年   月   日</p></td></tr><tr><td><p>11</p></td><td><p>品质工程师</p></td><td><p>柯顿</p></td><td><p>张勋</p></td><td></td><td><p>     年   月   日</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 2
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "文件编号："
+                    },
+                    {
+                        "type": "text",
+                        "content": " PT9L-SRPL01 ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": " V1.0                                    设计输入评审记录"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "第2页/共2页                                            "
+                    }
+                ]
+            }
+        }
+    ]
+]

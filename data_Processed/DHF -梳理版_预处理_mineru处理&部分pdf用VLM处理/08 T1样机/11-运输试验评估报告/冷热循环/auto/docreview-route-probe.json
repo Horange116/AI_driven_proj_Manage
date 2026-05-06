@@ -1,0 +1,471 @@
+{
+  "format": "docreview-pdf-layout-probe-v1",
+  "source_name": "冷热循环.pdf",
+  "content_hash": "bf64b35df5f37fe7bda01e1d1327974a674a227e607c99f258a8fabecc6da1b1",
+  "page_count": 2,
+  "engine": "pymupdf",
+  "capabilities": {
+    "text_blocks": true,
+    "word_coordinates": true,
+    "row_clustering": true,
+    "vector_drawings": true,
+    "tables": false,
+    "ocr": false,
+    "semantic_table_reconstruction": false
+  },
+  "limits": [
+    "Rows are geometric text clusters, not verified semantic tables.",
+    "Vector drawings are counted but not converted into Gantt/task bars.",
+    "Scanned-image OCR is not enabled.",
+    "PDF W1 output is text/layout-audit evidence, not semantic Gantt reconstruction."
+  ],
+  "totals": {
+    "text_block_count": 34,
+    "word_count": 78,
+    "row_count": 37,
+    "table_like_row_count": 7,
+    "drawing_path_count": 122,
+    "drawing_item_count": 10971,
+    "line_item_count": 9619,
+    "rectangle_item_count": 113
+  },
+  "pages": [
+    {
+      "page_index": 1,
+      "width": 595.25,
+      "height": 841.85,
+      "text_block_count": 22,
+      "word_count": 51,
+      "row_count": 24,
+      "table_like_row_count": 4,
+      "drawing_path_count": 62,
+      "drawing_item_count": 8707,
+      "line_item_count": 8398,
+      "rectangle_item_count": 53,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            207.29,
+            18.89,
+            387.74,
+            36.89
+          ],
+          "word_count": 1,
+          "text": "旺盈彩盒纸品有限公司"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            158.94,
+            44.83,
+            435.96,
+            60.32
+          ],
+          "word_count": 5,
+          "text": "GLORY COLOUR BOXES& PAPER LIMITED"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            59.34,
+            79.22,
+            547.81,
+            97.03
+          ],
+          "word_count": 5,
+          "text": "报告日期：2017.06.08 Test Report Report No:2017060821"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            146.34,
+            124.74,
+            434.34,
+            136.74
+          ],
+          "word_count": 1,
+          "text": "送检公司：东莞市上合旺盈印刷有限公司营业七部高志"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            146.34,
+            148.49,
+            452.34,
+            160.49
+          ],
+          "word_count": 1,
+          "text": "送检公司地址：东莞市东城区主山振兴路329号旺盈工业园"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            146.34,
+            172.14,
+            410.34,
+            184.14
+          ],
+          "word_count": 1,
+          "text": "以下测试样品是由申请者提供及确认：红外体温计"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            146.34,
+            211.65,
+            283.74,
+            223.65
+          ],
+          "word_count": 2,
+          "text": "样品编号 :NA"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            146.34,
+            233.09,
+            283.74,
+            245.09
+          ],
+          "word_count": 2,
+          "text": "批号 :NA"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            146.34,
+            254.69,
+            283.74,
+            266.69
+          ],
+          "word_count": 2,
+          "text": "订单/工程单号 :NA"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            146.34,
+            276.2,
+            283.74,
+            288.2
+          ],
+          "word_count": 2,
+          "text": "供应商 :NA"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            146.34,
+            297.8,
+            295.74,
+            309.8
+          ],
+          "word_count": 2,
+          "text": "送检数量 :2PCS"
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            146.34,
+            319.25,
+            301.74,
+            331.25
+          ],
+          "word_count": 2,
+          "text": "客户名称/代码 :A1939"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            146.34,
+            340.85,
+            331.74,
+            352.85
+          ],
+          "word_count": 2,
+          "text": "样品接收日期 :2017.06.05"
+        },
+        {
+          "row_index": 14,
+          "bbox": [
+            146.34,
+            362.36,
+            397.74,
+            374.36
+          ],
+          "word_count": 2,
+          "text": "测试周期 :2017.06.05-2017.06.08"
+        },
+        {
+          "row_index": 15,
+          "bbox": [
+            146.34,
+            383.96,
+            343.74,
+            395.96
+          ],
+          "word_count": 2,
+          "text": "测试方法 :请参见下一页"
+        },
+        {
+          "row_index": 16,
+          "bbox": [
+            229.24,
+            452.26,
+            277.24,
+            464.26
+          ],
+          "word_count": 1,
+          "text": "测试要求"
+        },
+        {
+          "row_index": 17,
+          "bbox": [
+            455.58,
+            464.1,
+            479.58,
+            476.1
+          ],
+          "word_count": 1,
+          "text": "结果"
+        },
+        {
+          "row_index": 18,
+          "bbox": [
+            191.33,
+            476.01,
+            413.08,
+            488.01
+          ],
+          "word_count": 2,
+          "text": "参考标准 测试项目"
+        },
+        {
+          "row_index": 19,
+          "bbox": [
+            109.13,
+            499.66,
+            479.58,
+            511.66
+          ],
+          "word_count": 4,
+          "text": "1 客户要求 冷热循环 合格"
+        },
+        {
+          "row_index": 20,
+          "bbox": [
+            228.44,
+            562.88,
+            397.26,
+            575.83
+          ],
+          "word_count": 1,
+          "text": "更多测试细节请参考以下页面"
+        },
+        {
+          "row_index": 21,
+          "bbox": [
+            39.54,
+            577.49,
+            555.54,
+            589.49
+          ],
+          "word_count": 1,
+          "text": "**************************************************************************************"
+        },
+        {
+          "row_index": 22,
+          "bbox": [
+            108.54,
+            599.32,
+            486.54,
+            613.32
+          ],
+          "word_count": 1,
+          "text": "旺盈彩盒纸品有限公司实验室授权以下人员测试并签核本报告"
+        },
+        {
+          "row_index": 23,
+          "bbox": [
+            140.09,
+            666.37,
+            452.59,
+            680.37
+          ],
+          "word_count": 2,
+          "text": "测试：段礼鹏 审核：宋刚"
+        },
+        {
+          "row_index": 24,
+          "bbox": [
+            55.5,
+            813.61,
+            538.35,
+            827.2
+          ],
+          "word_count": 6,
+          "text": "东莞市上合旺盈印刷有限公司旺盈实验室 Page 1 of 2 地址：东莞市东城区主山振兴路329#"
+        }
+      ]
+    },
+    {
+      "page_index": 2,
+      "width": 595.25,
+      "height": 841.85,
+      "text_block_count": 12,
+      "word_count": 27,
+      "row_count": 13,
+      "table_like_row_count": 3,
+      "drawing_path_count": 60,
+      "drawing_item_count": 2264,
+      "line_item_count": 1221,
+      "rectangle_item_count": 60,
+      "rows": [
+        {
+          "row_index": 1,
+          "bbox": [
+            207.29,
+            18.89,
+            387.74,
+            36.89
+          ],
+          "word_count": 1,
+          "text": "旺盈彩盒纸品有限公司"
+        },
+        {
+          "row_index": 2,
+          "bbox": [
+            158.94,
+            44.83,
+            435.96,
+            60.32
+          ],
+          "word_count": 5,
+          "text": "GLORY COLOUR BOXES& PAPER LIMITED"
+        },
+        {
+          "row_index": 3,
+          "bbox": [
+            59.34,
+            79.22,
+            547.81,
+            97.03
+          ],
+          "word_count": 5,
+          "text": "报告日期：2017.06.08 Test Report Report No:2017060821"
+        },
+        {
+          "row_index": 4,
+          "bbox": [
+            80.94,
+            169.74,
+            171.29,
+            181.74
+          ],
+          "word_count": 1,
+          "text": "1、冷热循环测试"
+        },
+        {
+          "row_index": 5,
+          "bbox": [
+            146.34,
+            198.79,
+            500.34,
+            210.79
+          ],
+          "word_count": 1,
+          "text": "将测试产品放置恒温恒湿试验机内，温度56℃，湿度85%RH测试48小"
+        },
+        {
+          "row_index": 6,
+          "bbox": [
+            82.04,
+            213.44,
+            500.34,
+            225.44
+          ],
+          "word_count": 2,
+          "text": "测试方法： 时，然后温度为-30℃，测试24小时，测试完毕后的样品取出置于室"
+        },
+        {
+          "row_index": 7,
+          "bbox": [
+            146.34,
+            227.94,
+            404.34,
+            239.94
+          ],
+          "word_count": 1,
+          "text": "温25℃±5℃，湿度50-85%中回温4H后评估产品。"
+        },
+        {
+          "row_index": 8,
+          "bbox": [
+            80.94,
+            251.94,
+            482.34,
+            263.94
+          ],
+          "word_count": 1,
+          "text": "判定标准：测试后样品表面无起泡、无假粘、无开胶、无变形或其它不良。"
+        },
+        {
+          "row_index": 9,
+          "bbox": [
+            80.94,
+            277.49,
+            170.34,
+            289.49
+          ],
+          "word_count": 1,
+          "text": "样品数量：2PCS"
+        },
+        {
+          "row_index": 10,
+          "bbox": [
+            80.94,
+            307.24,
+            494.34,
+            319.24
+          ],
+          "word_count": 1,
+          "text": "结果描述：按照标准测试后样品无开胶、无假粘现象、测试结果判定为合格。"
+        },
+        {
+          "row_index": 11,
+          "bbox": [
+            80.94,
+            341.09,
+            141.19,
+            353.09
+          ],
+          "word_count": 1,
+          "text": "测试图片："
+        },
+        {
+          "row_index": 12,
+          "bbox": [
+            48.54,
+            532.64,
+            546.54,
+            544.64
+          ],
+          "word_count": 1,
+          "text": "*************************************报告结束**************************************"
+        },
+        {
+          "row_index": 13,
+          "bbox": [
+            55.5,
+            813.61,
+            538.35,
+            827.2
+          ],
+          "word_count": 6,
+          "text": "东莞市上合旺盈印刷有限公司旺盈实验室 Page 2 of 2 地址：东莞市东城区主山振兴路329#"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,727 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "软件测试说明",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "软件版本：",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "PT-HT2762-V0029-1.0.0"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "目标机型：",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "PT9L"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "描述： ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "PT9L的设计输入V1.0要求该软件支持：测温过程中检测体温，将测量中的数据及测量结果通过LCD显示。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "测试内容：",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "按照测试大纲的要求，逐项测试，如果测试通过，PT-HT2762-V0029-1.0.0版软件可以定版。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "接收标准：",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "按照测试大纲的要求，逐项测试，每项测试均测试通过。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "PT9L测试大纲",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "注1：测试结果请用如下符号标明：测试通过：OK；不通过：NG；如测试不通过，还要注明原因。",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "软件版本： ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "PT-HT2762-V0029-1.0.0"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "直流稳压电源：DJS10005",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "万用表：DJS06046   ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "恒温槽：RPZ03003 ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "黑体辐射源：RJS05001",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "list",
+                    "attribute": "ordered",
+                    "ilevel": 0,
+                    "blocks": [
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "初始化功能"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><table><tr><td><p>序号</p></td><td><p>测试输入</p></td><td><p>测试输出</p></td><td><p>测试方法</p></td></tr><tr><td><p>1</p></td><td><p>初次使用，给体温计上电；</p></td><td><p>体温计开机：蜂鸣器长鸣，LCD全显示3秒后，接着关机进入休眠状态；</p></td><td><p>I</p><p>O</p></td></tr><tr><td><p>2</p></td><td><p>在关机态，按一下测量按键，使体温计开机；</p></td><td><p>体温计开机：</p><p>LCD能够正常显示，显示内容和蜂鸣状态不确定，能够正常唤醒即可</p></td><td><p>I</p><p>O</p></td></tr></table></td></tr><tr><td><table><tr><td><p>测试结果：</p></td></tr><tr><td><p>测试日期：</p></td><td><p>测试人：</p></td><td><p>审核人：</p></td></tr></table></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "list",
+                    "attribute": "ordered",
+                    "ilevel": 0,
+                    "blocks": [
+                        {
+                            "type": "text",
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "text",
+                                            "content": "关机功能"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><table><tr><td><p>序号</p></td><td><p>测试输入</p></td><td><p>测试输出</p></td><td><p>测试方法</p></td></tr><tr><td><p>1</p></td><td><p>体温测量结束后，无动作； </p></td><td><p>体温计在15秒后自动关机</p></td><td><p>O</p></td></tr><tr><td><p>2</p></td><td><p>温度模式设置结束后，无动作；</p></td><td><p>体温计在15秒后自动关机</p></td><td><p>O</p></td></tr></table></td></tr><tr><td><table><tr><td><p>测试结果：</p></td></tr><tr><td><p>测试日期：</p></td><td><p>测试人：</p></td><td><p>审核人：</p></td></tr></table></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "3.",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " LCD显示功能"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><table><tr><td><p>序号</p></td><td><p>测试输入</p></td><td><p>测试输出</p></td><td><p>测试方法</p></td></tr><tr><td><p>1</p></td><td><p>首次上电 </p></td><td><p>LCD会全屏显示3s</p></td><td><p>I，O</p></td></tr><tr><td><p>2</p></td><td><p>常温下将体温计对准34℃黑体，温度模式为人体模式下，短按测量按键</p></td><td><p>1秒内结束，显示人体温度36.2℃左右，同时人体图标点亮</p></td><td><p>I，O</p></td></tr><tr><td><p>3</p></td><td><p>将体温计放置5℃或42℃环境温度下静置1H，再开机</p></td><td><p>LCD显示“Err” 图标闪烁15秒后关机</p></td><td><p>I，O</p></td></tr><tr><td><p>序号</p></td><td><p>测试输入</p></td><td><p>测试输出</p></td><td><p>测试方法</p></td></tr><tr><td><p>1</p></td><td><p>选中物温模式，常温下将体温计对准30℃黑体，按下测量按键</p></td><td><p>LCD显示30±0.2℃，背光为白色，单次长鸣，500ms</p></td><td><p>I，O</p></td></tr><tr><td><p>2</p></td><td><p>选中物温模式，常温下将体温计对准45℃黑体，按下测量按键</p></td><td><p>LCD显示45±0.2℃，背光为白色，单次长鸣，500ms</p></td><td><p>I，O</p></td></tr><tr><td><p>3</p></td><td><p>选中人体模式，常温下将体温计对准35℃黑体，按下测量按键</p></td><td><p>LCD显示36.5左右，背光为白色，单次长鸣，500ms</p></td><td><p>I，O</p></td></tr><tr><td><p>4</p></td><td><p>选中人体模式，常温下将体温计对准37℃黑体，按下测量按键</p></td><td><p>LCD显示38.2左右，背光为橙色, 连续短鸣4次，滴滴滴滴</p></td><td><p>I，O</p></td></tr><tr><td><p>5</p></td><td><p>选中人体模式，常温下将体温计对准38℃黑体，按下测量按键</p></td><td><p>LCD显示39.2左右，背光为红色，连续短鸣4次，滴滴滴滴</p></td><td><p>I，O</p></td></tr><tr><td><p>6</p></td><td><p>选中人体模式，常温下将体温计对准25℃黑体，按下测量按键</p></td><td><p>LCD显示---℃，背光为白色，没有蜂鸣 </p></td><td><p>I，O</p></td></tr><tr><td><p>7</p></td><td><p>选中人体模式，常温下将体温计对准40℃黑体，按下测量按键</p></td><td><p>LCD显示---℃，背光为红色，没有蜂鸣</p></td><td><p>I，O</p></td></tr></table></td></tr><tr><td><table><tr><td><p>测试结果：</p></td></tr><tr><td><p>测试日期：</p></td><td><p>测试人：</p></td><td><p>审核人：</p></td></tr></table></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 20,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 20
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "4. ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "蜂鸣器提示"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 21
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><table><tr><td><p>序号</p></td><td><p>测试输入</p></td><td><p>测试输出</p></td><td><p>测试方法</p></td></tr><tr><td><p>1</p></td><td><p>首次上电</p></td><td><p>蜂鸣器长鸣，LCD保持全显3S</p></td><td><p>I，O</p></td></tr><tr><td><p>2</p></td><td><p>短按测量按键</p></td><td><p>蜂鸣器三次短鸣，提示测量未完成，LCD显示“---℃”</p></td><td><p>I，O</p></td></tr><tr><td><p>3</p></td><td><p>常温下将体温计对准34℃黑体，按下测量按键3S以上</p></td><td><p>蜂鸣器长鸣，提示测量完成，LCD显示测量结果</p></td><td><p>I，O</p></td></tr><tr><td><p>4</p></td><td><p>常温下将体温计对准25℃黑体，按下测量按键3S以上</p></td><td><p>蜂鸣器三次短鸣，提示测量结果异常，LCD显示“---℃”</p></td><td><p>I，O</p></td></tr><tr><td><p>5</p></td><td><p>常温下将体温计对准40℃黑体，按下测量按键3S以上</p></td><td><p>蜂鸣器三次短鸣，提示测量结果异常，LCD显示“---℃”</p></td><td><p>I，O</p></td></tr></table></td></tr><tr><td><table><tr><td><p>测试结果：</p></td></tr><tr><td><p>测试日期：</p></td><td><p>测试人：</p></td><td><p>审核人：</p></td></tr></table></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 22,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 22
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "5. ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "低电压检测功能"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><table><tr><td><p>序号</p></td><td><p>测试输入</p></td><td><p>测试输出</p></td><td><p>测试方法</p></td></tr><tr><td><p>1</p></td><td><p>将电压调到3.0V，开机</p></td><td><p>LCD不会提示低电压，实心电池图标常亮</p></td><td><p>I，O</p></td></tr><tr><td><p>2</p></td><td><p>将电压调到2.65V，开机</p></td><td><p>LCD提示低电压，实心电池图标常亮</p></td><td><p>I，O</p></td></tr><tr><td></td><td><p>不断电，将电压调到2.8V</p></td><td><p>按测量键，LCD显示,空心电池图标常亮</p></td><td><p>I，O</p></td></tr><tr><td></td><td><p>保持电压2.8V,重新上电</p></td><td><p>LCD不会提示低电压，实心电池图标常亮</p></td><td><p>I，O</p></td></tr><tr><td><p>3</p></td><td><p>将电压调到2.45V，开机</p></td><td><p>空心电池图标闪烁15秒后关机</p></td><td><p>I，O</p></td></tr><tr><td></td><td><p>不断电，将电压调到2.8V</p></td><td><p>按测量键，空心电池图标闪烁15秒后关机</p></td><td><p>I，O</p></td></tr><tr><td></td><td><p>保持电压2.8V,重新上电</p></td><td><p>LCD不会提示低电压，实心电池图标常亮</p></td><td><p>I，O</p></td></tr></table></td></tr><tr><td><table><tr><td><p>测试结果：</p></td></tr><tr><td><p>测试日期：</p></td><td><p>测试人：</p></td><td><p>审核人：</p></td></tr></table></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 24,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 24
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "6. ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "测量模式设置功能"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 25
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><table><tr><td><p>序号</p></td><td><p>测试输入</p></td><td><p>测试输出</p></td><td><p>测试方法</p></td></tr><tr><td><p>1</p></td><td><p>在测量界面，短按设置按键</p></td><td><p>切换模式图标</p></td><td><p>I，O</p></td></tr><tr><td><p>2</p></td><td><p>按下测量按键</p></td><td><p>在之前选定的模式下，完成一次测量</p></td><td><p>I，O</p></td></tr><tr><td><p>3</p></td><td><p>设置时超过15S没有按键操作</p></td><td><p>体温计进入关机状态</p></td><td><p>I，O</p></td></tr></table></td></tr><tr><td><table><tr><td><p>测试结果：</p></td></tr><tr><td><p>测试日期：</p></td><td><p>测试人：</p></td><td><p>审核人：</p></td></tr></table></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 26,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 26
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "7. ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "单位切换功能"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 27
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><table><tr><td><p>序号</p></td><td><p>测试输入</p></td><td><p>测试输出</p></td><td><p>测试方法</p></td></tr><tr><td><p>1</p></td><td><p>关机时，长按测量按键8s以上</p></td><td><p>当前的单位图标，闪烁显示</p></td><td><p>I，O</p></td></tr><tr><td></td><td><p>短按测量按键</p></td><td><p>蜂鸣器短鸣，被选择的单位图标，闪烁显示</p></td><td><p>I，O</p></td></tr><tr><td><p>2</p></td><td><p>长按2秒测量按键</p></td><td><p>蜂鸣器短鸣，LCD显示选定的单位图标</p></td><td><p>I，O</p></td></tr><tr><td><p>3</p></td><td><p>超过2S没有按键操作</p></td><td><p>体温计进入关机状态</p></td><td><p>I，O</p></td></tr></table></td></tr><tr><td><table><tr><td><p>测试结果：</p></td></tr><tr><td><p>测试日期：</p></td><td><p>测试人：</p></td><td><p>审核人：</p></td></tr></table></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 28,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 28
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "8. ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "测量功能"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 29
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><table><tr><td><p>序号</p></td><td><p>测试输入</p></td><td><p>测试输出</p></td><td><p>测试方法</p></td></tr><tr><td><p>1</p></td><td><p>选中物温模式，常温下将体温计对准37℃黑体，按下测量按键</p></td><td><p>LCD显示37±0.2℃，背光为白色，单次长鸣，500ms</p></td><td><p>I，O</p></td></tr><tr><td><p>2</p></td><td><p>选中成人体温模式，常温下将体温计对准35℃黑体，按下测量按键</p></td><td><p>LCD显示36.5左右，背光为白色，单次长鸣，500ms</p></td><td><p>I，O</p></td></tr><tr><td></td><td><p>选中成人体温模式，常温下将体温计对准36.5℃黑体，按下测量按键</p></td><td><p>LCD显示37.7左右，背光为橙色, 连续短鸣4次，滴滴滴滴</p></td><td><p>I，O</p></td></tr><tr><td></td><td><p>选中成人体温模式，常温下将体温计对准38℃黑体，按下测量按键</p></td><td><p>LCD显示39.2左右，背光为红色，连续短鸣4次，滴滴滴滴</p></td><td><p>I，O</p></td></tr><tr><td><p>3</p></td><td><p>选中婴儿体温模式，常温下将体温计对准35℃黑体，按下测量按键</p></td><td><p>LCD显示36.5左右，背光为白色，单次长鸣，500ms</p></td><td><p>I，O</p></td></tr><tr><td></td><td><p>选中婴儿模式，常温下将体温计对准38℃黑体，按下测量按键</p></td><td><p>LCD显示39.2左右，背光为红色，连续短鸣4次，滴滴滴滴</p></td><td><p>I，O</p></td></tr><tr><td><p>4</p></td><td><p>选中成人体温模式，常温下将体温计对准25℃黑体，按下测量按键</p></td><td><p>LCD显示---℃，背光为白色，没有蜂鸣 </p></td><td><p>I，O</p></td></tr><tr><td></td><td><p>选中成人体温模式，常温下将体温计对准40℃黑体，按下测量按键</p></td><td><p>LCD显示---℃，背光为白色，没有蜂鸣</p></td><td><p>I，O</p></td></tr></table><p><strong>人体体温测量过程中的其他情况测试：</strong></p><table><tr><td><p><strong>行列为测量输入：</strong></p><p><strong>交叉点为测量输出：</strong></p></td><td><p>B1：</p><p>短按测量按键</p></td><td><p>B2:</p><p>长按测量按键</p></td><td><p>B3：</p><p>短按设置按键</p></td><td><p>B4：</p><p>长按设置按键超过3s</p></td><td><p>B5：</p><p>拨动静音开关</p></td></tr><tr><td><p>A2：</p><p>体温计开机处于全显状态</p></td><td><p>A2B1：</p><p>体温计无反应</p></td><td><p>A2B2：</p><p>体温计无反应</p></td><td><p>A2B3：</p><p>体温计无反应</p></td><td><p>A2B4：</p><p>体温计无反应</p></td><td><p>A2B5：</p><p>体温计无反应</p></td></tr><tr><td><p>A3：</p><p>体温计处于关机状态</p></td><td><p>A3B1：</p><p>体温计被唤醒测量，LCD显示测量结果 </p></td><td><p>A3B2：长按2秒完成深度测量；长按8秒进入切换单位模式</p></td><td><p>A3B3：</p><p>体温计无反应</p></td><td><p>A3B4：</p><p>体温计进入记忆查询模式</p></td><td><p>A3B5：</p><p>体温计无反应</p></td></tr><tr><td><p>A4：</p><p>体温计处于显示测量结果状态</p></td><td><p>A4B1：</p><p>LCD显示测量结果</p></td><td><p>A4B2：长按2秒完成深度测量；长按8秒进入切换单位模式</p></td><td><p>A4B3：</p><p>切换测量模式</p></td><td><p>A4B4：</p><p>体温计进入记忆查询模式</p></td><td><p>A4B5：</p><p>LCD显示静音图标</p></td></tr><tr><td><p>A5：</p><p>体温计模式设置界面状态</p></td><td><p>A5B1：</p><p>退出模式设置界面，并保存之前的模式，进入测量</p></td><td><p>A5B2：长按2秒完成深度测量；长按8秒进入切换单位模式</p></td><td><p>A5B3：</p><p>切换模式选择 </p></td><td><p>A5B4：</p><p>体温计进入记忆查询模式</p></td><td><p>A5B5：</p><p>LCD显示静音图标</p></td></tr></table></td></tr><tr><td><table><tr><td><p>测试结果：</p></td></tr><tr><td><p>测试日期：</p></td><td><p>测试人：</p></td><td><p>审核人：</p></td></tr></table></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 30,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 30
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "9. ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "错误检测功能"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 31
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><table><tr><td><p>序号</p></td><td><p>测试输入</p></td><td><p>测试输出</p></td><td><p>测试方法</p></td></tr><tr><td><p>1</p></td><td><p>将体温计放置5℃环境温度下静置1H </p></td><td><p>LCD显示“Err” 图标闪烁15次后关机</p></td><td><p>I，O</p></td></tr><tr><td><p>2</p></td><td><p>将体温计放置42℃环境温度下静置1H</p></td><td><p>LCD显示“Err” 图标闪烁15次后关机</p></td><td><p>I，O</p></td></tr></table></td></tr><tr><td><table><tr><td><p>测试结果：</p></td></tr><tr><td><p>测试日期：</p></td><td><p>测试人：</p></td><td><p>审核人：</p></td></tr></table></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 32,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 32
+                },
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "10. ",
+                                    "style": [
+                                        "bold"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "记忆功能"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 33
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table><tr><td><table><tr><td><p>序号</p></td><td><p>测试输入</p></td><td><p>测试输出</p></td><td><p>测试方法</p></td></tr><tr><td><p>1</p></td><td><p>体温计物温模式下，对准35℃黑体测量；</p></td><td><p>LCD显示测试完成的结果，并记录。</p></td><td><p>I，O</p></td></tr><tr><td><p>2</p></td><td><p>在关机态，长按设置键3秒，进入记忆浏览模式，显示当前测量模式、测量数值和测量记录数。</p></td><td><p>LCD显示测试完成的记忆结果，并记录。</p></td><td><p>I，O</p></td></tr><tr><td><p>3</p></td><td><p>短按设置按键显示下一条记录。</p></td><td><p>LCD显示测试完成的记忆结果，并记录。</p></td><td><p>I，O</p></td></tr><tr><td><p>4</p></td><td><p>切换到体温模式，对准35℃黑体测量；</p></td><td><p>LCD显示测试完成的结果，并记录。</p></td><td><p>I，O</p></td></tr><tr><td><p>5</p></td><td><p>在关机态，长按设置键3秒，进入记忆浏览模式，显示当前测量模式、测量数值和测量记录数。</p></td><td><p>LCD显示测试完成的记忆结果，并记录。</p></td><td><p>I，O</p></td></tr><tr><td><p>6</p></td><td><p>短按设置按键显示下一条记录。</p></td><td><p>LCD显示测试完成的记忆结果，并记录。</p></td><td><p>I，O</p></td></tr><tr><td><p>7</p></td><td><p>在关机态时，长按测量键和设置键8s后开始自动清除记忆，全部记录被清空。</p></td><td><p>记忆结果清空</p></td><td><p>I，O</p></td></tr><tr><td><p>8</p></td><td><p>进行清空记忆操作后，进入记忆查看界面。</p></td><td><p>记忆结果为空</p></td><td><p>I，O</p></td></tr></table></td></tr><tr><td><table><tr><td><p>测试结果：</p></td></tr><tr><td><p>测试日期：</p></td><td><p>测试人：</p></td><td><p>审核人：</p></td></tr></table></td></tr></table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 34,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 34
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "header",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "文件编号："
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "PT9L-RXCL01",
+                                    "style": [
+                                        "underline"
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "content": " V1.0                                         软件系统测试记录"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 35
+                },
+                {
+                    "type": "footer",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "第 1 页/共 9 页                               "
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 36
+                }
+            ],
+            "page_idx": 0
+        }
+    ],
+    "_backend": "office",
+    "_version_name": "3.1.6"
+}

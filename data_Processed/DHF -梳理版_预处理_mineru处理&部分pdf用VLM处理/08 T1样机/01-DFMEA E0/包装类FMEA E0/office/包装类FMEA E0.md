@@ -1,0 +1,925 @@
+<table>
+  <tr>
+    <th colspan="20"><p>潜在失效模式分析</p></th>
+    <th><p></p></th>
+  </tr>
+  <tr>
+    <td colspan="20"><p>(Design FMEA)</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>分类：</p></td>
+    <td><p>包装类</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p>编制人：</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p>FMEA编号：</p></td>
+    <td><p>PT9L-PDFM01</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>产品型号：</p></td>
+    <td><p>PT9L</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p>审核：</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p>FMEA版本：</p></td>
+    <td><p>V1.0</p></td>
+    <td colspan="3"><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>FMEA小组：</p></td>
+    <td colspan="3"><p>丛明、侯广伟、万龙、刘钊</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>项目</p></td>
+    <td rowspan="2"><p>功能</p></td>
+    <td rowspan="2"><p>潜在失效模式</p></td>
+    <td rowspan="2"><p>潜在失效结果分析</p></td>
+    <td rowspan="2"><p>严
+重
+度
+(S)</p></td>
+    <td rowspan="2"><p>分
+类</p></td>
+    <td rowspan="2"><p><strong>失效机制</strong><strong>/</strong><strong>原因</strong></p></td>
+    <td rowspan="2"><p>频
+度
+(O)</p></td>
+    <td colspan="2"><p>现行控制</p></td>
+    <td rowspan="2"><p>探
+测
+度
+(D)</p></td>
+    <td rowspan="2"><p>R.P.N.</p></td>
+    <td rowspan="2"><p>拟采取措施</p></td>
+    <td colspan="4"><p>措施执行结果</p></td>
+    <td rowspan="2"><p>措施是否执行</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td rowspan="2"><p>检查结果</p></td>
+  </tr>
+  <tr>
+    <td><p>预防</p></td>
+    <td><p>探测</p></td>
+    <td><p><strong>严</strong><strong><br></strong><strong>重</strong><strong><br></strong><strong>度</strong><strong><br>(S)</strong></p></td>
+    <td><p><strong>频</strong><strong><br></strong><strong>度</strong><strong><br>(O)</strong></p></td>
+    <td><p><strong>探</strong><strong><br></strong><strong>测</strong><strong><br></strong><strong>度</strong><strong><br>(D)</strong></p></td>
+    <td><p>R.P.N.</p></td>
+    <td><p>R.P.N.</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>彩包装</p></td>
+    <td rowspan="3"><p>包装体温计</p></td>
+    <td><p>纸托架（含体温计）无法装入彩包装或装入彩包装后晃动量太大</p></td>
+    <td><p>生产人员无法包装</p></td>
+    <td><p>4</p></td>
+    <td><p>C</p></td>
+    <td><p>彩包装的尺寸设计不合理</p></td>
+    <td><p>2</p></td>
+    <td><p></p></td>
+    <td><p>实际装配</p></td>
+    <td><p>2</p></td>
+    <td><p>16</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>彩包装支撑强度不够</p></td>
+    <td><p>彩包装褶皱或破损</p></td>
+    <td><p>4</p></td>
+    <td><p>C</p></td>
+    <td><p>彩包装的材质强度不够</p></td>
+    <td><p>3</p></td>
+    <td><p></p></td>
+    <td><p>跌落试验、运输试验</p></td>
+    <td><p>2</p></td>
+    <td><p>24</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>标识不清楚
+内容不全面</p></td>
+    <td><p>用户误用</p></td>
+    <td><p>9</p></td>
+    <td><p>A</p></td>
+    <td><p>说明书印刷油墨质量不好
+未完全符合法规要求</p></td>
+    <td><p>4</p></td>
+    <td><p></p></td>
+    <td><p>目测检查
+法规符合性检查</p></td>
+    <td><p>5</p></td>
+    <td><p>180</p></td>
+    <td><p>标识内容及可识别度检验</p></td>
+    <td><p>9</p></td>
+    <td><p>4</p></td>
+    <td><p>1</p></td>
+    <td><p>36</p></td>
+    <td><p>检查检验记录</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p>□</p></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>纸托架</p></td>
+    <td rowspan="2"><p>装入体温计（电池）整机</p></td>
+    <td><p>体温计无法装入纸托架或装入纸托架后晃动量太大</p></td>
+    <td><p>生产人员无法包装</p></td>
+    <td><p>4</p></td>
+    <td><p>C</p></td>
+    <td><p>纸托架的尺寸设计不合理</p></td>
+    <td><p>2</p></td>
+    <td><p></p></td>
+    <td><p>实际装配</p></td>
+    <td><p>2</p></td>
+    <td><p>16</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>纸托架支撑强度不够</p></td>
+    <td><p>纸托架褶皱或破损</p></td>
+    <td><p>4</p></td>
+    <td><p>C</p></td>
+    <td><p>纸托架的材质强度不够</p></td>
+    <td><p>3</p></td>
+    <td><p></p></td>
+    <td><p>跌落试验、运输试验</p></td>
+    <td><p>2</p></td>
+    <td><p>24</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>铭牌</p></td>
+    <td rowspan="3"><p>给用户关于机器的信息</p></td>
+    <td><p>铭牌在运输过程中脱落</p></td>
+    <td rowspan="3"><p>用户无法识别体温计的相关法规信息
+用户误用</p></td>
+    <td><p>4</p></td>
+    <td><p>C</p></td>
+    <td><p>铭牌背胶强度不够</p></td>
+    <td><p>3</p></td>
+    <td><p></p></td>
+    <td><p>跌落试验、运输试验</p></td>
+    <td><p>2</p></td>
+    <td><p>24</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>铭牌印刷内容容易被擦拭掉</p></td>
+    <td><p>4</p></td>
+    <td><p>C</p></td>
+    <td><p>铭牌未覆膜</p></td>
+    <td><p>2</p></td>
+    <td><p></p></td>
+    <td><p>依IEC60601-1
+电气安全通用要求中7标记耐久性要求
+对铭牌进行试验</p></td>
+    <td><p>2</p></td>
+    <td><p>16</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>标识不清楚
+内容不全面</p></td>
+    <td><p>9</p></td>
+    <td><p>A</p></td>
+    <td><p>印刷油墨质量不好
+未完全符合法规要求</p></td>
+    <td><p>4</p></td>
+    <td><p></p></td>
+    <td><p>目测检查
+法规符合性检查</p></td>
+    <td><p>5</p></td>
+    <td><p>180</p></td>
+    <td><p>铭牌内容及可识别度检验</p></td>
+    <td><p>9</p></td>
+    <td><p>4</p></td>
+    <td><p>1</p></td>
+    <td><p>36</p></td>
+    <td><p>检查检验记录</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p>□</p></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>说明书</p></td>
+    <td rowspan="2"><p>给用户关于机器使用的信息</p></td>
+    <td><p>说明书印刷不够清楚</p></td>
+    <td><p>用户无法识别体温计使用的相关信息</p></td>
+    <td><p>4</p></td>
+    <td><p>C</p></td>
+    <td><p>说明书印刷油墨质量不好</p></td>
+    <td><p>2</p></td>
+    <td><p></p></td>
+    <td><p>实际使用</p></td>
+    <td><p>1</p></td>
+    <td><p>8</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>标识不清楚
+内容不全面</p></td>
+    <td><p>用户误用</p></td>
+    <td><p>9</p></td>
+    <td><p>A</p></td>
+    <td><p>说明书印刷油墨质量不好
+未完全符合法规要求</p></td>
+    <td><p>4</p></td>
+    <td><p></p></td>
+    <td><p>目测检查
+法规符合性检查</p></td>
+    <td><p>5</p></td>
+    <td><p>180</p></td>
+    <td><p>说明书内容及可识别度检验</p></td>
+    <td><p>9</p></td>
+    <td><p>4</p></td>
+    <td><p>1</p></td>
+    <td><p>36</p></td>
+    <td><p>检查检验记录</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p>□</p></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>隔板</p></td>
+    <td rowspan="2"><p>装入包装箱</p></td>
+    <td><p>垫板无法装入包装箱或垫板装入包装箱后晃动量太大</p></td>
+    <td><p>生产人员无法包装</p></td>
+    <td><p>4</p></td>
+    <td><p>C</p></td>
+    <td><p>垫板尺寸设计不合理</p></td>
+    <td><p>2</p></td>
+    <td><p></p></td>
+    <td><p>实际装配</p></td>
+    <td><p>2</p></td>
+    <td><p>16</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>垫板支撑强度不够</p></td>
+    <td><p>垫板褶皱或破损</p></td>
+    <td><p>4</p></td>
+    <td><p>C</p></td>
+    <td><p>垫板的材质强度不够</p></td>
+    <td><p>2</p></td>
+    <td><p></p></td>
+    <td><p>跌落试验、运输试验</p></td>
+    <td><p>1</p></td>
+    <td><p>8</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>外箱</p></td>
+    <td rowspan="2"><p>包装机器</p></td>
+    <td><p>包装箱无法装入外箱或包装箱装入外箱后晃动量太大</p></td>
+    <td><p>生产人员无法包装</p></td>
+    <td><p>4</p></td>
+    <td><p>C</p></td>
+    <td><p>外箱尺寸设计不合理</p></td>
+    <td><p>2</p></td>
+    <td><p></p></td>
+    <td><p>实际装配</p></td>
+    <td><p>2</p></td>
+    <td><p>16</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>外箱支撑强度不够</p></td>
+    <td><p>外箱褶皱或破损</p></td>
+    <td><p>4</p></td>
+    <td><p>C</p></td>
+    <td><p>外箱的材质强度不够</p></td>
+    <td><p>2</p></td>
+    <td><p></p></td>
+    <td><p>跌落试验、运输试验</p></td>
+    <td><p>1</p></td>
+    <td><p>8</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>标签</p></td>
+    <td rowspan="2"><p>提供机器商品及合格的信息</p></td>
+    <td><p>标签在运输过程中脱落</p></td>
+    <td rowspan="2"><p>用户无法识别相关信息</p></td>
+    <td><p>4</p></td>
+    <td><p>C</p></td>
+    <td><p>标签背胶强度不够</p></td>
+    <td><p>3</p></td>
+    <td><p></p></td>
+    <td><p>跌落试验、运输试验</p></td>
+    <td><p>2</p></td>
+    <td><p>24</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>标识不清楚</p></td>
+    <td><p>4</p></td>
+    <td><p>C</p></td>
+    <td><p>印刷油墨质量不好</p></td>
+    <td><p>2</p></td>
+    <td><p></p></td>
+    <td><p>实际使用</p></td>
+    <td><p>1</p></td>
+    <td><p>8</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>纸托板</p></td>
+    <td><p>支撑</p></td>
+    <td><p>支撑强度不够</p></td>
+    <td><p>纸托板褶皱或破损</p></td>
+    <td><p>4</p></td>
+    <td><p>C</p></td>
+    <td><p>纸托板的材质强度不够</p></td>
+    <td><p>2</p></td>
+    <td><p></p></td>
+    <td><p>跌落试验、运输试验</p></td>
+    <td><p>1</p></td>
+    <td><p>8</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>保护膜</p></td>
+    <td><p>保护外包装</p></td>
+    <td><p>保护膜破损</p></td>
+    <td><p>顾客满意度下降</p></td>
+    <td><p>4</p></td>
+    <td><p>C</p></td>
+    <td><p>原材不良</p></td>
+    <td><p>2</p></td>
+    <td><p></p></td>
+    <td><p>外观及功能检查</p></td>
+    <td><p>2</p></td>
+    <td><p>16</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>防拆签</p></td>
+    <td><p>粘合彩包装</p></td>
+    <td><p>封口签翘起</p></td>
+    <td><p>影响外观</p></td>
+    <td><p>4</p></td>
+    <td><p>C</p></td>
+    <td><p>标签背胶强度不够</p></td>
+    <td><p>2</p></td>
+    <td><p></p></td>
+    <td><p>实际使用</p></td>
+    <td><p>1</p></td>
+    <td><p>8</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td colspan="3"><p>FMEA小组成员</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>成员</p></td>
+    <td><p>姓名</p></td>
+    <td><p>签名</p></td>
+    <td><p>日期</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td colspan="2"><p>措施是否执行的检查结果</p></td>
+    <td colspan="2"><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>硬件工程师</p></td>
+    <td><p>万龙</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td colspan="2"><p>检查人员签名</p></td>
+    <td colspan="2"><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>硬件主管</p></td>
+    <td><p>侯广伟</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td colspan="2"><p>审核人员签名</p></td>
+    <td colspan="2"><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>软件工程师</p></td>
+    <td><p>王迪</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>软件主管</p></td>
+    <td><p>侯广伟</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>结构工程师</p></td>
+    <td><p>刘钊</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>结构主管</p></td>
+    <td><p>侯广伟</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th><p>后果</p></th>
+    <th><p>判定准则：后果的严重度</p></th>
+    <th><p>级别</p></th>
+  </tr>
+  <tr>
+    <td><p>无警告的严重危害</p></td>
+    <td><p>潜在失效模式影响体温计的安全运行和/或包含不符合法规情形，失效发生时无预警。会危及使用者。</p></td>
+    <td><p>10</p></td>
+  </tr>
+  <tr>
+    <td><p>有警告的严重危害</p></td>
+    <td><p>潜在失效模式影响体温计的安全运行和/或包含不符合法规情形，失效发生时有预警。会危及使用者。</p></td>
+    <td><p>9</p></td>
+  </tr>
+  <tr>
+    <td><p>很高</p></td>
+    <td><p>体温计无法运行，丧失基本功能，顾客很不满意。</p></td>
+    <td><p>8</p></td>
+  </tr>
+  <tr>
+    <td><p>高</p></td>
+    <td><p>体温计能运行，但性能下降。顾客很不满意。</p></td>
+    <td><p>7</p></td>
+  </tr>
+  <tr>
+    <td><p>中等</p></td>
+    <td><p>体温计能运行，但丧失部分功能。顾客不满意。</p></td>
+    <td><p>6</p></td>
+  </tr>
+  <tr>
+    <td><p>低</p></td>
+    <td><p>体温计能运行，但部分功能性能下降。顾客有些不满意。</p></td>
+    <td><p>5</p></td>
+  </tr>
+  <tr>
+    <td><p>很低</p></td>
+    <td><p>装配/外观或其他小细节不符合要求。多数顾客（超过75%）发现有缺陷</p></td>
+    <td><p>4</p></td>
+  </tr>
+  <tr>
+    <td><p>轻微</p></td>
+    <td><p>装配/外观或其他小细节不符合要求。多数顾客（大约50%）发现有缺陷</p></td>
+    <td><p>3</p></td>
+  </tr>
+  <tr>
+    <td><p>很轻微</p></td>
+    <td><p>装配/外观或其他小细节不符合要求。多数顾客（少于25%）发现有缺陷</p></td>
+    <td><p>2</p></td>
+  </tr>
+  <tr>
+    <td><p>无</p></td>
+    <td><p>无可识别的影响</p></td>
+    <td><p>1</p></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th><p>失效发生的可能性</p></th>
+    <th><p>判定准则</p></th>
+    <th><p>可能的失效率</p></th>
+    <th><p>PPM level</p></th>
+    <th><p>级别</p></th>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>很高</p></td>
+    <td rowspan="2"><p>持续性发生的失效</p></td>
+    <td><p>≥10%</p></td>
+    <td><p>100000</p></td>
+    <td><p>10</p></td>
+  </tr>
+  <tr>
+    <td><p>0.05</p></td>
+    <td><p>50000</p></td>
+    <td><p>9</p></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>高</p></td>
+    <td rowspan="2"><p>反复发生的失效</p></td>
+    <td><p>0.02</p></td>
+    <td><p>20000</p></td>
+    <td><p>8</p></td>
+  </tr>
+  <tr>
+    <td><p>0.01</p></td>
+    <td><p>10000</p></td>
+    <td><p>7</p></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>中等</p></td>
+    <td rowspan="3"><p>偶尔发生的失效</p></td>
+    <td><p>0.005</p></td>
+    <td><p>2000</p></td>
+    <td><p>6</p></td>
+  </tr>
+  <tr>
+    <td><p>0.002</p></td>
+    <td><p>500</p></td>
+    <td><p>5</p></td>
+  </tr>
+  <tr>
+    <td><p>0.001</p></td>
+    <td><p>100</p></td>
+    <td><p>4</p></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>低</p></td>
+    <td rowspan="2"><p>相对很少发生的失效</p></td>
+    <td><p>500ppm</p></td>
+    <td><p>10</p></td>
+    <td><p>3</p></td>
+  </tr>
+  <tr>
+    <td><p>100ppm</p></td>
+    <td><p>1</p></td>
+    <td><p>2</p></td>
+  </tr>
+  <tr>
+    <td><p>极低</p></td>
+    <td><p>失效不太可能发生</p></td>
+    <td><p>＜10ppm</p></td>
+    <td><p></p></td>
+    <td><p>1</p></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th><p>探测度</p></th>
+    <th><p>判定准则：被设计控制探测的可能性</p></th>
+    <th><p>or % Chance</p></th>
+    <th><p>Criteria (Likelihood of Detection by Design Control)</p></th>
+    <th><p>Ranking</p></th>
+  </tr>
+  <tr>
+    <td><p>绝对不可能</p></td>
+    <td><p>There is no Design Control -or- Control will not or cannot detect a potential cause/mechanism and subsequent Failure Mode.</p></td>
+    <td><p>&lt;5%</p></td>
+    <td><p>There is no Design Control -or- Control will not or cannot detect a potential cause/mechanism and subsequent Failure Mode.</p></td>
+    <td><p>10</p></td>
+  </tr>
+  <tr>
+    <td><p>极微小</p></td>
+    <td><p>Very Remote chance the Design Control will detect a potential cause/mechanism and subsequent Failure Mode.</p></td>
+    <td><p>0.15</p></td>
+    <td><p>Design analysis/detection controls have a weak detection capability (not likely to detect at any stage); Virtual Analysis is <u>not correlated</u> to expected actual operating conditions.</p></td>
+    <td><p>9</p></td>
+  </tr>
+  <tr>
+    <td><p>微小</p></td>
+    <td><p>Remote chance the Design Control will detect a potential cause/mechanism and subsequent Failure Mode.</p></td>
+    <td><p>0.25</p></td>
+    <td><p>System/Product verification/validation <strong>after design freeze and prior to launch</strong> with pass/fail testing (Subsystem or system testing with acceptance criteria such as ride and handling, shipping, evaluation, etc.).</p></td>
+    <td><p>8</p></td>
+  </tr>
+  <tr>
+    <td><p>很少</p></td>
+    <td><p>Very Low chance the Design Control will detect a potential cause/mechanism and subsequent Failure Mode.</p></td>
+    <td><p>0.35</p></td>
+    <td><p>System/Product verification/validation <strong>after design freeze and prior to launch</strong> with test to failure testing (Subsystem or system testing until failure occurs, testing of system interactions, etc.).</p></td>
+    <td><p>7</p></td>
+  </tr>
+  <tr>
+    <td><p>少</p></td>
+    <td><p>Low chance the Design Control will detect a potential cause/mechanism and subsequent Failure Mode.</p></td>
+    <td><p>0.45</p></td>
+    <td><p>System/Product verification/validation <strong>after design freeze and prior to launch</strong> with degradation testing (Subsystem or system testing after durability test, e.g., function check).</p></td>
+    <td><p>6</p></td>
+  </tr>
+  <tr>
+    <td><p>中等</p></td>
+    <td><p>Moderate chance the Design Control will detect a potential cause/mechanism and subsequent Failure Mode.</p></td>
+    <td><p>0.55</p></td>
+    <td><p>System/Product validation (reliability testing, development or validation tests) <strong>prior to design freeze</strong> using pass/fail testing (e.g., acceptance criteria for performance, function checks, etc.).</p></td>
+    <td><p>5</p></td>
+  </tr>
+  <tr>
+    <td><p>中上</p></td>
+    <td><p>Moderate High chance the Design Control will detect a potential cause/mechanism and subsequent Failure Mode.</p></td>
+    <td><p>0.65</p></td>
+    <td><p>System/Product validation (reliability testing, development or validation tests) <strong>prior to design freeze</strong> using test to failure (e.g., until leaks, yields, cracks, etc.).</p></td>
+    <td><p>4</p></td>
+  </tr>
+  <tr>
+    <td><p>高</p></td>
+    <td><p>High chance the Design Control will detect a potential cause/mechanism and subsequent Failure Mode.</p></td>
+    <td><p>0.75</p></td>
+    <td><p>System/Product validation (reliability testing, development or validation tests) <strong>prior to design freeze</strong> using degradation testing (e.g., data trends, before/after values, etc.).</p></td>
+    <td><p>3</p></td>
+  </tr>
+  <tr>
+    <td><p>很高</p></td>
+    <td><p>Very High chance the Design Control will detect a potential cause/mechanism and subsequent Failure Mode.</p></td>
+    <td><p>0.85</p></td>
+    <td><p>Design and analysis/detection controls have a strong detection capability. Virtual analysis is highly correlated with actual or extended operating conditions <strong>prior to design freeze</strong>.</p></td>
+    <td><p>2</p></td>
+  </tr>
+  <tr>
+    <td><p>几乎肯定</p></td>
+    <td><p>Design Control will almost certainly detect a potential cause/mechanism and subsequent Failure Mode.</p></td>
+    <td><p>&gt;95%</p></td>
+    <td><p>Failure cause or failure mode can not occur because it is fully prevented through design solutions (e.g., proven design standard, best practice or common material, etc.).</p></td>
+    <td><p>1</p></td>
+  </tr>
+</table>

@@ -1,0 +1,72 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "lines": [
+                        {
+                            "spans": [
+                                {
+                                    "type": "text",
+                                    "content": "历史版本记录"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table>\n  <tr>\n    <th><p>序号</p></th>\n    <th><p>修改日期</p></th>\n    <th><p>修改描述</p></th>\n    <th><p>版本</p></th>\n    <th><p>编制</p></th>\n    <th><p>批准</p></th>\n  </tr>\n  <tr>\n    <td><p>1</p></td>\n    <td><p></p></td>\n    <td><p>起草</p></td>\n    <td><p>V1.0</p></td>\n    <td><p>王迪</p></td>\n    <td><p>侯广伟</p></td>\n  </tr>\n</table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "blocks": [
+                        {
+                            "lines": [
+                                {
+                                    "spans": [
+                                        {
+                                            "type": "table",
+                                            "html": "<table>\n  <tr>\n    <th colspan=\"8\"><p>设计验证报告-通用要求部分</p></th>\n  </tr>\n  <tr>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p>拟制<em>（项目负责人）</em><strong>:                 </strong>年   月   日<strong>        </strong></p></td>\n  </tr>\n  <tr>\n    <td><p> 审核<strong><em>（</em></strong><em>软件主管</em><strong><em>）</em></strong><strong>:               </strong> 年   月   日       <strong>审核</strong><em>（硬件主管）</em>:                   年  月  日         <strong>审核</strong><em>（结构主管）</em>: <strong>                </strong>年  月  日    </p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>产品型号： PT9L                              项目编号：  30000078                     产品/项目名称：红外体温计</p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td><p>阶段：T1                    验证依据：PT9L-YZTY01 V1.0</p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n    <td><p></p></td>\n  </tr>\n  <tr>\n    <td colspan=\"8\"><p>1.本设计验证报告需审核后方能生效。\n2.存档并设计历史文档（DHF）。</p></td>\n  </tr>\n  <tr>\n    <td colspan=\"8\"><p>注：在设计验证报告中标记“■”或是在“□”中划“√”都表示当前项已经被选中；标记“□”表示当前项未选中</p></td>\n  </tr>\n  <tr>\n    <td><p>序号\nNo.</p></td>\n    <td><p>条目\nItem</p></td>\n    <td><p>要求\nRequirements</p></td>\n    <td><p>验证阶段\nStage of verification</p></td>\n    <td><p>验证方法及资源需求\nVerification method and resource requirements</p></td>\n    <td><p>判定准则\nDeterminant guide line</p></td>\n    <td><p>验证记录\nVerification annal</p></td>\n    <td><p>结论\nconclusion</p></td>\n  </tr>\n  <tr>\n    <td><p>1</p></td>\n    <td><p>产品型号\nModel</p></td>\n    <td><p>PT9L</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n  </tr>\n  <tr>\n    <td><p>2</p></td>\n    <td><p>销售地区及认证\nIntended markets and certification</p></td>\n    <td><p>要求符合如下认证体系要求：\n□  CE                 对应地区： 欧洲 \n■  FDA               对应地区：美国\n□  CFDA            对应地区：中国\n□  其他</p></td>\n    <td><p>□手板□T1■设计确认</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n  </tr>\n  <tr>\n    <td><p>3</p></td>\n    <td><p>外形和重量要求\n Size and weight</p></td>\n    <td><p>详见《设计输入-组件规格部分》中的相关要求</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n  </tr>\n  <tr>\n    <td><p>4</p></td>\n    <td><p>包装要求\nPackaging </p></td>\n    <td><p>详见《设计输入-组件规格部分》中的相关要求</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n  </tr>\n  <tr>\n    <td><p>5</p></td>\n    <td><p>包装列表\nPackage  list</p></td>\n    <td><p>详见《设计输入-组件规格部分》中的相关要求</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n  </tr>\n  <tr>\n    <td><p>6</p></td>\n    <td><p>产品寿命\nService life</p></td>\n    <td><p>详见《设计输入-性能规格部分》中的相关要求</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n  </tr>\n  <tr>\n    <td><p>7</p></td>\n    <td><p>风险管理\nRish management</p></td>\n    <td><p>具体参见风险管理计划最新版本\n整个过程按照《设计输入-法规标准清单》的相关标准进行风险管理</p></td>\n    <td><p>□手板□T1■设计确认</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n  </tr>\n  <tr>\n    <td><p>8</p></td>\n    <td><p>电气安全\nSafety requirements for electrical equipment </p></td>\n    <td><p>详见《设计输入-法规标准清单》中的相关标准</p></td>\n    <td><p>□手板□T1■设计确认</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n  </tr>\n  <tr>\n    <td><p>9</p></td>\n    <td><p>环保\nEnvironment protection</p></td>\n    <td><p>要求同时满足以下环保指令或法规： \n□ROHS(2011/65/EU)（2015/863/EU）\n□REACH(1907/2006/EC)\n□WEEE关于报废电子电气设备指令(2012/19/EU)   \n□电池指令 (2013/56/EU)\n□包装指令 (2005/20/EC) \n□中国ROHS 2.0 \nPOPs \n□电池指令 (2013/56/EU)\n□包装物和包装废弃物指令  94/62/EC, 2005/20/EC, (EU) 2018/852\n□2006/66/EC\n□美国有毒物质控制法案TSCA  CPSC，CPSIA\n■加州RoHS\n□加州65提案\n□美国包装法案 TPCH\n□美国电池指令（含汞电池和可充电池管理法）      \n□其它：_______________________________。</p></td>\n    <td><p>□手板■T1□设计确认</p></td>\n    <td><p>检查BOM全项是否通过相关要求</p></td>\n    <td><p>BOM全项均通过测试</p></td>\n    <td><p>BOM全项均通过测试</p></td>\n    <td><p>合格</p></td>\n  </tr>\n  <tr>\n    <td><p>10</p></td>\n    <td><p>消毒要求\nSterility requirements</p></td>\n    <td><p>按照风险分析的结论添加消毒方面的要求：\n\n说明书中按照风险分析的结论添加消毒方面的要求</p></td>\n    <td><p>□手板■T1□设计确认</p></td>\n    <td><p>检查说明书是否有消毒方面的描述</p></td>\n    <td><p>说明书中有消毒方面的描述</p></td>\n    <td><p>说明书中有消毒方面的描述</p></td>\n    <td><p>合格</p></td>\n  </tr>\n  <tr>\n    <td><p>11</p></td>\n    <td><p>易用性\nUsability</p></td>\n    <td><p>详见《设计输入-法规标准清单》中的相关标准</p></td>\n    <td><p>□手板□T1■设计确认</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n  </tr>\n  <tr>\n    <td><p>12</p></td>\n    <td><p>专利\nPatent</p></td>\n    <td><p>需要规避的专利技术：\n无</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n  </tr>\n  <tr>\n    <td><p>13</p></td>\n    <td><p>测量和监视设备\nMeasurement and monitoring instruments</p></td>\n    <td><p>是否有与新增测量监视设备配合的要求：<br>■ 无<br>□ 有：<u>                                      </u></p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n  </tr>\n  <tr>\n    <td rowspan=\"3\"><p>14</p></td>\n    <td rowspan=\"3\"><p>生产过程要求\nManufacture procedure</p></td>\n    <td><p>■ 工装要求\n  ■ 机芯检测：\n                1、能正确检测LCD端口连接线的通断。\n                2、能正确检测按键端口连接线的通断。\n                3、能正确检测低电压检测端口连接线的通断。\n                4、能查看待机态和工作态电流。            \n   ■ 机芯调试：\n                1、能对测温模块进行检测。\n                2、能实现对机芯的自检查看。</p></td>\n    <td><p>□手板□T1■设计确认</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n  </tr>\n  <tr>\n    <td><p>■工厂态要求\n   ■机芯检测态要求：\n                   1.能够检验LCD与PCB的连接。\n                   2.能够检验按键与PCB的连接。\n                   3.能够检验待机态和工作态电流。\n \n   ■机芯调试态要求：\n                 1.能够显示测温模块测量值。\n                 2.能够设定蜂鸣提示音开关。\n                 3.能够设定测量单位。</p></td>\n    <td><p>□手板□T1■设计确认</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n  </tr>\n  <tr>\n    <td><p>□ 其他工艺要求 ：应能对代码中分配给通讯加密字节区域是否为”空”（0x00或0xFF）进行检验（注：本项主要针对iHealth产品，其他产品视情况考虑选择）</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n  </tr>\n  <tr>\n    <td><p>15</p></td>\n    <td><p>防误用注意信息\nInformation to deter foreseeable misuse </p></td>\n    <td><p>用户说明书上必须指明本产品：\n■ 禁忌症\n其他：           .</p></td>\n    <td><p>□手板■T1□设计确认</p></td>\n    <td><p>检查说明书上是否有相关内容</p></td>\n    <td><p>符合设计输入要求</p></td>\n    <td><p>符合设计输入要求</p></td>\n    <td><p>合格</p></td>\n  </tr>\n  <tr>\n    <td><p>16</p></td>\n    <td><p>客户特殊要求\nCustomer&#x27;s special requirements</p></td>\n    <td><p>■ 无\n□ 单独跌落试验\n□ 特殊标签\n□ 非强制性标准的引用\n□ 验货抽样标准\n□ 外部测试要求\n□ 其他要求：</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n  </tr>\n  <tr>\n    <td><p>17</p></td>\n    <td><p>电磁兼容性\nElectromagnetic compatibility</p></td>\n    <td><p>详见《设计输入-法规标准清单》中的相关标准</p></td>\n    <td><p>□手板□T1■设计确认</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n  </tr>\n  <tr>\n    <td><p>18</p></td>\n    <td><p>生物相容性\nToxicity and biocompatibility requirement </p></td>\n    <td><p>详见《设计输入-法规标准清单》中的相关标准</p></td>\n    <td><p>□手板■T1□设计确认</p></td>\n    <td><p>检查生物相容性测试/评估是否通过</p></td>\n    <td><p>生物相容性测试/评估通过</p></td>\n    <td><p>生物相容性测试/评估报告</p></td>\n    <td><p>合格</p></td>\n  </tr>\n  <tr>\n    <td><p>19</p></td>\n    <td><p>防尘防水\nrequirements for ingress of water or particulate matter\n</p></td>\n    <td><p>■应符合IEC60529的IP22类测试（属于手持式、佩戴式或运输中可操作设备）\n□应符合IEC60529的IP21类测试\n□应符合IEC60529的IP20类测试\n□无要求\n□其他：</p></td>\n    <td><p>□手板□T1■设计确认</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n    <td><p>--</p></td>\n  </tr>\n  <tr>\n    <td><p>20</p></td>\n    <td><p>电池\n battery</p></td>\n    <td><p>□可充电电池：在充满电后，电池电量至少能进行<u>   </u>次测量，并且电池性能参数不变。<br>□电池：需要符合WERC认证<br>■无要求</p></td>\n    <td><p>□手板■T1□设计确认</p></td>\n    <td><p>电池使用寿命测试报告</p></td>\n    <td><p>符合设计输入要求</p></td>\n    <td><p>电池使用寿命测试报告</p></td>\n    <td><p>合格</p></td>\n  </tr>\n</table>"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [],
+            "page_idx": 1
+        }
+    ],
+    "_backend": "office",
+    "_version_name": "3.1.6"
+}

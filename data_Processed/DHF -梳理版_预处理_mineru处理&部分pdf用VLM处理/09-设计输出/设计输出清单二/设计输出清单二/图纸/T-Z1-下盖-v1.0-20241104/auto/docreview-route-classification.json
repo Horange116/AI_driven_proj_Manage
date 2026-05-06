@@ -1,0 +1,18 @@
+{
+  "pdf_type": "gantt",
+  "route": "vlm",
+  "template": "gantt",
+  "reason": "Probe router detected dense rows plus many vector drawings, consistent with timeline/Gantt or complex layout.",
+  "must_preserve": [
+    "row clusters",
+    "vector bars",
+    "lines",
+    "rectangles"
+  ],
+  "risk": [
+    "visual semantics require VLM"
+  ],
+  "confidence": "high",
+  "classifier": "probe",
+  "needs_vlm_supplement": false
+}

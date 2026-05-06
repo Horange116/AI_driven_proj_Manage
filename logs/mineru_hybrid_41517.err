@@ -1,0 +1,419 @@
+2026-05-06 04:21:17.061 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:38275
+2026-05-06 04:21:22.454 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2725778]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:38275 (Press CTRL+C to quit)
+2026-05-06 04:21:24.137 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [设计开发计划表E0]
+2026-05-06 04:21:26.999 | WARNING  | mineru.cli.common:aio_do_parse:749 - No valid PDF or image files to process.
+2026-05-06 04:21:27.083 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [设计开发计划表E0]
+2026-05-06 04:21:27.111 | WARNING  | mineru.cli.client:log_visualization_future_result:390 - Skipping visualization for 设计开发计划表E0: missing origin.pdf: 设计开发计划表E0_origin.pdf
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2725778]
+
+2026-05-06 04:21:47.997 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:47713
+2026-05-06 04:21:51.704 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2725967]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:47713 (Press CTRL+C to quit)
+2026-05-06 04:21:52.032 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 2 pages in this batch | 2 pages total | task#1 [项目进度表]
+2026-05-06 04:22:09.657 | INFO     | mineru.utils.engine_utils:get_vlm_engine:34 - Using vllm-async-engine as the inference engine for VLM.
+2026-05-06 04:22:43.206 | ERROR    | __main__:_process_task:1321 - Async task failed: ed37927d-0b61-4f21-9b46-8bd35d96b1d7
+Traceback (most recent call last):
+
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/urllib3/connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+           │          └ <function create_connection at 0x7f6a0b4ad7e0>
+           └ <module 'urllib3.util.connection' from '/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/urllib3/util/co...
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+          └ None
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+    │    │       └ ('127.0.0.1', 18888)
+    │    └ <method 'connect' of '_socket.socket' objects>
+    └ <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6>
+
+ConnectionRefusedError: [Errno 111] Connection refused
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/urllib3/connectionpool.py", line 773, in urlopen
+    self._prepare_proxy(conn)
+    │    │              └ None
+    │    └ <function HTTPSConnectionPool._prepare_proxy at 0x7f6a0b34c0d0>
+    └ <urllib3.connectionpool.HTTPSConnectionPool object at 0x7f6771c910f0>
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/urllib3/connectionpool.py", line 1042, in _prepare_proxy
+    conn.connect()
+    │    └ <function HTTPSConnection.connect at 0x7f6a0b317f40>
+    └ <HTTPSConnection(host='127.0.0.1', port=18888) at 0x7f6771c90d90>
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/urllib3/connection.py", line 759, in connect
+    self.sock = sock = self._new_conn()
+    │    │             │    └ <function HTTPConnection._new_conn at 0x7f6a0d482680>
+    │    │             └ <HTTPSConnection(host='127.0.0.1', port=18888) at 0x7f6771c90d90>
+    │    └ None
+    └ <HTTPSConnection(host='127.0.0.1', port=18888) at 0x7f6771c90d90>
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/urllib3/connection.py", line 219, in _new_conn
+    raise NewConnectionError(
+          └ <class 'urllib3.exceptions.NewConnectionError'>
+
+urllib3.exceptions.NewConnectionError: HTTPSConnection(host='127.0.0.1', port=18888): Failed to establish a new connection: [Errno 111] Connection refused
+
+
+The above exception was the direct cause of the following exception:
+
+
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', NewConnectionError("HTTPSConnection(host='127.0.0.1', port=18888): Failed to establish a new connection: [Errno 111] Connection refused"))
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/requests/adapters.py", line 645, in send
+    resp = conn.urlopen(
+           │    └ <function HTTPConnectionPool.urlopen at 0x7f6a0b34bf40>
+           └ <urllib3.connectionpool.HTTPSConnectionPool object at 0x7f6771c910f0>
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/urllib3/connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           │    └ <function HTTPConnectionPool.urlopen at 0x7f6a0b34bf40>
+           └ <urllib3.connectionpool.HTTPSConnectionPool object at 0x7f6771c910f0>
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/urllib3/connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+           │    └ <function HTTPConnectionPool.urlopen at 0x7f6a0b34bf40>
+           └ <urllib3.connectionpool.HTTPSConnectionPool object at 0x7f6771c910f0>
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              │       └ <function Retry.increment at 0x7f6a0b4aff40>
+              └ Retry(total=3, connect=0, read=2, redirect=None, status=None)
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/urllib3/util/retry.py", line 535, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+          │             │      │    │            └ ProxyError('Unable to connect to proxy', NewConnectionError("HTTPSConnection(host='127.0.0.1', port=18888): Failed to establi...
+          │             │      │    └ ProxyError('Unable to connect to proxy', NewConnectionError("HTTPSConnection(host='127.0.0.1', port=18888): Failed to establi...
+          │             │      └ '/api/v1/models/OpenDataLab/MinerU2.5-Pro-2604-1.2B'
+          │             └ <urllib3.connectionpool.HTTPSConnectionPool object at 0x7f6771c910f0>
+          └ <class 'urllib3.exceptions.MaxRetryError'>
+
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.modelscope.cn', port=443): Max retries exceeded with url: /api/v1/models/OpenDataLab/MinerU2.5-Pro-2604-1.2B (Caused by ProxyError('Unable to connect to proxy', NewConnectionError("HTTPSConnection(host='127.0.0.1', port=18888): Failed to establish a new connection: [Errno 111] Connection refused")))
+
+
+During handling of the above exception, another exception occurred:
+
+
+Traceback (most recent call last):
+
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+           │         │     └ {'__name__': '__main__', '__doc__': None, '__package__': 'mineru.cli', '__loader__': <_frozen_importlib_external.SourceFileLo...
+           │         └ <code object <module> at 0x7f6a0d3b7680, file "/hpai/aios3.0/private/user/s2025244189/s2025244265/AI_driven_proj_Manage/Miner...
+           └ <function _run_code at 0x7f6a0d3a3be0>
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+         │     └ {'__name__': '__main__', '__doc__': None, '__package__': 'mineru.cli', '__loader__': <_frozen_importlib_external.SourceFileLo...
+         └ <code object <module> at 0x7f6a0d3b7680, file "/hpai/aios3.0/private/user/s2025244189/s2025244265/AI_driven_proj_Manage/Miner...
+
+  File "/hpai/aios3.0/private/user/s2025244189/s2025244265/AI_driven_proj_Manage/MinerU/mineru/cli/fast_api.py", line 1641, in <module>
+    main()
+    └ <Command main>
+
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/click/core.py", line 1514, in __call__
+    return self.main(*args, **kwargs)
+           │    │     │       └ {}
+           │    │     └ ()
+           │    └ <function Command.main at 0x7f6a0c5d7520>
+           └ <Command main>
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/click/core.py", line 1435, in main
+    rv = self.invoke(ctx)
+         │    │      └ <click.core.Context object at 0x7f693f9a88e0>
+         │    └ <function Command.invoke at 0x7f6a0c5d7400>
+         └ <Command main>
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/click/core.py", line 1298, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+           │   │      │    │           │   └ {'host': '127.0.0.1', 'port': 47713, 'reload': False, 'allow_public_http_client': False, 'enable_vlm_preload': False}
+           │   │      │    │           └ <click.core.Context object at 0x7f693f9a88e0>
+           │   │      │    └ <function main at 0x7f693f8e8d30>
+           │   │      └ <Command main>
+           │   └ <function Context.invoke at 0x7f6a0c5d67a0>
+           └ <click.core.Context object at 0x7f693f9a88e0>
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/click/core.py", line 853, in invoke
+    return callback(*args, **kwargs)
+           │         │       └ {'host': '127.0.0.1', 'port': 47713, 'reload': False, 'allow_public_http_client': False, 'enable_vlm_preload': False}
+           │         └ ()
+           └ <function main at 0x7f693f8e8d30>
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/click/decorators.py", line 34, in new_func
+    return f(get_current_context(), *args, **kwargs)
+           │ │                       │       └ {'host': '127.0.0.1', 'port': 47713, 'reload': False, 'allow_public_http_client': False, 'enable_vlm_preload': False}
+           │ │                       └ ()
+           │ └ <function get_current_context at 0x7f6a0c5ba3b0>
+           └ <function main at 0x7f693f8e9000>
+
+  File "/hpai/aios3.0/private/user/s2025244189/s2025244265/AI_driven_proj_Manage/MinerU/mineru/cli/fast_api.py", line 1637, in main
+    server.run()
+    │      └ <function Server.run at 0x7f6a0c508e50>
+    └ <uvicorn.server.Server object at 0x7f693f8ddf00>
+
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/uvicorn/server.py", line 75, in run
+    return asyncio_run(self.serve(sockets=sockets), loop_factory=self.config.get_loop_factory())
+           │           │    │             │                      │    │      └ <function Config.get_loop_factory at 0x7f6a0c4a8280>
+           │           │    │             │                      │    └ <uvicorn.config.Config object at 0x7f693f9a8d60>
+           │           │    │             │                      └ <uvicorn.server.Server object at 0x7f693f8ddf00>
+           │           │    │             └ None
+           │           │    └ <function Server.serve at 0x7f6a0c508ee0>
+           │           └ <uvicorn.server.Server object at 0x7f693f8ddf00>
+           └ <function asyncio_run at 0x7f6a0c433010>
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/uvicorn/_compat.py", line 60, in asyncio_run
+    return loop.run_until_complete(main)
+           │    │                  └ <coroutine object Server.serve at 0x7f693f8a0c80>
+           │    └ <cyfunction Loop.run_until_complete at 0x7f693f84d900>
+           └ <uvloop.Loop running=True closed=False debug=False>
+
+> File "/hpai/aios3.0/private/user/s2025244189/s2025244265/AI_driven_proj_Manage/MinerU/mineru/cli/fast_api.py", line 1311, in _process_task
+    await self._run_task(task)
+          │    │         └ AsyncParseTask(task_id='ed37927d-0b61-4f21-9b46-8bd35d96b1d7', status='failed', backend='hybrid-auto-engine', file_names=['项目...
+          │    └ <function AsyncTaskManager._run_task at 0x7f693f9a1900>
+          └ <__main__.AsyncTaskManager object at 0x7f693ec645e0>
+
+  File "/hpai/aios3.0/private/user/s2025244189/s2025244265/AI_driven_proj_Manage/MinerU/mineru/cli/fast_api.py", line 1341, in _run_task
+    await run_parse_job(
+          └ <function run_parse_job at 0x7f693f9a0dc0>
+
+  File "/hpai/aios3.0/private/user/s2025244189/s2025244265/AI_driven_proj_Manage/MinerU/mineru/cli/fast_api.py", line 1036, in run_parse_job
+    await aio_do_parse(**parse_kwargs)
+          │              └ {'output_dir': '/tmp/mineru-api-client-0tuwgtf5/output/ed37927d-0b61-4f21-9b46-8bd35d96b1d7', 'pdf_file_names': ['项目进度表'], 'p...
+          └ <function aio_do_parse at 0x7f693f99a290>
+
+  File "/hpai/aios3.0/private/user/s2025244189/s2025244265/AI_driven_proj_Manage/MinerU/mineru/cli/common.py", line 795, in aio_do_parse
+    await _async_process_hybrid(
+          └ <function _async_process_hybrid at 0x7f693f99a0e0>
+
+  File "/hpai/aios3.0/private/user/s2025244189/s2025244265/AI_driven_proj_Manage/MinerU/mineru/cli/common.py", line 545, in _async_process_hybrid
+    middle_json, infer_result, _vlm_ocr_enable = await aio_hybrid_doc_analyze(
+                                                       └ <function aio_doc_analyze at 0x7f6771c8cc10>
+
+  File "/hpai/aios3.0/private/user/s2025244189/s2025244265/AI_driven_proj_Manage/MinerU/mineru/backend/hybrid/hybrid_analyze.py", line 685, in aio_doc_analyze
+    predictor = await _get_model_async(backend, model_path, server_url, **kwargs)
+                      │                │        │           │             └ {}
+                      │                │        │           └ None
+                      │                │        └ None
+                      │                └ 'vllm-async-engine'
+                      └ <function _get_model_async at 0x7f694fcbf2e0>
+
+  File "/hpai/aios3.0/private/user/s2025244189/s2025244265/AI_driven_proj_Manage/MinerU/mineru/backend/vlm/vlm_analyze.py", line 271, in _get_model_async
+    return await asyncio.to_thread(
+                 │       └ <function to_thread at 0x7f6a0c8e5510>
+                 └ <module 'asyncio' from '/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/asyncio/__init__.py'>
+
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/asyncio/threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+                 │    │                     └ functools.partial(<built-in method run of _contextvars.Context object at 0x7f67739a6540>, <bound method ModelSingleton.get_mo...
+                 │    └ <cyfunction Loop.run_in_executor at 0x7f693f84ebc0>
+                 └ <uvloop.Loop running=True closed=False debug=False>
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             │        │            └ None
+             │        └ None
+             └ None
+
+  File "/hpai/aios3.0/private/user/s2025244189/s2025244265/AI_driven_proj_Manage/MinerU/mineru/backend/vlm/vlm_analyze.py", line 81, in get_model
+    model_path = auto_download_and_get_model_root_path("/","vlm")
+                 └ <function auto_download_and_get_model_root_path at 0x7f694fa62050>
+
+  File "/hpai/aios3.0/private/user/s2025244189/s2025244265/AI_driven_proj_Manage/MinerU/mineru/utils/models_download_utils.py", line 63, in auto_download_and_get_model_root_path
+    cache_dir = snapshot_download(repo)
+                │                 └ 'OpenDataLab/MinerU2.5-Pro-2604-1.2B'
+                └ <function snapshot_download at 0x7f694ef8d7e0>
+
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/modelscope/hub/snapshot_download.py", line 145, in snapshot_download
+    return _snapshot_download(
+           └ <function _snapshot_download at 0x7f694ef8f1c0>
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/modelscope/hub/snapshot_download.py", line 323, in _snapshot_download
+    endpoint = _api.get_endpoint_for_read(
+               │    └ <function HubApi.get_endpoint_for_read at 0x7f694ef84e50>
+               └ <modelscope.hub.api.HubApi object at 0x7f6771c90f10>
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/modelscope/hub/api.py", line 625, in get_endpoint_for_read
+    if not self.repo_exists(
+           │    └ <function HubApi.repo_exists at 0x7f694ef85090>
+           └ <modelscope.hub.api.HubApi object at 0x7f6771c90f10>
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/modelscope/hub/api.py", line 782, in repo_exists
+    r = self.session.get(path, cookies=cookies,
+        │    │       │   │             └ None
+        │    │       │   └ 'https://www.modelscope.cn/api/v1/models/OpenDataLab/MinerU2.5-Pro-2604-1.2B'
+        │    │       └ functools.partial(<bound method Session.get of <requests.sessions.Session object at 0x7f6771c90f40>>, timeout=60)
+        │    └ <requests.sessions.Session object at 0x7f6771c90f40>
+        └ <modelscope.hub.api.HubApi object at 0x7f6771c90f10>
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/requests/sessions.py", line 605, in get
+    return self.request("GET", url, **kwargs)
+           │    │              │      └ {'timeout': 60, 'cookies': None, 'headers': {'X-Request-ID': '40c81156c67b4c2bb401f34853309fc0', 'user-agent': 'modelscope/1....
+           │    │              └ 'https://www.modelscope.cn/api/v1/models/OpenDataLab/MinerU2.5-Pro-2604-1.2B'
+           │    └ <function Session.request at 0x7f6a0af07250>
+           └ <requests.sessions.Session object at 0x7f6771c90f40>
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/requests/sessions.py", line 592, in request
+    resp = self.send(prep, **send_kwargs)
+           │    │    │       └ {'timeout': 60, 'allow_redirects': True, 'proxies': OrderedDict([('no', '127.0.0.1,localhost'), ('https', 'http://127.0.0.1:1...
+           │    │    └ <PreparedRequest [GET]>
+           │    └ <function Session.send at 0x7f6a0af076d0>
+           └ <requests.sessions.Session object at 0x7f6771c90f40>
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/requests/sessions.py", line 706, in send
+    r = adapter.send(request, **kwargs)
+        │       │    │          └ {'timeout': 60, 'proxies': OrderedDict([('no', '127.0.0.1,localhost'), ('https', 'http://127.0.0.1:18888'), ('http', 'http://...
+        │       │    └ <PreparedRequest [GET]>
+        │       └ <function HTTPAdapter.send at 0x7f6a0af06b90>
+        └ <requests.adapters.HTTPAdapter object at 0x7f6771c91210>
+  File "/home/s2025244189/miniconda3/envs/mineru/lib/python3.10/site-packages/requests/adapters.py", line 672, in send
+    raise ProxyError(e, request=request)
+          │                     └ <PreparedRequest [GET]>
+          └ <class 'requests.exceptions.ProxyError'>
+
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='www.modelscope.cn', port=443): Max retries exceeded with url: /api/v1/models/OpenDataLab/MinerU2.5-Pro-2604-1.2B (Caused by ProxyError('Unable to connect to proxy', NewConnectionError("HTTPSConnection(host='127.0.0.1', port=18888): Failed to establish a new connection: [Errno 111] Connection refused")))
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2725967]
+Error: 1 task(s) failed while processing documents:
+- task#1 (项目进度表): Task ed37927d-0b61-4f21-9b46-8bd35d96b1d7 failed for task#1 [项目进度表]: {"task_id": "ed37927d-0b61-4f21-9b46-8bd35d96b1d7", "status": "failed", "backend": "hybrid-auto-engine", "file_names": ["项目进度表"], "created_at": "2026-05-05T20:21:52.113723+00:00", "started_at": "2026-05-05T20:21:52.114473+00:00", "completed_at": "2026-05-05T20:22:43.206093+00:00", "error": "HTTPSConnectionPool(host='www.modelscope.cn', port=443): Max retries exceeded with url: /api/v1/models/OpenDataLab/MinerU2.5-Pro-2604-1.2B (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=18888): Failed to establish a new connection: [Errno 111] Connection refused\")))", "status_url": "http://127.0.0.1:47713/tasks/ed37927d-0b61-4f21-9b46-8bd35d96b1d7", "result_url": "http://127.0.0.1:47713/tasks/ed37927d-0b61-4f21-9b46-8bd35d96b1d7/result", "queued_ahead": 0}
+
+ERROR conda.cli.main_run:execute(127): `conda run mineru -p /home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理/02 开发计划E0/项目进度表.pdf -o /home/s2025244189/s2025244265/AI_driven_proj_Manage/data_Processed/DHF -梳理版_预处理_hybrid-auto处理/02 开发计划E0 -b hybrid-auto-engine -m auto -l ch` failed. (See above for error)
+2026-05-06 04:23:01.675 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:49539
+2026-05-06 04:23:05.609 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2726237]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:49539 (Press CTRL+C to quit)
+2026-05-06 04:23:05.710 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [设计评审计划表-方案评审E0]
+2026-05-06 04:23:06.176 | WARNING  | mineru.cli.common:aio_do_parse:749 - No valid PDF or image files to process.
+2026-05-06 04:23:06.857 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [设计评审计划表-方案评审E0]
+2026-05-06 04:23:06.894 | WARNING  | mineru.cli.client:log_visualization_future_result:390 - Skipping visualization for 设计评审计划表-方案评审E0: missing origin.pdf: 设计评审计划表-方案评审E0_origin.pdf
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2726237]
+
+2026-05-06 04:23:25.771 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:58641
+2026-05-06 04:23:29.364 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2726412]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:58641 (Press CTRL+C to quit)
+2026-05-06 04:23:29.804 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [设计评审记录E0]
+2026-05-06 04:23:30.767 | WARNING  | mineru.cli.common:aio_do_parse:749 - No valid PDF or image files to process.
+2026-05-06 04:23:30.976 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [设计评审记录E0]
+2026-05-06 04:23:31.004 | WARNING  | mineru.cli.client:log_visualization_future_result:390 - Skipping visualization for 设计评审记录E0: missing origin.pdf: 设计评审记录E0_origin.pdf
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2726412]
+
+2026-05-06 04:23:52.042 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:34265
+2026-05-06 04:23:56.203 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2726595]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:34265 (Press CTRL+C to quit)
+2026-05-06 04:23:57.086 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [硬件图样评审检查表E0]
+2026-05-06 04:23:57.589 | WARNING  | mineru.cli.common:aio_do_parse:749 - No valid PDF or image files to process.
+2026-05-06 04:23:58.259 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [硬件图样评审检查表E0]
+2026-05-06 04:23:58.292 | WARNING  | mineru.cli.client:log_visualization_future_result:390 - Skipping visualization for 硬件图样评审检查表E0: missing origin.pdf: 硬件图样评审检查表E0_origin.pdf
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2726595]
+
+2026-05-06 04:24:18.515 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:42279
+2026-05-06 04:24:22.722 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2726788]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:42279 (Press CTRL+C to quit)
+2026-05-06 04:24:23.555 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [设计评审计划表E0]
+2026-05-06 04:24:24.149 | WARNING  | mineru.cli.common:aio_do_parse:749 - No valid PDF or image files to process.
+2026-05-06 04:24:24.725 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [设计评审计划表E0]
+2026-05-06 04:24:24.766 | WARNING  | mineru.cli.client:log_visualization_future_result:390 - Skipping visualization for 设计评审计划表E0: missing origin.pdf: 设计评审计划表E0_origin.pdf
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2726788]
+
+2026-05-06 04:24:44.306 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:50341
+2026-05-06 04:24:48.257 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2726969]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:50341 (Press CTRL+C to quit)
+2026-05-06 04:24:49.347 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [设计评审记录E0]
+2026-05-06 04:24:50.548 | WARNING  | mineru.cli.common:aio_do_parse:749 - No valid PDF or image files to process.
+2026-05-06 04:24:50.601 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [设计评审记录E0]
+2026-05-06 04:24:50.632 | WARNING  | mineru.cli.client:log_visualization_future_result:390 - Skipping visualization for 设计评审记录E0: missing origin.pdf: 设计评审记录E0_origin.pdf
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2726969]
+
+2026-05-06 04:25:09.446 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:51865
+2026-05-06 04:25:13.276 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2727201]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:51865 (Press CTRL+C to quit)
+2026-05-06 04:25:13.479 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [硬件设计方案E0]
+2026-05-06 04:25:13.921 | WARNING  | mineru.cli.common:aio_do_parse:749 - No valid PDF or image files to process.
+2026-05-06 04:25:14.720 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [硬件设计方案E0]
+2026-05-06 04:25:14.753 | WARNING  | mineru.cli.client:log_visualization_future_result:390 - Skipping visualization for 硬件设计方案E0: missing origin.pdf: 硬件设计方案E0_origin.pdf
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2727201]
+
+2026-05-06 04:25:34.494 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:47669
+2026-05-06 04:25:38.204 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2727396]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:47669 (Press CTRL+C to quit)
+2026-05-06 04:25:38.530 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [硬件设计方案评审检查表E0]
+2026-05-06 04:25:39.134 | WARNING  | mineru.cli.common:aio_do_parse:749 - No valid PDF or image files to process.
+2026-05-06 04:25:39.684 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [硬件设计方案评审检查表E0]
+2026-05-06 04:25:39.715 | WARNING  | mineru.cli.client:log_visualization_future_result:390 - Skipping visualization for 硬件设计方案评审检查表E0: missing origin.pdf: 硬件设计方案评审检查表E0_origin.pdf
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2727396]
+
+2026-05-06 04:25:59.058 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:36561
+2026-05-06 04:26:02.714 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2727610]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:36561 (Press CTRL+C to quit)
+2026-05-06 04:26:03.092 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [设计评审计划表E0]
+2026-05-06 04:26:03.553 | WARNING  | mineru.cli.common:aio_do_parse:749 - No valid PDF or image files to process.
+2026-05-06 04:26:04.251 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [设计评审计划表E0]
+2026-05-06 04:26:04.280 | WARNING  | mineru.cli.client:log_visualization_future_result:390 - Skipping visualization for 设计评审计划表E0: missing origin.pdf: 设计评审计划表E0_origin.pdf
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2727610]
+
+2026-05-06 04:26:24.484 | INFO     | mineru.cli.client:run_orchestrated_cli:874 - Started local mineru-api at http://127.0.0.1:36789
+2026-05-06 04:26:28.560 | INFO     | __main__:create_app:260 - Request concurrency limited to 3
+INFO:     Started server process [2727785]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:36789 (Press CTRL+C to quit)
+2026-05-06 04:26:29.527 | INFO     | mineru.cli.client:run_planned_task:771 - Submitting batch 1/1 | 1 document, 1 page in this batch | 1 page total | task#1 [设计评审记录E0]
+2026-05-06 04:26:30.260 | WARNING  | mineru.cli.common:aio_do_parse:749 - No valid PDF or image files to process.
+2026-05-06 04:26:30.696 | INFO     | mineru.cli.client:run_planned_task:807 - Completed batch 1/1 | Processed 1/1 page | 1 of 1 batch finished | task#1 [设计评审记录E0]
+2026-05-06 04:26:30.730 | WARNING  | mineru.cli.client:log_visualization_future_result:390 - Skipping visualization for 设计评审记录E0: missing origin.pdf: 设计评审记录E0_origin.pdf
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2727785]
+
+slurmstepd-node42: error: *** JOB 41517 ON node42 CANCELLED AT 2026-05-06T04:27:05 ***

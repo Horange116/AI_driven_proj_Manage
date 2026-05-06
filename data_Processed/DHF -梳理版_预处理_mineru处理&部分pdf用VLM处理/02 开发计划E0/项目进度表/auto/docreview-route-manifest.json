@@ -1,0 +1,55 @@
+{
+  "format": "docreview-pdf-intake-flow-v1",
+  "generated_at": "2026-05-01T03:52:40.563197+00:00",
+  "source": "C:\\Users\\Administrator\\Documents\\New project\\DHF -梳理版\\02 开发计划E0\\项目进度表.pdf",
+  "source_sha256": "7366ce56060176b584cc41276af3065f8109e95f983d30d0c37c4936b659ca1b",
+  "run_root": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\项目进度表-20260501T114925",
+  "probe_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\项目进度表-20260501T114925\\probe.json",
+  "classification_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\项目进度表-20260501T114925\\classification.json",
+  "classification_ms": 0,
+  "classification": {
+    "pdf_type": "gantt",
+    "route": "vlm",
+    "template": "gantt",
+    "reason": "Probe router detected schedule/Gantt filename; timeline bars and dependencies require visual extraction.",
+    "must_preserve": [
+      "timeline",
+      "bars",
+      "task rows",
+      "dependencies"
+    ],
+    "risk": [
+      "MinerU may still be useful as future supplemental text/table evidence"
+    ],
+    "confidence": "high",
+    "classifier": "probe",
+    "needs_vlm_supplement": false
+  },
+  "route_result": {
+    "route": "vlm",
+    "page_count": 2,
+    "processed_pages": 2,
+    "page_results": [
+      {
+        "page": 1,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\项目进度表-20260501T114925\\pages\\page-001.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\项目进度表-20260501T114925\\page-001-vlm.md",
+        "elapsed_ms": 87355,
+        "chars": 6868,
+        "required_sections_present": true
+      },
+      {
+        "page": 2,
+        "image_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\项目进度表-20260501T114925\\pages\\page-002.jpg",
+        "transcript_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\项目进度表-20260501T114925\\page-002-vlm.md",
+        "elapsed_ms": 107427,
+        "chars": 6525,
+        "required_sections_present": true
+      }
+    ],
+    "combined_path": "C:\\Users\\Administrator\\.docreview-local-state\\pdf-source-full-route-based-20260501-114345\\execute-runs\\项目进度表-20260501T114925\\combined-visual-transcript.md",
+    "all_required_sections_present": true,
+    "elapsed_ms": 194992
+  },
+  "elapsed_ms": 195128
+}

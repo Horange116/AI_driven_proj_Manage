@@ -1,0 +1,4109 @@
+[
+    {
+        "type": "table",
+        "img_path": "images/dbe3d82bc9c9b4523d9a99e7a2aeda282f34571b536ef97fb46708f4ce99c060.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=2>TEST REPORT NO.:ETX202303-07-078-01</td></tr><tr><td rowspan=1 colspan=1>Standard</td><td rowspan=1 colspan=1>IEC 60601-1-2:2014+A1:2020</td></tr><tr><td rowspan=1 colspan=1>ClientAddress</td><td rowspan=1 colspan=1>Andon Health Co., Ltd.No.3 JinPing Street, Ya An Road, nankai District,Tianjin, China</td></tr><tr><td rowspan=1 colspan=1>Trade Mark</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Test Item</td><td rowspan=1 colspan=1>Infrared No-Touch Forehead Thermometer</td></tr><tr><td rowspan=1 colspan=1>Model/type reference</td><td rowspan=1 colspan=1>PT9L</td></tr><tr><td rowspan=1 colspan=1>Serial Number</td><td rowspan=1 colspan=1>KE04(LOT)</td></tr><tr><td rowspan=1 colspan=1>Test laboratoryAddress</td><td rowspan=1 colspan=1>Tianxu(Tianjin)Testing Technology Service Co.,LTD101, First floor, Building L,No.3 JinPing Street,Ya AnRoad, Nankai District, Tianjin,China</td></tr><tr><td rowspan=1 colspan=1>Testing period</td><td rowspan=1 colspan=1>2024.07.05-2024.07.29</td></tr><tr><td rowspan=1 colspan=1>Test Result</td><td rowspan=1 colspan=1>The test item passed the test specification(s).  检测技</td></tr><tr><td rowspan=1 colspan=1>Prepared byReviewed by</td><td rowspan=1 colspan=1>2024-08-15        Sun LiangDate            Name                            signa2024-08-15         Zhang LeDate           Name                             signature</td></tr><tr><td rowspan=1 colspan=1>Other aspects</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=2>AbbreviationP(ass):passed                        F(ail):failedN/A:not applicable                    N/T:not testedNote</td></tr><tr><td rowspan=1 colspan=2>NoteThis test report relates to the a.m.test sample.Without permission of the test center this test report is not permitted tobe duplicated in extracts.This test report does not entte to cary any safety mark on thisor similar products.</td></tr></table>",
+        "bbox": [
+            110,
+            101,
+            892,
+            896
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "seal",
+        "img_path": "images/fd0207cd2a837f7157f7acd3d81c31f92c959d93b8b7215de38a1c7f3260a195.jpg",
+        "text": "天旭C天津√检测技术服务有限公司 1 检检检",
+        "bbox": [
+            724,
+            432,
+            934,
+            581
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            65,
+            47,
+            337,
+            64
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/8879abe654681a48f0fbc7cd3a94d1ad322e2106b6ab0526b7d5ebd4296c9927.jpg",
+        "table_caption": [
+            "1 Test Summary"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=4>Electromagnetic Interference(EMI)</td></tr><tr><td rowspan=1 colspan=1>Test</td><td rowspan=1 colspan=1>Requirement</td><td rowspan=1 colspan=1>Test Method</td><td rowspan=1 colspan=1>Result</td></tr><tr><td rowspan=1 colspan=1>Conducted Emission(150 kHz to 30 MHz)</td><td rowspan=1 colspan=1>IEC 60601-1-2:2014+A1:2020</td><td rowspan=1 colspan=1>CISPR11group 1, class B</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Radiated Emission(30MHz to 1000MHz)</td><td rowspan=1 colspan=1>IEC 60601-1-2:2014+A1:2020</td><td rowspan=1 colspan=1>CISPR11 group 1, class B</td><td rowspan=1 colspan=1>PASS</td></tr><tr><td rowspan=1 colspan=4>Electromagnetic Susceptibility(EMS)</td></tr><tr><td rowspan=1 colspan=1>Test</td><td rowspan=1 colspan=1>Requirement</td><td rowspan=1 colspan=1>Test Method</td><td rowspan=1 colspan=1>Result</td></tr><tr><td rowspan=1 colspan=1>Electrostatic Discharge(ESD)</td><td rowspan=1 colspan=1>IEC 60601-1-2:2014+A1:2020</td><td rowspan=1 colspan=1>IEC 61000-4-2</td><td rowspan=1 colspan=1>PASS</td></tr><tr><td rowspan=1 colspan=1>Radiated RFElectromagnetic Fields</td><td rowspan=1 colspan=1>IEC 60601-1-2:2014+A1:2020</td><td rowspan=1 colspan=1>IEC 61000-4-3</td><td rowspan=1 colspan=1>PASS</td></tr><tr><td rowspan=1 colspan=1>Proximity field from RFwireless communicationequipment.</td><td rowspan=1 colspan=1>IEC 60601-1-2:2014+A1:2020</td><td rowspan=1 colspan=1>IEC 61000-4-3</td><td rowspan=1 colspan=1>PASS</td></tr><tr><td rowspan=1 colspan=1>Electrical Fast Transientsand Bursts (EFT/B)</td><td rowspan=1 colspan=1>IEC 60601-1-2:2014+A1:2020</td><td rowspan=1 colspan=1>IEC 61000-4-4</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Surges</td><td rowspan=1 colspan=1>IEC 60601-1-2:2014+A1:2020</td><td rowspan=1 colspan=1>IEC 61000-4-5</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Conducted Disturbance,Induced by RF Fields(150 kHz to 80 MHz)</td><td rowspan=1 colspan=1>IEC 60601-1-2:2014+A1:2020</td><td rowspan=1 colspan=1>IEC 61000-4-6</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Voltage Dips, ShortInterruptions andVoltage Variations</td><td rowspan=1 colspan=1>IEC 60601-1-2:2014+A1:2020</td><td rowspan=1 colspan=1>IEC 61000-4-11</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>Power FrequencyMagnetic Field</td><td rowspan=1 colspan=1>IEC 60601-1-2:2014+A1:2020</td><td rowspan=1 colspan=1>IEC 61000-4-8</td><td rowspan=1 colspan=1>Exemption,see annex</td></tr></table>",
+        "bbox": [
+            77,
+            101,
+            932,
+            675
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            339,
+            64
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "page 1 of 29",
+        "bbox": [
+            447,
+            942,
+            531,
+            957
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "声明",
+        "text_level": 2,
+        "bbox": [
+            455,
+            195,
+            532,
+            228
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "致天旭（天津）检测技术服务有限公司：",
+        "bbox": [
+            186,
+            275,
+            519,
+            298
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我司生产的PT9L红外体温计（含主机、随机附件）符合IEC60601-1-2:2014/AMD1:2020中8.11a条款中的豁免条件，外壳内不包含磁敏感元器件及电路，故特此声明。",
+        "bbox": [
+            156,
+            304,
+            828,
+            391
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "seal",
+        "img_path": "images/f0b37707d01e908bd6ba4865bbbe6a8404c0b9f274dbf952c7f747b26d94121e.jpg",
+        "text": "APOO LTD 安医疗电子股份 有限有限司公 ?",
+        "bbox": [
+            652,
+            424,
+            840,
+            574
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "天津九安医疗电学股有限公司",
+        "bbox": [
+            568,
+            506,
+            826,
+            526
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            341,
+            64
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "page 2 of 29",
+        "bbox": [
+            447,
+            942,
+            531,
+            957
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 General Product Information",
+        "text_level": 2,
+        "bbox": [
+            65,
+            70,
+            431,
+            89
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 General Description of E.U.T.",
+        "text_level": 2,
+        "bbox": [
+            65,
+            102,
+            403,
+            121
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2a3e4fcf00dd234e8b5e72442da047eaba478759724bf0c7f46aaa4c56a0cb21.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Product Name:</td><td> Infrared No-Touch Forehead Thermometer</td></tr><tr><td>Sample type:</td><td>Client provided</td></tr><tr><td>Model No.(EUT):</td><td>Random sampling PT9L</td></tr><tr><td>Dimensions (W × H × D)</td><td>5.15 in × 1.37 in x 1.49 in</td></tr><tr><td>Applicant:</td><td>Andon Health Co., Ltd.</td></tr><tr><td>Address of Applicant:</td><td>No. 3 JinPing Street, YaAn Road, nankai District, Tianjin</td></tr><tr><td>Manufacturer:</td><td>300190, China Andon Health Co., Ltd.</td></tr><tr><td>Address of Manufacturer:</td><td>No. 3 JinPing Street, YaAn Road, nankai District, Tianjin</td></tr><tr><td></td><td>300190, China</td></tr><tr><td>Rated Input:</td><td>DC 3V, 2*AAA battery</td></tr><tr><td>AC-DC adapter</td><td>N/A</td></tr><tr><td>Attachment</td><td>N/A</td></tr><tr><td>Software version</td><td>PT-HT2762-V00029-1.0.0</td></tr><tr><td>Firmware version</td><td>PT9L-HFMP01 V1.0</td></tr><tr><td>Intended healthcare</td><td>Professional healthcare facility environment and HOME</td></tr><tr><td>environment</td><td>HEALTHCARE ENVIRONMENT as described in IEC 60601-1-2 (ed.4.1)</td></tr></table>",
+        "bbox": [
+            139,
+            133,
+            798,
+            608
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Product Intended Use and intended environments",
+        "text_level": 2,
+        "bbox": [
+            65,
+            630,
+            601,
+            648
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "INTENDED USE:",
+        "text_level": 2,
+        "bbox": [
+            121,
+            659,
+            257,
+            676
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This product is a high-tech infra-red (IR) thermometer designed to take human body temperature by measuring the energy of IR emitted from the forehead. The product will help you to assess you and your family members’ health conditions easily and quickly.",
+        "bbox": [
+            124,
+            688,
+            937,
+            738
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Intended environments:",
+        "bbox": [
+            126,
+            750,
+            305,
+            765
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Professional healthcare facility environment and HOME HEALTHCARE ENVIRONMENT as described in IEC 60601-1-2 (ed.4.1)",
+        "bbox": [
+            121,
+            776,
+            922,
+            808
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Submitted Documents",
+        "text_level": 2,
+        "bbox": [
+            65,
+            824,
+            337,
+            840
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Circuit diagram, PCB layout, components list, user’s manual and label.",
+        "bbox": [
+            132,
+            853,
+            652,
+            869
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 Deviation from Standards",
+        "text_level": 2,
+        "bbox": [
+            65,
+            869,
+            371,
+            884
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "None.",
+        "bbox": [
+            136,
+            885,
+            186,
+            898
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 Abnormalities from Standard Conditions None.",
+        "text_level": 2,
+        "bbox": [
+            65,
+            898,
+            512,
+            929
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            341,
+            64
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "page 3 of 29",
+        "bbox": [
+            447,
+            942,
+            531,
+            957
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            341,
+            64
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6 Modification/Retest record",
+        "bbox": [
+            65,
+            70,
+            379,
+            86
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.7 Countermeasures to achieve EMC Compliance None.",
+        "bbox": [
+            65,
+            99,
+            574,
+            130
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Test Set-up and Operation Mode",
+        "bbox": [
+            65,
+            131,
+            473,
+            151
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 E.U.T Mode",
+        "text_level": 2,
+        "bbox": [
+            67,
+            165,
+            240,
+            181
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/35e623ebeb2eadfc161323fe25b108ca22faf1cc6b34fc7c5cbbb723415f7f12.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Mode item</td><td rowspan=1 colspan=1>Mode Name</td><td rowspan=1 colspan=1>Mode description</td></tr><tr><td rowspan=1 colspan=1>Mode 1</td><td rowspan=1 colspan=1>Battery power Standby mode</td><td rowspan=1 colspan=1>Install battery to the EUT and keep the EUT in standbystate</td></tr><tr><td rowspan=1 colspan=1>Mode 2</td><td rowspan=1 colspan=1>Battery power Test mode</td><td rowspan=1 colspan=1>PT9L is powered by the internal battery. Hold down the powerbutton to install the battery and set PT9L in UE1 mode. Duringthe radiation disturbance test, PT9L detects the air and carriesout continuous measurement. During the immunity test, thetemperature sensor detection is point to the blackbody,and theblackbody is set to 37°C.The temperature is continuouslymeasured and compared with the blackbody temperature. Themeasurement accuracy is ±0.2℃.</td></tr></table>",
+        "bbox": [
+            62,
+            192,
+            942,
+            430
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Emission: The equipment under test (EUT) was configured to measure its highest possible emission level. The test conditions were adapted accordingly in reference to the instructions for use.",
+        "bbox": [
+            131,
+            434,
+            820,
+            489
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Immunity: The equipment under test (EUT) was configured to have its highest possible susceptibility against the tested phenomena. The test conditions were adapted accordingly in reference to the instructions for use.",
+        "bbox": [
+            131,
+            494,
+            830,
+            551
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Refer to the related paragraph of this report for more information.",
+        "bbox": [
+            131,
+            556,
+            621,
+            573
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Description of Support Units and Auxiliary Equipment",
+        "text_level": 2,
+        "bbox": [
+            65,
+            607,
+            640,
+            626
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4e1d55b371f53b7dc6002e5799ff3baf02767a2ea6c2a6ca53c0e088da00226a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Equipment</td><td rowspan=1 colspan=1>Manufacturer</td><td rowspan=1 colspan=1>Model NO.</td></tr><tr><td rowspan=1 colspan=1>BDB Series Precision Temperature Controllers Beijing Boda Changzheng Technology&amp; Blackbody Radiation Source</td><td rowspan=1 colspan=1>BDB Series Precision Temperature Controllers Beijing Boda Changzheng TechnologyDevelopment Co., LTD</td><td rowspan=1 colspan=1>BDB15</td></tr></table>",
+        "bbox": [
+            90,
+            640,
+            914,
+            708
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "page 4 of 29",
+        "bbox": [
+            447,
+            942,
+            531,
+            957
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 Test setup electrical and physical diagrams （Block diagram of the ME equipment and ME system and all peripherals and auxiliary equipment used）",
+        "text_level": 2,
+        "bbox": [
+            65,
+            70,
+            910,
+            110
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Connection diagram",
+        "bbox": [
+            152,
+            123,
+            339,
+            141
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/54804d6addd1b641150c8150845a9ad33340f41f9edb8ab8b12d8df4abea5b03.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            149,
+            211,
+            319,
+            455
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/344432bab06213763d1295f4ce8eecfacf175585c9a52a29f9620fd28bf94a4a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            332,
+            210,
+            492,
+            456
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "①LCD display",
+        "bbox": [
+            576,
+            218,
+            722,
+            242
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Measurement button",
+        "bbox": [
+            576,
+            256,
+            805,
+            279
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "③Settings button",
+        "bbox": [
+            576,
+            293,
+            756,
+            316
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "④ Battery cover",
+        "bbox": [
+            578,
+            330,
+            736,
+            353
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "⑤Mute switch",
+        "bbox": [
+            578,
+            367,
+            727,
+            388
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "⑥ Protective cap",
+        "bbox": [
+            578,
+            405,
+            742,
+            428
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "⑦Probe",
+        "bbox": [
+            578,
+            442,
+            672,
+            463
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4 Measurement Uncertainty",
+        "text_level": 2,
+        "bbox": [
+            65,
+            493,
+            359,
+            511
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e3ce40eac333730d7b51e3d3897e0c4bb665b1cba8b5305aa611f8f43ca4dc6d.jpg",
+        "table_caption": [
+            "According to CISPR 16-4-2."
+        ],
+        "table_footnote": [
+            "Note: The measurement uncertainty represents an expanded uncertainty expressed at approximately the 95% confidence level using a coverage factor of k=2."
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Test Item</td><td rowspan=1 colspan=1>FrequencyRange</td><td rowspan=1 colspan=1>MeasurementUncertainty</td><td rowspan=1 colspan=1> $\\mathsf { U } _ { \\mathsf { c i s p r } }$ </td></tr><tr><td rowspan=1 colspan=1>Conducted Emissionat mains port using AMN</td><td rowspan=1 colspan=1>150kHz-30MHz</td><td rowspan=1 colspan=1>3.2dB</td><td rowspan=1 colspan=1>3.4dB</td></tr><tr><td rowspan=1 colspan=1>Radiated Emission</td><td rowspan=1 colspan=1>30MHz-1000MHz</td><td rowspan=1 colspan=1>3.9dB</td><td rowspan=1 colspan=1>6.3dB</td></tr><tr><td rowspan=1 colspan=1>Radiated Emission</td><td rowspan=1 colspan=1>1GHz-6GHz</td><td rowspan=1 colspan=1>5.1dB</td><td rowspan=1 colspan=1>5.2dB</td></tr><tr><td rowspan=1 colspan=4>Remark:AMN – Artificial Mains Network</td></tr></table>",
+        "bbox": [
+            114,
+            541,
+            889,
+            736
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 Equipment List",
+        "text_level": 2,
+        "bbox": [
+            65,
+            782,
+            284,
+            802
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/fedab593ceceeb944657cae7af83de67bab9dad84593c2f791c6bd236e0035e5.jpg",
+        "table_caption": [
+            "Radiated Emission"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Item</td><td rowspan=1 colspan=1>Test Equipment</td><td rowspan=1 colspan=1>Manufacturer</td><td rowspan=1 colspan=1>Model No.</td><td rowspan=1 colspan=1>Serial No.</td><td rowspan=1 colspan=1>Cal. Date</td><td rowspan=1 colspan=1>Cal.Due date</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>Test receiver</td><td rowspan=1 colspan=1>Agilent</td><td rowspan=1 colspan=1>N9038A-508</td><td rowspan=1 colspan=1>MY54130074</td><td rowspan=1 colspan=1>2024-12-30</td><td rowspan=1 colspan=1>2025-12-29</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>310 Low NoiseAmplifier</td><td rowspan=1 colspan=1>SONOMA</td><td rowspan=1 colspan=1>310N</td><td rowspan=1 colspan=1>344218</td><td rowspan=1 colspan=1>2024-01-08</td><td rowspan=1 colspan=1>2026-01-07</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>BiConiLog Antenna</td><td rowspan=1 colspan=1>ETS-Lindgren</td><td rowspan=1 colspan=1>3142E</td><td rowspan=1 colspan=1>166231</td><td rowspan=1 colspan=1>2024-05-11</td><td rowspan=1 colspan=1>2027-05-10</td></tr></table>",
+        "bbox": [
+            109,
+            826,
+            894,
+            928
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            341,
+            64
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "page_number",
+        "text": "page 5 of 29",
+        "bbox": [
+            447,
+            942,
+            531,
+            957
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a6119ed8a6286d5bd2a2e9c003615fc057d8626f7e8097ab261a3cebf72c483a.jpg",
+        "table_caption": [
+            "Electrostatic Discharge"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Item</td><td rowspan=1 colspan=1>Test Equipment</td><td rowspan=1 colspan=1>Manufacturer</td><td rowspan=1 colspan=1>Model No.</td><td rowspan=1 colspan=1>Serial No.</td><td rowspan=1 colspan=1>Cal. Date</td><td rowspan=1 colspan=1>Cal.Due date</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>ESD simulator</td><td rowspan=1 colspan=1>EMTEST</td><td rowspan=1 colspan=1>Dito</td><td rowspan=1 colspan=1>P1420134242</td><td rowspan=1 colspan=1>2024-04-28</td><td rowspan=1 colspan=1>2025-04-27</td></tr></table>",
+        "bbox": [
+            114,
+            95,
+            892,
+            154
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/209e15d7f648a0d0950f10e6a3b9798a4663cb6bcbed7e7150b7d5722ecacfe3.jpg",
+        "table_caption": [
+            "Radiated RF Electromagnetic Fields"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Item</td><td rowspan=1 colspan=1>Test Equipment</td><td rowspan=1 colspan=1>Manufacturer</td><td rowspan=1 colspan=1>Model No.</td><td rowspan=1 colspan=1>Serial No.</td><td rowspan=1 colspan=1>Cal. Date</td><td rowspan=1 colspan=1>Cal.Due date</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>Signal generator</td><td rowspan=1 colspan=1>Agilent</td><td rowspan=1 colspan=1>N5171B-506</td><td rowspan=1 colspan=1>MY53050921</td><td rowspan=1 colspan=1>2024-12-30</td><td rowspan=1 colspan=1>2025-12-29</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>RF power amplifier</td><td rowspan=1 colspan=1>Milmega</td><td rowspan=1 colspan=1>80RF1000-250</td><td rowspan=1 colspan=1>1066643</td><td rowspan=1 colspan=1>2024-01-08</td><td rowspan=1 colspan=1>2027-01-07</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Directional coupler</td><td rowspan=1 colspan=1>Werlatone(HDC)</td><td rowspan=1 colspan=1>C5982-12</td><td rowspan=1 colspan=1>106464</td><td rowspan=1 colspan=1>NA</td><td rowspan=1 colspan=1>NA</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>RF power amplier</td><td rowspan=1 colspan=1>Milmega</td><td rowspan=1 colspan=1>AS0827-55</td><td rowspan=1 colspan=1>1066644</td><td rowspan=1 colspan=1>2023-12-28</td><td rowspan=1 colspan=1>2026-12-27</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>Directional coupler</td><td rowspan=1 colspan=1>Werlatone(HDC)</td><td rowspan=1 colspan=1>C6148-12</td><td rowspan=1 colspan=1>106400</td><td rowspan=1 colspan=1>NA</td><td rowspan=1 colspan=1>NA</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>Power meter</td><td rowspan=1 colspan=1>Agilent</td><td rowspan=1 colspan=1>N1914A</td><td rowspan=1 colspan=1>MY54466075</td><td rowspan=1 colspan=1>2024-12-30</td><td rowspan=1 colspan=1>2025-12-29</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>Power sensor(2 set)</td><td rowspan=1 colspan=1>Agilent</td><td rowspan=1 colspan=1>E9304A</td><td rowspan=1 colspan=1>MY54370020/MY54370019</td><td rowspan=1 colspan=1>2024-12-30</td><td rowspan=1 colspan=1>2025-12-29</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>Isotropic field probe</td><td rowspan=1 colspan=1>ETS-Lindgren</td><td rowspan=1 colspan=1>HI6105-USB</td><td rowspan=1 colspan=1>168988</td><td rowspan=1 colspan=1>2024-05-24</td><td rowspan=1 colspan=1>2025-05-23</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>Log periodic antenna</td><td rowspan=1 colspan=1>Schwarzbeck</td><td rowspan=1 colspan=1>STLP9128D</td><td rowspan=1 colspan=1>9128D088</td><td rowspan=1 colspan=1>NA</td><td rowspan=1 colspan=1>NA</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>Log periodic antenna</td><td rowspan=1 colspan=1>Schwarzbeck</td><td rowspan=1 colspan=1>STLP9149</td><td rowspan=1 colspan=1>9149-465</td><td rowspan=1 colspan=1>NA</td><td rowspan=1 colspan=1>NA</td></tr><tr><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>RF power amplifier</td><td rowspan=1 colspan=1>BONN</td><td rowspan=1 colspan=1>BLMA 2060-100S</td><td rowspan=1 colspan=1>1610981</td><td rowspan=1 colspan=1>2023-01-14</td><td rowspan=1 colspan=1>2026-01-13</td></tr></table>",
+        "bbox": [
+            110,
+            209,
+            894,
+            549
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7a9ae12c595dd8570989994d0a442a3a9551438cd3f7d8fa01c489d42eb3c4b2.jpg",
+        "table_caption": [
+            "Environment"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Item</td><td rowspan=1 colspan=1>Test Equipment</td><td rowspan=1 colspan=1>Manufacturer</td><td rowspan=1 colspan=1>Model No.</td><td rowspan=1 colspan=1>Serial No.</td><td rowspan=1 colspan=1>Cal. Date</td><td rowspan=1 colspan=1>Cal.Due date</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>semi-anechoicchamber</td><td rowspan=1 colspan=1>TDK</td><td rowspan=1 colspan=1>SAC-3</td><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=1>2024-01-05</td><td rowspan=1 colspan=1>2029-01-04</td></tr></table>",
+        "bbox": [
+            109,
+            593,
+            895,
+            670
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 Electromagnetic Interference Test Results",
+        "text_level": 2,
+        "bbox": [
+            65,
+            702,
+            583,
+            722
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.1 Conducted Emissions on Mains Terminals, 150 kHz to 30 MHz",
+        "text_level": 2,
+        "bbox": [
+            67,
+            734,
+            715,
+            752
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Test Requirement: IEC 60601-1-2:2014+A1:2020",
+        "bbox": [
+            132,
+            771,
+            589,
+            788
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Test Method: N/A",
+        "bbox": [
+            132,
+            791,
+            389,
+            807
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Test Date: N/A",
+        "bbox": [
+            132,
+            810,
+            391,
+            826
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Temperature and Humidity: N/A",
+        "bbox": [
+            134,
+            829,
+            391,
+            845
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Power Supply: N/A",
+        "bbox": [
+            132,
+            850,
+            391,
+            866
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Frequency Range: N/A",
+        "bbox": [
+            134,
+            869,
+            389,
+            885
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Class / Severity: N/A",
+        "bbox": [
+            134,
+            889,
+            389,
+            903
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Detector: N/A",
+        "bbox": [
+            134,
+            907,
+            389,
+            922
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            339,
+            64
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "page_number",
+        "text": "page 6 of 29",
+        "bbox": [
+            447,
+            942,
+            531,
+            957
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed495e0b8cf491c9cbe9ecee0efdefcd79047099e8d2b75e6b41f21d630864f0.jpg",
+        "table_caption": [
+            "Limit:"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=2 colspan=1>Frequency range(MHz)</td><td rowspan=1 colspan=2>At mains Terminals (dB μV)</td></tr><tr><td rowspan=1 colspan=1>Quasi-peak</td><td rowspan=1 colspan=1>Average</td></tr><tr><td rowspan=1 colspan=1>0.15 to 0.50</td><td rowspan=1 colspan=1>66-56</td><td rowspan=1 colspan=1>56-46</td></tr><tr><td rowspan=1 colspan=1>0.50 to 5</td><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>46</td></tr><tr><td rowspan=1 colspan=1>5 to 30</td><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>50</td></tr><tr><td rowspan=1 colspan=3>Note1: The lower limit is applicable at the transition frequency.</td></tr></table>",
+        "bbox": [
+            136,
+            83,
+            912,
+            206
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Note: The EUT is powered by batteries , and does not apply to this clause.",
+        "bbox": [
+            72,
+            230,
+            670,
+            247
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.2 Radiated Emissions, 30MHz to 1GHz",
+        "text_level": 2,
+        "bbox": [
+            65,
+            259,
+            473,
+            277
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Test Requirement: IEC 60601-1-2:2014+A1:2020",
+        "bbox": [
+            132,
+            296,
+            584,
+            312
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Test Method: CISPR11",
+        "bbox": [
+            132,
+            315,
+            431,
+            331
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Test Date: 2024-07-05",
+        "bbox": [
+            132,
+            334,
+            450,
+            350
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Temperature and Humidity: 28℃ 52%",
+        "bbox": [
+            132,
+            354,
+            438,
+            370
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Power Supply: DC 3V",
+        "bbox": [
+            132,
+            375,
+            416,
+            392
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Frequency Range: 30 MHz to 1 GHz",
+        "bbox": [
+            132,
+            397,
+            489,
+            413
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Test site: 3m Semi-anechoic chamber",
+        "bbox": [
+            132,
+            416,
+            571,
+            432
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Class: Group 1, Class B",
+        "bbox": [
+            132,
+            435,
+            489,
+            451
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Detector: Peak for pre-scan (120 kHz resolution bandwidth)",
+        "bbox": [
+            132,
+            454,
+            727,
+            472
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Limit:",
+        "bbox": [
+            134,
+            474,
+            181,
+            488
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/fe3b637b48ce5e8e09dcfb1bf812eedec69045bda82ae722c2383840a45bfc78.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Frequency range(MHz)</td><td rowspan=1 colspan=1>Quasi-peak limits dB (uV/m)</td></tr><tr><td rowspan=1 colspan=1>30 to 230</td><td rowspan=1 colspan=1>40</td></tr><tr><td rowspan=1 colspan=1>230 to 1000</td><td rowspan=1 colspan=1>47</td></tr><tr><td rowspan=1 colspan=2>At transitional frequencies the lower limit applies.</td></tr></table>",
+        "bbox": [
+            134,
+            493,
+            870,
+            569
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.2.1 E.U.T. Operation",
+        "text_level": 2,
+        "bbox": [
+            67,
+            582,
+            260,
+            599
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Test mode: Mode1,Mode2",
+        "bbox": [
+            129,
+            611,
+            334,
+            626
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Pre-scan was performed with peak detector on the EUT. Quasi-peak measurements were performed at the frequencies at which maximum peak emission level were detected. During the tests, the EUT were tested at different working modes to find the maxium emission results.",
+        "bbox": [
+            131,
+            631,
+            932,
+            675
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Please see the attached Quasi-peak test results.",
+        "bbox": [
+            132,
+            675,
+            499,
+            689
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For radiated emission: Level = Read Level + Antenna Factor + Cable Loss – Preamp Factor.",
+        "bbox": [
+            132,
+            693,
+            821,
+            709
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.2.2 Test Setup and Procedure",
+        "text_level": 2,
+        "bbox": [
+            77,
+            721,
+            347,
+            737
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c0f7f5bc63baff757d2e3497881923255abbb2965e999b27f20b090f9755463.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            121,
+            750,
+            821,
+            921
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            339,
+            64
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "page_number",
+        "text": "page 7 of 29",
+        "bbox": [
+            447,
+            942,
+            531,
+            957
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1. The radiated emission test was conducted in a semi-anechoic chamber.",
+        "bbox": [
+            100,
+            70,
+            665,
+            84
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2. The tabletop EUT was placed upon a non-metallic table 0.8m above the ground reference plane. And for floor-standing arrangement, the EUT was placed on the horizontal ground reference plane, but separated from metallic contact with the ground reference plane by 0.1m of insulation.",
+        "bbox": [
+            100,
+            91,
+            926,
+            145
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3. Before final measurements of radiated emissions, a pre-scan was performed in the spectrum mode with the peak detector to find out the maximum emission spectrum signature data plots of the EUT.",
+        "bbox": [
+            100,
+            151,
+            926,
+            185
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4. The frequencies of maximum emission were determined in the final radiated emissions measurement, the physical arrangement of the test system and associated cabling was varied in order to determine the effect on the EUT's emissions in amplitude, direction and frequency. At each frequency, the EUT was rotated 360°, and the Antenna was raised and lowered from 1 to 4 meters in order to determine the maximum disturbance. Measurements were performed for both horizontal and vertical Antenna polarization.",
+        "bbox": [
+            100,
+            191,
+            927,
+            281
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "chart",
+        "img_path": "images/1b05b6e8c595017043b496a51fa064bd4b7d57dc5c4956fc7c8713c89047fc3e.jpg",
+        "content": "",
+        "chart_caption": [
+            "5.2.3 Measurement Data",
+            "Figure 1: Measurement results of radiated emission, Mode 1"
+        ],
+        "chart_footnote": [],
+        "bbox": [
+            105,
+            321,
+            971,
+            657
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/0226310ef09bb0ca507ec76a1f657f331a301281b1255f03341ae89903de46e9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"10\">Horizontal Polarization</td></tr><tr><td>No.</td><td>Frequency</td><td>Reading</td><td>(QP)- c.f</td><td>Result</td><td>Limit</td><td>Margin</td><td>Height</td><td>Angle</td><td>Remark</td></tr><tr><td></td><td>[MHz]</td><td>[dB(uV)]</td><td></td><td>[dB(1/m)][dB(uV/m)]</td><td>[dB (uV/m)]</td><td>[dB]</td><td>[cm]</td><td>[deg]</td><td></td></tr><tr><td></td><td>923.291</td><td>21.90</td><td>-3.74</td><td>18.16</td><td>47.00</td><td>28.84</td><td>180.50</td><td>222.80</td><td></td></tr><tr><td></td><td>937.960</td><td>21.54</td><td>-3.37</td><td>18.17</td><td>47.00</td><td>28.83</td><td>308.20</td><td>84.60</td><td></td></tr><tr><td></td><td>937.601</td><td>21.44</td><td>-3.36</td><td>18.08</td><td>47.00</td><td>28.92</td><td>214.50</td><td>44.10</td><td></td></tr><tr><td></td><td>946.606</td><td>21.87</td><td>-3.60</td><td>18.27</td><td>47.00</td><td>28.73</td><td>387.50</td><td>359.30</td><td></td></tr><tr><td>123456</td><td>952.726 961.464</td><td>21.82 21.51</td><td>-3.74 -3.87</td><td>18.08 17.64</td><td>47.00 47.00</td><td>28.92 29.36</td><td>364.80 399.60</td><td>71.30 86.30</td><td></td></tr></table>",
+        "bbox": [
+            129,
+            699,
+            902,
+            802
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/0f728e9122cf5ff07c42fedf26451e42e7cd5a5025e0801e1092120685a8cfb6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"2\">Vertical Polarization</td><td rowspan=\"2\">(QP)---</td><td colspan=\"7\"></td><td rowspan=\"2\">Remark</td></tr><tr><td>No.</td><td>Frequency</td><td>Reading [dB(uV)]</td><td>c.f</td><td>Result</td><td>Limit [dB (uV/m)]</td><td>Margin</td><td>Height</td><td>Angle</td></tr><tr><td></td><td>[MHz] 562.548</td><td>33.14</td><td>-10.29</td><td>[dB(1/m)] [dB(uV/m)]</td><td></td><td></td><td>[dB] 24.15</td><td>[cm] 180.80</td><td>[deg] 222.60</td><td></td></tr><tr><td></td><td>923.755</td><td>21.99</td><td></td><td>-3.72</td><td>22.85 18.27</td><td>47.00 47.00</td><td>28.73</td><td>399.70</td><td>341.20</td><td></td></tr><tr><td></td><td>924.418</td><td>21.92</td><td>-3.69</td><td></td><td>18.23</td><td>47.00</td><td>28.77</td><td>396.40</td><td>330.80</td><td></td></tr><tr><td></td><td>929.585</td><td>21.64</td><td>-3.53</td><td></td><td>18.11</td><td>47.00</td><td>28.89</td><td>139.90</td><td>86.10</td><td></td></tr><tr><td></td><td>940.070</td><td>21.27</td><td>-3.41</td><td></td><td>17.86</td><td>47.00</td><td>29.14</td><td>392.10</td><td>80.30</td><td></td></tr><tr><td>123456</td><td>945.031</td><td>21.50</td><td>-3.55</td><td></td><td>17.95</td><td>47.00</td><td>29.05</td><td>267.60</td><td>33.00</td><td></td></tr></table>",
+        "bbox": [
+            129,
+            808,
+            902,
+            909
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            65,
+            48,
+            341,
+            64
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "page_number",
+        "text": "page 8 of 29",
+        "bbox": [
+            447,
+            942,
+            532,
+            957
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "chart",
+        "img_path": "images/32c0625ac1c681cc4cac5b9c512eb6b967192b15dfa46419e3dad6ef24b27725.jpg",
+        "content": "",
+        "chart_caption": [
+            "Figure 2: Measurement results of radiated emission, Mode 2"
+        ],
+        "chart_footnote": [
+            "Final Result"
+        ],
+        "bbox": [
+            109,
+            87,
+            968,
+            525
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/b338b67fecfe96067f595e67d928974b7df9524ff209dfd27592d9ac20f15bb3.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            ""
+        ],
+        "table_body": "<table><tr><td>No.</td><td>Frequency</td><td>Reading</td><td>c. f</td><td>Result</td><td>Limit</td><td>Margin</td><td>Height</td><td>Angle</td><td>Remark</td></tr><tr><td></td><td>[MHz] 928.671</td><td>[dB(uV)] 21.67</td><td>-3.56</td><td>[dB(1/m)][dB(uV/m)] 18.11</td><td>] [dB(uV/m)] 47.00</td><td>[dB] 28.89</td><td>[cm] 212.80</td><td>[deg] 0.90</td><td></td></tr><tr><td></td><td>929.430</td><td>21.82</td><td>-3.54</td><td>18.28</td><td>47.00</td><td>28.72</td><td>135.10</td><td>264.60</td><td></td></tr><tr><td></td><td>929.968</td><td>21.93</td><td>-3.52</td><td>18.41</td><td>47.00</td><td>28.59</td><td>238.00</td><td>310.50</td><td></td></tr><tr><td></td><td>931.203</td><td>22.00</td><td>-3.47</td><td>18.53</td><td>47.00</td><td>28.47</td><td>107.50</td><td>79.50</td><td></td></tr><tr><td>123456</td><td>954.813</td><td>21.45</td><td>-3.75</td><td>17.70</td><td>47.00</td><td>29.30</td><td>396.70</td><td>58.60</td><td></td></tr><tr><td></td><td>966.678</td><td>21.22</td><td>-4.14</td><td>17.08</td><td>47.00</td><td>29.92</td><td>160.00</td><td>217.40</td><td></td></tr></table>",
+        "bbox": [
+            122,
+            573,
+            922,
+            703
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/a59e89f5cf40358b727f00cfc88eb2287cda444ec546650d469dd55a159352dd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>No.</td><td>Frequency [MHz]</td><td>Reading [dB(uV)]</td><td>c.f [dB(1/m)][dB(uV/m)]</td><td>Result</td><td>Limit [dB(uV/m)]</td><td>Margin [dB]</td><td>Height [cm]</td><td>Angle [deg]</td><td>Remark</td></tr><tr><td></td><td>825.502</td><td>29.77</td><td>-6.25</td><td>23.52</td><td>47.00</td><td>23.48</td><td>116.80</td><td>258.20</td><td></td></tr><tr><td></td><td>851.196</td><td>27.00</td><td>-6.39</td><td>20.61</td><td>47.00</td><td>26.39</td><td>116.50</td><td>33.90</td><td></td></tr><tr><td></td><td>846.354</td><td>29.27</td><td>-6.34</td><td>22.93</td><td>47.00</td><td>24.07</td><td>111.90</td><td>110.80</td><td></td></tr><tr><td></td><td>855.596</td><td>28.68</td><td>-6.36</td><td>22.32</td><td>47.00</td><td>24.68</td><td>112.90</td><td>116.10</td><td></td></tr><tr><td>123456</td><td>872.003</td><td>28.21</td><td>-6.16</td><td>22.05</td><td>47.00</td><td>24.95</td><td>112.50</td><td>103.10</td><td></td></tr><tr><td></td><td>945.991</td><td>24.37</td><td>-3.58</td><td>20.79</td><td>47.00</td><td>26.21</td><td>107.70</td><td>184.70</td><td></td></tr></table>",
+        "bbox": [
+            122,
+            730,
+            922,
+            858
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            341,
+            64
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "page_number",
+        "text": "page 9 of 29",
+        "bbox": [
+            447,
+            942,
+            532,
+            957
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6 Electromagnetic Susceptibility Test Results",
+        "text_level": 2,
+        "bbox": [
+            65,
+            70,
+            601,
+            91
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6.1 Performance Criteria Description in IEC 60601-1-2",
+        "text_level": 2,
+        "bbox": [
+            65,
+            112,
+            601,
+            130
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The following are examples that can be used to develop pass/fail criteria. For ME EQUIPMENT and ME SYSTEMS with multiple functions, the pass/fail criteria should be applied to each function, parameter and channel.",
+        "bbox": [
+            132,
+            151,
+            833,
+            210
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Examples of test failures:",
+        "bbox": [
+            134,
+            215,
+            327,
+            230
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "– malfunction;",
+        "bbox": [
+            134,
+            236,
+            245,
+            252
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "– non-operation when operation is required;",
+        "bbox": [
+            134,
+            258,
+            462,
+            273
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "– unwanted operation when no operation is required;",
+        "bbox": [
+            134,
+            279,
+            527,
+            294
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "– deviation from normal operation that poses an unacceptable RISK to the PATIENT or OPERATOR;",
+        "bbox": [
+            134,
+            300,
+            776,
+            337
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "– component failures;",
+        "bbox": [
+            134,
+            344,
+            300,
+            359
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "– change in programmable parameters;",
+        "bbox": [
+            134,
+            366,
+            431,
+            381
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "– reset to factory defaults (MANUFACTURER’s presets);",
+        "bbox": [
+            134,
+            386,
+            556,
+            401
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "– change of operating mode;",
+        "bbox": [
+            134,
+            407,
+            352,
+            423
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "– a FALSE POSITIVE ALARM CONDITION;",
+        "bbox": [
+            134,
+            429,
+            467,
+            444
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "– a FALSE NEGATIVE ALARM CONDITION (failure to alarm);",
+        "bbox": [
+            134,
+            450,
+            598,
+            466
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "– cessation or interruption of any intended operation, even if accompanied by an ALARM signal;",
+        "bbox": [
+            134,
+            472,
+            788,
+            508
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "– initiation of any unintended operation, including unintended or uncontrolled motion, even if accompanied by an ALARM signal;",
+        "bbox": [
+            134,
+            514,
+            810,
+            551
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "– error of a displayed numerical value sufficiently large to affect diagnosis or treatment;",
+        "bbox": [
+            134,
+            557,
+            773,
+            573
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "– noise on a waveform in which the noise would interfere with diagnosis, treatment or monitoring;",
+        "bbox": [
+            134,
+            579,
+            763,
+            617
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "– artefact or distortion in an image in which the artefact would interfere with diagnosis, treatment or monitoring;",
+        "bbox": [
+            134,
+            621,
+            764,
+            659
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "– failure of automatic diagnosis or treatment ME EQUIPMENT or ME SYSTEM to diagnose or treat, even if accompanied by an ALARM signal.",
+        "bbox": [
+            132,
+            664,
+            825,
+            701
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Example of performance during and after the applied testing stimulus required to pass the test: – for a mammography system, the compression full release and associated command remains fully operational;",
+        "bbox": [
+            134,
+            707,
+            826,
+            765
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "– for ULTRASOUND DIAGNOSTIC EQUIPMENT, the probe heating, dissipative power and",
+        "bbox": [
+            134,
+            770,
+            810,
+            787
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "– safety-related functions perform as intended;",
+        "bbox": [
+            134,
+            814,
+            482,
+            829
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "– false operation of alarms, “fail safe” modes and similar functions do not occur.",
+        "bbox": [
+            134,
+            834,
+            721,
+            851
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "NOTE This might require performing the test twice – once to ensure the functions occur as expected and again to ensure they do not occur falsely.",
+        "bbox": [
+            134,
+            856,
+            900,
+            895
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Examples of acceptable degradation:",
+        "bbox": [
+            136,
+            898,
+            413,
+            914
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            341,
+            64
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "page_number",
+        "text": "page 10 of 29",
+        "bbox": [
+            447,
+            942,
+            539,
+            957
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Report No.:ETX202303-07-078-01",
+        "text_level": 2,
+        "bbox": [
+            67,
+            48,
+            341,
+            64
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "– an imaging system displays an image that could be altered, but in a way that would not affect the diagnosis or treatment;",
+        "bbox": [
+            132,
+            70,
+            788,
+            107
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "– a heart rate monitor displays a heart rate that could be in error, but by an amount that is not clinically significant;",
+        "bbox": [
+            132,
+            112,
+            791,
+            149
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "– a PATIENT monitor exhibits a small amount of noise or a transient on a waveform and the noise or transient would not affect diagnosis, treatment or monitoring.",
+        "bbox": [
+            132,
+            155,
+            810,
+            192
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Examples of ME EQUIPMENT and ME SYSTEMS with multiple functions:",
+        "bbox": [
+            134,
+            197,
+            680,
+            214
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "– multi-parameter monitors;",
+        "bbox": [
+            134,
+            219,
+            344,
+            235
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "– anaesthesia system with monitors;",
+        "bbox": [
+            134,
+            241,
+            408,
+            255
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "– ventilators with monitors;",
+        "bbox": [
+            136,
+            262,
+            337,
+            277
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "– multiple instances of the same function (e.g. multiple invasive blood pressure sensors).",
+        "bbox": [
+            134,
+            282,
+            786,
+            299
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Failure of therapy equipment to terminate a treatment at the intended time can be considered cessation or interruption of an intended operation related to ESSENTIAL PERFORMANCE. If the effect of the test signal on an ME EQUIPMENT or ME SYSTEM is so brief as to be transparent to the PATIENT or OPERATOR and does not affect diagnosis, monitoring or treatment of the PATIENT, this can be considered not to be cessation or interruption of an intended operation. For example, if in response to the IMMUNITY TEST LEVEL a ventilator stops pumping for 50 ms and then resumes operation such that accuracy is within acceptable limits, this would not be considered cessation or interruption of an intended operation.",
+        "bbox": [
+            134,
+            303,
+            877,
+            470
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Note that it might be necessary to test the ME EQUIPMENT or ME SYSTEM multiple times, e.g. under one set of conditions to assure that it sounds an ALARM signal when it should, within the MANUFACTURER’s specifications for sensitivity and response time, and under another set of conditions to assure that it does not sound an ALARM signal when it should not.",
+        "bbox": [
+            134,
+            475,
+            852,
+            556
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Description of the BASIC SAFETY and ESSENTIAL PERFORMANCE including a description how the BASIC SAFETY and ESSENTIAL PERFORMANCE will be monitored against the pass/fail criteria during each test",
+        "text_level": 2,
+        "bbox": [
+            139,
+            582,
+            917,
+            634
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "BASIC SAFETY and ESSENTIAL PERFORMANCE:",
+        "text_level": 2,
+        "bbox": [
+            144,
+            645,
+            583,
+            663
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This product is a high-tech infra-red (IR) thermometer designed to take human body temperature by measuring the energy of IR emitted from the forehead. The product helps you to assess you and your family members’ forehead temperature easily and quickly.",
+        "bbox": [
+            139,
+            675,
+            936,
+            728
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "page_number",
+        "text": "page 11 of 29",
+        "bbox": [
+            447,
+            942,
+            539,
+            957
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "IMMUNITY pass/fail criteria",
+        "text_level": 2,
+        "bbox": [
+            141,
+            70,
+            393,
+            86
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "For each immunity test, the EUT should meet following criteria during and after the test.",
+        "bbox": [
+            139,
+            99,
+            781,
+            116
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/95a67915311525c32d59cd88d30ff133a609653517a52cc6c680d963e503cd34.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=3>immunity Pass/Fail Criteria</td></tr><tr><td rowspan=1 colspan=1>Test Description</td><td rowspan=1 colspan=1>Pass/Fail Criteria description</td><td rowspan=1 colspan=1>Means of monitoring</td></tr><tr><td rowspan=1 colspan=1>ElectrostaticDischarges</td><td rowspan=3 colspan=1>During the immunity tests, the EUT is tested in UE1mode. The basic safety performance of the testedproduct: Measurement accuracy: ± 0.2 C at ranges35.0℃ ~ 42.0 ℃ ,other ranges ± 0.3 ℃ .The workingcondition of the EUT is visually inspected by theengineer, which is set at 37 C .The temperature iscontinuously measured and compared with theblackbody temperature. The accuracy of the displaytemperature of the EUT does not exceed ± 0.2℃.</td><td rowspan=3 colspan=1>Visual</td></tr><tr><td rowspan=1 colspan=1>Radiated RF EMFields</td></tr><tr><td rowspan=1 colspan=1>Proximity fields fromRF wirelesscommunications</td></tr><tr><td rowspan=1 colspan=3>Note 1: Specifi, detailed immunity pass/fail criteria, shall be based on applicable part two standards or risk management, for immunity with regard to em disturbances. These pass/fail criteria shall beincluded in the risk management file</td></tr></table>",
+        "bbox": [
+            117,
+            126,
+            887,
+            353
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6.2 ESD",
+        "text_level": 2,
+        "bbox": [
+            67,
+            366,
+            166,
+            382
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Test Requirement: IEC 60601-1-2:2014+A1:2020",
+        "bbox": [
+            132,
+            395,
+            584,
+            412
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Test Method: IEC 61000-4-2",
+        "bbox": [
+            132,
+            414,
+            472,
+            431
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Test Date: 2024-07-29",
+        "bbox": [
+            132,
+            434,
+            452,
+            451
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Temperature and Humidity: 28℃ 44% 101kPa",
+        "bbox": [
+            132,
+            454,
+            499,
+            472
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Power Supply: DC 3V",
+        "bbox": [
+            132,
+            476,
+            418,
+            494
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Discharge Voltage: Air Discharge: ±2, 4, 8,15kV",
+        "bbox": [
+            132,
+            497,
+            613,
+            514
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Polarity: Positive / Negative",
+        "bbox": [
+            132,
+            561,
+            500,
+            577
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Number of Discharge: Minimum 10 times at each test point",
+        "bbox": [
+            132,
+            580,
+            630,
+            596
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Discharge Mode: Single Discharge",
+        "bbox": [
+            132,
+            599,
+            490,
+            615
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Discharge Period: 1 second minimum",
+        "bbox": [
+            132,
+            618,
+            502,
+            634
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6.2.1 Test Setup and Procedure",
+        "text_level": 2,
+        "bbox": [
+            87,
+            651,
+            359,
+            668
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1cdfba0f1487678e6b7b99e1489268389c5e7dffb966434795dbfe90ec415ce.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            176,
+            682,
+            806,
+            917
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            339,
+            64
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "page_number",
+        "text": "page 12 of 29",
+        "bbox": [
+            447,
+            942,
+            539,
+            957
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1. Contact discharge was applied only to conductive surfaces of the EUT. Air discharge was applied only to non-conducted surfaces of the EUT.",
+        "bbox": [
+            137,
+            68,
+            932,
+            99
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2. The EUT was put on a 0.8m high wooden table for table-top equipment or 0.1m high for floor standing equipment standing on the ground reference plane (GRP).",
+        "bbox": [
+            137,
+            102,
+            932,
+            134
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3. A horizontal coupling plane(HCP) 1.6m by 0.8m in size was placed on the table, and the EUT with its cables were isolated from the HCP by an insulating support thick than 0.5mm. The VCP 0.5m by 0.5m in size while HCP were constructed from the same material type and thickness as that of the GRP, and connected to the GRP via a 470kΩ resistor at each end. The distance between EUT and any of the other metallic surfaces except the GRP, HCP and VCP was greater than 1m.",
+        "bbox": [
+            137,
+            135,
+            934,
+            216
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4. During the contact discharges, the tip of the discharge electrode touched the EUT before the discharge switch is operated. During the air discharges, the round discharge tip of the discharge electrode was approached as fast as possible to touch the EUT.",
+        "bbox": [
+            137,
+            217,
+            932,
+            265
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5. After each discharge, the ESD generator was removed from the EUT, the generator is then retriggered for a new single discharge. For ungrounded product, a discharge cable with two resistances was used after each discharge to remove remnant electrostatic voltage. 10 times of each polarity single discharge were applied to HCP and VCP.",
+        "bbox": [
+            137,
+            266,
+            934,
+            331
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "6.2.2 Test Results",
+        "text_level": 2,
+        "bbox": [
+            87,
+            346,
+            247,
+            361
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Test Point:",
+        "bbox": [
+            134,
+            374,
+            221,
+            388
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1. All insulated enclosure / seams, e.g.: Key-press, nonmetallic enclosure of adaptor and main unit,LCD display, seams around enclosure and cables(Refer to the A started arrow in the test setup photo).",
+        "bbox": [
+            215,
+            387,
+            934,
+            435
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2. All accessible metal parts of the enclosure, e.g.: metallic part of the cuff (Refer to the C started arrow in the test setup photo).",
+        "bbox": [
+            216,
+            436,
+            902,
+            468
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Test mode: Mode 1,Mode 2",
+        "bbox": [
+            134,
+            470,
+            347,
+            485
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/7dc35668ac136fc0785e3ce8c1e8128e2a6d8237d439beecc0d396be1fd034a2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=2 colspan=1>Air Discharge</td><td rowspan=1 colspan=11>Discharge Level (kV)</td><td rowspan=3 colspan=1>interval (s)</td><td rowspan=3 colspan=1>Test Results</td></tr><tr><td rowspan=1 colspan=2>2</td><td rowspan=1 colspan=3>4</td><td rowspan=1 colspan=3>8</td><td rowspan=1 colspan=3>15</td></tr><tr><td rowspan=1 colspan=1>TestPoint</td><td rowspan=1 colspan=1>+</td><td rowspan=1 colspan=2>-</td><td rowspan=1 colspan=1>+</td><td rowspan=1 colspan=2>-</td><td rowspan=1 colspan=1>+</td><td rowspan=1 colspan=2>-</td><td rowspan=1 colspan=1>+</td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=1>A1</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=2>ND</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=2>ND</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=2>ND</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>A2</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=2>ND</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=2>ND</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=2>ND</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>A3</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=2>ND</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=2>ND</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=2>ND</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>A4</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=2>ND</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=2>ND</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=2>ND</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>A5</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=2>ND</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=2>ND</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=2>ND</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=1>ND</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>A6</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=2>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=2>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=2>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=14>Remark:√:Pass; X: Fail;ND：No Discharge;-:Non-test</td></tr></table>",
+        "bbox": [
+            110,
+            499,
+            889,
+            718
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/e221d83db8dc5ee2d0bbc3689abf3570b16e52565e9af2e74bc458c3f0c3bf89.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=2 colspan=1>ContactDischarge</td><td rowspan=1 colspan=11>Discharge Level (kV)</td><td rowspan=3 colspan=1>interval (s)</td><td rowspan=3 colspan=1>Test Results</td></tr><tr><td rowspan=1 colspan=2>2</td><td rowspan=1 colspan=3>4</td><td rowspan=1 colspan=3>6</td><td rowspan=1 colspan=3>8</td></tr><tr><td rowspan=1 colspan=1>TestPoint</td><td rowspan=1 colspan=1>+</td><td rowspan=1 colspan=2>-</td><td rowspan=1 colspan=1>+</td><td rowspan=1 colspan=2>-</td><td rowspan=1 colspan=1>+</td><td rowspan=1 colspan=2>-</td><td rowspan=1 colspan=1>+</td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=1>C1</td><td rowspan=1 colspan=1>一</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>-</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>C2</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=2>-</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=2>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>C3</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=14>Remark：√:Pass;×:Fail;ND:No Discharge;-:Non-test</td></tr></table>",
+        "bbox": [
+            110,
+            731,
+            889,
+            898
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            341,
+            64
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "page_number",
+        "text": "page 13 of 29",
+        "bbox": [
+            447,
+            942,
+            539,
+            957
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/13b8ce1131fe217c48e7c88d2d8e4a3750800e9584140966c0e92c55d0ba9a86.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=2 colspan=1>Indirect Application</td><td rowspan=1 colspan=8>Discharge Level (kV)</td><td rowspan=3 colspan=1>interval(s)</td><td rowspan=3 colspan=1>TestResults</td></tr><tr><td rowspan=1 colspan=2>2</td><td rowspan=1 colspan=2>4</td><td rowspan=1 colspan=2>6</td><td rowspan=1 colspan=2>8</td></tr><tr><td rowspan=1 colspan=1>Coupling plate - sample direction</td><td rowspan=1 colspan=1>+</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>+</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>+</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>+</td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=1>Horizontally coupled plate - Front</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>Horizontally coupled plate - Left</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>Horizontally coupled plate - Rear</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>Horizontally coupled plate - Right</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>Vertical coupling plate - Front</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>Vertical coupling plate - Left</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>Vertical coupling plate - Rear</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>Vertical coupling plate - Right</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1>√</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=11>Remark:√:Pass；×:Fail;ND:No Discharge;-:Non-test</td></tr></table>",
+        "bbox": [
+            110,
+            67,
+            889,
+            316
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Remarks:",
+        "text_level": 2,
+        "bbox": [
+            122,
+            329,
+            205,
+            343
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "A: During and after test, The EUT is tested in UE1 mode,the collection point of the temperature sensor is aligned with the blackbody, which is set at 37℃.The temperature is continuously measured and compared with the blackbody temperature. The accuracy of the display temperature of the EUT does not exceed ± 0.2℃.",
+        "bbox": [
+            119,
+            348,
+            917,
+            406
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "During and after test, the EUT could operate as intended and no disturbance of function. The EUT could meet the requirements of clause 6.1.",
+        "bbox": [
+            121,
+            411,
+            917,
+            441
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "N/A: Not applicable (floor mounted EUT or not requested by Standard).",
+        "bbox": [
+            119,
+            444,
+            653,
+            460
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "6.3 Radiated Immunity",
+        "text_level": 2,
+        "bbox": [
+            65,
+            472,
+            304,
+            489
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Test Requirement: IEC 60601-1-2:2014+A1:2020",
+        "bbox": [
+            132,
+            508,
+            584,
+            525
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Test Method: IEC 61000-4-3",
+        "bbox": [
+            132,
+            527,
+            473,
+            544
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Test Date: 2024-07-09/10/24-26",
+        "bbox": [
+            132,
+            546,
+            521,
+            563
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Temperature and Humidity: 25-31℃ 32%-50%",
+        "bbox": [
+            132,
+            567,
+            502,
+            583
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Power Supply: DC 3V",
+        "bbox": [
+            134,
+            589,
+            410,
+            606
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Frequency Range: 80 MHz to 2.7 GHz",
+        "bbox": [
+            132,
+            608,
+            495,
+            625
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Antenna Polarization: Horizontal / Vertical",
+        "bbox": [
+            132,
+            627,
+            497,
+            644
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Test level: 10 V/m",
+        "bbox": [
+            132,
+            648,
+            408,
+            663
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Modulation: 80%, 1KHz Amplitude Modulation",
+        "bbox": [
+            132,
+            667,
+            606,
+            682
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "6.3.1 Test Setup and Procedure",
+        "text_level": 2,
+        "bbox": [
+            87,
+            700,
+            359,
+            715
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c180ce8e161d20c2c2adc76369d86044bb2c8b71f0c6904f5fa1cb64d65d8db.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "1. For table-top equipment, the EUT was placed in the chamber on a non-conductive table 0.8m high. For"
+        ],
+        "bbox": [
+            90,
+            730,
+            818,
+            897
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            339,
+            64
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "page_number",
+        "text": "page 14 of 29",
+        "bbox": [
+            447,
+            942,
+            539,
+            957
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "arrangement of floor-standing equipment, the EUT was mounted on a non-conductive support 0.1m above the supporting plane.",
+        "bbox": [
+            114,
+            70,
+            917,
+            103
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "2. If possible, a minimum of 1 m of cable is exposed to the electromagnetic field. Excess length of cables interconnecting units of the EUT shall be bundled low-inductively in the approximate center of the cable to form a bundle 30 cm to 40 cm in length.",
+        "bbox": [
+            85,
+            110,
+            917,
+            162
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3. The EUT was initially placed with one face coincident with the calibration plane. The EUT face being illuminated was contained within the UFA (Uniform Field Area).",
+        "bbox": [
+            85,
+            168,
+            917,
+            204
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4. The frequency ranges to be considered were swept with the signal modulated and pausing to adjust the RF signal level or to switch oscillators and Antennas as necessary. Here the frequency range was swept incrementally, the step size was not exceed 1% of the preceding frequency value.",
+        "bbox": [
+            85,
+            210,
+            917,
+            263
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5. The dwell time of the amplitude modulated carrier at each frequency was not be less than the time necessary for the EUT to be exercised and to respond, and was not less than 0.5 s.",
+        "bbox": [
+            85,
+            268,
+            917,
+            304
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6. The test normally was performed with the generating Antenna facing each side of the EUT.",
+        "bbox": [
+            85,
+            310,
+            791,
+            325
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "7. The polarization of the field generated by each Antenna necessitates testing each selected side twice, once with the Antenna positioned vertically and again with the Antenna positioned horizontally.",
+        "bbox": [
+            87,
+            331,
+            915,
+            367
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "8. The EUT was performed in a configuration to actual installation conditions, a video camera and/or a audio monitor were used to monitor the performance of the EUT.",
+        "bbox": [
+            85,
+            372,
+            917,
+            407
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6.3.2 Test Results",
+        "text_level": 2,
+        "bbox": [
+            87,
+            424,
+            252,
+            439
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/1cb8d8b077cb22fd0c2abc2bbb3ced18fee2e0ce981061b257051452690b36a2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Frequency</td><td rowspan=1 colspan=1>Level</td><td rowspan=1 colspan=1>Modulation</td><td rowspan=1 colspan=1>Test Mode</td><td rowspan=1 colspan=1>AntennaPolarization</td><td rowspan=1 colspan=1>EUT Face</td><td rowspan=1 colspan=1>Result /Observations</td></tr><tr><td rowspan=12 colspan=1>80 MHz to2.7GHz</td><td rowspan=12 colspan=1>10V/m</td><td rowspan=12 colspan=1>1KHz 80%Amp.Mod, 1%increment</td><td rowspan=12 colspan=1>Mode 1,2.</td><td rowspan=1 colspan=1>&gt;</td><td rowspan=2 colspan=1>Front</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>H</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>&gt;</td><td rowspan=2 colspan=1>Rear</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>H</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>&gt;</td><td rowspan=2 colspan=1>Left</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>H</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>V</td><td rowspan=2 colspan=1>Right</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>H</td><td rowspan=1 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>N/A</td><td rowspan=2 colspan=1>Top*</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=1>Bottom*</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/A</td></tr></table>",
+        "bbox": [
+            115,
+            450,
+            889,
+            858
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            341,
+            64
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "page_number",
+        "text": "page 15 of 29",
+        "bbox": [
+            447,
+            942,
+            539,
+            957
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Remarks:",
+        "text_level": 2,
+        "bbox": [
+            122,
+            101,
+            205,
+            114
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Front: the front of the EUT faces to transmitting Antenna (refer to Radiated Immunity test setup photo)",
+        "bbox": [
+            117,
+            114,
+            875,
+            130
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "A: During and after test,The EUT is tested in UE1 mode,the collection point of the temperature sensor is aligned with the blackbody, which is set at 37℃.The temperature is continuously measured and compared with the blackbody temperature. The accuracy of the display temperature of the EUT does not exceed ± 0.2℃.",
+        "bbox": [
+            119,
+            141,
+            919,
+            199
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "During and after test, the EUT could operate as intended and no disturbance of function. The EUT could meet the requirements of clause 6.1.",
+        "bbox": [
+            119,
+            224,
+            917,
+            253
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "\\*: Tests against top side and bottom side are only for adaptor.",
+        "bbox": [
+            121,
+            256,
+            588,
+            272
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The EUT does meet the Radiated Immunity requirements of the Standard.",
+        "bbox": [
+            119,
+            275,
+            771,
+            292
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "6.4 Proximity Fields from RF Wireless Communications Equipment",
+        "text_level": 2,
+        "bbox": [
+            65,
+            296,
+            742,
+            313
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Test Requirement: IEC 60601-1-2:2014+A1:2020",
+        "bbox": [
+            132,
+            338,
+            586,
+            354
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Test Method: IEC 61000-4-3",
+        "bbox": [
+            132,
+            356,
+            473,
+            373
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Test Date: 2024-07-09/10/24-26",
+        "bbox": [
+            132,
+            375,
+            521,
+            392
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Temperature and Humidity: 25-31℃ 32%-50%",
+        "bbox": [
+            132,
+            395,
+            502,
+            412
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Power Supply: DC 3V",
+        "bbox": [
+            134,
+            418,
+            410,
+            435
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Test Level: Table 9 of IEC 60601-1-2",
+        "bbox": [
+            132,
+            437,
+            537,
+            454
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Antenna Polarization: Horizontal / Vertical",
+        "bbox": [
+            132,
+            457,
+            500,
+            473
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Modulation: Pulse Modulation,18Hz or 217Hz",
+        "bbox": [
+            131,
+            476,
+            598,
+            492
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "6.4.1 Test Setup and Procedure",
+        "text_level": 2,
+        "bbox": [
+            65,
+            495,
+            326,
+            511
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "1. For table-top equipment, the EUT was placed in the chamber on a non-conductive table 0.8m high. For arrangement of floor-standing equipment, the EUT was mounted on a non-conductive support 0.1m above the supporting plane.",
+        "bbox": [
+            97,
+            517,
+            917,
+            569
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "2. If possible, a minimum of 1 m of cable is exposed to the electromagnetic field. Excess length of cables interconnecting units of the EUT shall be bundled low-inductively in the approximate center of the cable to form a bundle 30 cm to 40 cm in length.",
+        "bbox": [
+            85,
+            575,
+            917,
+            629
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "3. The EUT was initially placed with one face coincident with the calibration plane. The EUT face being illuminated was contained within the UFA (Uniform Field Area).",
+        "bbox": [
+            85,
+            634,
+            917,
+            669
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4. The test distances between Antenna and EUT are 3m for the frequencies between 1970MHz and 5785MHz and 2.5m for the frenquencies between 385MHz and 1970MHz .",
+        "bbox": [
+            85,
+            675,
+            917,
+            711
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "5. The dwell time of the amplitude modulated carrier at each frequency was not be less than the time necessary for the EUT to be exercised and to respond, and was not less than 1s.",
+        "bbox": [
+            85,
+            717,
+            917,
+            751
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "6. The test normally was performed with the generating Antenna facing each side of the EUT.",
+        "bbox": [
+            87,
+            757,
+            789,
+            772
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "7. The polarization of the field generated by each Antenna necessitates testing each selected side twice, once with the Antenna positioned vertically and again with the Antenna positioned horizontally.",
+        "bbox": [
+            87,
+            778,
+            915,
+            814
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "8. The EUT was performed in a configuration to actual installation conditions, a video camera and/or a audio monitor were used to monitor the performance of the EUT.",
+        "bbox": [
+            85,
+            819,
+            917,
+            854
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            339,
+            64
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "page_number",
+        "text": "page 16 of 29",
+        "bbox": [
+            447,
+            942,
+            539,
+            957
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/66ab6d8ff4ffd5711fcfd318bc8341b90d6a259444a348e012a93cc36c1a9e26.jpg",
+        "table_caption": [
+            "6.4.2 Test result"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Frequency(MHz)</td><td rowspan=1 colspan=1>Band(MHz)</td><td rowspan=1 colspan=1>Level</td><td rowspan=1 colspan=1>Modulation</td><td rowspan=1 colspan=1>Test mode</td><td rowspan=1 colspan=1>AntennaPolarization</td><td rowspan=1 colspan=1>EUTface</td><td rowspan=1 colspan=1>Result/observations</td></tr><tr><td rowspan=1 colspan=1>385</td><td rowspan=1 colspan=1>380-390</td><td rowspan=1 colspan=1>27</td><td rowspan=2 colspan=1>Pulsemodulation18Hz</td><td rowspan=15 colspan=1>Mode 1,2.</td><td rowspan=15 colspan=1>Horizontal /Vertical</td><td rowspan=15 colspan=1>Front,Rear,Left,Right,</td><td rowspan=15 colspan=1>A</td></tr><tr><td rowspan=1 colspan=1>450</td><td rowspan=1 colspan=1>430-470</td><td rowspan=1 colspan=1>28</td></tr><tr><td rowspan=1 colspan=1>710</td><td rowspan=3 colspan=1>704-787</td><td rowspan=3 colspan=1>9</td><td rowspan=3 colspan=1>Pulsemodulation217Hz</td></tr><tr><td rowspan=1 colspan=1>745</td></tr><tr><td rowspan=1 colspan=1>780</td></tr><tr><td rowspan=1 colspan=1>810</td><td rowspan=3 colspan=1>800-960</td><td rowspan=3 colspan=1>28</td><td rowspan=3 colspan=1>Pulsemodulation18Hz</td></tr><tr><td rowspan=1 colspan=1>870</td></tr><tr><td rowspan=1 colspan=1>930</td></tr><tr><td rowspan=1 colspan=1>1720</td><td rowspan=3 colspan=1>1700-1990</td><td rowspan=3 colspan=1>28</td><td rowspan=7 colspan=1>Pulsemodulation217Hz</td></tr><tr><td rowspan=1 colspan=1>1845</td></tr><tr><td rowspan=1 colspan=1>1970</td></tr><tr><td rowspan=1 colspan=1>2450</td><td rowspan=1 colspan=1>2400-2570</td><td rowspan=1 colspan=1>28</td></tr><tr><td rowspan=1 colspan=1>5240</td><td rowspan=3 colspan=1>5100-5800</td><td rowspan=3 colspan=1>9</td></tr><tr><td rowspan=1 colspan=1>5500</td></tr><tr><td rowspan=1 colspan=1>5785</td></tr></table>",
+        "bbox": [
+            84,
+            105,
+            915,
+            524
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Remarks:",
+        "text_level": 2,
+        "bbox": [
+            67,
+            530,
+            164,
+            545
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "A: During and after test, The EUT is tested in UE1 mode,the collection point of the temperature sensor is aligned with the blackbody, which is set at 37 ℃ .The temperature is continuously measured and compared with the blackbody temperature. The accuracy of the display temperature of the EUT does not exceed ±0.2℃.",
+        "bbox": [
+            65,
+            550,
+            917,
+            598
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "During and after test, the EUT could operate as intended and no disturbance of function. The EUT could meet the requirements of clause 6.1.",
+        "bbox": [
+            65,
+            614,
+            919,
+            642
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "\\*: Tests against top side and bottom side are only for adaptor.",
+        "bbox": [
+            68,
+            640,
+            537,
+            656
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The EUT does meet the immunity requirements of Proximity Fields from RF Wireless Communications Equipment.",
+        "bbox": [
+            65,
+            659,
+            808,
+            692
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "6.5 Electrical Fast Transients (EFT)",
+        "text_level": 2,
+        "bbox": [
+            65,
+            703,
+            425,
+            721
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/72d3750fe06a899408ee3889d06fa7aa630fb63a200631c663db39b989daed61.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Test Requirement:</td><td>IEC 60601-1-2:2014+A1:2020</td></tr><tr><td>Test Method:</td><td>N/A</td></tr><tr><td>Test Date:</td><td>N/A</td></tr><tr><td>Temperature and Humidity:</td><td>N/A</td></tr><tr><td>Power Supply:</td><td>N/A</td></tr><tr><td>Test Level:</td><td>N/A</td></tr><tr><td>Polarity:</td><td>N/A</td></tr><tr><td>Repetition Frequency:</td><td>N/A</td></tr><tr><td>Burst Duration:</td><td>N/A</td></tr><tr><td>Test Duration:</td><td>N/A</td></tr></table>",
+        "bbox": [
+            131,
+            733,
+            586,
+            922
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            339,
+            64
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "page_number",
+        "text": "page 17 of 29",
+        "bbox": [
+            447,
+            942,
+            539,
+            957
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "6.5.1 Test Setup and Procedure",
+        "text_level": 2,
+        "bbox": [
+            87,
+            70,
+            359,
+            84
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ccce16468174f2f9c5561c3049bf9df098757507707db7fe27d30ba054943cf.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Ground Reference Plane"
+        ],
+        "bbox": [
+            110,
+            102,
+            793,
+            292
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "1. The EUT was placed on a ground reference plane(GRP) insulated by an insulating support 0.1m thick and the GRP was placed on a 0.8m high wooden table for table-top equipment. For floor standing equipment, the EUT was placed on a 0.1m high wooden support above the GRP.",
+        "bbox": [
+            87,
+            316,
+            917,
+            369
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2. The GRP shall project beyond the EUT and the clamp by at least 0.1m on all sides. The distance between the EUT and any other of the metallic surface except the GRP was greater than 0.5m. All cables to the EUT was placed on the insulation support 0.1m above GRP. Cables not subject to EFT was routed as far as possible from cable under test to minimize the coupling between the cables.",
+        "bbox": [
+            102,
+            373,
+            917,
+            445
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "3. The length of signal and power cable between the EUT and EFT generator was 0.5m. If the cable is a nondetachable supply cable more than 0.5m, the excess length of this cable shall be folded to avoid a flat coil and situated at a distance of 0.1m above the GRP.",
+        "bbox": [
+            104,
+            449,
+            917,
+            501
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "4. The EUT was conducted the below specified level voltage test for line to neutral or line to neutral to earth(for clamp coupling is for the signal line), 120 seconds duration. If the equipment contains identical ports, only one was tested; multiconductor cables, such as a 50-pair telecommunication cable, was tested as a single cable. Cables did not be split or divided into groups of conductors for this test; interface ports, which were intended by the manufacturer to be connected to data cables not longer than 3 m, did not be tested.",
+        "bbox": [
+            99,
+            506,
+            917,
+            614
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "5. During the test, the EUT was tested with the hand-held parts terminated with artificial hand.",
+        "bbox": [
+            100,
+            619,
+            821,
+            634
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "6.5.2 Test Results",
+        "text_level": 2,
+        "bbox": [
+            87,
+            652,
+            245,
+            667
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Note: The EUT is powered by batteries , and does not apply to this clause.",
+        "bbox": [
+            87,
+            680,
+            645,
+            695
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "6.6 Surge",
+        "text_level": 2,
+        "bbox": [
+            65,
+            708,
+            181,
+            725
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/c7153ad5fec6a769176e99af5ff96c5f56f634288097175d4fbc83d00d130e4b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Test Requirement:</td><td>IEC 60601-1-2:2014+A1:2020</td></tr><tr><td>Test Method:</td><td>N/A</td></tr><tr><td>Test Date:</td><td>N/A</td></tr><tr><td>Temperature and Humidity:</td><td>N/A</td></tr><tr><td>Power Supply:</td><td>N/A</td></tr><tr><td>Test Level:</td><td>N/A</td></tr><tr><td>Polarity:</td><td>N/A</td></tr><tr><td>Generator source impedance:</td><td>N/A</td></tr><tr><td>Trigger Mode:</td><td>N/A</td></tr><tr><td>No. of surges:</td><td>N/A</td></tr></table>",
+        "bbox": [
+            131,
+            737,
+            623,
+            932
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            341,
+            64
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "page_number",
+        "text": "page 18 of 29",
+        "bbox": [
+            447,
+            942,
+            539,
+            957
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "6.6.1 Test Setup and Procedure",
+        "text_level": 2,
+        "bbox": [
+            87,
+            70,
+            349,
+            84
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/da482c296bce010d18c67a4e765e33cb87d50d8a3d7a41be51baa6697329ee0a.jpg",
+        "image_caption": [
+            "Ground Reference Plane"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            107,
+            102,
+            815,
+            277
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "1. The EUT was placed on a ground reference plane(GRP) insulated by an insulating support 0.1m thick and the GRP was placed on a 0.8m high wooden table for table-top equipment. For floor standing equipment, the EUT was placed on a 0.1m high wooden support above the GRP.",
+        "bbox": [
+            102,
+            296,
+            926,
+            348
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "2. The 1.2/50 µs surge was to be applied to the EUT power supply Terminals via the capacitive coupling network .Decoupling networks were required in order to avoid possible adverse effects on equipment not under test that may be powered by the same lines and to provide sufficient decoupling impedance to the surge wave so that the specified wave may be applied on the lines under test.",
+        "bbox": [
+            102,
+            350,
+            924,
+            419
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "3. The power cord between the EUT and the coupling/decoupling network do not exceed 2m in length. The interconnection line between the EUT and the coupling/ decoupling network shall not exceed 2m in length.",
+        "bbox": [
+            102,
+            420,
+            924,
+            454
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4. The EUT was conducted 1kV Test voltage: for line to line and line to neutral and conducted 2kV Test voltage: for line to earth and neutral to earth, five positive pulses and five negative pulses each at 90° and 270° for AC power ports and five positive pulses and five negative surge pulses for DC power ports. The test levels were applied on the EUT with a 2Ω generator source impedance for power supply Terminals and 40Ω output impedance for interconnection lines. The tests were done at repetition rate 1 per minute.",
+        "bbox": [
+            102,
+            456,
+            924,
+            562
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "6.6.2 Test Results",
+        "text_level": 2,
+        "bbox": [
+            87,
+            577,
+            253,
+            593
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Note: The EUT is powered by batteries , and does not apply to this clause.",
+        "bbox": [
+            85,
+            606,
+            647,
+            621
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "6.7 Conducted Immunity 0.15 MHz to 80 MHz",
+        "text_level": 2,
+        "bbox": [
+            65,
+            633,
+            517,
+            651
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/040f4d0b7088ec8f0c17338b277d9dec6cbbca1e0871ca29bce92c29442bcfc3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Test Requirement:</td><td>IEC 60601-1-2:2014+A1:2020</td></tr><tr><td>Test Method:</td><td>N/A</td></tr><tr><td>Test Date:</td><td>N/A</td></tr><tr><td>Temperature and Humidity:</td><td>N/A</td></tr><tr><td>Power Supply:</td><td>N/A</td></tr><tr><td>Frequency Range:</td><td>N/A</td></tr><tr><td>Test level:</td><td>N/A</td></tr><tr><td>Modulation:</td><td>N/A</td></tr><tr><td>Dwell Time:</td><td>N/A</td></tr></table>",
+        "bbox": [
+            131,
+            663,
+            586,
+            827
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            341,
+            64
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "page_number",
+        "text": "page 19 of 29",
+        "bbox": [
+            447,
+            942,
+            539,
+            957
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "6.7.1 Test Setup and Procedure",
+        "text_level": 2,
+        "bbox": [
+            65,
+            70,
+            337,
+            84
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/25d381a25e3e7dcffcb45c90979dd089e40ed7480c7e1b7acc2a2ff37e950034.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            124,
+            93,
+            853,
+            269
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "1. The EUT was placed on an insulating support of 0.1m height above a ground reference Plane,arranged and connected to satisfy its functional requirement. All cables exiting the EUT was supported at a height of at least 30 mm above the ground reference plane.",
+        "bbox": [
+            87,
+            278,
+            892,
+            325
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "2. The coupling and decoupling devices were required, they were located between 0.1m and 0.3m from the EUT. This distance was to be measured horizontally from the projection of the EUT on to the ground reference plane to the coupling and decoupling device.",
+        "bbox": [
+            87,
+            326,
+            889,
+            374
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "3. Each AE, used with clamp injection, shall be placed on an insulating support 0.1m above the ground reference plane. A decoupling network shall be installed on each cable between the EUT and AE except the cable under test. All cables connected to each AE, other than those being connected to the EUT, shall be provided with decoupling networks. The decoupling networks connected to each AE (except those on cables between the EUT and AE) shall be applied no further than 0.3m from the AE. The cable(s) between the AE and the decoupling network (s) or in between the AE and the injection clamp shall not be bundled nor wrapped and shall be kept between 30 mm and 50 mm above the ground reference plane.",
+        "bbox": [
+            85,
+            375,
+            889,
+            505
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "4. The frequency range was swept from 150 kHz to 80 MHz, using the signal levels established during the setting process, and with the disturbance signal 80% amplitude modulated with a 1kHz sine wave, pausing to adjust the RF signal level or to change coupling devices as necessary. Where the frequency was swept incrementally, the step size do not exceed 1% of the preceding frequency value. The dwell time of the amplitude modulated carrier at each frequency was not less than the time necessary for the EUT to be exercised and to respond, and was not less than 0.5 s.",
+        "bbox": [
+            85,
+            507,
+            885,
+            604
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "5. During the test, the EUT was tested with the hand-held parts terminated with artificial hand.",
+        "bbox": [
+            78,
+            605,
+            801,
+            619
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "6.7.2 Test Results",
+        "text_level": 2,
+        "bbox": [
+            87,
+            632,
+            255,
+            646
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Note: The EUT is powered by batteries , and does not apply to this clause.",
+        "bbox": [
+            114,
+            659,
+            673,
+            675
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "6.8 Voltage Dips and Interruptions",
+        "text_level": 2,
+        "bbox": [
+            65,
+            709,
+            416,
+            726
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "table",
+        "img_path": "images/b5e6342484c36b70b098656752e44c469f8feed14693d1d1f15b6ee87bd8ac77.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Test Requirement:</td><td>IEC 60601-1-2:2014+A1:2020</td></tr><tr><td>Test Method:</td><td>N/A</td></tr><tr><td>Test Date:</td><td>N/A</td></tr><tr><td>Temperature and Humidity:</td><td>N/A</td></tr><tr><td>Power Supply:</td><td>N/A</td></tr><tr><td>Test Level:</td><td>N/A</td></tr><tr><td>No. of Dips / Interruptions:</td><td>N/A</td></tr></table>",
+        "bbox": [
+            131,
+            738,
+            608,
+            859
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            339,
+            64
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "page_number",
+        "text": "page 20 of 29",
+        "bbox": [
+            447,
+            942,
+            539,
+            957
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d74cf985f824591fc33e2e79a2caa4b6b172aa16b1cd6cbbe6d0bb3803a1821.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            122,
+            120,
+            850,
+            306
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "1. The EUT was placed on a ground reference plane(GRP) insulated by an insulating support 0.1m thick and the GRP was placed on a 0.8m high wooden table for table-top equipment. For floor standing equipment, the EUT was placed on a 0.1m high wooden support above the GRP.",
+        "bbox": [
+            84,
+            317,
+            917,
+            370
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "2. The test was performed with the EUT connected to the test generator with the shortest power supply cable as specified by the EUT manufacturer.",
+        "bbox": [
+            87,
+            375,
+            917,
+            409
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "3. The EUT was tested for each selected combination of test level and duration with a sequence of three dips/interruptions with intervals of 10 s minimum. Each representative mode of operation was tested.",
+        "bbox": [
+            84,
+            413,
+            917,
+            448
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "4. For EUT with more than one power cord, each power cord was tested individually.",
+        "bbox": [
+            84,
+            453,
+            724,
+            468
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "6.8.2 Test Results",
+        "text_level": 2,
+        "bbox": [
+            65,
+            485,
+            230,
+            499
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Note: The EUT is powered by batteries , and does not apply to this clause.",
+        "bbox": [
+            87,
+            513,
+            647,
+            529
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "6.9 Power Frequency Magnetic Field Immunity",
+        "text_level": 2,
+        "bbox": [
+            65,
+            542,
+            532,
+            558
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/1eb4e49c55e37d22424ee043627a8e521043e6d2ec4cf1ecf8aa15d1fa43c08a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Test Requirement:</td><td>IEC 60601-1-2:2014+A1:2020</td></tr><tr><td>Test Method:</td><td>N/A</td></tr><tr><td>Test Date:</td><td>N/A</td></tr><tr><td>Temperature and Humidity:</td><td>N/A</td></tr><tr><td>Power Supply:</td><td>N/A</td></tr><tr><td>Field frequency:</td><td>N/A</td></tr><tr><td>Face under Test:</td><td>N/A</td></tr><tr><td>Test level:</td><td>N/A</td></tr></table>",
+        "bbox": [
+            131,
+            570,
+            584,
+            722
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "6.9.1 Test Setup and Procedure",
+        "text_level": 2,
+        "bbox": [
+            65,
+            740,
+            332,
+            756
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/66f65df0bb82efcafbc6fcee005b4e1e924e1233aed3b6010d55579b0f1242ae.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            109,
+            770,
+            757,
+            931
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            339,
+            64
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "header",
+        "text": "6.8.1 Test Setup and Procedure",
+        "bbox": [
+            65,
+            70,
+            337,
+            84
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "page_number",
+        "text": "page 21 of 29",
+        "bbox": [
+            447,
+            942,
+            539,
+            957
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "1. The EUT was placed on a ground reference plane(GRP) insulated by an insulating support 0.1m thick and the GRP was placed on a 0.8m high wooden table for table-top equipment. For floor standing equipment, the EUT was placed on a 0.1m high wooden support above the GRP.",
+        "bbox": [
+            102,
+            68,
+            917,
+            123
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "2. The EUT was configured and connected to satisfy its functional requirements. The power supply, input and output circuits was connected to the sources of power supply, control and signal. The cables supplied or recommended by the equipment manufacturer were used. In absence of any recommendation, unshielded cables were adopted, of a type appropriate for the signals involved. All cables were exposed to the magnetic field for 1m of their length.",
+        "bbox": [
+            100,
+            128,
+            917,
+            219
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "3. The EUT was subjected to the test magnetic field by using the induction coil of standard dimensions (1m×1m) by the immersion method.",
+        "bbox": [
+            102,
+            224,
+            912,
+            259
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4. The induction coil was then be rotated by $9 0 ^ { 0 }$ in order to expose the EUT to the test field with different orientations. For floor-standing equipment the test was repeated by moving and shifting the induction coils, in order to test the whole volume of the EUT for each orthogonal direction.",
+        "bbox": [
+            102,
+            265,
+            917,
+            318
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "6.9.2 Test Results",
+        "text_level": 2,
+        "bbox": [
+            65,
+            334,
+            225,
+            349
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "IEC 60601-1-2:2014+A1:2020/EN 60601-1-2:2015+A1:2021 Table 4 Remark d Applies only to ME EQUIPMENT and ME SYSTEMS with magnetically sensitive components or circuitry. The EUT does not contain magnetic sensing components or circuits (see Annex statement) and exempt from this test",
+        "bbox": [
+            119,
+            361,
+            921,
+            418
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "7 Identifiers, tags, and files",
+        "text_level": 2,
+        "bbox": [
+            65,
+            435,
+            349,
+            453
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/f6a177f3265c37e3607cac5aa845243fc5a0dea16a0dc91d062f970210304228.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=4>IEC 60601-1-2:2014+A1:2020</td></tr><tr><td rowspan=1 colspan=1>Clause</td><td rowspan=1 colspan=1>Requirement + Test</td><td rowspan=1 colspan=1>Result - Remark</td><td rowspan=1 colspan=1>Verdict</td></tr></table>",
+        "bbox": [
+            60,
+            473,
+            873,
+            530
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/e9c1a5db0d1f05d3d1b6d42002755f7734af2f3b41a5900c0621a70cb33083bb.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=3>GENERAL REQUIREMENTS</td></tr><tr><td rowspan=1 colspan=1>4.1</td><td rowspan=1 colspan=1>risks resulting from reasonablyforeseeable electromagnetic disturbances taken intoaccount in the risk management process.</td><td rowspan=1 colspan=1>RMF ReferenceDocument: PT9L-FXPJ01 V1.0</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>4.2</td><td rowspan=1 colspan=1>Non-me equipment used in an me system</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Check 16.1 of general standard, checked by inspection oftherisk management file and objective evidence ofcompliance with the respective emc standards, or by thetests of this collateral standard</td><td rowspan=1 colspan=1>EUT does not containnon-ME equipment.</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>non-me equipment used in an me system complieswith iec andiso emc standards applicable tothat equipment, checked by inspection of the riskmanagement file and objective evidenceof compliancewith the respective emc standards, or by the tests of thiscollateral standard</td><td rowspan=1 colspan=1>EUT does not containnon-ME equipment.</td><td rowspan=1 colspan=1>N/A</td></tr></table>",
+        "bbox": [
+            60,
+            560,
+            873,
+            854
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            339,
+            64
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "page_number",
+        "text": "page 22 of 29",
+        "bbox": [
+            447,
+            942,
+            539,
+            957
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/b3e71f0b45f393b5e91b326149dfa54088cb2d814e7730e95df590d6dd222f66.jpg",
+        "table_caption": [
+            "Report No.:ETX202303-07-078-01"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=4>IEC 60601-1-2:2014+A1:2020</td></tr><tr><td rowspan=1 colspan=1>Clause</td><td rowspan=1 colspan=1>Requirement + Test</td><td rowspan=1 colspan=1>Result - Remark</td><td rowspan=1 colspan=1>Verdict</td></tr></table>",
+        "bbox": [
+            60,
+            70,
+            873,
+            126
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "table",
+        "img_path": "images/d54d8eff48ca5226ca8163673f20f523bf5804ba683fa5367abb68f994a55951.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>non- me equipment used in an me system for which theintendedem environment could result in the loss of basicsafety oressential performance of the me system due tothe non-me equipment tested according to therequirements of this collateral standard, checked by inspection of the RISKmanagement file and objectiveevidence of compliance with the respective EMCstandards, or by the tests of this collateral standard</td><td rowspan=1 colspan=1>EUT does not containnon-ME equipment.</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>4.3.1</td><td rowspan=1 colspan=1>Configurations</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>me equipment and me systems tested in representativeconfigurations, consistent with intended use, that are mostlikely to result in unacceptable risk as determined bythemanufacturer (This was determined using risk analysis,experience, engineering analysis, or pretesting).Compliance checked by inspection of the test report andthe risk management file.</td><td rowspan=1 colspan=1>See Chapter 5.3 andRMF ReferenceDocument: PT9L-FXPJ01 V1.0</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>4.3.3</td><td rowspan=1 colspan=1>Power input and frequencies</td><td rowspan=1 colspan=1>See Chapter 5.2 forreference</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=3>IDENTIFICATION, MARKING AND DOCUMENTS</td></tr><tr><td rowspan=1 colspan=1>5.1</td><td rowspan=1 colspan=2>Additional requirements for marking on the outside of me equipment and mesystemsspecified for use only in a shielded location special environment</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>me equipment and me systems specified for use only in ashielded location special environment labelled witha clearly legible warning that they should be used only inthe specified type of shielded location</td><td rowspan=1 colspan=1>The EUT does notspecified for use onlyin a shielded locationspecial environment</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>5.2</td><td rowspan=1 colspan=3>ACCOMPANYING DOCUMENTS</td></tr><tr><td rowspan=1 colspan=1>5.2.1</td><td rowspan=1 colspan=3>Instructions for use</td></tr><tr><td rowspan=1 colspan=1>5.2.1.1</td><td rowspan=1 colspan=3>General</td></tr><tr><td rowspan=1 colspan=1>a)</td><td rowspan=1 colspan=1>A statement of the environments for which the meequipment orme system is suitable. Relevant exclusionsdetermined byrisk analysis, are listed.</td><td rowspan=1 colspan=1>ReferenceDocument: PT9L-SMSY01 V1.0</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>b)</td><td rowspan=1 colspan=1>The essential performance of me equipment and adescription of what the operator can expect if the essentialperformanceis lost or degraded due to EM disturbances.</td><td rowspan=1 colspan=1>ReferenceDocument: PT9L-SMSY01 V1.0</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>c)</td><td rowspan=1 colspan=1>A warning regarding stacking and location close tootherequipment</td><td rowspan=1 colspan=1>ReferenceDocument: PT9L-SMSY01 V1.0</td><td rowspan=1 colspan=1>P</td></tr></table>",
+        "bbox": [
+            60,
+            155,
+            873,
+            912
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "page_number",
+        "text": "page 23 of 29",
+        "bbox": [
+            447,
+            942,
+            539,
+            957
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "table",
+        "img_path": "images/fa3fe0fa1b28949994ae513964415809f0dff13ae42054f08e9afc874139bd79.jpg",
+        "table_caption": [
+            "Report No.:ETX202303-07-078-01"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=4>IEC 60601-1-2:2014+A1:2020</td></tr><tr><td rowspan=1 colspan=1>Clause</td><td rowspan=1 colspan=1>Requirement + Test</td><td rowspan=1 colspan=1>Result - Remark</td><td rowspan=1 colspan=1>Verdict</td></tr></table>",
+        "bbox": [
+            60,
+            68,
+            873,
+            126
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "table",
+        "img_path": "images/f71c7c9699b5c0b8e95a8fe2c56f916957f9a46e5318d260d7d9259f8afb4dcd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>d)</td><td rowspan=1 colspan=1>List of cables, transducers and accessories</td><td rowspan=1 colspan=1>ReferenceDocument: PT9L-SMSY01 V1.0</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>e)</td><td rowspan=1 colspan=1>A warning that other cables and accessories maynegatively affect EMC performance</td><td rowspan=1 colspan=1>ReferenceDocument: PT9L-SMSY01 V1.0</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>f)</td><td rowspan=1 colspan=1>A statement that portable RFcommunications equipmentincluding Antennas, can effectmedical electrical equipment. The warning includes a usedistance such as &quot;..be used no closer than 30 cm (12inches) to any part of the [me equipmentor me system],including cables specified by manufacturer&quot;</td><td rowspan=1 colspan=1>ReferenceDocument: PT9L-SMSY01 V1.0</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>5.2.1.2</td><td rowspan=1 colspan=2>Requirements applicable to me equipment and me systems classified class Aaccording to CISPR 11</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>For me equipment and me systems that are classified asclass A according to ClSPR 11, the instructions for useinclude the following note:note: &quot;The emissions characteristics of this equipmentmake it suitable for use in industrial areas and hospitals (CISPR 11 class A). If it is used in a residentialenvironment (for which CISPR 11 class B is normallyrequired) this equipment might not offer adequateprotection to radio-frequency communication services. Theuser might need to take mitigation measures, such asrelocating or re-orienting the equipment.&quot;</td><td rowspan=1 colspan=1>The EUT complaintsclass B limit</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>5.2.2</td><td rowspan=1 colspan=3>Technical description</td></tr><tr><td rowspan=1 colspan=1>5.2.2.1</td><td rowspan=1 colspan=3>Requirements applicable to all me equipment and me systems</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>The technical description describes precautions to betaken to prevent adverse events to the patient andOperator due to electromagnetic disturbances</td><td rowspan=1 colspan=1>ReferenceDocument:Instructions for UsePT9L-SMSY01 V1.0</td><td rowspan=1 colspan=1>P</td></tr><tr><td rowspan=1 colspan=1>a)</td><td rowspan=1 colspan=1>Compliance for each emissions and immunity standard ortest specified by this collateral standard,e.g. emissions class and group and immunity test level</td><td rowspan=1 colspan=1>ReferenceDocument:Instructions for UsePT9L-SMSY01 V1.0</td><td rowspan=1 colspan=1>P</td></tr></table>",
+        "bbox": [
+            60,
+            155,
+            873,
+            832
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "page_number",
+        "text": "page 24 of 29",
+        "bbox": [
+            447,
+            942,
+            539,
+            957
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "table",
+        "img_path": "images/5a743867030e0d1dd15a3f8e122b7385955c4e33e73acc5dca7a924cfb7b922c.jpg",
+        "table_caption": [
+            "Report No.:ETX202303-07-078-01"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=4>IEC 60601-1-2:2014+A1:2020</td></tr><tr><td rowspan=1 colspan=1>Clause</td><td rowspan=1 colspan=1>Requirement + Test</td><td rowspan=1 colspan=1>Result - Remark</td><td rowspan=1 colspan=1>Verdict</td></tr></table>",
+        "bbox": [
+            60,
+            70,
+            873,
+            126
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "table",
+        "img_path": "images/d32c1a1660f9ef14f03fd5ecd6695a40641aba6ffc00df2389fc8261b23f358f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>b)</td><td rowspan=1 colspan=1>Any deviations from this collateral standard andallowances used</td><td rowspan=1 colspan=1>ReferenceDocument: N/A.Full tests wereperformed on theEUT.No deviation fromthis collateralstandard andallowances used.</td><td rowspan=1 colspan=1>N/A</td><td></td></tr><tr><td rowspan=1 colspan=1>c)</td><td rowspan=1 colspan=1>All necessary instructions for maintaining basicsafety andessential performance with regardto electromagnetic disturbances for the expected servicelife</td><td rowspan=1 colspan=1>ReferenceDocument:Instructions for UsePT9L-SMSY01 V1.0</td><td rowspan=1 colspan=1>P</td><td></td></tr><tr><td rowspan=1 colspan=1>5.2.2.2</td><td rowspan=1 colspan=3>Requirements applicable to me equipment specified for use only in shielded location SpecialEnvironment</td><td></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=3>The technical description includes the following information:</td><td></td></tr><tr><td rowspan=1 colspan=1>a)</td><td rowspan=1 colspan=1>A warning to the effect that:WARNING: Failure to use this equipment in the specifiedtype of shielded location could result in degradation ofperformance, interference with other equipment orinterference with radio services</td><td rowspan=1 colspan=1>The EUT does not intend to use only inshielded locationSpecial Environment.</td><td rowspan=1 colspan=1>N/A</td><td></td></tr><tr><td rowspan=1 colspan=1>b)</td><td rowspan=1 colspan=1>Specifications for shielded location including:— minimum RF shielding effectiveness;— for each cable that enters or exits the shielded location,the minimum RF filter attenuation; and— the frequency range(s) over which the specificationsapply</td><td rowspan=1 colspan=1>ReferenceDocument: N/A.The EUT does not intend to use only inshielded locationSpecial Environment.</td><td rowspan=1 colspan=1>N/A</td><td></td></tr><tr><td rowspan=1 colspan=1>c)</td><td rowspan=1 colspan=1>Test methods for measurement of RF shieldingeffectiveness and RF filter attenuation</td><td rowspan=1 colspan=1>The EUT does notintend to use only inshielded locationSpecial Environment.</td><td rowspan=1 colspan=1>N/A</td><td rowspan=1 colspan=1>(cid:)</td></tr><tr><td rowspan=1 colspan=1>d)</td><td rowspan=1 colspan=1>One or more of the following and a recommendation that anotice containing this information be posted at theentrance(s) to the shielded location:— a specification of the emissions characteristics ofotherequipment allowed inside the shielded location withthe me equipment or me system;— a list of specific equipment allowed;— a list of types of equipment prohibited.</td><td rowspan=1 colspan=1>ReferenceDocument: N/A.The EUT does not intend to use only inshielded locationSpecial Environment.</td><td rowspan=1 colspan=1>N/A</td><td></td></tr></table>",
+        "bbox": [
+            60,
+            155,
+            873,
+            931
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "page_number",
+        "text": "page 25 of 29",
+        "bbox": [
+            447,
+            942,
+            539,
+            957
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "table",
+        "img_path": "images/95074941c4706fa3dbb0ae6bf17b284928aba781679d1eecb9280a07c020ab1b.jpg",
+        "table_caption": [
+            "Report No.:ETX202303-07-078-01"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=4>IEC 60601-1-2:2014+A1:2020</td></tr><tr><td rowspan=1 colspan=1>Clause</td><td rowspan=1 colspan=1>Requirement + Test</td><td rowspan=1 colspan=1>Result - Remark</td><td rowspan=1 colspan=1>Verdict</td></tr></table>",
+        "bbox": [
+            60,
+            68,
+            873,
+            126
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "table",
+        "img_path": "images/f49a5718fd5e61bf2f6beb6b6419dced1e7662ea148a1638f7d87a002be3e764.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>5.2.2.3</td><td rowspan=1 colspan=1>Requirements applicable to me equipment that intentionally receive RF electromagnetic energy includethe followinginformation...- each frequency or frequency of reception,- the preferred frequency or frequency band, if applicable,and- the bandwidth of the receiving section of the MEEquipment in those bands</td><td rowspan=1 colspan=1>ReferenceDocument: N/AEquipment does notintentionally receiveRF electromagneticenergy</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>5.2.2.4</td><td rowspan=1 colspan=1>Requirements applicable to the me equipment that includeRF transmiters the technical description includes the frequency or frequency band of transmission, the type andfrequency characteristics of the modulation andthe effective radiatedpower(ERP)..</td><td rowspan=1 colspan=1>EUT does not includeRF emission</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>5.2.2.5</td><td rowspan=1 colspan=3>Requirements applicable to Permanently Installed Large me equipment and large me systems</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=3>The technical description includes the following information:</td></tr><tr><td rowspan=1 colspan=1>a)</td><td rowspan=1 colspan=1>A statement that an exemption has been used and thattheequipment has not been tested for radiated rfimmunity over the entire frequency range 80 MHz to 6GHz</td><td rowspan=1 colspan=1>The EUT is not apermanently installedlarge ME systems.</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>b)</td><td rowspan=1 colspan=1>WARNING: &quot;This equipment has been tested forradiated rf immunity only at selected frequencies, and usenearby of emitters at other frequencies could result inimproper operation&quot;</td><td rowspan=1 colspan=1>The EUT is not apermanently installedlarge ME systems.</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>c)</td><td rowspan=1 colspan=1>A list of the frequencies and modulations used to testtheimmunity of the me equipment or me systems</td><td rowspan=1 colspan=1>The EUT is not apermanently installedlarge ME systems.</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1>5.2.2.6</td><td rowspan=1 colspan=2>Requirements applicable to me equipment that claim compatibility with HFSurgicalequipment</td><td rowspan=1 colspan=1>N/A</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Technical description includes a statement of HF SurgicalEquipment compatibility and the conditions of intendeduseduring HF Surgery</td><td rowspan=1 colspan=1>ReferenceDocument: N/AThe EUT does notclaim compatibilitywith HF Surgicalequipment</td><td rowspan=1 colspan=1>N/A</td></tr></table>",
+        "bbox": [
+            60,
+            155,
+            873,
+            859
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "page_number",
+        "text": "page 26 of 29",
+        "bbox": [
+            447,
+            942,
+            539,
+            957
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "8 Photographs",
+        "text_level": 2,
+        "bbox": [
+            67,
+            71,
+            257,
+            90
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "8.1 Radiated Emission Test Setup",
+        "text_level": 2,
+        "bbox": [
+            65,
+            114,
+            378,
+            130
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/abd8991f741a7612a8bb8159e1467dd3c139ea877b8afc67798b0d4f6cbaf58c.jpg",
+        "image_caption": [
+            "Mode 1"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            94,
+            148,
+            478,
+            343
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/c28d2a0f3ae85f90d85056608fb50af1b9470475fd469903226367cb7b83071d.jpg",
+        "image_caption": [
+            "Mode 2"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            485,
+            149,
+            897,
+            343
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "8.2 ESD Test Setup",
+        "text_level": 2,
+        "bbox": [
+            67,
+            386,
+            273,
+            403
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f4fa5fd8aebadb187fc96aca73a1678f6739d59db64f79323ba730ebb2a9936.jpg",
+        "image_caption": [
+            "Discharge position"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            84,
+            417,
+            919,
+            651
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/00af375bd7d1682392cdaf000f68dbf6dbc46f597691f34b65f65fd78ca8368d.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Mode1"
+        ],
+        "bbox": [
+            70,
+            707,
+            484,
+            901
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9176bd588958aa32cf8cc9ed808515db11a796e260b7254d04f8e2d0ce3677f.jpg",
+        "image_caption": [
+            "Mode 2"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            485,
+            707,
+            919,
+            901
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            339,
+            64
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "page_number",
+        "text": "page 27 of 29",
+        "bbox": [
+            447,
+            942,
+            539,
+            957
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "8.3 Radiated Immunity Test Setup",
+        "text_level": 2,
+        "bbox": [
+            65,
+            70,
+            408,
+            86
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/c02b5c72c8a2c183d9a06a9d291d22db38c50197c35327aa00e716c643f49f7e.jpg",
+        "image_caption": [
+            "Mode 1"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            68,
+            97,
+            492,
+            328
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/5fd2545c560581d6f1e0e6f5076346eaf0056371c7aedef7d830883b49216f77.jpg",
+        "image_caption": [
+            "Mode 2"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            494,
+            97,
+            921,
+            328
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/06cc7921c8a2074276056c4ccc564afd3f64f136aab40cf63b6a1ce46a781909.jpg",
+        "image_caption": [
+            "8.4 Proximity Fields from RF Wireless Communications Equipment Test Setup"
+        ],
+        "image_footnote": [
+            "Battery Power 385MHz\\~1970MHz"
+        ],
+        "bbox": [
+            90,
+            399,
+            489,
+            609
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d3fe455dde79cfa51d5dbc5808f25dd140c3f3f8b389132a223eb9c5b7ab5f9.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "Battery Power 2450MHz\\~5785MHz"
+        ],
+        "bbox": [
+            490,
+            401,
+            915,
+            611
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "8.5 EUT",
+        "text_level": 2,
+        "bbox": [
+            67,
+            651,
+            164,
+            668
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e812217c4550060af8eb762e57360400b831c3e69ecf2c999aa2f6173774da6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            179,
+            681,
+            831,
+            929
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            341,
+            64
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "page_number",
+        "text": "page 28 of 29",
+        "bbox": [
+            447,
+            942,
+            539,
+            957
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a3a535f102e783a26897adb717ac82d61e45f9cc199c3e5b94f52b0316855b4.jpg",
+        "image_caption": [],
+        "image_footnote": [
+            "--End of the Report--"
+        ],
+        "bbox": [
+            90,
+            70,
+            902,
+            642
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "header",
+        "text": "Report No.:ETX202303-07-078-01",
+        "bbox": [
+            67,
+            48,
+            339,
+            64
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "page_number",
+        "text": "page 29 of 29",
+        "bbox": [
+            447,
+            942,
+            539,
+            957
+        ],
+        "page_idx": 29
+    }
+]

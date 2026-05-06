@@ -1,0 +1,476 @@
+[
+    {
+        "type": "table",
+        "img_path": "images/81df4b1e91ef007f78558452256328670b79f718fe9d8395c54ebc04181c3fa1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"10\">文档清单</td></tr><tr><td colspan=\"10\">产品型号:PT9L</td></tr><tr><td colspan=\"10\">提交: 审核: 批准:</td></tr><tr><td colspan=\"10\"></td></tr><tr><td>版本</td><td>图纸号</td><td>板层</td><td colspan=\"7\">版本</td></tr><tr><td>V1.0</td><td>PT9L-HFXS01 V1.0</td><td></td><td colspan=\"7\">V1.0</td></tr><tr><td rowspan=\"8\">V1.0</td><td rowspan=\"8\">PT9L-HFMP01 V1.0</td><td>Top Layer 层</td><td colspan=\"7\" rowspan=\"8\">V1.0</td></tr><tr><td colspan=\"7\">Top Overlay 层</td></tr><tr><td colspan=\"7\">Bottom Layer 层</td></tr><tr><td colspan=\"7\">Bottom Overlay 层</td></tr><tr><td colspan=\"7\">Drill Layer 层</td></tr><tr><td colspan=\"7\">拼板示意图(顶层)</td></tr><tr><td colspan=\"7\">拼板示意图(底层)</td></tr><tr><td colspan=\"7\">尺寸图</td></tr><tr><td colspan=\"4\">POWER<img src=\"images/c708ab64814fd7236c72c0a24499faa2ccc23a059dd0d6a97f60fa0369622b74.jpg\"/>DO_PCTL低电平:3.3V OFFDO_PCTL高电平:3.3V ON</td><td colspan=\"2\">LVD<img src=\"images/54def4672539cc2e407ef95bbca2fe2f1f81d10e9fdb96ac06a549a89bd38b0c.jpg\"/></td><td colspan=\"2\">MUTE KEY<img src=\"images/eba8a73fc354a81b46c30b11e69e74c08185881590094072d43457c5f515d855.jpg\"/></td><td colspan=\"2\">KEY<img src=\"images/fd9ebfeb1e2f3dbf6048e0b36daa61502ab1e41242e885cca913321758ab84ea.jpg\"/><img src=\"images/1ae147146c14da48f43c61dee013d31fd070ef2c3cd5fa1db66c1a1c24be8aef.jpg\"/></td></tr><tr><td colspan=\"5\" rowspan=\"4\">MCU<img src=\"images/0556d96bd5fc0e98f1323dbbc89b10cf33e6caf604cd1ac221fb2600c1c621a6.jpg\"/></td><td colspan=\"2\">LED<img src=\"images/1cd7b09e242fc7a40f5ee5252ef35211df6b635d78937a9b9ec5baff1d46a40d.jpg\"/>高电平:LED变低电平:LED亮</td><td colspan=\"3\" rowspan=\"2\">SENSOR<img src=\"images/71081208205b851c7292d97dc4739a2930a2a23b427d5dee998d1e4c5c1a9ee8.jpg\"/></td></tr><tr><td colspan=\"2\" rowspan=\"3\"><img src=\"images/99740788a2f4fdc6f3c943fb93969e0398b3770547ad685abcb7cde816011c91.jpg\"/></td></tr><tr><td colspan=\"3\">NTC<img src=\"images/92fb6f06f320170c3e523c84e9a6c7d375704c94176d75d490198a7264fd0533.jpg\"/></td></tr><tr><td colspan=\"3\">BEEP<img src=\"images/e6e979384371ad6846dc74e8d3b275b4d424e2f6d0fceb8b1837080119091785.jpg\"/>Buzzer Frequency:4kHz</td></tr><tr><td>1</td><td>2</td><td>3</td><td colspan=\"2\">4</td><td>5</td><td colspan=\"2\">6</td><td>7</td><td>8</td></tr></table>",
+        "bbox": [
+            58,
+            49,
+            937,
+            303
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            157,
+            102,
+            839,
+            798
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/58f5fdef97be48ce01014430bb80c46105907b28d108514c9d7d29dbbbed4625.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>3</td><td></td><td></td><td>产品名称 红外体温计</td><td colspan=\"2\">产品型号 PT9L</td><td>版本 V1.0</td><td rowspan=\"3\"></td></tr><tr><td>2</td><td></td><td></td><td colspan=\"3\">原理图编号 PT9L-HFXS01 V1.0</td><td></td></tr><tr><td>1</td><td></td><td></td><td>设计</td><td>审核</td><td>批准</td><td>第1页 共1页</td></tr><tr><td>NO.</td><td>更改记录</td><td>更改时间</td><td>日期</td><td>日期</td><td>日期</td><td></td><td></td></tr></table>",
+        "bbox": [
+            5,
+            853,
+            991,
+            944
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/03d2ffae42348254e1d9f8f0768833cfd2f80fd10bfd9ea5b6f9d28773096c26.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Pure electrical circuit lines without any symbols",
+        "sub_type": "natural_image",
+        "bbox": [
+            433,
+            151,
+            562,
+            749
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/25c2febadab817ca8d72ead5f6055059789d8abba0b98796204fd144e6067d94.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>3</td><td></td><td></td><td>产品名称 红外体温计</td><td colspan=\"2\">产品型号 PT9L</td><td>版本 V1.0</td><td rowspan=\"3\"></td></tr><tr><td>2</td><td></td><td></td><td colspan=\"3\">PCB编号 PT9L-HFMP01 V1.0</td><td>Top Layer 层</td></tr><tr><td>1</td><td></td><td></td><td>设计</td><td>审核</td><td>批准</td><td>第 1 页 共 7 页</td></tr><tr><td>NO.</td><td>更改记录</td><td>更改时间</td><td>日期</td><td>日期</td><td>日期</td><td></td><td></td></tr></table>",
+        "bbox": [
+            5,
+            850,
+            990,
+            944
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0e8f16bb2b0475e45513f33a2a532a5bdfc84c05060fd5798deee691a4c0c77.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "LCD\n1 16\nS1\nS2\nNTC1\nPCTL\nNTC2 B-1 B-2\nBZ\nMK W VBAT\nGND Y R\nLEDY LEDR\nC4 C3 L1\nU1 C2\nB1\n-\n+\nPT9L-HFMP01 V1.0\nB2",
+        "sub_type": "text_image",
+        "bbox": [
+            433,
+            151,
+            562,
+            749
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/45e217632f10066a4a5e4e2326a38c1bd6fbede7ca6dab5b39b99f4cb9728e5c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>3</td><td></td><td></td><td colspan=\"2\">产品名称 红外体温计</td><td colspan=\"2\">产品型号 PT9L</td><td>版本 V1.0</td><td rowspan=\"3\"></td></tr><tr><td>2</td><td></td><td></td><td colspan=\"4\">PCB编号 PT9L-HFMP01 V1.0</td><td>Top Overlay 层</td></tr><tr><td>1</td><td></td><td></td><td>设计</td><td colspan=\"2\">审核</td><td>批准</td><td>第 2页 共 7页</td></tr><tr><td>NO.</td><td>更改记录</td><td>更改时间</td><td>日期</td><td colspan=\"2\">日期</td><td>日期</td><td></td><td></td></tr></table>",
+        "bbox": [
+            5,
+            850,
+            990,
+            944
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d979423e19281defdcbb8efb87158a590b5380d4de4da97ec326b99f2599efa5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Pure electrical circuit lines without any symbols",
+        "sub_type": "natural_image",
+        "bbox": [
+            433,
+            151,
+            562,
+            749
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b3389b2f077482b64037b9172aac40e808eb67d342a58e71484d0291cd631277.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>3</td><td></td><td></td><td colspan=\"2\">产品名称 红外体温计</td><td colspan=\"2\">产品型号 PT9L</td><td>版本 V1.0</td><td rowspan=\"3\"></td></tr><tr><td>2</td><td></td><td></td><td colspan=\"4\">PCB编号 PT9L-HFMP01 V1.0</td><td>Bottom layer 层</td></tr><tr><td>1</td><td></td><td></td><td>设计</td><td colspan=\"2\">审核</td><td>批准</td><td>第 3页 共 7页</td></tr><tr><td>NO.</td><td>更改记录</td><td>更改时间</td><td>日期</td><td colspan=\"2\">日期</td><td>日期</td><td></td><td></td></tr></table>",
+        "bbox": [
+            5,
+            850,
+            990,
+            944
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/84f1bbe95349e879f7477c1401aa407e765298a6469c9416069a7c2459011585.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "SENSOR\nU2\nC16\nR13\nC14\nC15\nC13\nR12\nR14\nR11\nNTC\nTX\nG C\nC8\nC7\nC5\nC12\nC10\nD V\nR3\nC18\nICP\nC5 C6 R2\nR16 R17 R1\nR5 R6\nBUZZER\nVBAT\nGND\nC1\nF1\nR8\nD1\nB3\n-\n+\n-\n-",
+        "sub_type": "text_image",
+        "bbox": [
+            433,
+            151,
+            562,
+            749
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f896e146a15d69a150e3d1ac03e12b9b87f6053b744cdedf03dd592226e6a458.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>3</td><td></td><td></td><td colspan=\"2\">产品名称 红外体温计</td><td colspan=\"2\">产品型号 PT9L</td><td>版本 V1.0</td><td rowspan=\"3\"></td></tr><tr><td>2</td><td></td><td></td><td colspan=\"4\">PCB编号 PT9L-HFMP01 V1.0</td><td>Bottom Overlay 层</td></tr><tr><td>1</td><td></td><td></td><td>设计</td><td colspan=\"2\">审核</td><td>批准</td><td>第 4页 共 7页</td></tr><tr><td>NO.</td><td>更改记录</td><td>更改时间</td><td>日期</td><td colspan=\"2\">日期</td><td>日期</td><td></td><td></td></tr></table>",
+        "bbox": [
+            5,
+            853,
+            990,
+            944
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "chart",
+        "img_path": "images/fab2945f78653cadf6e45e4f22e776666888b198d889beca8548612dc9303b42.jpg",
+        "content": "| Dimension | Value   |\n| --------- | ------- |\n| Top Width | 24.4mm  |\n| Bottom Width | 84.7mm  |",
+        "chart_caption": [],
+        "chart_footnote": [],
+        "sub_type": "other",
+        "bbox": [
+            422,
+            151,
+            573,
+            749
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/146e1f5f58b10a5c81836f5d6a2d1a74d5f83f0db7e2b9b0dfd3fefecd677f04.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            817,
+            184,
+            929,
+            225
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2beb176afcd3afd9ad65cd2ed7b6ebabe5cc73de458cadd7b094456186da571.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            817,
+            253,
+            921,
+            292
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/58f75b59a8f5b89010449dcc7b0dfe81471416d3fadb3b0ace08b27683a082b9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            815,
+            310,
+            921,
+            356
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf70145b7ffd22b6dcb2bc86a68e89e896e6d057eec4021510e738b42c10f477.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            815,
+            369,
+            921,
+            411
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce26cac4cec84fccaeff58054550cfd491eedc61defe2bb7f84dba11b3db5d6f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            815,
+            426,
+            916,
+            467
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2039488727895bc41754345d2565599d50f7c42ebf20a0a81ab88683ab458127.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "",
+        "bbox": [
+            818,
+            485,
+            918,
+            527
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "双面板",
+        "bbox": [
+            813,
+            608,
+            866,
+            636
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "材质：FR4 ",
+        "bbox": [
+            813,
+            638,
+            896,
+            663
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "颜色：绿油 ",
+        "bbox": [
+            813,
+            667,
+            901,
+            692
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表面处理：喷锡",
+        "bbox": [
+            814,
+            695,
+            938,
+            722
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "所有过孔不开窗",
+        "bbox": [
+            814,
+            724,
+            937,
+            752
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d19ea1a0953070bebb40e8bb4978dcbb815d9461f5b234926248db6af4629882.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>3</td><td></td><td></td><td colspan=\"2\">产品名称 红外体温计</td><td colspan=\"2\">产品型号 PT9L</td><td>版本 V1.0</td><td rowspan=\"3\"></td></tr><tr><td>2</td><td></td><td></td><td colspan=\"4\">PCB编号 PT9L-HFMP01 V1.0</td><td>Drill Layer 层</td></tr><tr><td>1</td><td></td><td></td><td>设计</td><td colspan=\"2\">审核</td><td>批准</td><td>第5页 共7页</td></tr><tr><td>NO.</td><td>更改记录</td><td>更改时间</td><td>日期</td><td colspan=\"2\">日期</td><td>日期</td><td></td><td></td></tr></table>",
+        "bbox": [
+            5,
+            853,
+            990,
+            944
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1443bd666595aeabc4efcf1df49b7a32b05f9ab518fd5e4acfe3424c9b29863.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "128.0mm\n179.4mm\nLCD\nLCD\nLCD\nLCD\nLCD\nLCD\nLCD\nPT9L-HFP01 V1.0\nPT9L-HFP01 V1.0\nPT9L-HFP01 V1.0\nPT9L-HFP01 V1.0\nPT9L-HFP01 V1.0\nPT9L-HFP01 V1.0\nPT9L-HFP01 V1.0\nPT9L-HFP01 V1.0\nPT9L-HFP01 V1.0\nPT9H-76Ld\nPT9H-76Ld\nPT9H-76Ld\nPT9H-76Ld\nPT9H-76Ld\nPT9H-76Ld\nPT9H-76Ld\nPT9H-76Ld\nPT9H-76Ld\nPT9H-76Ld\nPT9H-76Ld\nPT9H-76Ld",
+        "sub_type": "text_image",
+        "bbox": [
+            340,
+            152,
+            653,
+            747
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/7683e45ae6ceeb1ecdb25c58fd97e3e739d9fda7b941f3228e64838a53c52b57.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>3</td><td></td><td></td><td colspan=\"2\">产品名称 红外体温计</td><td colspan=\"2\">产品型号 PT9L</td><td>版本 V1.0</td></tr><tr><td>2</td><td></td><td></td><td colspan=\"3\">PCB编号 PT9L-HFMP01 V1.0</td><td colspan=\"2\">拼板示意图(顶层)</td></tr><tr><td>1</td><td></td><td></td><td>设计</td><td>审核</td><td>批准</td><td colspan=\"2\">第6页 共7页</td></tr><tr><td>NO.</td><td>更改记录</td><td>更改时间</td><td>日期</td><td>日期</td><td>日期</td><td colspan=\"2\"></td></tr></table>",
+        "bbox": [
+            5,
+            853,
+            990,
+            944
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a62925d7d1d05ac6d7647f68e2c58bfea8fcc0c24da608efa38f95c818fccde.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Circuit board layout diagram with labeled components including sensors, relays, and ICs",
+        "sub_type": "text_image",
+        "bbox": [
+            347,
+            152,
+            650,
+            747
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8b964f6a47ea549d3425995c5c5c5278cb74ca798493aa3d01db452b98bd767.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>3</td><td></td><td></td><td colspan=\"2\">产品名称 红外体温计</td><td colspan=\"2\">产品型号 PT9L</td><td>版本 V1.0</td></tr><tr><td>2</td><td></td><td></td><td colspan=\"3\">PCB编号 PT9L-HFMP01 V1.0</td><td colspan=\"2\">拼板示意图(底层)</td></tr><tr><td>1</td><td></td><td></td><td>设计</td><td>审核</td><td>批准</td><td colspan=\"2\">第7页 共7页</td></tr><tr><td>NO.</td><td>更改记录</td><td>更改时间</td><td>日期</td><td>日期</td><td>日期</td><td colspan=\"2\"></td></tr></table>",
+        "bbox": [
+            5,
+            853,
+            990,
+            942
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "尺寸序号",
+        "bbox": [
+            935,
+            33,
+            988,
+            53
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "chart",
+        "img_path": "images/24eb910cbc381f17849b3080df59195dffe4ac801811bf6476e72c8ab27b72e1.jpg",
+        "content": "| Dimension | Value |\n| --------- | ----- |\n| Length    | 84.7  |\n| Width     | 43.4  |\n| Height    | 43.2  |\n| Base      | 40    |\n| Width     | 34.4  |\n| Height    | 27.6  |\n| Width     | 20.15 |\n| Base      | 14    |\n| Width     | 8.5   |\n| Height    | 1.6   |\n| Width     | 1.6   |\n| Base      | 1.2   |\n| Width     | 6.85  |\n| Height    | 24.4  |\n| Width     | 2.2   |\n| Height    | 2.7   |\n| Width     | 1.6   |\n| Base      | 0.7   |\n| Width     | 0.7   |\n| Height    | 4.15  |\n| Width     | 8.95  |\n| Base      | 12.2  |\n| Width     | 12.2  |\n| Height    | 8.2   |\n| Width     | 9.2   |\n| Base      | 5.7   |\n| Width     | 13.9  |\n| Height    | 24.5  |\n| Width     | 2.5   |\n| Height    | 21.2  |\n| Width     | 18.2  |\n| Height    | 16.2  |\n| Width     | 2.6   |\n| Base      | 2-Φ0.8|\n| Width     | 2-Φ1.6|\n| Height    | 2-Φ1.6|\n| Width     | 2-Φ2.4|\n| Height    | 2-Φ2.4|\n| Width     | 2-Φ1.6|\n| Base      | 2-Φ0.8|\n| Width     | 0.7   |\n| Height    | 6.85  |\n| Width     | 1.6   |\n| Height    | 1.6   |\n| Width     | 1.6   |\n| Height    | 12.2  |\n| Width     | 1.6   |\n| Height    | 8.5   |\n| Width     | 8.5   |\n| Height    | 6.85  |\n| Width     | 6.85  |\n| Height    | 6.85  |\n| Width     | 6.85  |\n| Height    | 6.85  |\n| Width     | 6.85  |\n| Height    | 6.85  |\n| Width     | 6.85  |\n| Height    | 6.85  |\n| Width     | 6.85  |\n| Height    | 6.85  |",
+        "chart_caption": [],
+        "chart_footnote": [],
+        "sub_type": "other",
+        "bbox": [
+            290,
+            36,
+            783,
+            784
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "技术要求：",
+        "bbox": [
+            48,
+            727,
+            143,
+            761
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1 . TH . = 1 . 0 ± 0 . 1 ",
+            "2 . 产 品 符合roh s 2 . 0"
+        ],
+        "bbox": [
+            48,
+            764,
+            237,
+            833
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/07bc59e00bd888cec15339abb980bf431fe9adfffbe01599a6f9631212fecf2e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\">DTM\\LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>&lt; 5</td><td>±0.03</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 5~15</td><td>±0.05</td><td>±0.1</td><td>±0.15</td></tr><tr><td>&gt; 15~50</td><td>±0.05</td><td>±0.1</td><td>±0.2</td></tr><tr><td>&gt; 50~100</td><td>±0.08</td><td>±0.2</td><td>±0.3</td></tr><tr><td>&gt;100</td><td>±0.1%</td><td>±0.2%</td><td>±0.3%</td></tr><tr><td>ANGULAR</td><td>±0.1°</td><td>±0.5°</td><td>±0.5°</td></tr><tr><td colspan=\"2\">SELECT LEVEL</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\">B</td></tr></table>",
+        "bbox": [
+            873,
+            690,
+            998,
+            868
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/b33dfceeb441e76c8564ed8bee2e3e2fe7feea088937174ce041d633d036feb6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>3</td><td></td><td></td><td></td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td>环氧树脂板</td><td>Model NO.</td><td colspan=\"2\">T-Z1</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">PCB</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">T-Z1-P13</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+        "bbox": [
+            0,
+            868,
+            998,
+            998
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "aside_text",
+        "text": "A B C D E F G H ",
+        "bbox": [
+            0,
+            0,
+            998,
+            28
+        ],
+        "page_idx": 9
+    }
+]

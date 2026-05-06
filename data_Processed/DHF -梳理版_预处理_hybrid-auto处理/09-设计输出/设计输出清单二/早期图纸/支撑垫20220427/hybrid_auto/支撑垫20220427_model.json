@@ -1,0 +1,228 @@
+[
+    [
+        {
+            "type": "table",
+            "bbox": [
+                0.0,
+                0.0,
+                0.131,
+                0.999
+            ],
+            "angle": 270,
+            "content": "<table><tr><td>3</td><td></td><td>K03020002129</td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>聚氨酯</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>2</td><td>V2.0变更材质、形象</td><td>2022.04.27</td><td>Design</td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td></tr><tr><td>1</td><td>V1.0初版制作</td><td>2021.07.15</td><td>Chuckup</td><td></td><td>.XX</td><td></td><td>Scale</td><td></td><td>Drawing NO.</td></tr><tr><td>No.</td><td>更改时间</td><td>Approve</td><td></td><td></td><td></td><td>.X°</td><td></td><td>Units</td><td>mm</td></tr></table>"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.131,
+                0.0,
+                0.999,
+                0.014
+            ],
+            "angle": 270,
+            "content": "8\n7\n6\n5\n4\n3\n2\n1"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.916,
+                0.024,
+                0.963,
+                0.102
+            ],
+            "angle": 270,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.284,
+                0.182,
+                0.688,
+                0.548
+            ],
+            "angle": 270,
+            "content": "4±0.1\nR515+0.05\nR32540.05",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.373,
+                0.678,
+                0.493,
+                0.892
+            ],
+            "angle": 270,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "text",
+            "bbox": [
+                0.509,
+                0.678,
+                0.562,
+                0.784
+            ],
+            "angle": 270,
+            "content": null,
+            "merge_prev": false
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.131,
+                0.875,
+                0.307,
+                0.999
+            ],
+            "angle": 270,
+            "content": "<table><tr><td rowspan=\"2\">LEVEL</td><td colspan=\"3\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td></tr><tr><td>DTM</td><td>A</td><td></td><td></td></tr><tr><td>&lt; 5</td><td>≠003</td><td>≠01</td><td>≠015</td></tr><tr><td>&gt; 5~50</td><td>≠005</td><td>≠01</td><td>≠02</td></tr><tr><td>&lt; 50~100</td><td>≠008</td><td>≠02</td><td>≠03</td></tr><tr><td>&gt;100</td><td>≠0%</td><td>≠02%</td><td>≠03%</td></tr><tr><td>ANGULFR</td><td>≠0.10</td><td>≠0.50</td><td>≠0.50</td></tr><tr><td>SELECT LEVEL</td><td></td><td></td><td></td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.947,
+                0.937,
+                0.965,
+                0.989
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.909,
+                0.019,
+                0.967,
+                0.108
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.467,
+                0.676,
+                0.493,
+                0.894
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.397,
+                0.677,
+                0.423,
+                0.839
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.421,
+                0.677,
+                0.446,
+                0.777
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.374,
+                0.678,
+                0.398,
+                0.798
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.444,
+                0.689,
+                0.469,
+                0.808
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.512,
+                0.676,
+                0.541,
+                0.757
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.539,
+                0.677,
+                0.563,
+                0.785
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.506,
+                0.681,
+                0.513,
+                0.687
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.504,
+                0.69,
+                0.516,
+                0.712
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.504,
+                0.721,
+                0.516,
+                0.742
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.945,
+                0.935,
+                0.967,
+                0.993
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ]
+]

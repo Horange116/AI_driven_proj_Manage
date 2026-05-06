@@ -1,0 +1,175 @@
+[
+    [
+        {
+            "type": "table",
+            "bbox": [
+                0.0,
+                0.0,
+                0.118,
+                0.999
+            ],
+            "angle": 270,
+            "content": "<table><tr><td>6</td><td></td><td>3</td><td></td><td>Signature</td><td>Date</td><td>Tolerance</td><td>Pro material</td><td>ABS</td><td>Model NO.</td><td>T-Z1</td></tr><tr><td>5</td><td></td><td>2</td><td></td><td>Design</td><td></td><td></td><td>X</td><td></td><td>Part name</td><td>下盖</td></tr><tr><td>4</td><td></td><td>1</td><td>初版制作</td><td>2021.07.15</td><td>Checkkup</td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1 Drawing NO.</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td>.X°</td><td></td></tr></table>"
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.12,
+                0.0,
+                0.999,
+                0.014
+            ],
+            "angle": 270,
+            "content": "8\n7\n6\n5\n4\n3\n2\n1"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.131,
+                0.036,
+                0.38,
+                0.611
+            ],
+            "angle": 270,
+            "content": "产品技术要求:\n1.带编号为重要尺寸,需要IGC测量;\n2.材质为ABS(白色);产品外观良好、无拉伤,变形,批牌,熔接痕,\n气改,顶白,铁改,缩水等不良现象;\n3.项试装产品,并能顺利装入产品,未标注尺寸以样板为准;\n品质控检验结构时,请以结构面板和组装(实现)为准;\n4.产品符合ROHS 2.0;\n5.44\n6.9\n11.2\n// 0.1\n偏移公差0.2以内\n静音Icon丝印,各号:PANTONE COOL GRAY 6u\n清除不能连斜,位置准确,规格详见A1文件\n静音显示印,各号:PANTONE COOL GRAY 6u",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.367,
+                0.036,
+                0.964,
+                0.615
+            ],
+            "angle": 270,
+            "content": "PROJECTED B\nSECTION A-A\nB\n3.2+0.05\nØ10±0.05\nØ10±0.05\nØ2±0.05\nØ3±0.05\nØ4±0.05\nØ5±0.05\nØ6±0.05\nØ7±0.05\nØ8±0.05\nØ9±0.05\nØ10±0.05\nØ11±0.05\nØ12±0.05\nØ13±0.05\nØ14±0.05\nØ15±0.05\nØ16±0.05\nØ17±0.05\nØ18±0.05\nØ19±0.05\nØ20±0.05\nØ21±0.05\nØ22±0.05\nØ23±0.05\nØ24±0.05\nØ25±0.05\nØ26±0.05\nØ27±0.05\nØ28±0.05\nØ29±0.05\nØ30±0.05\nØ31±0.05\nØ32±0.05\nØ33±0.05\nØ34±0.05\n① 130,1±0,1\n② 34,1±0,05\nC\nA",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.131,
+                0.68,
+                0.353,
+                0.884
+            ],
+            "angle": 270,
+            "content": "Technical line drawing of two mechanical components with internal mechanisms (no text or symbols)",
+            "sub_type": "natural_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.367,
+                0.639,
+                0.895,
+                0.97
+            ],
+            "angle": 270,
+            "content": "46.6\n6.2\n1.1\nAAA1.5V+\n+AAA1.5V\n1.4\nD\nSECTION C-C\n0.88±0.03",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image_caption",
+            "bbox": [
+                0.91,
+                0.68,
+                0.962,
+                0.768
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.728,
+                0.03,
+                0.948,
+                0.188
+            ],
+            "angle": 270,
+            "content": "φ10±0.05\n3.3±0.05\n12±0.05",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "image",
+            "bbox": [
+                0.735,
+                0.25,
+                0.964,
+                0.599
+            ],
+            "angle": 270,
+            "content": "SECTION A-A\nB",
+            "sub_type": "text_image"
+        },
+        {
+            "type": "table",
+            "bbox": [
+                0.117,
+                0.913,
+                0.242,
+                0.997
+            ],
+            "angle": 270,
+            "content": "<table><tr><td rowspan=\"2\">LEVEL</td><td colspan=\"4\">GENERAL TOLERANCE</td></tr><tr><td>A</td><td>B</td><td>C</td><td></td></tr><tr><td>DTM</td><td colspan=\"4\">A</td></tr><tr><td>&lt; 5</td><td>≠03</td><td>≠01</td><td>≠0.5</td><td></td></tr><tr><td>&gt; 5-50</td><td>≠005</td><td>≠01</td><td>≠02</td><td></td></tr><tr><td>&gt; 50-100</td><td>≠008</td><td>≠02</td><td>≠03</td><td></td></tr><tr><td>&gt;100</td><td>≠01%</td><td>≠02%</td><td>≠03%</td><td></td></tr><tr><td>AGRICULAR</td><td>R</td><td>≠0.7</td><td>≠0.5</td><td>≠0.5</td></tr><tr><td>SLEETCT</td><td>L</td><td>LEVEL</td><td></td><td></td></tr></table>"
+        },
+        {
+            "type": "page_number",
+            "bbox": [
+                0.955,
+                0.955,
+                0.969,
+                0.993
+            ],
+            "angle": 270,
+            "content": null
+        },
+        {
+            "type": "aside_text",
+            "bbox": [
+                0.973,
+                0.0,
+                0.999,
+                0.999
+            ],
+            "angle": 270,
+            "content": "H | G | F | E | F | G | H"
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.906,
+                0.694,
+                0.94,
+                0.769
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.938,
+                0.7,
+                0.964,
+                0.764
+            ],
+            "text": "",
+            "score": 1.0
+        },
+        {
+            "type": "ocr_text",
+            "bbox": [
+                0.955,
+                0.955,
+                0.97,
+                0.995
+            ],
+            "text": "",
+            "score": 1.0
+        }
+    ]
+]

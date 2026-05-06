@@ -1,0 +1,451 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "andon "
+                    }
+                ]
+            },
+            "bbox": [
+                65,
+                68,
+                136,
+                110
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/4761a2478fd581ab906b851d6832318758b124fcb8fe6c234a7799255502d1c2.jpg"
+                },
+                "content": "46.5mm\n19.5mm\niHealth Clinical Digital Thermometer\nModel: PT1 Measurement position: oral Made in China\nPower source: DC=3V, CR1632\nManufactured for iHealth Labs, Inc. www.ihealthlabs.com\n120 San Lucar Ct., Sunnyvale, CA 94086, USA\nAndon Health Co., LTD.\nNo. 3 Jin Ping Street, Ya An Road, Nankai\nDistrict, Tianjin 300190, China.\nLOT 201012011001 IP22\n说明：\n字体：Myriad Pro Bold\n字号：5.5pt\n字体：Myriad Pro 6pt",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "text_image",
+            "bbox": [
+                91,
+                194,
+                302,
+                376
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "46.5mm "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                583,
+                386,
+                731,
+                436
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "比例 1:1"
+                    }
+                ]
+            },
+            "bbox": [
+                181,
+                450,
+                259,
+                484
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "19.5mm "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                280,
+                586,
+                426,
+                640
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "本件要求通过RoHS测试"
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                722,
+                189,
+                744
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "说明：材质为25#透明PET覆哑胶 "
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                752,
+                239,
+                774
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "印刷颜色：C+M+PANTONE Cool gray 7c 三色印刷"
+                    }
+                ]
+            },
+            "bbox": [
+                60,
+                781,
+                343,
+                803
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "iHealth Clinical Digital Thermometer "
+                    }
+                ]
+            },
+            "bbox": [
+                521,
+                512,
+                847,
+                546
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Model: PT1 Measurement position: oral Made in China "
+                    }
+                ]
+            },
+            "bbox": [
+                476,
+                547,
+                889,
+                571
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Power source: DC==3V, CR1632 "
+                    }
+                ]
+            },
+            "bbox": [
+                476,
+                571,
+                705,
+                594
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Manufactured for iHealth Labs, Inc. www.ihealthlabs.com "
+                    }
+                ]
+            },
+            "bbox": [
+                476,
+                594,
+                881,
+                616
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "120 San Lucar Ct., Sunnyvale, CA 94086, USA "
+                    }
+                ]
+            },
+            "bbox": [
+                476,
+                618,
+                789,
+                642
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/24520e711e2caf7444a197f097b25914d46836c21a250d03948a16c41399aa24.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                476,
+                647,
+                502,
+                689
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Andon Health Co., LTD. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                645,
+                669,
+                668
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "No. 3 Jin Ping Street, Ya An Road, Nankai "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                668,
+                789,
+                692
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "District, Tianjin 300190, China. "
+                    }
+                ]
+            },
+            "bbox": [
+                507,
+                692,
+                719,
+                715
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LOT 201012011001 "
+                    }
+                ]
+            },
+            "bbox": [
+                508,
+                719,
+                684,
+                751
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/1a7454164ab634889ba2b71f275f46732e331652cf1d65993ea0a397bbdb7fe8.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                722,
+                712,
+                751,
+                752
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "IP22 "
+                    }
+                ]
+            },
+            "bbox": [
+                757,
+                719,
+                803,
+                752
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "FC "
+                    }
+                ]
+            },
+            "bbox": [
+                804,
+                645,
+                841,
+                684
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f79b986f57224e88377021f5d1c19ddace09b2be94922c4b875cc3d88bae0d21.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                843,
+                620,
+                897,
+                702
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f9d65b3ec058eb3927adcfe3ea6d23312d4e3a84e0731411a4356051816ddbb4.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                843,
+                707,
+                894,
+                726
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/12adb265f51364527fe24bef2cfee549ef070a73c45585702bc251342161320a.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>3</td><td></td><td></td><td>K04080002146</td><td>Signature</td><td>Date</td><td colspan=\"2\">Tolerance</td><td>Pro material</td><td></td><td>Model NO.</td><td colspan=\"2\">PT1</td></tr><tr><td>2</td><td></td><td></td><td>Design</td><td></td><td></td><td>.X</td><td></td><td>Surf dispose</td><td></td><td>Part name</td><td colspan=\"2\">铭牌</td></tr><tr><td>1</td><td></td><td></td><td>Checkup</td><td></td><td></td><td>.XX</td><td></td><td>Scale</td><td>1:1</td><td>Drawing NO.</td><td colspan=\"2\">PT1-F05</td></tr><tr><td>No.</td><td>更改记录</td><td>更改时间</td><td>Approve</td><td></td><td></td><td> $X^{\\circ}$ </td><td></td><td>Units</td><td>mm</td><td></td><td>Edition</td><td>V1.0</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                30,
+                833,
+                963,
+                949
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "1\n2\n3\n4\n5\n6\n7\n8 "
+                    }
+                ]
+            },
+            "bbox": [
+                30,
+                70,
+                42,
+                763
+            ]
+        },
+        {
+            "type": "page_aside_text",
+            "content": {
+                "page_aside_text_content": [
+                    {
+                        "type": "text",
+                        "content": "A | B | C | D | E | F | G | H "
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                33,
+                910,
+                48
+            ]
+        }
+    ]
+]

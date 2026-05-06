@@ -1,0 +1,1051 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Risk Management Report",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "(V1.0)",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Product Model:"
+                    },
+                    {
+                        "type": "text",
+                        "content": " PT9L",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Project Number: "
+                    },
+                    {
+                        "type": "text",
+                        "content": "30000078",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Product  name: "
+                    },
+                    {
+                        "type": "text",
+                        "content": "   Infrared Forehead Thermometer\t",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Drafted by",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Regulation Engineer)",
+                        "style": [
+                            "italic"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "                    ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "Date:"
+                    },
+                    {
+                        "type": "text",
+                        "content": "                ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Reviewed by",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Certification Engineer)",
+                        "style": [
+                            "italic"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "                 ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "Date:"
+                    },
+                    {
+                        "type": "text",
+                        "content": "                ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Approved by",
+                        "style": [
+                            "bold"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Product Line Manager‌)",
+                        "style": [
+                            "italic"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "                 ",
+                        "style": [
+                            "underline"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "\tDate:"
+                    },
+                    {
+                        "type": "text",
+                        "content": "                ",
+                        "style": [
+                            "underline"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "DN：PT9L-FXGB01 V1.0                                      Risk Management Report"
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p><strong>No.</strong></p></td><td><p><strong>Version Date </strong></p></td><td><p><strong>Version Description</strong></p></td><td><p><strong>Version</strong></p></td><td><p><strong>Drafter</strong></p></td><td><p><strong>Approver</strong></p></td></tr><tr><td><p>1</p></td><td><p>2024.10.22</p></td><td><p>Originated</p></td><td><p>V1.0</p></td><td><p>Wang Dilong</p></td><td><p>Hou Guangwei</p></td></tr><tr><td><p><a></a></p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Version History",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "DN：PT9L-FXGB01 V1.0                                      Risk Management Report"
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Contents",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "index",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "-",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1. Overview\t2"
+                            }
+                        ],
+                        "anchor": "_Toc23436"
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 1,
+                        "prefix": "    -",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.1 Introduction of the product\t2"
+                            }
+                        ],
+                        "anchor": "_Toc30149"
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 1,
+                        "prefix": "    -",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.2 Introduction on implementation of the risk management plan\t2"
+                            }
+                        ],
+                        "anchor": "_Toc31475"
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 1,
+                        "prefix": "    -",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.3 Risk management team\t2"
+                            }
+                        ],
+                        "anchor": "_Toc16460"
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "-",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2. Criteria of risk evaluation\t3"
+                            }
+                        ],
+                        "anchor": "_Toc16452"
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "-",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3. Risk Management File\t3"
+                            }
+                        ],
+                        "anchor": "_Toc9279"
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "-",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4. Risk Management Review\t3"
+                            }
+                        ],
+                        "anchor": "_Toc4309"
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 1,
+                        "prefix": "    -",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4.1 Review of the Risk Management Plan\t3"
+                            }
+                        ],
+                        "anchor": "_Toc29938"
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 1,
+                        "prefix": "    -",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "4.2 About Information on the acceptance of Residual risk.\t3"
+                            }
+                        ],
+                        "anchor": "_Toc12466"
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "-",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5. Review on Production and after Production\t3"
+                            }
+                        ],
+                        "anchor": "_Toc21531"
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "-",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "6. Risk Management File Review\t3"
+                            }
+                        ],
+                        "anchor": "_Toc30991"
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "-",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "7. Conclusion of Risk Management Review\t4"
+                            }
+                        ],
+                        "anchor": "_Toc25366"
+                    },
+                    {
+                        "item_type": "text",
+                        "ilevel": 0,
+                        "prefix": "-",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Signature of the risk management group\t5"
+                            }
+                        ],
+                        "anchor": "_Toc18183"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "DN：PT9L-FXGB01 V1.0                                      Risk Management Report"
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Overview",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ],
+                "level": 1
+            },
+            "anchor": "_Toc23436"
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1.1 Introduction of the product",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ],
+                "level": 3
+            },
+            "anchor": "_Toc30149"
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This product is a high-tech infra-red (IR) thermometer designed to take human body temperature by measuring the energy of IR emitted from the forehead. The product will help you to assess you and your family members’ health conditions easily and quickly."
+                    }
+                ]
+            },
+            "anchor": "_Toc3055"
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1.2 Introduction on implementation of the risk management plan",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ],
+                "level": 3
+            },
+            "anchor": "_Toc31475"
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The risk management activity including the risk management plan was began at the time the project is approved."
+                    }
+                ]
+            },
+            "anchor": "_Toc4045"
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The risk management plan has defined the acceptance criteria of risk, and has also arranged the risk management review activity. The risk management group is established to ensure the risk management activity of the current project will be implemented effectively according to the risk management plan."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "On the development phase and prototype phase of the Infrared Forehead Thermometer, the risk management group reviewed the risk management respectively, and documented the risk management files."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The objective of this review is to take a complete evaluation on risk management activity performed on each phase before the product is marketed, to ensure that the risk management plan has been accomplished.  And according to evaluating the risk analysis, risk assessment and control, and the acceptance of the residual risk, to ensure that all the risks has been managed and all the residual risk can be accepted."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1.3 Risk management team ",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ],
+                "level": 3
+            },
+            "anchor": "_Toc16460"
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "People participate in this risk assessment:"
+                    }
+                ]
+            },
+            "anchor": "_Toc28938"
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p><a></a>MEMBER</p></td><td><p>POST IN THIS GROUP</p></td><td><p>NAME</p></td></tr><tr><td><p>Technical director</p></td><td><p>Group leader</p></td><td><p>Hou Guangwei</p></td></tr><tr><td><p>Project Leader</p></td><td><p>Member</p></td><td><p>Wang Dilong</p></td></tr><tr><td><p>Hardware design director</p></td><td><p>Member</p></td><td><p>Wan Long</p></td></tr><tr><td><p>Software design director</p></td><td><p>Member</p></td><td><p>Wang Di</p></td></tr><tr><td><p>Mechanical</p><p>Design director</p></td><td><p>Member</p></td><td><p>Liu Zhao</p></td></tr><tr><td><p>Quality management personnel  </p></td><td><p>Member</p></td><td><p>Zhang Xun</p></td></tr><tr><td><p>Process design personnel</p></td><td><p>Member</p></td><td><p>Cheng Minjie</p></td></tr><tr><td><p>Sales personnel </p></td><td><p>Member</p></td><td><p>Zhao Yiping</p></td></tr><tr><td><p>Certification personnel</p></td><td><p>Member</p></td><td><p>Wang Yanhong</p></td></tr><tr><td><p>Personnel with medical background</p></td><td><p>Member</p></td><td><p>Gao Kejian</p></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Criteria of risk evaluation",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ],
+                "level": 1
+            },
+            "anchor": "_Toc16452"
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Please find the document "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Risk Management Plan ",
+                        "style": [
+                            "italic"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "(PT9L-FXJH01 V1.0) for the risk acceptance criteria."
+                    }
+                ]
+            },
+            "anchor": "_Toc306379188"
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Risk Management File",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ],
+                "level": 1
+            },
+            "anchor": "_Toc9279"
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Risk Management Plan\t\t\t\t\t\t\t\t\t\t\t\t\tDN:PT9L-FXJH01 V1.0"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Risk Assessment Report\t\t\t\t\t\t\t\t\t\t\t\tDN::PT9L-FXPJ01 V1.0"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Verification of risk control measure and Residual Risk Evaluation Report\t\tDN::PT9L-FXYS01 V1.0"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Risk Management Review",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ],
+                "level": 1
+            },
+            "anchor": "_Toc4309"
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4.1 Review of the Risk Management Plan",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ],
+                "level": 3
+            },
+            "anchor": "_Toc29938"
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The risk management group has checked the completion of the "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Risk Management Plan",
+                        "style": [
+                            "italic"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and consider that the Risk Management Plan of  PT9L has already been accomplished."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4.2 About Information on the acceptance of Residual risk.",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ],
+                "level": 3
+            },
+            "anchor": "_Toc12466"
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The residual risk has been reviewed in V"
+                    },
+                    {
+                        "type": "text",
+                        "content": "erification of risk control measure and Residual Risk Evaluation Report",
+                        "style": [
+                            "italic"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": ", and the results of the residual risks are accepted."
+                    }
+                ]
+            },
+            "anchor": "_Toc306379190"
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Review on Production and after Production",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ],
+                "level": 1
+            },
+            "anchor": "_Toc21531"
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Please refer to “Table of getting information of Production and after Production” from the "
+                    },
+                    {
+                        "type": "text",
+                        "content": "Risk Management Control Methods ",
+                        "style": [
+                            "italic"
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "(Version: E/0)."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "After the evaluation on the fitness and effectiveness, the risk management Group decided that, the method is appropriate and effective,PT9L can get the information on production and after production with this method, and the Group can perform dynamic risk management when necessary."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Risk Management File Review ",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ],
+                "level": 1
+            },
+            "anchor": "_Toc30991"
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Risk Management Plan\t\t\t\t\t\t\t\t\t\t\t\t\tDN:PT9L-FXJH01 V1.0"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Risk Assessment Report\t\t\t\t\t\t\t\t\t\t\t\tDN::PT9L-FXPJ01 V1.0"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Verification of risk control measure and Residual Risk Evaluation Report\t\tDN::PT9L-FXYS01 V1.0"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Conclusion of Risk Management Review ",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ],
+                "level": 1
+            },
+            "anchor": "_Toc25366"
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Overall risk-benefit analysis:"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The Intended use of PT9L is: The Infrared Forehead Thermometer is intended for the intermittent measurement of body temperature from the forehead skin surface on people of all ages. It can be used by consumers in the household environment and by healthcare providers."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "From the clinical evaluation report ,we can conclude :"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "clinical safety outcomes can prove that the product is safe; clinical performance outcomes can prove that  PT9L can achieve its intended use. Users can benefit from proper use, benefits outweigh the overall residual risks,so the overall residual risks are acceptable."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Risk Management Group has reviewed the PT9L, and concluded the following:"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "——Risk management plan has been performed properly:"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The risk management process has been implemented according to the criteria established in the risk \tmanagement plan standards,the risk team have considered the efficiency and safety of the \tproduct,and think that all the identified risks have been controlled as far as possible."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "——Residual risks are acceptable:"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All single residual risks are in the “Acceptable” area. And the distribution of all the residual risks less \tthan 1/2 of the overall residual risks are in the higher severity regions or in the higher probability \tregions. And the clusters of all the residual risks are not borderline.Compared with the intended benefits for PT9L ,the benefits outweigh the overall residual risks, So the overall residual risks are \talso acceptable."
+                    }
+                ]
+            },
+            "anchor": "OLE_LINK19"
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "——The method of getting information of production and after production is proper."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In Conclusion, the medical benefits of the intended use outweigh the overall residual risk."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "DN：PT9L-FXGB01 V1.0                                      Risk Management Report"
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Signature of the risk management group",
+                        "style": [
+                            "bold"
+                        ]
+                    }
+                ],
+                "level": 1
+            },
+            "anchor": "_Toc18183"
+        },
+        {
+            "type": "table",
+            "content": {
+                "table_caption": [],
+                "html": "<table><tr><td><p><strong>MEMBER</strong></p></td><td><p><strong>POST IN THIS GROUP</strong></p></td><td><p><strong>NAME</strong></p></td><td><p><strong>Signature</strong></p></td><td><p><strong>Date</strong></p></td></tr><tr><td><p>Technical director</p></td><td><p>Group leader</p></td><td><p>Hou Guangwei</p></td><td></td><td></td></tr><tr><td><p>Project Leader</p></td><td><p>Member</p></td><td><p>Wang Dilong</p></td><td></td><td></td></tr><tr><td><p>Hardware design director</p></td><td><p>Member</p></td><td><p>Wan Long</p></td><td></td><td></td></tr><tr><td><p>Software design director</p></td><td><p>Member</p></td><td><p>Wang Di</p></td><td></td><td></td></tr><tr><td><p>Mechanical</p><p>Design director</p></td><td><p>Member</p></td><td><p>Liu Zhao</p></td><td></td><td></td></tr><tr><td><p>Quality management personnel  </p></td><td><p>Member</p></td><td><p>Zhang Xun</p></td><td></td><td></td></tr><tr><td><p>Process design personnel</p></td><td><p>Member</p></td><td><p>Cheng Minjie</p></td><td></td><td></td></tr><tr><td><p>Sales personnel </p></td><td><p>Member</p></td><td><p>Zhao Yiping</p></td><td></td><td></td></tr><tr><td><p>Certification personnel</p></td><td><p>Member</p></td><td><p>Wang Yanhong</p></td><td></td><td></td></tr><tr><td><p>Personnel with medical background</p></td><td><p>Member</p></td><td><p>Gao Kejian</p></td><td></td><td></td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            }
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "DN：PT9L-FXGB01 V1.0                                      Risk Management Report"
+                    }
+                ]
+            }
+        }
+    ]
+]
