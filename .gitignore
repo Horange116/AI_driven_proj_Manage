@@ -7,3 +7,5 @@ node_modules/
 dist/
 build/
 MinerU/
+data_Processed/
+data_Initial/
