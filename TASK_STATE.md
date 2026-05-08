@@ -1,6 +1,6 @@
 # TASK_STATE
 
-Purpose: current progress snapshot and execution guidance for the PT9L DocReview project. This file is the first file that Codex or a new assistant should read before continuing work.
+Purpose: current progress snapshot and execution guidance for the PT9L DocReview project. This file is the first file that Codex or a new assistant should read before continuing real project development.
 
 Last updated: 2026-05-08
 
@@ -13,7 +13,7 @@ T00 Project goal confirmation: completed
 T01 Document asset inventory: completed
 T02 Parsing baseline confirmation: completed
 T03 Unified structured JSON: completed and validated
-T04 Semantic extraction / knowledge-layer schema: next active stage
+T04-0 Semantic schema design: next active stage
 ```
 
 Current immediate task:
@@ -21,14 +21,263 @@ Current immediate task:
 ```text
 Enter T04-0 carefully.
 Do not jump directly to full knowledge graph, anomaly detection, Agent routing, or Web UI.
-First design semantic_unit / entity / relation schema from the T03 normalized JSON outputs, and resolve the doc_id strategy.
+First design semantic_unit / knowledge_entity / knowledge_relation schema from the T03 normalized JSON outputs, and resolve the doc_id, source path, and evidence anchor strategy.
+```
+
+Current core facts:
+
+```text
+T03 is complete.
+normalized JSON has been generated and validated.
+The active next task is T04-0: semantic extraction schema design.
+Do not call LLMs to scan the whole corpus.
+Do not start complete knowledge graph construction yet.
+Do not start anomaly detection, Agent routing, or Web UI yet.
 ```
 
 ---
 
-## 1. Source Documents for Planning
+## 1. File Role Rules: TASK_STATE.md vs Agent开发工程师.md
 
-The current plan is the merged result of these files:
+The project now has two different planning files with different purposes.
+
+### 1.1 TASK_STATE.md
+
+`TASK_STATE.md` is the real project execution state file.
+
+It records:
+
+```text
+- actual current progress
+- active stage
+- next executable task
+- completed and validated artifacts
+- blocked items
+- forbidden jumps
+- execution boundaries for Codex or a new assistant
+```
+
+It answers:
+
+```text
+Where is the project now?
+What is the active stage?
+What should be done next?
+Which files have actually been generated?
+Which tasks have actually been completed and validated?
+What should not be done now?
+What should Codex or a new assistant read first?
+```
+
+Rules for this file:
+
+```text
+Keep it factual, restrained, and executable.
+Do not write job-search packaging language here.
+Do not exaggerate project progress.
+Do not mark future Agent features as completed.
+Only record completed work when there is concrete output and validation.
+```
+
+### 1.2 Agent开发工程师.md
+
+`Agent开发工程师.md` is a career planning and project packaging file.
+
+It records:
+
+```text
+- how this project can later be packaged for AI Agent engineer / LLM application / RAG / LLMOps internship roles
+- future capability gaps to fill
+- Agent, RAG, Tool Calling, LLMOps, FastAPI, Docker, README, resume and interview preparation tasks
+- which future features can become resume highlights
+- which tasks belong to presentation and job-search packaging rather than current real project state
+```
+
+Rules for this file:
+
+```text
+It may contain future plans, resume wording, interview preparation, and packaging strategy.
+It must not force TASK_STATE.md to jump stages.
+It must not override the current active project stage.
+```
+
+### 1.3 Reading Order
+
+Every time work resumes, read files in this order:
+
+```text
+1. TASK_STATE.md
+2. Agent开发工程师.md
+3. Stage-specific project files named by TASK_STATE.md
+```
+
+For the current T04-0 stage, also read:
+
+```text
+DocReview_任务状态卡.md
+docs/Codex_执行总控_2026-05-08.md
+outputs/t03_hybrid_auto/validation_full.md
+outputs/t03_hybrid_auto/structure_stability_full.md
+Representative samples from outputs/t03_hybrid_auto/normalized_full/ if needed
+```
+
+### 1.4 Conflict Priority
+
+If `TASK_STATE.md` and `Agent开发工程师.md` appear to conflict:
+
+```text
+Real development progress follows TASK_STATE.md.
+Career packaging and long-term job-search goals follow Agent开发工程师.md.
+```
+
+Example:
+
+```text
+If Agent开发工程师.md mentions Agent Workflow, FastAPI, Docker, LLMOps, or README packaging,
+but TASK_STATE.md says the current stage is T04-0 and forbids Agent workflows,
+then do not implement Agent Workflow now.
+```
+
+---
+
+## 2. Task Classification Rules
+
+Before executing any task, classify it as A, B, or C.
+
+### A. Real project development task
+
+Examples:
+
+```text
+T04-0 semantic schema design
+T04-1 rule-based semantic extraction prototype
+T05 knowledge index
+T06 intra-document consistency
+T07 inter-document consistency
+T08 finding schema
+T09/T10 pipeline, tier routing, cost report
+harness / evaluation
+normalized JSON schema validation
+evidence anchor design
+```
+
+Main files/directories modified:
+
+```text
+TASK_STATE.md
+docs/
+schemas/
+scripts/
+outputs/
+tests/
+eval/
+project code
+```
+
+Rule:
+
+```text
+After completing an A-type task, update TASK_STATE.md.
+```
+
+### B. Career packaging / resume planning task
+
+Examples:
+
+```text
+resume project wording
+AI Agent engineer task list
+interview preparation
+README presentation angle
+project highlight extraction
+job description matching
+GitHub packaging strategy
+resume project description versions
+```
+
+Main files modified:
+
+```text
+Agent开发工程师.md
+README.md presentation sections
+interview materials
+resume materials
+```
+
+Rule:
+
+```text
+Usually do not update TASK_STATE.md unless the task also reflects a real project stage change.
+```
+
+### C. Stage completion synchronization task
+
+When a real project stage completes, update both files in order.
+
+First update `TASK_STATE.md` with:
+
+```text
+- which stage completed
+- files added or modified
+- validation result
+- current state
+- next active task
+- what still must not be done
+- whether the project is allowed to enter the next stage
+```
+
+Then update `Agent开发工程师.md` only for career packaging impact:
+
+```text
+- how this stage can be described as an ability point
+- which resume highlights became available
+- how the project capability map changed
+- what still needs to be added for job applications
+- whether README, architecture diagram, or interview wording should be updated
+```
+
+---
+
+## 3. Rules for Modifying TASK_STATE.md
+
+When editing `TASK_STATE.md`:
+
+```text
+1. Only write what is actually completed.
+2. Do not write planned work as completed work.
+3. Every stage must say whether it has a harness or validation method.
+4. Every finding or semantic object must remain traceable to an evidence anchor.
+5. If LLMs are called, record cost or at least call count.
+6. If a stage is not complete, do not mark it completed.
+7. If an older document is outdated, explicitly say which document is outdated and which file is authoritative.
+```
+
+Recommended stage completion record format:
+
+```text
+## X. T04-0 Completion Record
+
+Task:
+...
+
+Files added/updated:
+...
+
+Validation:
+...
+
+State classification:
+G / Y / R
+
+Next task:
+...
+```
+
+---
+
+## 4. Source Documents for Planning
+
+The current real project plan is the merged result of these files:
 
 ```text
 DocReview_任务状态卡.md
@@ -42,20 +291,25 @@ docs/Codex_执行总控_2026-05-08.md
 
 tasks/T03_hybrid_auto_json_normalization.md
   Concrete T03 task spec for converting MinerU hybrid-auto JSON into DocReview normalized JSON.
+
+Agent开发工程师.md
+  Career packaging and long-term AI Agent engineer preparation plan.
+  It is not the source of truth for current implementation stage.
 ```
 
 Important interpretation:
 
 ```text
 DocReview_任务状态卡.md may still describe T03 as the next task.
-That is now outdated.
+That is outdated for current execution.
+TASK_STATE.md is authoritative for real project status.
 T03 is completed and validated.
 The next stage is T04-0 semantic schema design based on outputs/t03_hybrid_auto/normalized_full/.
 ```
 
 ---
 
-## 2. Updated Project Mainline
+## 5. Updated Project Mainline
 
 ```text
 T00/T01/T02: project scope, asset inventory, parsing baseline
@@ -109,7 +363,7 @@ No cost log, no LLM call in the main pipeline.
 
 ---
 
-## 3. T03 Completion Record
+## 6. T03 Completion Record
 
 T03 task:
 
@@ -201,7 +455,7 @@ T03 is complete.
 
 ---
 
-## 4. T03 Known Design Note Before T04
+## 7. T03 Known Design Note Before T04
 
 Important issue:
 
@@ -231,7 +485,7 @@ whether semantic units reference doc_id + block_id + source_anchor
 
 ---
 
-## 5. Current Active Stage: T04-0 / Semantic Schema Design
+## 8. Current Active Stage: T04-0 / Semantic Schema Design
 
 T04 belongs to teacher stage S2:
 
@@ -295,7 +549,7 @@ T04-0 should not yet:
 
 ---
 
-## 6. Recommended T04-0 Codex Prompt
+## 9. Recommended T04-0 Codex Prompt
 
 Use this prompt next:
 
@@ -309,10 +563,17 @@ Use this prompt next:
 请先阅读：
 
 TASK_STATE.md
+Agent开发工程师.md
 DocReview_任务状态卡.md
 docs/Codex_执行总控_2026-05-08.md
 outputs/t03_hybrid_auto/validation_full.md
 outputs/t03_hybrid_auto/structure_stability_full.md
+
+注意：
+
+TASK_STATE.md 是真实项目状态文件，以它为当前开发进度准绳。
+Agent开发工程师.md 是求职包装与长期能力规划文件，不能用它来推动当前项目跳阶段。
+如果两者冲突，以 TASK_STATE.md 为准。
 
 当前状态：
 
@@ -380,6 +641,7 @@ T03 已完成。outputs/t03_hybrid_auto/normalized_full/ 中已有 219 个 norma
 - 不要做异常检测
 - 不要生成 findings
 - 不要创建 Web
+- 不要因为 Agent开发工程师.md 中有 Agent / FastAPI / Docker / LLMOps 规划，就提前做这些内容
 
 最终回复：
 
@@ -391,12 +653,13 @@ T03 已完成。outputs/t03_hybrid_auto/normalized_full/ 中已有 219 个 norma
 6. doc_id 策略建议
 7. 哪些语义对象可以先用规则抽取
 8. 哪些语义对象后续可能需要 LLM
-9. 下一步建议：T04-1 应该做什么
+9. 是否更新了 TASK_STATE.md；如果没有完成 T04-0，不要把它标记为 completed
+10. 下一步建议：T04-1 应该做什么
 ```
 
 ---
 
-## 7. Harness / Evaluation Strategy
+## 10. Harness / Evaluation Strategy
 
 Teacher's updated requirement:
 
@@ -439,7 +702,7 @@ Do not build a huge generic harness before T04 schema is stable.
 
 ---
 
-## 8. What Not To Do Next
+## 11. What Not To Do Next
 
 Do not do these next:
 
@@ -450,6 +713,7 @@ Do not do these next:
 - Do not use Hermes/Kimi to scan the entire project.
 - Do not start finding detection before semantic schema exists.
 - Do not build a full knowledge graph before T04 schema is reviewed.
+- Do not let Agent开发工程师.md override TASK_STATE.md.
 ```
 
 The next correct move is:
