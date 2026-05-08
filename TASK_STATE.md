@@ -277,42 +277,37 @@ Next task:
 
 ## 4. Required Completion Response Format
 
-After every completed task, the assistant should reply in this structure:
+After every completed task, reply briefly in this structure:
 
 ```text
 ## 本次完成
+- 任务：...
+- 文件：...
+- TASK_STATE.md：已更新 / 未更新
+- Agent开发工程师.md：已更新 / 未更新
 
-- 完成了什么任务
-- 新增/修改了哪些文件
-- 是否更新 TASK_STATE.md
-- 是否更新 Agent开发工程师.md
+## 当前状态
+- 阶段：...
+- 验证：...
+- 下一步：...
 
-## 当前项目真实状态
+## 求职包装
+- 已可包装：...
+- 待补齐：...
 
-- 当前阶段：
-- 是否完成：
-- 验证方式：
-- 下一步：
-
-## 求职包装状态
-
-- 当前可写进简历的能力：
-- 尚未完成但未来可包装的能力：
-- 下一步为了投递应补齐：
-
-## 风险与限制
-
-- 当前不能做什么
-- 哪些地方需要人工确认
+## 风险
+- 不能做：...
+- 待确认：...
 ```
 
 Rules:
 
 ```text
-For real development tasks, report TASK_STATE.md status explicitly.
-For career packaging tasks, report Agent开发工程师.md status explicitly.
-If a file was not updated, say so directly.
+Keep the completion reply short, about 1/4 of the previous long version.
+Use one line per bullet where possible.
+Do not repeat long background context.
 Do not imply a stage is completed unless validation or concrete deliverables prove it.
+If a file was not updated, say so directly.
 ```
 
 ---
