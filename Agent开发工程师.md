@@ -1,6 +1,79 @@
 # Agent 开发工程师任务清单
 
-## 目标
+## 0. 与 TASK_STATE.md 的关系
+
+`Agent开发工程师.md` 是求职规划与项目包装文件，不是项目真实进度文件。
+
+真实项目进度以 `TASK_STATE.md` 为准。
+
+本文件的作用是：
+
+```text
+把真实项目阶段逐步翻译成 AI Agent 工程师 / 大模型应用开发 / RAG 工程 / LLMOps 实习岗位需要的能力点、作品亮点、README 表达和面试材料。
+```
+
+本文件不能推动项目跳阶段。
+
+例如：
+
+```text
+如果 TASK_STATE.md 当前阶段是 T04-0 semantic schema 设计，
+即使本文件写了 Agent Workflow / FastAPI / Docker / LLMOps，
+当前也不能提前实现这些内容。
+```
+
+推荐策略：
+
+```text
+先按 TASK_STATE.md 完成真实项目阶段；
+每完成一个阶段，再回到本文件同步更新求职能力映射、简历亮点和后续包装任务。
+```
+
+---
+
+## 1. 当前能力映射策略
+
+当前不是单独从零做一个玩具 Agent 项目，而是把 DocReview 真实项目逐步包装成：
+
+> 企业文档审查 Agent：基于结构化解析、知识层、RAG/工具调用和评测 Harness 的多文档一致性分析系统
+
+能力形成顺序：
+
+| TASK_STATE 阶段 | 真实项目产物 | 自然形成的求职能力 | 是否当前已完成 |
+|---|---|---|---|
+| T03 normalized JSON | hybrid-auto JSON → normalized JSON，全量验证通过 | 文档解析、结构化数据、schema 思维、evidence anchor、数据管道验证 | 已完成 |
+| T04 semantic schema | semantic_unit / entity / relation schema | 信息抽取建模、知识表示、证据可追溯语义设计 | 当前下一步 |
+| T04-1 semantic extraction prototype | 规则抽取语义对象原型 | 信息抽取、规则系统、抽取质量评估 | 未完成 |
+| T05 knowledge index | 可查询知识索引 | RAG 前置能力、结构化检索、知识查询接口 | 未完成 |
+| T06/T07 consistency detection | 单文件/跨文件一致性检测 | 多文档一致性分析、规则 + LLM 分层判断 | 未完成 |
+| T08 finding schema | 统一 finding / evidence 输出 | 结构化报告、引用溯源、审查报告生成 | 未完成 |
+| T09/T10 pipeline + routing | 端到端 pipeline、tier routing、cost report | Agent routing、工具编排、成本控制、LLMOps 思维 | 未完成 |
+| T11/T12 Web/export/dashboard | Web 复核界面、导出、dashboard | 工程交付、Demo 展示、产品化能力 | 未完成 |
+
+当前可写进简历的能力应保持克制：
+
+```text
+已完成文档解析产物归一化，将 MinerU hybrid-auto JSON 转换为统一 normalized JSON；
+完成 219 个文档组全量转换与结构稳定性验证；
+为后续语义抽取、知识层建模和多文档一致性检测建立可追溯数据底座。
+```
+
+尚不能写成已完成的能力：
+
+```text
+Agent Workflow
+FastAPI 服务
+Docker 部署
+完整 RAG 问答
+完整知识图谱
+跨文档自动 finding 检测
+LLM 成本路由
+Web 复核系统
+```
+
+---
+
+## 2. 目标
 
 目标是在一个月内完成一套可投递 AI Agent 工程师岗位的作品与材料。
 
@@ -11,9 +84,11 @@
 - 一份能投递的简历；
 - 一套能讲清楚项目的面试材料。
 
+注意：这些是最终求职目标，不等于当前真实项目状态。
+
 ---
 
-## 任务 1：确定主项目方向
+## 3. 任务 1：确定主项目方向
 
 主项目建议固定为：
 
@@ -36,7 +111,7 @@
 
 ---
 
-## 任务 2：搭建项目基础结构
+## 4. 任务 2：搭建项目基础结构
 
 建议目录：
 
@@ -70,7 +145,7 @@ agent-doc-review/
 
 ---
 
-## 任务 3：封装大模型调用
+## 5. 任务 3：封装大模型调用
 
 需要完成：
 
@@ -89,7 +164,7 @@ agent-doc-review/
 
 ---
 
-## 任务 4：完成文档解析模块
+## 6. 任务 4：完成文档解析模块
 
 需要完成：
 
@@ -105,9 +180,11 @@ agent-doc-review/
 - 3 个示例文档；
 - 文档解析测试结果。
 
+当前真实项目中，T03 已经完成更复杂的文档结构化归一化能力，可作为该能力点的真实基础。
+
 ---
 
-## 任务 5：完成 Chunk 切分模块
+## 7. 任务 5：完成 Chunk 切分模块
 
 需要完成：
 
@@ -125,7 +202,7 @@ agent-doc-review/
 
 ---
 
-## 任务 6：完成向量检索模块
+## 8. 任务 6：完成向量检索模块
 
 需要完成：
 
@@ -144,7 +221,7 @@ agent-doc-review/
 
 ---
 
-## 任务 7：完成基础 RAG 问答
+## 9. 任务 7：完成基础 RAG 问答
 
 需要完成：
 
@@ -163,7 +240,7 @@ agent-doc-review/
 
 ---
 
-## 任务 8：设计 Agent 工具清单
+## 10. 任务 8：设计 Agent 工具清单
 
 至少实现 5 个工具：
 
@@ -186,9 +263,18 @@ agent-doc-review/
 - 每个工具的输入输出 schema；
 - 每个工具的独立测试。
 
+对应真实项目阶段：
+
+```text
+T04/T05 完成后，可以包装 search_doc_tool / extract_claims_tool。
+T06/T07 完成后，可以包装 compare_sections_tool。
+T08 完成后，可以包装 generate_report_tool。
+T09/T10 完成后，可以包装 cost_counter_tool / json_validate_tool。
+```
+
 ---
 
-## 任务 9：使用 LangGraph 编排 Agent Workflow
+## 11. 任务 9：使用 LangGraph 编排 Agent Workflow
 
 建议流程：
 
@@ -219,9 +305,11 @@ agent-doc-review/
 - 一张 Agent Workflow 图；
 - 3 个完整运行案例。
 
+注意：只有在 TASK_STATE.md 进入 T09/T10 后，才适合实现 Agent Workflow。
+
 ---
 
-## 任务 10：设计结构化输出格式
+## 12. 任务 10：设计结构化输出格式
 
 输出建议包含：
 
@@ -257,9 +345,11 @@ agent-doc-review/
 - `app/schemas/report.py`；
 - 示例输出报告。
 
+对应真实项目阶段：T08 finding schema。
+
 ---
 
-## 任务 11：封装 FastAPI 服务
+## 13. 任务 11：封装 FastAPI 服务
 
 需要完成接口：
 
@@ -276,9 +366,11 @@ agent-doc-review/
 - FastAPI Swagger 页面截图；
 - curl 调用示例。
 
+注意：真实项目进入 T11/T12 或需要展示 Demo 时再做。
+
 ---
 
-## 任务 12：增加执行日志和 Trace
+## 14. 任务 12：增加执行日志和 Trace
 
 每次 Agent 运行要记录：
 
@@ -297,9 +389,11 @@ agent-doc-review/
 - 日志查看接口；
 - README 中展示一份日志样例。
 
+对应真实项目阶段：T09/T10 pipeline and routing。
+
 ---
 
-## 任务 13：增加成本和性能统计
+## 15. 任务 13：增加成本和性能统计
 
 需要记录：
 
@@ -317,9 +411,11 @@ agent-doc-review/
 - 一份成本统计样例；
 - README 中解释如何分析成本。
 
+对应真实项目阶段：T09/T10 tier routing and cost report。
+
 ---
 
-## 任务 14：构建评测集
+## 16. 任务 14：构建评测集
 
 至少准备 10 条评测样例：
 
@@ -341,9 +437,11 @@ agent-doc-review/
 - `eval/eval_set.jsonl`；
 - 10 条评测数据。
 
+对应真实项目阶段：T04 之后的 semantic_harness、T06/T07 之后的 finding-level harness。
+
 ---
 
-## 任务 15：实现评测 Harness
+## 17. 任务 15：实现评测 Harness
 
 至少评估：
 
@@ -362,9 +460,11 @@ agent-doc-review/
 - `eval/report.md`；
 - 一张评测结果表。
 
+对应真实项目阶段：每个阶段的 harness/evaluation。
+
 ---
 
-## 任务 16：增加 Docker 部署
+## 18. 任务 16：增加 Docker 部署
 
 需要完成：
 
@@ -379,9 +479,11 @@ agent-doc-review/
 - `.dockerignore`；
 - 启动截图或命令记录。
 
+注意：真实项目有稳定 pipeline 或 Web/API 后再做。
+
 ---
 
-## 任务 17：整理 README
+## 19. 任务 17：整理 README
 
 README 必须包含：
 
@@ -405,9 +507,11 @@ README 必须包含：
 - Demo 截图；
 - 架构图。
 
+注意：README 可以逐步更新，但不要把未完成能力写成已完成。
+
 ---
 
-## 任务 18：补充一个前端或交互 Demo
+## 20. 任务 18：补充一个前端或交互 Demo
 
 二选一：
 
@@ -427,17 +531,19 @@ README 必须包含：
 - `frontend/` 或 `streamlit_app.py`；
 - Demo 截图。
 
+注意：真实项目进入 T11/T12 或求职展示阶段再做。
+
 ---
 
-## 任务 19：准备简历项目描述
+## 21. 任务 19：准备简历项目描述
 
-准备三个版本：
+准备三个版本。
 
-### 简短版
+### 当前保守版
 
-基于 FastAPI、LangGraph 和向量数据库构建企业文档审查 Agent，支持 RAG 检索、工具调用、多步骤工作流、结构化报告生成和评测 Harness。
+基于真实医疗器械项目历史文档，完成 MinerU hybrid-auto 解析结果到统一 normalized JSON 的转换与验证；设计面向多文档一致性审查的结构化数据底座，支持文档级 source anchor、后续语义抽取和知识层建模。
 
-### 标准版
+### 标准版（后续 T08/T10 完成后再使用）
 
 基于 FastAPI、LangGraph、Chroma/Faiss 构建企业文档审查 Agent，支持文档解析、向量检索、Tool Calling、多步骤工作流、引用溯源和结构化审查报告生成；设计文件读取、文档检索、事实抽取、片段对比、报告生成等工具，并构建评测 Harness 统计检索命中率、引用正确率、工具调用成功率、响应耗时和调用成本。
 
@@ -447,7 +553,7 @@ README 必须包含：
 
 ---
 
-## 任务 20：准备面试题答案
+## 22. 任务 20：准备面试题答案
 
 必须准备：
 
@@ -474,7 +580,7 @@ README 必须包含：
 
 ---
 
-## 任务 21：补充一个加分 Demo
+## 23. 任务 21：补充一个加分 Demo
 
 三选一：
 
@@ -498,7 +604,7 @@ README 必须包含：
 
 ---
 
-## 任务 22：准备投递材料
+## 24. 任务 22：准备投递材料
 
 需要准备：
 
@@ -528,7 +634,7 @@ README 必须包含：
 
 ---
 
-## 任务 23：投递岗位筛选标准
+## 25. 任务 23：投递岗位筛选标准
 
 优先投递这些标题：
 
@@ -551,7 +657,7 @@ README 必须包含：
 
 ---
 
-## 任务 24：暂时不要深挖的内容
+## 26. 任务 24：暂时不要深挖的内容
 
 一个月内先不要把主时间投入：
 
@@ -565,7 +671,7 @@ README 必须包含：
 
 ---
 
-## 完成标准
+## 27. 完成标准
 
 达到以下标准即可开始投递：
 
@@ -579,3 +685,5 @@ README 必须包含：
 - 简历中能写出 3 到 4 条项目经历；
 - 能 2 分钟讲清项目；
 - 能回答 Agent、RAG、Tool Calling、LangGraph、评测和部署相关基础问题。
+
+注意：这是最终投递标准，不代表当前已经完成。
