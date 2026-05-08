@@ -275,7 +275,49 @@ Next task:
 
 ---
 
-## 4. Source Documents for Planning
+## 4. Required Completion Response Format
+
+After every completed task, the assistant should reply in this structure:
+
+```text
+## 本次完成
+
+- 完成了什么任务
+- 新增/修改了哪些文件
+- 是否更新 TASK_STATE.md
+- 是否更新 Agent开发工程师.md
+
+## 当前项目真实状态
+
+- 当前阶段：
+- 是否完成：
+- 验证方式：
+- 下一步：
+
+## 求职包装状态
+
+- 当前可写进简历的能力：
+- 尚未完成但未来可包装的能力：
+- 下一步为了投递应补齐：
+
+## 风险与限制
+
+- 当前不能做什么
+- 哪些地方需要人工确认
+```
+
+Rules:
+
+```text
+For real development tasks, report TASK_STATE.md status explicitly.
+For career packaging tasks, report Agent开发工程师.md status explicitly.
+If a file was not updated, say so directly.
+Do not imply a stage is completed unless validation or concrete deliverables prove it.
+```
+
+---
+
+## 5. Source Documents for Planning
 
 The current real project plan is the merged result of these files:
 
@@ -309,7 +351,7 @@ The next stage is T04-0 semantic schema design based on outputs/t03_hybrid_auto/
 
 ---
 
-## 5. Updated Project Mainline
+## 6. Updated Project Mainline
 
 ```text
 T00/T01/T02: project scope, asset inventory, parsing baseline
@@ -363,7 +405,7 @@ No cost log, no LLM call in the main pipeline.
 
 ---
 
-## 6. T03 Completion Record
+## 7. T03 Completion Record
 
 T03 task:
 
@@ -455,7 +497,7 @@ T03 is complete.
 
 ---
 
-## 7. T03 Known Design Note Before T04
+## 8. T03 Known Design Note Before T04
 
 Important issue:
 
@@ -485,7 +527,7 @@ whether semantic units reference doc_id + block_id + source_anchor
 
 ---
 
-## 8. Current Active Stage: T04-0 / Semantic Schema Design
+## 9. Current Active Stage: T04-0 / Semantic Schema Design
 
 T04 belongs to teacher stage S2:
 
@@ -549,7 +591,7 @@ T04-0 should not yet:
 
 ---
 
-## 9. Recommended T04-0 Codex Prompt
+## 10. Recommended T04-0 Codex Prompt
 
 Use this prompt next:
 
@@ -643,7 +685,7 @@ T03 已完成。outputs/t03_hybrid_auto/normalized_full/ 中已有 219 个 norma
 - 不要创建 Web
 - 不要因为 Agent开发工程师.md 中有 Agent / FastAPI / Docker / LLMOps 规划，就提前做这些内容
 
-最终回复：
+最终回复必须使用 TASK_STATE.md 规定的完成任务回复格式，并包含：
 
 1. 选择了哪 10 个样本文档
 2. 新增或更新了哪些文件
@@ -659,7 +701,7 @@ T03 已完成。outputs/t03_hybrid_auto/normalized_full/ 中已有 219 个 norma
 
 ---
 
-## 10. Harness / Evaluation Strategy
+## 11. Harness / Evaluation Strategy
 
 Teacher's updated requirement:
 
@@ -702,7 +744,7 @@ Do not build a huge generic harness before T04 schema is stable.
 
 ---
 
-## 11. What Not To Do Next
+## 12. What Not To Do Next
 
 Do not do these next:
 
