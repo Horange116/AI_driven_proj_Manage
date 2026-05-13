@@ -26,25 +26,22 @@ Also create the first semantic_harness cases.
 Do not build full knowledge index, anomaly detection, Agent routing, or Web UI yet.
 ```
 
-Current core facts:
+Core execution policy:
 
 ```text
-T03 is complete.
-T04-0 is complete.
-semantic_unit / knowledge_entity / knowledge_relation schemas have been designed.
-The active next task is T04-1: rule-based semantic extraction prototype.
-Do not call LLMs to scan the whole corpus.
-Do not start complete knowledge graph construction yet.
-Do not start anomaly detection, Agent routing, or Web UI yet.
+Agent is not required in every stage.
+Harness is required in every stage.
+Start with rules/tools; introduce LLM or Agent only when the harness shows rules are insufficient or when orchestration is truly needed.
 ```
 
 ---
 
-## 1. File Role Rules: TASK_STATE.md vs Agent开发工程师.md
+## 1. File Role Rules
 
-`TASK_STATE.md` is the real project execution state file.
-
-`Agent开发工程师.md` is the career planning and project packaging file.
+```text
+TASK_STATE.md = real project execution state.
+Agent开发工程师.md = career packaging and long-term AI Agent engineer preparation plan.
+```
 
 Reading order:
 
@@ -58,13 +55,38 @@ Conflict rule:
 
 ```text
 Real development progress follows TASK_STATE.md.
-Career packaging and long-term job-search goals follow Agent开发工程师.md.
-If Agent开发工程师.md mentions Agent Workflow / FastAPI / Docker / LLMOps, it still must not override the current TASK_STATE.md stage.
+Career packaging follows Agent开发工程师.md.
+Agent开发工程师.md must not push the real project to skip stages.
 ```
 
 ---
 
-## 2. Task Classification Rules
+## 2. Main Task Path with Agent / Harness Policy
+
+| Stage | Main goal | Agent needed now? | Harness required? | Current status |
+|---|---|---|---|---|
+| T03 / S1 | Normalize hybrid-auto JSON into traceable normalized JSON | No | Yes: structure/source_anchor validation | Completed |
+| T04-0 / S2 | Design semantic_unit/entity/relation schemas | No | Yes: design/sample validation | Completed |
+| T04-1 / S2 | Rule-based semantic extraction prototype | No | Yes: semantic_harness | Current |
+| T05 | Knowledge index and query interface | No | Yes: query_harness | Next |
+| T06 / S3 | Intra-document consistency checks | Maybe for hard cases, not first | Yes: intra_doc_harness | Future |
+| T07 / S4/S5 | Inter-document consistency and class-level patterns | Likely for complex traceability/conflict reasoning | Yes: inter_doc/pattern_harness | Future |
+| T08 | Finding schema and evidence chain | No | Yes: finding_schema validation | Future |
+| T09/T10 / S6 | End-to-end pipeline, tier routing, cost report | Yes: tool routing / escalation | Yes: e2e_harness + cost report | Future |
+| T11/T12 | Web UI, export, dashboard | No | Yes: UI/export smoke tests | Future |
+
+Main principle:
+
+```text
+Rules first.
+Harness measures accuracy.
+LLM is introduced only for cases rules cannot handle reliably.
+Agent appears mainly at routing/orchestration stages, not as a blanket solution for every stage.
+```
+
+---
+
+## 3. Task Classification Rules
 
 ### A. Real project development task
 
@@ -115,7 +137,7 @@ When a real stage completes:
 
 ---
 
-## 3. Required Completion Response Format
+## 4. Required Completion Response Format
 
 After every completed task, reply briefly:
 
@@ -138,33 +160,6 @@ After every completed task, reply briefly:
 ## 风险
 - 不能做：...
 - 待确认：...
-```
-
-Rules:
-
-```text
-Keep the completion reply short.
-Do not imply a stage is completed unless validation or concrete deliverables prove it.
-If a file was not updated, say so directly.
-```
-
----
-
-## 4. Source Documents for Planning
-
-```text
-DocReview_任务状态卡.md
-docs/Codex_执行总控_2026-05-08.md
-tasks/T03_hybrid_auto_json_normalization.md
-Agent开发工程师.md
-```
-
-Authoritative status:
-
-```text
-TASK_STATE.md is authoritative for real project status.
-DocReview_任务状态卡.md may be partly outdated.
-Agent开发工程师.md is not the source of truth for current implementation stage.
 ```
 
 ---
@@ -245,13 +240,6 @@ Task:
 Design semantic_unit, knowledge_entity, and knowledge_relation schemas from 10 representative normalized JSON samples.
 ```
 
-Samples:
-
-```text
-7 DHF samples + 3 DMR samples.
-Covered customer requirements, risk management, design input, project schedule, structural design, FMEA, inspection standard, software validation report, master record, and process FMEA.
-```
-
 Files added/updated:
 
 ```text
@@ -262,14 +250,6 @@ docs/T04_semantic_schema_design.md
 outputs/t04_semantics/sample_selection.json
 outputs/t04_semantics/sample_observation.md
 DocReview_任务状态卡.md
-```
-
-Schema summary:
-
-```text
-semantic_unit: unit_id, doc_id, unit_type, value, normalized_value, confidence, extraction_method, evidence[]
-knowledge_entity: entity_id, entity_type, label, canonical_value, aliases[], attributes, source_units[], confidence
-knowledge_relation: relation_id, relation_type, from_entity_id, to_entity_id, from_doc_id, to_doc_id, confidence, evidence[], extraction_method, attributes
 ```
 
 Design decisions:
@@ -293,12 +273,6 @@ State classification:
 
 ```text
 G — design stage completed; implementation not yet started.
-```
-
-Next task:
-
-```text
-T04-1 rule-based semantic extraction prototype.
 ```
 
 ---
@@ -349,14 +323,14 @@ T04-1 should not yet:
 
 ## 9. Agent and Harness Relationship
 
-Current work is related to Agent and Harness, but it is not yet the Agent layer.
+Agent relationship:
 
 ```text
 T03/T04 provide the data and semantic substrate that future Agent tools will use.
-T04-1 starts the extraction tool logic that may later become extract_claims_tool.
+T04-1 starts extraction logic that may later become extract_claims_tool.
 T05 will create query interfaces that may later become search_doc_tool / knowledge_query_tool.
 T06/T07 will create comparison logic that may later become compare_sections_tool.
-T08 will create report/finding schema that may later become generate_report_tool.
+T08 will create finding/report schema that may later become generate_report_tool.
 T09/T10 will compose these tools into routing/pipeline/Agent-like workflows.
 ```
 
@@ -364,9 +338,10 @@ Harness relationship:
 
 ```text
 T03 validation checked structure and anchors.
-T04-1 semantic_harness will check semantic extraction quality.
-T06/T07 finding harness will later check precision/recall of consistency findings.
-T09/T10 e2e harness will check pipeline, cost, routing, and final output validity.
+T04-1 semantic_harness checks semantic extraction quality.
+T05 query_harness should check whether queries return correct entities/evidence.
+T06/T07 finding harness should check precision/recall of consistency findings.
+T09/T10 e2e_harness should check pipeline, cost, routing, and final output validity.
 ```
 
 ---
