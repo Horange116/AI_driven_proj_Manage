@@ -14,14 +14,6 @@
 
 本文件不能推动项目跳阶段。
 
-例如：
-
-```text
-如果 TASK_STATE.md 当前阶段是 T04-0 semantic schema 设计，
-即使本文件写了 Agent Workflow / FastAPI / Docker / LLMOps，
-当前也不能提前实现这些内容。
-```
-
 推荐策略：
 
 ```text
@@ -42,8 +34,8 @@
 | TASK_STATE 阶段 | 真实项目产物 | 自然形成的求职能力 | 是否当前已完成 |
 |---|---|---|---|
 | T03 normalized JSON | hybrid-auto JSON → normalized JSON，全量验证通过 | 文档解析、结构化数据、schema 思维、evidence anchor、数据管道验证 | 已完成 |
-| T04 semantic schema | semantic_unit / entity / relation schema | 信息抽取建模、知识表示、证据可追溯语义设计 | 当前下一步 |
-| T04-1 semantic extraction prototype | 规则抽取语义对象原型 | 信息抽取、规则系统、抽取质量评估 | 未完成 |
+| T04-0 semantic schema | semantic_unit / entity / relation schema | 信息抽取建模、知识表示、证据可追溯语义设计 | 已完成 |
+| T04-1 semantic extraction prototype | 规则抽取语义对象原型 | 信息抽取、规则系统、抽取质量评估 | 当前下一步 |
 | T05 knowledge index | 可查询知识索引 | RAG 前置能力、结构化检索、知识查询接口 | 未完成 |
 | T06/T07 consistency detection | 单文件/跨文件一致性检测 | 多文档一致性分析、规则 + LLM 分层判断 | 未完成 |
 | T08 finding schema | 统一 finding / evidence 输出 | 结构化报告、引用溯源、审查报告生成 | 未完成 |
@@ -55,6 +47,7 @@
 ```text
 已完成文档解析产物归一化，将 MinerU hybrid-auto JSON 转换为统一 normalized JSON；
 完成 219 个文档组全量转换与结构稳定性验证；
+设计 semantic_unit、knowledge_entity、knowledge_relation schema，明确 doc_id、source path、evidence anchor 策略；
 为后续语义抽取、知识层建模和多文档一致性检测建立可追溯数据底座。
 ```
 
@@ -73,7 +66,42 @@ Web 复核系统
 
 ---
 
-## 2. 目标
+## 2. 当前工作与 Agent / Harness 的关系
+
+当前 T04 不是 Agent 层，但它是 Agent 能力的前置底座。
+
+对应关系：
+
+| 当前真实模块 | 未来 Agent 包装 |
+|---|---|
+| T03 normalized JSON | loader / parser / evidence source |
+| T04 semantic schema | extract_claims_tool 的输出 schema |
+| T04-1 rule extraction | extract_claims_tool 的规则版原型 |
+| T05 knowledge index | search_doc_tool / knowledge_query_tool |
+| T06/T07 consistency detection | compare_sections_tool / review_tool |
+| T08 finding schema | generate_report_tool 的结构化输出 |
+| T09/T10 routing + cost | Agent workflow / tool routing / cost tracking |
+
+Harness 对应关系：
+
+| 当前/未来 harness | 作用 |
+|---|---|
+| T03 validation | 验证 normalized JSON、source_anchor、结构稳定性 |
+| T04 semantic_harness | 验证 document_role、version、parameter 等语义抽取质量 |
+| T06/T07 finding_harness | 验证一致性检测的 precision / recall |
+| T09/T10 e2e_harness | 验证端到端 pipeline、routing、成本和输出格式 |
+
+因此当前正确路线是：
+
+```text
+先把语义抽取和 harness 做扎实；
+再把这些模块包装成 Agent tools；
+最后再做 Agent workflow / FastAPI / Docker / Demo。
+```
+
+---
+
+## 3. 目标
 
 目标是在一个月内完成一套可投递 AI Agent 工程师岗位的作品与材料。
 
@@ -88,7 +116,7 @@ Web 复核系统
 
 ---
 
-## 3. 任务 1：确定主项目方向
+## 4. 任务 1：确定主项目方向
 
 主项目建议固定为：
 
@@ -111,7 +139,7 @@ Web 复核系统
 
 ---
 
-## 4. 任务 2：搭建项目基础结构
+## 5. 任务 2：搭建项目基础结构
 
 建议目录：
 
@@ -145,7 +173,7 @@ agent-doc-review/
 
 ---
 
-## 5. 任务 3：封装大模型调用
+## 6. 任务 3：封装大模型调用
 
 需要完成：
 
@@ -164,7 +192,7 @@ agent-doc-review/
 
 ---
 
-## 6. 任务 4：完成文档解析模块
+## 7. 任务 4：完成文档解析模块
 
 需要完成：
 
@@ -184,7 +212,7 @@ agent-doc-review/
 
 ---
 
-## 7. 任务 5：完成 Chunk 切分模块
+## 8. 任务 5：完成 Chunk 切分模块
 
 需要完成：
 
@@ -202,7 +230,7 @@ agent-doc-review/
 
 ---
 
-## 8. 任务 6：完成向量检索模块
+## 9. 任务 6：完成向量检索模块
 
 需要完成：
 
@@ -221,7 +249,7 @@ agent-doc-review/
 
 ---
 
-## 9. 任务 7：完成基础 RAG 问答
+## 10. 任务 7：完成基础 RAG 问答
 
 需要完成：
 
@@ -240,7 +268,7 @@ agent-doc-review/
 
 ---
 
-## 10. 任务 8：设计 Agent 工具清单
+## 11. 任务 8：设计 Agent 工具清单
 
 至少实现 5 个工具：
 
@@ -274,7 +302,7 @@ T09/T10 完成后，可以包装 cost_counter_tool / json_validate_tool。
 
 ---
 
-## 11. 任务 9：使用 LangGraph 编排 Agent Workflow
+## 12. 任务 9：使用 LangGraph 编排 Agent Workflow
 
 建议流程：
 
@@ -309,7 +337,7 @@ T09/T10 完成后，可以包装 cost_counter_tool / json_validate_tool。
 
 ---
 
-## 12. 任务 10：设计结构化输出格式
+## 13. 任务 10：设计结构化输出格式
 
 输出建议包含：
 
@@ -349,7 +377,7 @@ T09/T10 完成后，可以包装 cost_counter_tool / json_validate_tool。
 
 ---
 
-## 13. 任务 11：封装 FastAPI 服务
+## 14. 任务 11：封装 FastAPI 服务
 
 需要完成接口：
 
@@ -370,7 +398,7 @@ T09/T10 完成后，可以包装 cost_counter_tool / json_validate_tool。
 
 ---
 
-## 14. 任务 12：增加执行日志和 Trace
+## 15. 任务 12：增加执行日志和 Trace
 
 每次 Agent 运行要记录：
 
@@ -393,7 +421,7 @@ T09/T10 完成后，可以包装 cost_counter_tool / json_validate_tool。
 
 ---
 
-## 15. 任务 13：增加成本和性能统计
+## 16. 任务 13：增加成本和性能统计
 
 需要记录：
 
@@ -415,7 +443,7 @@ T09/T10 完成后，可以包装 cost_counter_tool / json_validate_tool。
 
 ---
 
-## 16. 任务 14：构建评测集
+## 17. 任务 14：构建评测集
 
 至少准备 10 条评测样例：
 
@@ -441,7 +469,7 @@ T09/T10 完成后，可以包装 cost_counter_tool / json_validate_tool。
 
 ---
 
-## 17. 任务 15：实现评测 Harness
+## 18. 任务 15：实现评测 Harness
 
 至少评估：
 
@@ -464,7 +492,7 @@ T09/T10 完成后，可以包装 cost_counter_tool / json_validate_tool。
 
 ---
 
-## 18. 任务 16：增加 Docker 部署
+## 19. 任务 16：增加 Docker 部署
 
 需要完成：
 
@@ -483,7 +511,7 @@ T09/T10 完成后，可以包装 cost_counter_tool / json_validate_tool。
 
 ---
 
-## 19. 任务 17：整理 README
+## 20. 任务 17：整理 README
 
 README 必须包含：
 
@@ -511,7 +539,7 @@ README 必须包含：
 
 ---
 
-## 20. 任务 18：补充一个前端或交互 Demo
+## 21. 任务 18：补充一个前端或交互 Demo
 
 二选一：
 
@@ -535,7 +563,7 @@ README 必须包含：
 
 ---
 
-## 21. 任务 19：准备简历项目描述
+## 22. 任务 19：准备简历项目描述
 
 准备三个版本。
 
@@ -553,7 +581,7 @@ README 必须包含：
 
 ---
 
-## 22. 任务 20：准备面试题答案
+## 23. 任务 20：准备面试题答案
 
 必须准备：
 
@@ -580,7 +608,7 @@ README 必须包含：
 
 ---
 
-## 23. 任务 21：补充一个加分 Demo
+## 24. 任务 21：补充一个加分 Demo
 
 三选一：
 
@@ -604,7 +632,7 @@ README 必须包含：
 
 ---
 
-## 24. 任务 22：准备投递材料
+## 25. 任务 22：准备投递材料
 
 需要准备：
 
@@ -634,7 +662,7 @@ README 必须包含：
 
 ---
 
-## 25. 任务 23：投递岗位筛选标准
+## 26. 任务 23：投递岗位筛选标准
 
 优先投递这些标题：
 
@@ -657,7 +685,7 @@ README 必须包含：
 
 ---
 
-## 26. 任务 24：暂时不要深挖的内容
+## 27. 任务 24：暂时不要深挖的内容
 
 一个月内先不要把主时间投入：
 
@@ -671,7 +699,7 @@ README 必须包含：
 
 ---
 
-## 27. 完成标准
+## 28. 完成标准
 
 达到以下标准即可开始投递：
 
